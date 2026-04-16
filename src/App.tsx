@@ -1,74 +1,53 @@
-import { useState, useCallback } from "react";
-import WorldMap from "./components/WorldMap";
-import NewsPanel from "./components/NewsPanel";
-import { fetchNewsByCountryId } from "./services/newsService";
-import type { NewsArticle } from "./data/mockNews";
+import { lazy, Suspense } from 'react';
+import { BrowserRouter, Routes, Route, Navigate, useLocation } from 'react-router-dom';
+import { useAuth } from './contexts/AuthContext';
+import CookieBanner, { initConsentMode } from './components/marketing/CookieBanner';
 
-function App() {
-  const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
-  const [news, setNews] = useState<NewsArticle[]>([]);
-  const [isLoading, setIsLoading] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+// Initialize Consent Mode v2 BEFORE any other tag fires (required by Google EU policy)
+initConsentMode();
 
-  // When a country is clicked on the map
-  const handleCountryClick = useCallback(async (countryId: string) => {
-    setSelectedCountry(countryId);
-    setNews([]);
-    setIsLoading(true);
-    setError(null);
+// Code splitting: every route loads its own chunk
+const MarketingLanding = lazy(() => import('./components/marketing/MarketingLanding'));
+const AuthPage = lazy(() => import('./components/auth/AuthPage'));
+const Dashboard = lazy(() => import('./components/dashboard/Dashboard'));
+const PrivacyPolicy = lazy(() => import('./pages/PrivacyPolicy'));
+const CookiePolicy = lazy(() => import('./pages/CookiePolicy'));
+const PublicNewsHub = lazy(() => import('./pages/PublicNewsHub'));
 
-    try {
-      // Call our isolated service layer (which uses mock data now, Firebase later)
-      const fetchedNews = await fetchNewsByCountryId(countryId);
-      
-      if (fetchedNews.length === 0) {
-        setNews([]);
-      } else {
-        setNews(fetchedNews);
-      }
-    } catch (err) {
-      console.error("Failed to fetch news:", err);
-      setError("Si è verificato un errore durante il recupero delle notizie.");
-    } finally {
-      setIsLoading(false);
-    }
-  }, []);
-
-  const handleClosePanel = () => {
-    setSelectedCountry(null);
-  };
-
+function Spinner() {
   return (
-    <main className="w-full h-[100dvh] overflow-hidden relative bg-[#050B14] font-sans">
-      <WorldMap
-        onCountryClick={handleCountryClick}
-        selectedCountry={selectedCountry}
-      />
-      
-      {/* Sliding News Panel Overlay */}
-      <div 
-        className={`absolute bottom-0 sm:top-0 right-0 w-full h-[88dvh] sm:h-full sm:w-[420px] z-50 transition-transform duration-500 ease-[cubic-bezier(0.22,1,0.36,1)] transform ${
-          selectedCountry 
-            ? "translate-y-0 sm:translate-y-0 sm:translate-x-0" 
-            : "translate-y-full sm:translate-y-0 sm:translate-x-full"
-        }`}
-      >
-        <div className="h-full w-full relative shadow-[0_-10px_40px_-15px_rgba(0,0,0,0.8)] sm:shadow-2xl">
-          {/* We only render the contents inside if open or transitioning to close. 
-              The layout is handled inside NewsPanel. */}
-          {selectedCountry && (
-            <NewsPanel
-              countryId={selectedCountry}
-              news={news}
-              isLoading={isLoading}
-              error={error}
-              onClose={handleClosePanel}
-            />
-          )}
-        </div>
-      </div>
-    </main>
+    <div className="w-screen h-[100dvh] bg-[#050B14] flex items-center justify-center">
+      <div className="w-10 h-10 border-2 border-blue-500/30 border-t-blue-400 rounded-full animate-spin shadow-[0_0_15px_rgba(59,130,246,0.5)]" />
+    </div>
   );
 }
 
-export default App;
+function PrivateRoute({ children }: { children: React.ReactNode }) {
+  const { currentUser, loading } = useAuth();
+  const location = useLocation();
+  const isGuest = new URLSearchParams(location.search).get('guest') === 'true';
+  
+  if (loading) return <Spinner />;
+  return (currentUser || isGuest) ? <>{children}</> : <Navigate to="/login" />;
+}
+
+export default function App() {
+  return (
+    <BrowserRouter>
+      <Suspense fallback={<Spinner />}>
+        <Routes>
+          <Route path="/" element={<MarketingLanding />} />
+          <Route path="/login" element={<AuthPage />} />
+          <Route path="/app" element={<PrivateRoute><Dashboard /></PrivateRoute>} />
+          <Route path="/news/:countryId" element={<PublicNewsHub />} />
+          <Route path="/privacy" element={<PrivacyPolicy />} />
+          <Route path="/cookie-policy" element={<CookiePolicy />} />
+          <Route path="*" element={<Navigate to="/" />} />
+        </Routes>
+      </Suspense>
+
+      {/* Cookie Banner — shown globally, above all routes */}
+      <CookieBanner />
+    </BrowserRouter>
+  );
+}

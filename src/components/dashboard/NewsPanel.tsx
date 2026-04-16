@@ -1,5 +1,9 @@
-import { X, Clock, ExternalLink } from "lucide-react";
-import type { NewsArticle } from "../data/mockNews";
+import { X, Clock, ExternalLink, Star } from "lucide-react";
+import { useEffect, useState } from "react";
+import type { NewsArticle } from "../../data/mockNews";
+import { useAuth } from "../../contexts/AuthContext";
+import { toggleFavorite, subscribeToFavorites } from "../../services/userService";
+import { trackCustomEvent } from "../../services/metaPixel";
 
 interface NewsPanelProps {
   countryId: string | null;
@@ -16,6 +20,37 @@ export default function NewsPanel({
   error,
   onClose,
 }: NewsPanelProps) {
+  const { currentUser } = useAuth();
+  const [isFavorite, setIsFavorite] = useState(false);
+
+  useEffect(() => {
+    if (!currentUser || !countryId) return;
+    const unsubscribe = subscribeToFavorites(currentUser.uid, (favs) => {
+      setIsFavorite(favs.includes(countryId));
+    });
+    return () => unsubscribe();
+  }, [currentUser, countryId]);
+
+  const handleToggleStar = async () => {
+    if (!currentUser || !countryId) return;
+
+    // Track adding to watchlist (Retargeting)
+    if (!isFavorite) {
+      // @ts-ignore
+      if (window.gtag) {
+        // @ts-ignore
+        window.gtag('event', 'add_to_watchlist', { country_id: countryId });
+      }
+      trackCustomEvent('AddToWatchlist', { country: countryId });
+    }
+
+    try {
+      await toggleFavorite(currentUser.uid, countryId, !isFavorite);
+    } catch {
+      // Silenced in production - no internal details exposed
+    }
+  };
+
   if (!countryId) return null;
 
   return (
@@ -27,10 +62,21 @@ export default function NewsPanel({
       </div>
 
       <div className="flex items-center justify-between px-7 pt-6 sm:pt-7 pb-5 border-b border-white/5 bg-gray-900/30 sticky top-0 backdrop-blur-md z-10 rounded-t-3xl sm:rounded-none mt-2 sm:mt-0">
-        <h2 className="text-2xl font-display font-bold tracking-tight text-white flex items-center gap-2">
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300 font-extrabold">{countryId}</span> 
-          <span className="font-medium text-gray-300">News</span>
-        </h2>
+        <div className="flex items-center gap-3">
+          <h2 className="text-2xl font-display font-bold tracking-tight text-white flex items-center gap-2">
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300 font-extrabold">{countryId}</span> 
+            <span className="font-medium text-gray-300">News</span>
+          </h2>
+          {currentUser && (
+            <button
+              onClick={handleToggleStar}
+              className={`p-2 rounded-full transition-all active:scale-90 ${isFavorite ? 'bg-yellow-500/20 text-yellow-500' : 'bg-white/5 text-gray-400 hover:text-white hover:bg-white/10'}`}
+              title={isFavorite ? "Remove from Watchlist" : "Add to Watchlist"}
+            >
+              <Star className={`w-5 h-5 ${isFavorite ? 'fill-current' : ''}`} />
+            </button>
+          )}
+        </div>
         <button
           onClick={onClose}
           className="p-2 -mr-2 text-gray-400 hover:text-white hover:bg-white/10 rounded-full transition-all active:scale-95 bg-white/5 sm:bg-transparent"
@@ -97,6 +143,7 @@ export default function NewsPanel({
                 </div>
               </a>
             ))}
+            
           </div>
         )}
       </div>

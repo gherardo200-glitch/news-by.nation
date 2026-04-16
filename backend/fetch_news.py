@@ -80,8 +80,9 @@ def generate_global_news_database():
     
     # 2. Per ciascuna nazione, pesca le news in tempo reale!
     for count, country in enumerate(country_names):
-        # Query di ricerca: es. "Italy News" (usiamo News come suffisso universale per l'archivio globale inglese per affidabilità)
-        query = urllib.parse.quote(f"{country} News")
+        # Query di ricerca finanziaria e geopolitica severa
+        query_str = f'"{country}" AND (economy OR finance OR geopolitics OR macroeconomics OR "central bank" OR politics)'
+        query = urllib.parse.quote(query_str)
         url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
         
         articles = fetch_rss_news(country, url, limit=6)

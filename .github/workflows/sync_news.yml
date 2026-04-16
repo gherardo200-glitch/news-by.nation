@@ -28,8 +28,9 @@ jobs:
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: |
-          # GitHub inietterà in totale sicurezza la variabile segreta e creerà il file in tempo reale
-          echo $FIREBASE_SERVICE_ACCOUNT > backend/serviceAccountKey.json
+          # Scrive il JSON in modo sicuro senza esporlo nei log del terminale
+          echo "$FIREBASE_SERVICE_ACCOUNT" | jq '.' > backend/serviceAccountKey.json
+          chmod 600 backend/serviceAccountKey.json
 
       - name: Lancia l'aggiornamento
         run: |

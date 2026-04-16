@@ -1,0 +1,46 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ═══════════════════════════════════════════════════════════
+    //  NOTIZIE (Collezione "news" e "news_by_country")
+    //  Chiunque autenticato può leggere, nessuno può scrivere
+    //  dal client. Solo il backend (Admin SDK) scrive.
+    // ═══════════════════════════════════════════════════════════
+    match /news/{countryId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Solo Admin SDK (backend)
+    }
+
+    match /news_by_country/{countryId} {
+      allow read: if request.auth != null;
+      allow write: if false; // Solo Admin SDK (backend)
+    }
+
+    // ═══════════════════════════════════════════════════════════
+    //  PROFILI UTENTE (Collezione "users")
+    //  Ogni utente può leggere/scrivere SOLO il proprio documento.
+    //  Validazione: il campo "favorites" deve essere una lista.
+    // ═══════════════════════════════════════════════════════════
+    match /users/{userId} {
+      allow read: if request.auth != null && request.auth.uid == userId;
+      allow create: if request.auth != null && request.auth.uid == userId
+                    && request.resource.data.keys().hasAny(['favorites', 'finance_wishlist'])
+                    && (request.resource.data.get('favorites', []) is list)
+                    && (request.resource.data.get('finance_wishlist', []) is list);
+      allow update: if request.auth != null && request.auth.uid == userId
+                    && request.resource.data.keys().hasAny(['favorites', 'finance_wishlist'])
+                    && (request.resource.data.get('favorites', favorites) is list)
+                    && (request.resource.data.get('finance_wishlist', []) is list)
+                    && (request.resource.data.get('favorites', []).size() <= 50);
+    }
+
+    // ═══════════════════════════════════════════════════════════
+    //  FALLBACK: Nega tutto il resto
+    // ═══════════════════════════════════════════════════════════
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
