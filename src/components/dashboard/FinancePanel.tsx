@@ -24,27 +24,18 @@ export default function FinancePanel({
 
   useEffect(() => {
     if (!symbol) return;
+    setIsLoading(true);
+    setQuote(null);
+    setNews([]);
 
     const loadData = async () => {
-      setIsLoading(true);
       try {
-        const q = await fetchFinanceQuote(symbol);
+        const [q, fetchedNews] = await Promise.all([
+          fetchFinanceQuote(symbol),
+          fetchNewsByCountryId(symbol),  // symbol is now the direct key in realNews.json
+        ]);
         setQuote(q);
-
-        // For now, we search for news by treating the symbol name as a "country" or keyword
-        // In a real app, we'd have a specific symbol news endpoint
-        // Let's try to map symbols to keywords
-        const keywordMap: Record<string, string> = {
-          'XAU/USD': 'XAU/USD', // Exact match for backend key
-          'WTI/USD': 'WTI/USD',
-          'SPX': 'SPX',
-          'IXIC': 'IXIC',
-          'BTC/USD': 'BTC/USD',
-          'EUR/USD': 'EUR/USD'
-        };
-        const searchKey = keywordMap[symbol] || symbol;
-        const fetchedNews = await fetchNewsByCountryId(searchKey);
-        setNews(fetchedNews.slice(0, 5)); // Just the top 5
+        setNews(fetchedNews.slice(0, 6));
       } catch (err) {
         console.error("Error loading finance data:", err);
       } finally {
