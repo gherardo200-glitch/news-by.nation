@@ -88,21 +88,10 @@ def generate_global_news_database():
     
     print(f"Trovate {len(country_names)} nazioni. Inizio scraping globale (ci vorrà un minuto o due pe non saturare le API)...\n")
     
-    # 2. Per ciascuna nazione, pesca le news in tempo reale!
-    for count, country in enumerate(country_names):
-        # Query di ricerca finanziaria e geopolitica severa
-        query_str = f'"{country}" AND (economy OR finance OR geopolitics OR macroeconomics OR "central bank" OR politics)'
-        query = urllib.parse.quote(query_str)
-        url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
-        
-        articles = fetch_rss_news(country, url, limit=6)
-        
-        if articles:
-            news_database[country] = articles
-            print(f" ✅ {country}: scaricate {len(articles)} notizie.")
-        
-        # Per evitare un Rate Limit (Troppe Richieste) di Google News!
-        time.sleep(1)
+    # Skip countries for fast update
+    print("Skipping countries for fast update...")
+    # for count, country in enumerate(country_names):
+    #     ...
         
     # 3. Recupera news per gli asset finanziari
     print(f"\n📈 Inizio recupero notizie finanziarie...")

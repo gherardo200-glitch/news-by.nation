@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef } from 'react';
+import { useEffect, useState } from 'react';
 import { TrendingUp, TrendingDown, Activity } from 'lucide-react';
 import { fetchFinanceQuotes, DEFAULT_FINANCE_SYMBOLS, type FinanceData } from '../../services/financeService';
 
@@ -9,7 +9,6 @@ interface FinanceTickerProps {
 export default function FinanceTicker({ onSymbolSelect }: FinanceTickerProps) {
   const [data, setData] = useState<FinanceData[]>([]);
   const [isLoading, setIsLoading] = useState(true);
-  const scrollRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const symbols = DEFAULT_FINANCE_SYMBOLS.map(s => s.symbol);

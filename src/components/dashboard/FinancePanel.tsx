@@ -1,4 +1,4 @@
-import { X, Clock, ExternalLink, Star, TrendingUp, TrendingDown, Activity } from "lucide-react";
+import { X, Clock, Star, TrendingUp, TrendingDown, Activity } from "lucide-react";
 import { useEffect, useState } from "react";
 import { useAuth } from "../../contexts/AuthContext";
 import { fetchFinanceQuote, type FinanceData } from "../../services/financeService";
@@ -19,7 +19,7 @@ export default function FinancePanel({
   const { currentUser } = useAuth();
   const [quote, setQuote] = useState<FinanceData | null>(null);
   const [news, setNews] = useState<NewsArticle[]>([]);
-  const [isLoading, setIsLoading] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
   const [isFavorite, setIsFavorite] = useState(false);
 
   useEffect(() => {
@@ -35,10 +35,12 @@ export default function FinancePanel({
         // In a real app, we'd have a specific symbol news endpoint
         // Let's try to map symbols to keywords
         const keywordMap: Record<string, string> = {
-          'XAU/USD': 'USA', // Gold is often tied to US news
-          'WTI/USD': 'USA',
-          'SPX': 'USA',
-          'IXIC': 'USA',
+          'XAU/USD': 'XAU/USD', // Exact match for backend key
+          'WTI/USD': 'WTI/USD',
+          'SPX': 'SPX',
+          'IXIC': 'IXIC',
+          'BTC/USD': 'BTC/USD',
+          'EUR/USD': 'EUR/USD'
         };
         const searchKey = keywordMap[symbol] || symbol;
         const fetchedNews = await fetchNewsByCountryId(searchKey);
