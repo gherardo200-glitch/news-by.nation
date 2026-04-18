@@ -7,12 +7,6 @@ import { db } from "./firebase";
  * Currently uses mock data, but is architected to be easily swappable with Firebase.
  */
 export async function fetchNewsByCountryId(countryId: string): Promise<NewsArticle[]> {
-  // Simulate network latency (500ms - 1s)
-  const delay = Math.floor(Math.random() * 500) + 500;
-  await new Promise((resolve) => setTimeout(resolve, delay));
-
-  // // TODO: Integrare fetch da Firebase Firestore qui
-  // // Esempio futuro (pseudocodice):
   try {
     // 1. Tentativo di fetch da Firebase Firestore
     // Cerca il documento che ha come ID il nome della nazione (es. "Italy")

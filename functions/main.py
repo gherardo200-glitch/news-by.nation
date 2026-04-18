@@ -81,9 +81,10 @@ def fetch_financial_news(event: scheduler_fn.ScheduledEvent) -> None:
                 })
             
             if articles:
-                db.collection("news").document(country).set({
+                # Write to the same collection the frontend reads from (newsService.ts)
+                db.collection("news_by_country").document(country).set({
                     "articles": articles,
-                    "lastUpdated": datetime.utcnow().isoformat() + "Z"
+                    "last_updated": datetime.utcnow().isoformat() + "Z"
                 })
                 
         except Exception as e:

@@ -14,10 +14,14 @@ export default function FinanceTicker({ onSymbolSelect }: FinanceTickerProps) {
     const symbols = DEFAULT_FINANCE_SYMBOLS.map(s => s.symbol);
     
     const loadData = async () => {
-      const quotes = await fetchFinanceQuotes(symbols);
-      // Duplicate data for seamless loop if needed, but for a simple ticker we can just map
-      setData(quotes);
-      setIsLoading(false);
+      try {
+        const quotes = await fetchFinanceQuotes(symbols);
+        setData(quotes);
+      } catch (err) {
+        console.error("FinanceTicker: fetch failed", err);
+      } finally {
+        setIsLoading(false);
+      }
     };
 
     loadData();

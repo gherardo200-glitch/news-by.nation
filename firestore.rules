@@ -31,9 +31,10 @@ service cloud.firestore {
                     && (request.resource.data.get('finance_wishlist', []) is list);
       allow update: if request.auth != null && request.auth.uid == userId
                     && request.resource.data.keys().hasAny(['favorites', 'finance_wishlist'])
-                    && (request.resource.data.get('favorites', favorites) is list)
+                    && (request.resource.data.get('favorites', []) is list)
                     && (request.resource.data.get('finance_wishlist', []) is list)
-                    && (request.resource.data.get('favorites', []).size() <= 50);
+                    && (request.resource.data.get('favorites', []).size() <= 50)
+                    && (request.resource.data.get('finance_wishlist', []).size() <= 50);
     }
 
     // ═══════════════════════════════════════════════════════════

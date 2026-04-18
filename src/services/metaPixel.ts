@@ -3,7 +3,7 @@
  * Manages initialization and event tracking with respect to user consent.
  */
 
-const PIXEL_ID = '1234567890'; // REPLACE with real Meta Pixel ID
+const PIXEL_ID = import.meta.env.VITE_META_PIXEL_ID || '';
 
 declare global {
   interface Window {
@@ -15,6 +15,7 @@ declare global {
 export const initMetaPixel = () => {
   if (typeof window === 'undefined') return;
   if (window.fbq) return;
+  if (!PIXEL_ID) return; // No pixel configured — skip initialization
 
   const n: any = window.fbq = function() {
     n.callMethod ? n.callMethod.apply(n, Array.from(arguments)) : n.queue.push(Array.from(arguments));
