@@ -2,9 +2,9 @@ name: Sincronizzazione Notizie Globali (Automazione H24)
 
 on:
   schedule:
-    # Esegue lo script ogni 15 minuti, salvando i server ed evitando i Ban
-    - cron: "*/15 * * * *"
-  workflow_dispatch: # Permette di avviarlo anche manualmente da GitHub
+    # Esegue una volta al giorno alle 04:00 UTC (evita run frequenti e ban)
+    - cron: "0 4 * * *"
+  workflow_dispatch: # Avvio manuale da GitHub Actions
 
 jobs:
   fetch_and_update_db:
@@ -24,14 +24,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 firebase-admin
 
-      - name: Inserisci le Credenziali di Firebase nel server
+      - name: Inserisci le Credenziali di Firebase (se configurate)
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: |
-          # Scrive il JSON in modo sicuro senza esporlo nei log del terminale
-          echo "$FIREBASE_SERVICE_ACCOUNT" | jq '.' > backend/serviceAccountKey.json
-          chmod 600 backend/serviceAccountKey.json
+          if [ -z "$FIREBASE_SERVICE_ACCOUNT" ]; then
+            echo "⚠️  Secret FIREBASE_SERVICE_ACCOUNT non configurato. Sincronizzazione Firebase saltata."
+            echo "FIREBASE_AVAILABLE=false" >> $GITHUB_ENV
+          else
+            echo "$FIREBASE_SERVICE_ACCOUNT" | jq '.' > backend/serviceAccountKey.json
+            chmod 600 backend/serviceAccountKey.json
+            echo "✅ Credenziali Firebase pronte."
+            echo "FIREBASE_AVAILABLE=true" >> $GITHUB_ENV
+          fi
 
-      - name: Lancia l'aggiornamento
+      - name: Lancia l'aggiornamento notizie
         run: |
           python backend/fetch_news.py
