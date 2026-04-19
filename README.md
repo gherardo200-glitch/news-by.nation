@@ -1,73 +1,70 @@
-# React + TypeScript + Vite
+# NewsByNation PRO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Terminale di intelligence finanziaria e geopolitica globale. Esplora 177 nazioni su una mappa interattiva, segui in tempo reale prezzi di mercato, calendario macro e notizie economiche filtrate per paese.
 
-Currently, two official plugins are available:
+🌍 **Live:** https://newsbynation.web.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Stack
 
-## React Compiler
+- **Frontend:** React 18 + TypeScript + Vite + Tailwind CSS v4
+- **Mappe:** `react-simple-maps` + `react-globe.gl` / three.js
+- **Backend:** Firebase (Firestore + Auth + Hosting + Cloud Functions)
+- **Dati finanziari:** CoinGecko · Yahoo Finance · open.er-api · Twelve Data (fallback chain)
+- **Dati news:** Google News RSS, scrapato da Cloud Function schedulata
+- **Calendario macro:** widget TradingView embed
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Setup locale
 
-## Expanding the ESLint configuration
+```bash
+git clone https://github.com/gherardo200-glitch/news-by.nation.git
+cd news-by.nation
+npm install
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+# Copia .env.example e riempi con la tua Firebase config
+cp .env.example .env.local
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+npm run dev      # dev server (http://localhost:5173)
+npm run build    # production build (./dist)
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+La `VITE_FIREBASE_*` config si trova in **Firebase Console → Project Settings → Your apps → SDK setup and configuration**.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Deploy
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+firebase deploy --only hosting,firestore:rules
+firebase deploy --only functions   # richiede piano Blaze
 ```
+
+## Architettura
+
+```
+Google News RSS ──▶ Cloud Function (schedule) ──▶ Firestore (news_by_country)
+                                                        │
+                                                        ▼
+                                              React SPA on Firebase Hosting
+```
+
+- [`functions/main.py`](functions/main.py) → scraper schedulato (177 paesi + asset finanziari)
+- [`backend/fetch_news.py`](backend/fetch_news.py) → versione legacy via GitHub Actions (backup)
+- [`firestore.rules`](firestore.rules) → read autenticato, write solo Admin SDK; documenti `users` isolati per UID
+- [`src/services/`](src/services) → API layer (auth, news, finance, pixel, SEO)
+
+## Struttura
+
+```
+src/
+├── components/
+│   ├── auth/             Login, signup, Google OAuth
+│   ├── dashboard/        Mappa, pannello news, ticker finanziario
+│   ├── layout/           Sidebar watchlist, calendario economico
+│   └── marketing/        Landing, onboarding, cookie banner
+├── contexts/             AuthContext (Firebase Auth state)
+├── data/                 Mock news, country intel points
+├── pages/                Privacy, cookie policy, public news hub (SEO)
+└── services/             firebase, newsService, financeService, metaPixel, seo
+```
+
+## Licenza
+
+MIT
