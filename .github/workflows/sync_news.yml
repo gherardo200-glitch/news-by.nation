@@ -41,3 +41,10 @@ jobs:
       - name: Lancia l'aggiornamento notizie
         run: |
           python backend/fetch_news.py
+
+      - name: Verifica sincronizzazione Firebase
+        run: |
+          if [ "$FIREBASE_AVAILABLE" = "false" ]; then
+            echo "::error::Firebase sync non eseguita: secret FIREBASE_SERVICE_ACCOUNT mancante. Vai su Settings → Secrets → Actions e aggiungi il JSON della service account."
+            exit 1
+          fi

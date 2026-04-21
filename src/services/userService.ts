@@ -1,16 +1,11 @@
-import { doc, getDoc, setDoc, updateDoc, arrayUnion, arrayRemove, onSnapshot } from "firebase/firestore";
+import { doc, setDoc, arrayUnion, arrayRemove, onSnapshot } from "firebase/firestore";
 import { db } from "./firebase";
 
 export const toggleFavorite = async (uid: string, countryId: string, isAdding: boolean) => {
   const userRef = doc(db, "users", uid);
-  const snap = await getDoc(userRef);
-  if (!snap.exists()) {
-    await setDoc(userRef, { favorites: [] });
-  }
-
-  await updateDoc(userRef, {
+  await setDoc(userRef, {
     favorites: isAdding ? arrayUnion(countryId) : arrayRemove(countryId)
-  });
+  }, { merge: true });
 };
 
 export const subscribeToFavorites = (uid: string, callback: (favs: string[]) => void) => {
@@ -26,14 +21,9 @@ export const subscribeToFavorites = (uid: string, callback: (favs: string[]) => 
 
 export const toggleFinanceFavorite = async (uid: string, symbol: string, isAdding: boolean) => {
   const userRef = doc(db, "users", uid);
-  const snap = await getDoc(userRef);
-  if (!snap.exists()) {
-    await setDoc(userRef, { finance_wishlist: [] });
-  }
-
-  await updateDoc(userRef, {
+  await setDoc(userRef, {
     finance_wishlist: isAdding ? arrayUnion(symbol) : arrayRemove(symbol)
-  });
+  }, { merge: true });
 };
 
 export const subscribeToFinanceFavorites = (uid: string, callback: (favs: string[]) => void) => {

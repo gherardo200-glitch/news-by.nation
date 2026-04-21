@@ -46,8 +46,8 @@ export default function NewsPanel({
 
     try {
       await toggleFavorite(currentUser.uid, countryId, !isFavorite);
-    } catch {
-      // Silenced in production - no internal details exposed
+    } catch (err) {
+      console.error("[Firebase] toggleFavorite error:", err);
     }
   };
 
