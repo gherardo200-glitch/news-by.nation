@@ -2,8 +2,8 @@ name: Sincronizzazione Notizie Globali (Automazione H24)
 
 on:
   schedule:
-    # Esegue una volta al giorno alle 04:00 UTC (evita run frequenti e ban)
-    - cron: "0 4 * * *"
+    # Esegue ogni 15 minuti
+    - cron: "*/15 * * * *"
   workflow_dispatch: # Avvio manuale da GitHub Actions
 
 jobs:
