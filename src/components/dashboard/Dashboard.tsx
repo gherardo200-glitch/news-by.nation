@@ -2,7 +2,7 @@ import { useState, useCallback, useEffect } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import WorldMap from "./WorldMap";
 import NewsPanel from "./NewsPanel";
-import { fetchNewsByCountryId } from "../../services/newsService";
+import { fetchNewsWithMeta } from "../../services/newsService";
 import type { NewsArticle } from "../../data/mockNews";
 import { Lock, Star, Calendar, LogOut, Globe, MousePointerClick } from "lucide-react";
 import OnboardingFlow from "../marketing/OnboardingFlow";
@@ -19,6 +19,7 @@ import { auth } from "../../services/firebase";
 export default function Dashboard() {
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
   const [news, setNews] = useState<NewsArticle[]>([]);
+  const [newsLastUpdated, setNewsLastUpdated] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
@@ -60,8 +61,9 @@ export default function Dashboard() {
     trackCustomEvent('ViewCountry', { country: countryId });
 
     try {
-      const fetched = await fetchNewsByCountryId(countryId);
-      setNews(fetched);
+      const result = await fetchNewsWithMeta(countryId);
+      setNews(result.articles);
+      setNewsLastUpdated(result.lastUpdated);
     } catch (e) {
       console.error("Errore nel recupero notizie.", e);
       setError("Impossibile caricare le notizie. Riprova più tardi.");
@@ -229,6 +231,7 @@ export default function Dashboard() {
               news={news}
               isLoading={isLoading}
               error={error}
+              lastUpdated={newsLastUpdated}
               onClose={handleClosePanel}
             />
           )}

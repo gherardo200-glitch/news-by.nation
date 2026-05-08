@@ -10,6 +10,7 @@ interface NewsPanelProps {
   news: NewsArticle[];
   isLoading: boolean;
   error: string | null;
+  lastUpdated: string | null;
   onClose: () => void;
 }
 
@@ -18,6 +19,7 @@ export default function NewsPanel({
   news,
   isLoading,
   error,
+  lastUpdated,
   onClose,
 }: NewsPanelProps) {
   const { currentUser } = useAuth();
@@ -58,12 +60,19 @@ export default function NewsPanel({
       </div>
 
       {/* Header */}
-      <div className="flex items-center justify-between px-7 pt-6 sm:pt-7 pb-5 border-b border-white/5 bg-gray-900/30 sticky top-0 backdrop-blur-md z-10 rounded-t-3xl sm:rounded-none mt-2 sm:mt-0">
-        <div className="flex items-center gap-3">
-          <h2 className="text-2xl font-display font-bold tracking-tight text-white flex items-center gap-2">
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300 font-extrabold">{countryId}</span>
-            <span className="font-medium text-gray-300">Notizie</span>
-          </h2>
+      <div className="flex items-center justify-between px-7 pt-6 sm:pt-7 pb-4 border-b border-white/5 bg-gray-900/30 sticky top-0 backdrop-blur-md z-10 rounded-t-3xl sm:rounded-none mt-2 sm:mt-0">
+        <div className="flex items-center gap-3 min-w-0">
+          <div className="min-w-0">
+            <h2 className="text-2xl font-display font-bold tracking-tight text-white flex items-center gap-2">
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300 font-extrabold truncate">{countryId}</span>
+              <span className="font-medium text-gray-300">Notizie</span>
+            </h2>
+            {lastUpdated && (
+              <p className="text-[9px] text-gray-600 font-medium mt-0.5">
+                Aggiornato: {new Date(lastUpdated).toLocaleString('it-IT', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' })}
+              </p>
+            )}
+          </div>
           {currentUser && (
             <button
               onClick={handleToggleStar}
