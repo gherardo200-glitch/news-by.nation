@@ -139,7 +139,8 @@ def generate_global_news_database():
             
             print("Caricamento documenti nel cloud...")
             for country, articles in news_database.items():
-                doc_ref = db.collection(u'news_by_country').document(country)
+                doc_id = country.replace("/", "_")  # Firestore IDs cannot contain "/"
+                doc_ref = db.collection(u'news_by_country').document(doc_id)
                 batch.set(doc_ref, {u'articles': articles, u'last_updated': datetime.now().isoformat()})
                 batch_size += 1
                 
