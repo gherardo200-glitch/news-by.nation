@@ -1,4 +1,4 @@
-import { ArrowRight, Globe, ShieldAlert, BarChart2, Lock, Clock, Users, Video, Layers } from 'lucide-react';
+import { ArrowRight, Globe, ShieldAlert, BarChart2, Lock, Clock, Video, Layers } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import { fetchNewsByCountryId } from '../../services/newsService';
@@ -54,7 +54,7 @@ const FEATURES = [
 const STATS = [
   { value: '177+', label: 'Nazioni Monitorate' },
   { value: '15min', label: 'Frequenza Aggiornamento' },
-  { value: '100%', label: 'Focalizzato su Finanza'},
+  { value: '100%', label: 'Open Source & Gratuito'},
   { value: '0€', label: 'Costo di Accesso' }
 ];
 
@@ -134,8 +134,8 @@ export default function MarketingLanding() {
         </div>
 
         <h1 className="text-5xl md:text-7xl font-display font-extrabold tracking-tight leading-[1.05] max-w-4xl">
-          Il Terminale di 
-          <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-300 to-blue-500 animate-[pulse_4s_ease-in-out_infinite]"> Intelligence Globale.</span>
+          Il Terminale di
+          <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-300 to-blue-500"> Intelligence Globale.</span>
         </h1>
 
         <p className="mt-7 text-lg md:text-xl text-gray-400 max-w-2xl leading-relaxed font-light">
@@ -161,12 +161,16 @@ export default function MarketingLanding() {
         {/* Social Proof */}
         <div className="mt-8 flex items-center gap-4 text-sm text-gray-400">
           <div className="flex -space-x-2">
-            <div className="w-8 h-8 rounded-full border-2 border-[#050B14] bg-blue-500/20 backdrop-blur-md flex items-center justify-center">
-              <Users className="w-4 h-4 text-blue-400" />
-            </div>
-            <img className="w-8 h-8 rounded-full border-2 border-[#050B14]" src="https://i.pravatar.cc/100?img=11" alt="User" />
-            <img className="w-8 h-8 rounded-full border-2 border-[#050B14]" src="https://i.pravatar.cc/100?img=33" alt="User" />
-            <img className="w-8 h-8 rounded-full border-2 border-[#050B14]" src="https://i.pravatar.cc/100?img=44" alt="User" />
+            {[
+              { bg: 'bg-blue-500/30', text: 'text-blue-300', letter: 'A' },
+              { bg: 'bg-emerald-500/30', text: 'text-emerald-300', letter: 'M' },
+              { bg: 'bg-purple-500/30', text: 'text-purple-300', letter: 'S' },
+              { bg: 'bg-amber-500/30', text: 'text-amber-300', letter: 'R' },
+            ].map(({ bg, text, letter }) => (
+              <div key={letter} className={`w-8 h-8 rounded-full border-2 border-[#050B14] ${bg} backdrop-blur-md flex items-center justify-center`}>
+                <span className={`text-xs font-bold ${text}`}>{letter}</span>
+              </div>
+            ))}
           </div>
           <p>Unisciti a <strong>+1.200 analisti</strong> in tutto il mondo.</p>
         </div>

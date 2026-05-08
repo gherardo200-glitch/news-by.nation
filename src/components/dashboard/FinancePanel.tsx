@@ -77,14 +77,14 @@ export default function FinancePanel({
       <div className="flex items-center justify-between px-7 pt-6 sm:pt-7 pb-5 border-b border-white/5 bg-gray-900/30 sticky top-0 backdrop-blur-md z-10 rounded-t-3xl sm:rounded-none mt-2 sm:mt-0">
         <div className="flex items-center gap-3">
           <h2 className="text-2xl font-display font-bold tracking-tight text-white flex items-center gap-2">
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300 font-extrabold">{symbol}</span> 
-            <span className="font-medium text-gray-300">Terminal</span>
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300 font-extrabold">{symbol}</span>
+            <span className="font-medium text-gray-300">Mercati</span>
           </h2>
           {currentUser && (
             <button
               onClick={handleToggleFavorite}
               className={`p-2 rounded-full transition-all active:scale-90 ${isFavorite ? 'bg-yellow-500/20 text-yellow-500' : 'bg-white/5 text-gray-400 hover:text-white hover:bg-white/10'}`}
-              title={isFavorite ? "Remove from Wishlist" : "Add to Wishlist"}
+              title={isFavorite ? "Rimuovi dalla Watchlist" : "Aggiungi alla Watchlist"}
             >
               <Star className={`w-5 h-5 ${isFavorite ? 'fill-current' : ''}`} />
             </button>
@@ -98,7 +98,7 @@ export default function FinancePanel({
         </button>
       </div>
 
-      <div className="flex-1 overflow-y-auto p-7 space-y-8 scrollbar-hide">
+      <div className="flex-1 overflow-y-auto p-7 pb-16 sm:pb-7 space-y-8 scrollbar-hide">
         {/* Market Data Highlight */}
         {quote && (
           <div className="bg-white/[0.03] rounded-3xl p-6 border border-white/10 shadow-xl overflow-hidden relative">
@@ -126,17 +126,17 @@ export default function FinancePanel({
         {/* Latest News Section */}
         <div>
           <h3 className="text-xs font-bold text-blue-400 uppercase tracking-widest mb-4 flex items-center gap-2">
-            <Activity className="w-3 h-3" /> Latest Market News
+            <Activity className="w-3 h-3" /> Ultime Notizie di Mercato
           </h3>
 
           {isLoading ? (
             <div className="py-20 flex flex-col items-center justify-center text-gray-500">
                <div className="w-8 h-8 border-2 border-blue-500/30 border-t-blue-400 rounded-full animate-spin mb-4" />
-               <p className="text-[10px] uppercase tracking-widest animate-pulse">Fetching intelligence...</p>
+               <p className="text-[10px] uppercase tracking-widest animate-pulse">Recupero intelligence in corso...</p>
             </div>
           ) : news.length === 0 ? (
             <div className="text-center py-12 text-gray-500 text-sm border border-dashed border-white/10 rounded-2xl">
-              No specific news found for this instrument.
+              Nessuna notizia specifica trovata per questo strumento.
             </div>
           ) : (
             <div className="space-y-4">
@@ -155,7 +155,7 @@ export default function FinancePanel({
                     </span>
                     <span className="text-[9px] text-gray-500 flex items-center gap-1">
                       <Clock className="w-2.5 h-2.5" />
-                      {new Date(item.timestamp).toLocaleDateString()}
+                      {new Date(item.timestamp).toLocaleDateString('it-IT')}
                     </span>
                   </div>
                   <h4 className="text-sm font-bold text-gray-200 group-hover:text-blue-200 transition-colors line-clamp-2">
