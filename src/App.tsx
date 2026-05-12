@@ -7,7 +7,7 @@ import CookieBanner, { initConsentMode } from './components/marketing/CookieBann
 initConsentMode();
 
 // Code splitting: every route loads its own chunk
-const MarketingLanding = lazy(() => import('./components/marketing/MarketingLanding'));
+const GlobeLanding = lazy(() => import('./components/marketing/GlobeLanding'));
 const AuthPage = lazy(() => import('./components/auth/AuthPage'));
 const Dashboard = lazy(() => import('./components/dashboard/Dashboard'));
 const PrivacyPolicy = lazy(() => import('./pages/PrivacyPolicy'));
@@ -36,7 +36,8 @@ export default function App() {
     <BrowserRouter>
       <Suspense fallback={<Spinner />}>
         <Routes>
-          <Route path="/" element={<MarketingLanding />} />
+          <Route path="/" element={<GlobeLanding />} />
+          <Route path="/globe-test" element={<GlobeLanding />} />
           <Route path="/login" element={<AuthPage />} />
           <Route path="/app" element={<PrivateRoute><Dashboard /></PrivateRoute>} />
           <Route path="/news/:countryId" element={<PublicNewsHub />} />

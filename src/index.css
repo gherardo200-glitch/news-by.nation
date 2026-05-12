@@ -19,6 +19,10 @@
   }
 }
 
+@keyframes shimmer {
+  to { background-position: 200% center; }
+}
+
 @layer utilities {
   .bg-grid-pattern {
     background-image: linear-gradient(to right, rgba(255,255,255,0.03) 1px, transparent 1px),

@@ -5,7 +5,9 @@ import json
 import os
 import re
 import time
-from datetime import datetime
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone
 
 try:
     import firebase_admin
@@ -14,151 +16,187 @@ try:
 except ImportError:
     FIREBASE_AVAILABLE = False
 
-# Risorse Finanziarie da monitorare
 FINANCIAL_ASSETS = {
-    "XAU/USD": 'Gold "Spot Gold" (market OR price OR mining OR central bank)',
+    "XAU/USD": 'Gold "Spot Gold" (market OR price OR mining OR "central bank")',
     "WTI/USD": 'Oil "Crude Oil" (WTI OR price OR production OR OPEC)',
-    "SPX": 'S&P 500 "Stock Market" (economy OR index OR outlook OR earnings)',
-    "IXIC": 'Nasdaq "Tech Stocks" (market OR AI OR semiconductors OR earnings)',
+    "SPX":     'S&P500 "Stock Market" (economy OR index OR outlook OR earnings)',
+    "IXIC":    'Nasdaq "Tech Stocks" (market OR AI OR semiconductors OR earnings)',
     "BTC/USD": 'Bitcoin "Crypto Market" (regulation OR institutional OR price)',
-    "EUR/USD": 'Euro Dollar "Forex Market" (ECB OR Fed OR currency OR inflation)'
+    "EUR/USD": 'Euro Dollar "Forex Market" (ECB OR Fed OR currency OR inflation)',
 }
 
-# Percorsi dei file
-PUBLIC_MAP_FILE = os.path.join(os.path.dirname(__file__), '..', 'public', 'world-110m.json')
-OUTPUT_FILE = os.path.join(os.path.dirname(__file__), '..', 'src', 'data', 'realNews.json')
+BASE_DIR       = os.path.dirname(os.path.abspath(__file__))
+PUBLIC_MAP_FILE = os.path.join(BASE_DIR, '..', 'public', 'world-110m.json')
+OUTPUT_FILE     = os.path.join(BASE_DIR, '..', 'src', 'data', 'realNews.json')
 
-def clean_html(raw_html) -> str:
-    """Rimuove i tag HTML dalla descrizione dell'articolo."""
-    cleanr = re.compile('<.*?>')
-    cleantext = str(re.sub(cleanr, '', str(raw_html)))
-    return cleantext.strip()
+# Max concurrent Google News requests (be polite, avoid rate-limit)
+_semaphore = threading.Semaphore(6)
 
-def fetch_rss_news(country_name, url, limit=5):
-    print(f"Recupero notizie per {country_name}...")
+
+def clean_html(raw_html: str) -> str:
+    return re.sub(r'<.*?>', '', str(raw_html)).strip()
+
+
+def fetch_rss_articles(key: str, query_str: str, limit: int = 6) -> list:
+    query = urllib.parse.quote(query_str)
+    url   = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
     articles = []
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req) as response:
-            xml_data = response.read()
-            
-        root = ET.fromstring(xml_data)
-        
-        for idx, item in enumerate(root.findall('./channel/item')):
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            xml_data = resp.read()
+
+        root    = ET.fromstring(xml_data)
+        channel = root.find("channel")
+        if not channel:
+            return []
+
+        for idx, item in enumerate(channel.findall("item")):
             if idx >= limit:
                 break
-                
-            title = item.find('title').text if item.find('title') is not None else "No Title"
-            source = "Google News"
+            title  = item.findtext("title", "").strip()
+            link   = item.findtext("link",  "").strip()
+            desc   = item.findtext("description", "")
+            pubDate = item.findtext("pubDate", "")
+            source = item.findtext("source", "Google News")
+
+            if not title or not link:
+                continue
+
+            # Strip source suffix from title (Google News style: "Title - Source")
             if " - " in title:
-                parts = title.rsplit(" - ", 1)
-                title = parts[0]
-                source = parts[1]
-                
-            pub_date = item.find('pubDate').text if item.find('pubDate') is not None else datetime.now().isoformat()
-            article_url = item.find('link').text if item.find('link') is not None else "#"
-            
-            desc_element = item.find('description')
-            raw_desc = desc_element.text if desc_element is not None and desc_element.text else "Nessun estratto disponibile."
-            
+                parts  = title.rsplit(" - ", 1)
+                title  = parts[0].strip()
+                source = parts[1].strip()
+
+            # Normalize timestamp to ISO-8601
+            try:
+                dt       = datetime.strptime(pubDate, "%a, %d %b %Y %H:%M:%S %Z")
+                iso_date = dt.replace(tzinfo=timezone.utc).isoformat()
+            except Exception:
+                iso_date = datetime.now(timezone.utc).isoformat()
+
             articles.append({
-                "id": f"{country_name.lower().replace(' ', '')[:4]}-{idx+1}",
-                "source": source,
-                "title": title,
-                "excerpt": str(clean_html(raw_desc))[:150] + "...",
-                "timestamp": pub_date,
-                "url": article_url
+                "id":        f"{key.lower().replace(' ', '')[:6]}-{idx+1}",
+                "source":    source,
+                "title":     title,
+                "excerpt":   clean_html(desc)[:300],
+                "timestamp": iso_date,
+                "url":       link,
             })
     except Exception as e:
-        print(f" ❌ Errore per {country_name}: {e}")
-        
+        print(f"  ⚠️  {key}: {e}")
+
     return articles
 
+
+def _fetch_one(key: str, query_str: str, limit: int) -> tuple[str, list]:
+    with _semaphore:
+        articles = fetch_rss_articles(key, query_str, limit)
+    status = f"✅ {key}: {len(articles)} articoli" if articles else f"⚠️  {key}: nessun risultato"
+    print(f"  {status}")
+    return key, articles
+
+
+def init_firebase() -> object | None:
+    """Init Firebase from env var JSON (CI) or local file (dev). Returns db or None."""
+    if not FIREBASE_AVAILABLE:
+        print("⚠️  firebase-admin non installato.")
+        return None
+
+    if firebase_admin._apps:
+        return firestore.client()
+
+    # 1. Env var (GitHub Actions / CI)
+    sa_json = os.environ.get("FIREBASE_SERVICE_ACCOUNT")
+    if sa_json:
+        try:
+            sa_dict = json.loads(sa_json)
+            cred    = credentials.Certificate(sa_dict)
+            firebase_admin.initialize_app(cred)
+            print("🔑 Firebase inizializzato da variabile d'ambiente.")
+            return firestore.client()
+        except Exception as e:
+            print(f"❌ Errore inizializzazione Firebase (env): {e}")
+            return None
+
+    # 2. Local file (sviluppo)
+    sa_path = os.path.join(BASE_DIR, 'serviceAccountKey.json')
+    if os.path.exists(sa_path):
+        try:
+            cred = credentials.Certificate(sa_path)
+            firebase_admin.initialize_app(cred)
+            print("🔑 Firebase inizializzato da file locale.")
+            return firestore.client()
+        except Exception as e:
+            print(f"❌ Errore inizializzazione Firebase (file): {e}")
+            return None
+
+    print("⚠️  Nessuna credenziale Firebase trovata. Solo export JSON locale.")
+    return None
+
+
 def generate_global_news_database():
-    news_database = {}
-    
-    # 1. Carica tutti i nomi delle nazioni supportati fisicamente dalla mappa
-    print(f"Lettura delle nazioni da {PUBLIC_MAP_FILE}...")
+    # ── Carica lista paesi dalla mappa ────────────────────────────────────────
+    print(f"Lettura nazioni da mappa...")
     with open(PUBLIC_MAP_FILE, 'r', encoding='utf-8') as f:
         map_data = json.load(f)
-        
-    # Estrae la lista dei nomi dei paesi dai metadati della mappa (TopoJSON)
-    geometries = map_data.get('objects', {}).get('countries', {}).get('geometries', [])
-    country_names = [g['properties']['name'] for g in geometries if 'properties' in g and 'name' in g['properties']]
-    
-    print(f"Trovate {len(country_names)} nazioni. Inizio scraping globale (ci vorrà un minuto o due pe non saturare le API)...\n")
-    
-    # 2. Per ciascuna nazione, pesca le news in tempo reale!
-    for count, country in enumerate(country_names):
-        # Query di ricerca finanziaria e geopolitica severa
-        query_str = f'"{country}" AND (economy OR finance OR geopolitics OR macroeconomics OR "central bank" OR politics)'
-        query = urllib.parse.quote(query_str)
-        url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
-        
-        articles = fetch_rss_news(country, url, limit=6)
-        
-        if articles:
-            news_database[country] = articles
-            print(f" ✅ {country}: scaricate {len(articles)} notizie.")
-        
-        # Per evitare un Rate Limit (Troppe Richieste) di Google News!
-        time.sleep(1)
-        
-    # 3. Recupera news per gli asset finanziari
-    print(f"\n📈 Inizio recupero notizie finanziarie...")
-    for symbol, query_str in FINANCIAL_ASSETS.items():
-        query = urllib.parse.quote(query_str)
-        url = f"https://news.google.com/rss/search?q={query}&hl=en-US&gl=US&ceid=US:en"
-        
-        articles = fetch_rss_news(symbol, url, limit=8)
-        if articles:
-            news_database[symbol] = articles
-            print(f" ✅ {symbol}: scaricate {len(articles)} notizie finanziarie.")
-        time.sleep(1)
+    geometries    = map_data.get('objects', {}).get('countries', {}).get('geometries', [])
+    country_names = [g['properties']['name'] for g in geometries
+                     if 'properties' in g and 'name' in g['properties']]
 
-    # 4. Salva tutto nel JSON utilizzato da React (come Fallback e Test in locale)
+    # ── Build task list ───────────────────────────────────────────────────────
+    tasks: list[tuple[str, str, int]] = []
+    for country in country_names:
+        q = f'"{country}" AND (economy OR finance OR geopolitics OR macroeconomics OR "central bank" OR politics)'
+        tasks.append((country, q, 6))
+    for symbol, q in FINANCIAL_ASSETS.items():
+        tasks.append((symbol, q, 8))
+
+    print(f"Avvio fetch parallelo: {len(tasks)} item (6 worker)...\n")
+
+    # ── Parallel fetch ────────────────────────────────────────────────────────
+    news_database: dict[str, list] = {}
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        futures = {pool.submit(_fetch_one, key, q, lim): key for key, q, lim in tasks}
+        for future in as_completed(futures):
+            key, articles = future.result()
+            if articles:
+                news_database[key] = articles
+
+    print(f"\n📦 Totale: {len(news_database)} chiavi con articoli.")
+
+    # ── Salva JSON locale (fallback bundled nel build React) ──────────────────
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(news_database, f, ensure_ascii=False, indent=2)
-        
-    print(f"\n🌍 JSON LOCALE COMPLETATO in: {OUTPUT_FILE}")
+    print(f"💾 realNews.json aggiornato: {OUTPUT_FILE}")
 
-    # 5. Sincronizzazione con Firebase Firestore (se configurato)
-    SERVICE_ACCOUNT_PATH = os.path.join(os.path.dirname(__file__), 'serviceAccountKey.json')
-    
-    if FIREBASE_AVAILABLE and os.path.exists(SERVICE_ACCOUNT_PATH):
-        print("\n🚀 Inizializzando connessione a Firebase Firestore...")
-        try:
-            if not firebase_admin._apps:
-                cred = credentials.Certificate(SERVICE_ACCOUNT_PATH)
-                firebase_admin.initialize_app(cred)
-            
-            db = firestore.client()
-            batch_size = 0
+    # ── Sync Firestore ────────────────────────────────────────────────────────
+    db = init_firebase()
+    if not db:
+        return
+
+    print("\n🚀 Sync Firestore...")
+    now_iso  = datetime.now(timezone.utc).isoformat()
+    batch    = db.batch()
+    written  = 0
+
+    for key, articles in news_database.items():
+        doc_id  = key.replace("/", "_")
+        doc_ref = db.collection("news_by_country").document(doc_id)
+        batch.set(doc_ref, {"articles": articles, "last_updated": now_iso})
+        written += 1
+
+        if written % 400 == 0:      # Firestore batch limit = 500
+            batch.commit()
             batch = db.batch()
-            
-            print("Caricamento documenti nel cloud...")
-            for country, articles in news_database.items():
-                doc_id = country.replace("/", "_")  # Firestore IDs cannot contain "/"
-                doc_ref = db.collection(u'news_by_country').document(doc_id)
-                batch.set(doc_ref, {u'articles': articles, u'last_updated': datetime.now().isoformat()})
-                batch_size += 1
-                
-                # Firestore batch limit is 500
-                if batch_size >= 400:
-                    batch.commit()
-                    batch = db.batch()
-                    batch_size = 0
-                    
-            if batch_size > 0:
-                batch.commit()
-                
-            print("✅ Sincronizzazione Firebase Cloud completata con successo! Le notizie sono ora online.")
-        except Exception as e:
-            print(f"❌ Errore durante il caricamento su Firebase: {e}")
-    else:
-        print("\n⚠️ Firebase non sincronizzato: File 'serviceAccountKey.json' mancante o libreria 'firebase-admin' non installata.")
-        print("Per attivare il database cloud, segui i passaggi forniti dall'AI per scaricare la chiave di Firebase.")
+
+    if written % 400 != 0:
+        batch.commit()
+
+    print(f"✅ Firestore aggiornato: {written} documenti scritti.")
+
 
 if __name__ == "__main__":
     generate_global_news_database()
