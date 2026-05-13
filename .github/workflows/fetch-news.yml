@@ -4,7 +4,16 @@ on:
   schedule:
     # Every 30 minutes
     - cron: "*/30 * * * *"
-  workflow_dispatch:  # Allow manual trigger from GitHub UI
+  workflow_dispatch:  # manual trigger from GitHub UI
+
+# Allow the workflow to push the regenerated fallback JSON back to the repo.
+permissions:
+  contents: write
+
+# Avoid overlapping runs (a previous run could still be uploading/committing).
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
 
 jobs:
   fetch:
@@ -14,6 +23,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Need full history-less checkout but with write token so we can push.
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,3 +41,22 @@ jobs:
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: python backend/fetch_news.py
+
+      - name: Commit refreshed fallback JSON
+        # Only commit on cron / manual runs from the default branch.
+        if: github.ref == 'refs/heads/main'
+        run: |
+          set -euo pipefail
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add src/data/realNews.json src/data/newsMeta.json
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(news): refresh realNews.json [skip ci]"
+          # Retry push once if main moved while we were fetching.
+          git push origin HEAD:main || (git pull --rebase origin main && git push origin HEAD:main)

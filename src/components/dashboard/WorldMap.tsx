@@ -5,7 +5,10 @@ import { Plus, Minus } from "lucide-react";
 import realNewsData from "../../data/realNews.json";
 import { trackCustomEvent } from "../../services/metaPixel";
 
-const SUPPORTED_COUNTRIES = Object.keys(realNewsData);
+// Financial-asset keys also live in realNews.json — filter them out so the map
+// only treats actual countries as "supported".
+const FINANCIAL_KEYS = new Set(["XAU/USD", "WTI/USD", "SPX", "IXIC", "BTC/USD", "EUR/USD"]);
+const SUPPORTED_COUNTRIES = Object.keys(realNewsData).filter((k) => !FINANCIAL_KEYS.has(k));
 
 interface WorldMapProps {
   onCountryClick: (countryId: string) => void;

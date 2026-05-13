@@ -1,8 +1,9 @@
 import type { NewsArticle, CountryNewsMap } from "../data/mockNews";
 import { doc, getDoc } from "firebase/firestore";
 import { db } from "./firebase";
+import newsMeta from "../data/newsMeta.json";
 
-/** Max age of Firestore data before we fall back to local realNews.json (48 hours) */
+/** Max age of Firestore data before we fall back to the bundled JSON (48 hours). */
 const STALE_THRESHOLD_MS = 48 * 60 * 60 * 1000;
 
 export interface NewsResult {
@@ -20,54 +21,54 @@ export async function fetchNewsByCountryId(countryId: string): Promise<NewsArtic
 const toFirestoreId = (id: string) => id.replace(/\//g, "_");
 
 /** Returns true if the ISO timestamp is older than STALE_THRESHOLD_MS */
-const isStale = (isoTimestamp: string | undefined): boolean => {
+const isStale = (isoTimestamp: string | undefined | null): boolean => {
   if (!isoTimestamp) return true;
-  return Date.now() - new Date(isoTimestamp).getTime() > STALE_THRESHOLD_MS;
+  const ts = new Date(isoTimestamp).getTime();
+  if (Number.isNaN(ts)) return true;
+  return Date.now() - ts > STALE_THRESHOLD_MS;
 };
 
 export async function fetchNewsWithMeta(countryId: string): Promise<NewsResult> {
+  // 1. Firestore — refreshed every 30 min by GitHub Actions
   try {
-    // 1. Firestore — live data updated every 15 min by Cloud Function
     const countryDocRef = doc(db, "news_by_country", toFirestoreId(countryId));
     const countryDoc    = await getDoc(countryDocRef);
 
-    if (countryDoc.exists() && countryDoc.data().articles) {
-      const data       = countryDoc.data();
-      const lastUpdated: string | undefined = data.last_updated;
+    if (countryDoc.exists()) {
+      const data         = countryDoc.data();
+      const articles     = (data.articles as NewsArticle[] | undefined) ?? [];
+      const lastUpdated  = (data.last_updated as string | undefined) ?? null;
 
-      // Staleness guard: if Firestore data is older than 48h fall through to local
-      if (isStale(lastUpdated)) {
-        console.warn(
-          `Firestore data for "${countryId}" is stale (${lastUpdated}). Using local fallback.`
+      if (articles.length > 0 && !isStale(lastUpdated)) {
+        const sorted = [...articles].sort(
+          (a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime()
         );
-        throw new Error("stale");
+        return { articles: sorted, lastUpdated, fromFirestore: true };
       }
-
-      const articles = (data.articles as NewsArticle[]).sort(
-        (a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime()
-      );
-      return { articles, lastUpdated: lastUpdated ?? null, fromFirestore: true };
+      // Stale or empty → fall through to local fallback
     }
-  } catch (err) {
-    if ((err as Error).message !== "stale") {
-      console.warn(`Firestore non disponibile per "${countryId}". Fallback locale.`);
-    }
+  } catch {
+    // Network/permission error → fall through to local fallback
   }
 
-  // 2. Local fallback (realNews.json bundled at build time — refreshed on each deploy)
+  // 2. Local fallback (bundled at build time, refreshed by the cron workflow)
   const realNewsData = (await import("../data/realNews.json")).default as unknown as CountryNewsMap;
   const news         = realNewsData[countryId];
 
   if (!news || news.length === 0) {
-    return { articles: [], lastUpdated: null, fromFirestore: false };
+    return {
+      articles:    [],
+      lastUpdated: (newsMeta as { last_updated?: string }).last_updated ?? null,
+      fromFirestore: false,
+    };
   }
 
   const sorted = [...news].sort(
     (a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime()
   );
   return {
-    articles:      sorted,
-    lastUpdated:   sorted[0]?.timestamp ?? null,
+    articles:    sorted,
+    lastUpdated: (newsMeta as { last_updated?: string }).last_updated ?? sorted[0]?.timestamp ?? null,
     fromFirestore: false,
   };
 }

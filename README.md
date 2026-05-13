@@ -8,9 +8,9 @@ Terminale di intelligence finanziaria e geopolitica globale. Esplora 177 nazioni
 
 - **Frontend:** React 18 + TypeScript + Vite + Tailwind CSS v4
 - **Mappe:** `react-simple-maps` + `react-globe.gl` / three.js
-- **Backend:** Firebase (Firestore + Auth + Hosting + Cloud Functions)
+- **Backend:** Firebase (Firestore + Auth + Hosting)
 - **Dati finanziari:** CoinGecko · Yahoo Finance · open.er-api · Twelve Data (fallback chain)
-- **Dati news:** Google News RSS, scrapato da Cloud Function schedulata
+- **Dati news:** Google News RSS, scrapato da GitHub Actions ogni 30 min
 - **Calendario macro:** widget TradingView embed
 
 ## Setup locale
@@ -33,22 +33,29 @@ La `VITE_FIREBASE_*` config si trova in **Firebase Console → Project Settings 
 
 ```bash
 firebase deploy --only hosting,firestore:rules
-firebase deploy --only functions   # richiede piano Blaze
 ```
 
 ## Architettura
 
 ```
-Google News RSS ──▶ Cloud Function (schedule) ──▶ Firestore (news_by_country)
+            ┌─ Firestore news_by_country (sorgente primaria)
+GitHub Action (cron 30m) ─┤
+backend/fetch_news.py     └─ commit realNews.json + newsMeta.json (fallback bundled)
                                                         │
                                                         ▼
                                               React SPA on Firebase Hosting
 ```
 
-- [`functions/main.py`](functions/main.py) → scraper schedulato (177 paesi + asset finanziari)
-- [`backend/fetch_news.py`](backend/fetch_news.py) → versione legacy via GitHub Actions (backup)
-- [`firestore.rules`](firestore.rules) → read autenticato, write solo Admin SDK; documenti `users` isolati per UID
+- [`backend/fetch_news.py`](backend/fetch_news.py) → scraper parallelo Google News RSS (177 paesi + asset finanziari) con retry/backoff e abort safety
+- [`.github/workflows/fetch-news.yml`](.github/workflows/fetch-news.yml) → cron ogni 30 min: aggiorna Firestore + committa il fallback locale
+- [`firestore.rules`](firestore.rules) → read pubblico su `news_by_country`, write solo Admin SDK; documenti `users` isolati per UID
 - [`src/services/`](src/services) → API layer (auth, news, finance, pixel, SEO)
+
+### Failure model
+
+- Se Firestore ha dati > 48h vecchi per un paese → frontend usa `src/data/realNews.json` (rigenerato e committato a ogni run)
+- Se < 10% delle fetch ha successo o se `FIREBASE_SERVICE_ACCOUNT` è invalido → workflow esce `1` (visibile rosso su GitHub)
+- Il secret `FIREBASE_SERVICE_ACCOUNT` deve contenere il JSON **completo** del service account Admin SDK
 
 ## Struttura
 
