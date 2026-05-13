@@ -50,6 +50,7 @@ MAX_WORKERS  = 3        # Google News rate-limits aggressively above 3 concurren
 MAX_RETRIES  = 3        # per-fetch retry budget
 BASE_BACKOFF = 1.5      # seconds; multiplied by 2^attempt + jitter
 REQUEST_TIMEOUT = 12    # seconds for each RSS request
+MAX_KEEP     = 10       # cap of merged articles kept per country/asset
 
 _TAG_RE = re.compile(r'<.*?>')
 
@@ -191,6 +192,50 @@ def init_firebase() -> tuple[object | None, bool]:
     return None, False
 
 
+def load_existing_db() -> dict[str, list]:
+    """Load previous realNews.json so we can merge with this run's results.
+    Returns {} on any failure (treat as first run)."""
+    if not os.path.exists(OUTPUT_FILE):
+        return {}
+    try:
+        with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return data if isinstance(data, dict) else {}
+    except Exception as e:
+        print(f"⚠️  realNews.json esistente non leggibile ({e}). Procedo come prima run.")
+        return {}
+
+
+def merge_articles(old: list, new: list, country_key: str, max_keep: int = MAX_KEEP) -> list:
+    """
+    Merge old + new article lists for one country/asset.
+    - Dedup by URL (keep the entry with the newest timestamp on collision)
+    - Sort newest first
+    - Cap at max_keep
+    - Renumber positional ids for stable React keys within the render
+
+    This is what makes the system accumulate fresh content: an article that
+    Google News returned at run N stays visible at run N+1 even if Google's
+    RSS response no longer includes it, until a newer article evicts it.
+    """
+    by_url: dict[str, dict] = {}
+    for a in (old or []) + (new or []):
+        url = (a.get("url") or "").strip()
+        if not url or url == "#":
+            continue
+        existing = by_url.get(url)
+        if not existing or (a.get("timestamp", "") > existing.get("timestamp", "")):
+            by_url[url] = a
+
+    sorted_arts = sorted(by_url.values(), key=lambda a: a.get("timestamp", ""), reverse=True)
+    capped = sorted_arts[:max_keep]
+
+    slug = _slug(country_key)
+    for i, a in enumerate(capped):
+        a["id"] = f"{slug}-{i + 1}"
+    return capped
+
+
 def load_country_list() -> list[str]:
     with open(PUBLIC_MAP_FILE, 'r', encoding='utf-8') as f:
         map_data = json.load(f)
@@ -301,7 +346,27 @@ def main() -> int:
               "Probabile rate-limit/network failure. Local JSON NON sovrascritto.")
         return 1
 
-    write_local_files(news_database, country_names, failed_keys)
+    # Merge new fetches with previous run's content so articles accumulate
+    # rather than getting replaced every 30 min by Google News' non-deterministic
+    # RSS responses. See merge_articles() docstring.
+    old_db = load_existing_db()
+    merged_db: dict[str, list] = {}
+
+    for key, new_arts in news_database.items():
+        merged_db[key] = merge_articles(old_db.get(key, []), new_arts, key)
+
+    # Preserve countries that had OLD articles but no fresh fetch this run
+    # (intermittent failure). Re-apply sort/cap in case old data was bloated.
+    for key, old_arts in old_db.items():
+        if key not in merged_db and old_arts:
+            merged_db[key] = merge_articles(old_arts, [], key)
+
+    merged_total = sum(len(v) for v in merged_db.values())
+    added_count  = merged_total - sum(len(old_db.get(k, [])) for k in merged_db)
+    print(f"\n🔀 Merge: {len(merged_db)} chiavi · {merged_total} articoli unici "
+          f"(delta vs run precedente: {added_count:+d}).")
+
+    write_local_files(merged_db, country_names, failed_keys)
 
     db, ci_init_required = init_firebase()
     if ci_init_required:
@@ -309,7 +374,7 @@ def main() -> int:
         print("\n❌ ABORT: FIREBASE_SERVICE_ACCOUNT presente ma init fallito. Workflow MUST fail.")
         return 1
     if db is not None:
-        sync_firestore(db, news_database)
+        sync_firestore(db, merged_db)
 
     print("\n✅ Done.")
     return 0
