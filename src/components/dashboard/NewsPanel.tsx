@@ -51,6 +51,19 @@ export default function NewsPanel({
 
   if (!countryId) return null;
 
+  // Defense-in-depth: only render hrefs that are explicitly http(s).
+  // The ingest pipeline filters these too, but Firestore data could in theory
+  // be tampered with — never trust scraped URLs blindly.
+  const safeUrl = (raw?: string): string | undefined => {
+    if (!raw || raw === "#") return undefined;
+    try {
+      const u = new URL(raw);
+      return (u.protocol === "https:" || u.protocol === "http:") ? raw : undefined;
+    } catch {
+      return undefined;
+    }
+  };
+
   return (
     <div className="w-full h-full glass-panel rounded-t-[2.5rem] sm:rounded-none sm:border-l border-t sm:border-t-0 border-white/10 flex flex-col bg-gray-900/90 backdrop-blur-2xl">
 
@@ -109,11 +122,13 @@ export default function NewsPanel({
           </div>
         ) : (
           <div className="flex flex-col gap-6">
-            {news.map((item, idx) => (
+            {news.map((item, idx) => {
+              const href = safeUrl(item.url);
+              return (
               <a
                 key={item.id}
-                href={item.url && item.url !== "#" ? item.url : undefined}
-                target={item.url && item.url !== "#" ? "_blank" : "_self"}
+                href={href}
+                target={href ? "_blank" : "_self"}
                 rel="noopener noreferrer"
                 className="group block p-6 bg-white/[0.02] rounded-3xl border border-white/5 hover:border-blue-500/30 hover:bg-white/[0.04] transition-all duration-300 cursor-pointer shadow-lg hover:shadow-[0_8px_30px_rgba(59,130,246,0.12)] relative overflow-hidden"
                 style={{ animation: `fadeIn 0.5s ease-out ${idx * 0.1}s both` }}
@@ -138,7 +153,7 @@ export default function NewsPanel({
                 </p>
 
                 <div className="mt-5 pt-4 border-t border-white/5 flex justify-end">
-                  {item.url && item.url !== "#" ? (
+                  {href ? (
                     <span className="text-xs font-semibold text-blue-400 flex items-center group-hover:text-blue-300 transition-colors">
                       Leggi articolo <ExternalLink className="w-3.5 h-3.5 ml-1.5 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-300" />
                     </span>
@@ -149,7 +164,8 @@ export default function NewsPanel({
                   )}
                 </div>
               </a>
-            ))}
+              );
+            })}
           </div>
         )}
       </div>

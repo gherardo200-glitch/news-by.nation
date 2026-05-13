@@ -1,3 +1,2 @@
-firebase-admin>=6.0.0
-requests>=2.31.0
-beautifulsoup4>=4.12.0
+# Pin upper bounds to reduce supply-chain surface; bump deliberately.
+firebase-admin>=6.0.0,<7
