@@ -84,19 +84,19 @@
   "Tanzania": [
     {
       "id": "tanzania-1",
+      "source": "thecitizen.co.tz",
+      "title": "Tanzania begins bold journey towards $1 trillion economy by 2050",
+      "excerpt": "Tanzania begins bold journey towards $1 trillion economy by 2050&nbsp;&nbsp;thecitizen.co.tz",
+      "timestamp": "2026-07-11T11:09:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPczQ2TUJxNzFFWG5oRTFFTmNwWW9LYzZtVk5UaThUOTFvYnlodThNc3dPdEh4WThxUXZ3WjExSGI2MWZXUFJTclhuQkdfYTZEdl92a25Tc0szbGszemVpUE5hY0I4NmN2UzFoT0xvZkN1N0dObENaOG1IR1htWDVHYVVDekZZSU5ma0lpWEhxODlhNjBvOG5mQUtnYUpGcE1UR3doR0NkU18xdWQtcWlPd1BlTUZkak5VU2l3NGZBWDY?oc=5"
+    },
+    {
+      "id": "tanzania-2",
       "source": "TanzaniaInvest",
       "title": "IMF Approves USD 443.9 Million for Tanzania, Projects 6.2% GDP Growth Supported by Mining, Agriculture, and Tourism",
       "excerpt": "IMF Approves USD 443.9 Million for Tanzania, Projects 6.2% GDP Growth Supported by Mining, Agriculture, and Tourism&nbsp;&nbsp;TanzaniaInvest",
       "timestamp": "2026-07-11T06:43:14+00:00",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zbEhmeXVOeFZZamVQVHN2bnZrRlJWRHFCRVdKWDhNTUdZaGhPM3F2OWpCLUpFazdDenV3TXhGcWMtTnA4Qm1xa1k1LUZxcDFOckFYU3Rad0x5cmw0Nm0wSVB4V2lPeVJZR01QYzBMemhwdlBEeGJ4ag?oc=5"
-    },
-    {
-      "id": "tanzania-2",
-      "source": "thecitizen.co.tz",
-      "title": "Tanzania begins bold journey towards $1 trillion economy by 2050",
-      "excerpt": "Tanzania begins bold journey towards $1 trillion economy by 2050&nbsp;&nbsp;thecitizen.co.tz",
-      "timestamp": "2026-07-10T16:45:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPczQ2TUJxNzFFWG5oRTFFTmNwWW9LYzZtVk5UaThUOTFvYnlodThNc3dPdEh4WThxUXZ3WjExSGI2MWZXUFJTclhuQkdfYTZEdl92a25Tc0szbGszemVpUE5hY0I4NmN2UzFoT0xvZkN1N0dObENaOG1IR1htWDVHYVVDekZZSU5ma0lpWEhxODlhNjBvOG5mQUtnYUpGcE1UR3doR0NkU18xdWQtcWlPd1BlTUZkak5VU2l3NGZBWDY?oc=5"
     },
     {
       "id": "tanzania-3",
@@ -264,6 +264,14 @@
     },
     {
       "id": "canada-3",
+      "source": "The Western Producer",
+      "title": "Canada’s GDP growth ‘not sufficient,’ FCC economist says",
+      "excerpt": "Canada’s GDP growth ‘not sufficient,’ FCC economist says&nbsp;&nbsp;The Western Producer",
+      "timestamp": "2026-07-10T18:23:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHZWM1Vpd21wVG9hNXdST2hSQi02OW1jZTVCQlZmaE5NT1ZPWFNxYWg1Qzg2ZlJnNG0xSUJDaHUzU2FvZURHYkdiZzBWTmRGV3hib3ZXQTdYRmxrNEYtSVp4Y3RTMzBOU0syak5qODJod3MxOEJhZTJHaUl3Sjd4U3dOcHc?oc=5"
+    },
+    {
+      "id": "canada-4",
       "source": "Financial Post",
       "title": "Canada's unemployment rate ticks down to 6.5%",
       "excerpt": "Canada's unemployment rate ticks down to 6.5%&nbsp;&nbsp;Financial Post",
@@ -271,7 +279,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyWkNqV05LUDFGZTRsZXRYY0FTSl9qa3pocVV3SXctcEtIRTVSOFJqSEdWMm53eGJoOEF1NzJ0LW5Qcng1UXlGNk5sa3h5YWxVNTRtb1dUcWZCXzhwZzk2eExlWG5USExLVXMxQ1F4TFZGd00xNWVkajRzZ2F5ajQ?oc=5"
     },
     {
-      "id": "canada-4",
+      "id": "canada-5",
       "source": "CBC",
       "title": "Canada added 18,000 jobs in June as unemployment rate edged down",
       "excerpt": "Canada added 18,000 jobs in June as unemployment rate edged down&nbsp;&nbsp;CBC",
@@ -279,7 +287,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zaDJzYXo2RHoyQWxVMWNEOVZzRThfWlB1Nkc2VU11d0JTSDYyWXA2eC1ycG5EcU1jWDB4bUpZOExPVFZDOFg4MVp4cWFzWDRGNVVYZnowXzhfRXpVdlNpZkdFZmc5cUNsejV0LS1zeVREQQ?oc=5"
     },
     {
-      "id": "canada-5",
+      "id": "canada-6",
       "source": "Reuters",
       "title": "Canada's economy posts modest job gains in June, unemployment rate dips",
       "excerpt": "Canada's economy posts modest job gains in June, unemployment rate dips&nbsp;&nbsp;Reuters",
@@ -287,7 +295,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTm81LV9FZW94Ym9pNnVDRmFSWi1vTHpvOTRmTWpNbFAwcjdxSzZDTV9qVkFOZUloel9wOFVyUHRIVVk4SEY3SUVRT2ZUd1h2ZG5xNFBsMHZLUG1hTWxRaHBQV0hGSEx5enNFWmNXcGtRdlRVekdiUWV4MWRQc2RJcUROZTBIbWFtN1Vud2F0bGg0dEtDa0tRUjZQTVJsb1RST3VETU5vOVBlMTlLYVBGLXBrWDBuTjBPbC1wMF9oVXk?oc=5"
     },
     {
-      "id": "canada-6",
+      "id": "canada-7",
       "source": "Yahoo! Finance Canada",
       "title": "Canada's economy posts modest job gains in June, unemployment rate edges down",
       "excerpt": "Canada's economy posts modest job gains in June, unemployment rate edges down&nbsp;&nbsp;Yahoo! Finance Canada",
@@ -295,7 +303,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0NaeEE4clo3MjJhdTYxbE9pbXBodmtrYXhYLWVHOUlESFFHcjB6X2NjOXVTWkpaV1l0YkRtSUcxWEJkZ193a1l3TFVJdERZTWtQaHZnczJWM3FDMG5Va3RMVHV1ZVZ6SXdMVkFuTHQ0WmNfcFNWLWgwY0k1eDF1c1BSQnloYVFs?oc=5"
     },
     {
-      "id": "canada-7",
+      "id": "canada-8",
       "source": "Yahoo! Finance Canada",
       "title": "Canada's economy posts modest job gains in June, unemployment rate edges down",
       "excerpt": "Canada's economy posts modest job gains in June, unemployment rate edges down&nbsp;&nbsp;Yahoo! Finance Canada",
@@ -303,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaE9UNW4xVFhaMld6TWZtZU4zZFdWQVd2YkdTbXNuT1k3MlpuRkQwOWtWbWdqTHlDVDRpemxGbzkxcUZxZWpIUnZkMEM4WkNJSG9qbnNUWjBMcmJ0R2YteVcybXh3cHZ5bk0yejllT0xodlVCNWs0eFhrcUcxUEVhM01CRGxnSkhj?oc=5"
     },
     {
-      "id": "canada-8",
+      "id": "canada-9",
       "source": "marketscreener.com",
       "title": "Canada's economy posts modest job gains in June, unemployment rate edges down",
       "excerpt": "Canada's economy posts modest job gains in June, unemployment rate edges down&nbsp;&nbsp;marketscreener.com",
@@ -311,20 +319,12 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM3ZzWTNoLTNxRDg5VE1qdksyREpYVFNJSGhKTWRkaDlVX3FXMFB5QktLRmdPdGtDaTNOM09RRXBmYkdjcHJleUYtM3kycHREN3hwQXhQcjhIck84TU1rcGl1QlY1NVQ1TkdTS0JQWW5IMmcyYlEyQjVhWV9EVktzbS1RX1NxSWQ5OWY3dW1ycExEWWFRMjh1bkN4TkM4N0VFaEMybF9sMGxrelVsaE9FV2UzWGR4LTljOHF6MVJTaXlWMnQ2eVFIWQ?oc=5"
     },
     {
-      "id": "canada-9",
+      "id": "canada-10",
       "source": "TradingView",
       "title": "Canada's economy posts modest job gains in June, unemployment rate edges down",
       "excerpt": "Canada's economy posts modest job gains in June, unemployment rate edges down&nbsp;&nbsp;TradingView",
       "timestamp": "2026-07-10T12:30:39+00:00",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdjA0MXEtOFEtc2sxRjRySnFTR1RzQjFsV0toYkIxN3FLazJOemJyLWZ4R3JWNjlzSzZ1c0ZNWFlLTGxkNnpCYTJsc1hQcXNTX013VGdJdFA2MW4ybkNQeWdHclRQYnRFMWQweDFORzZNNGJkZk5tR0tEQmVFX0FMY1RBVkVobkh1cFhJb3FKQVNWSXlIMUZGYWxkUHNxcWdNNUFsNVFwaVQxeXZZempta2gwUzA0UDQ4RzA4SWpjQ0VLblI1b1gwdWE3ejc3aExNbU13SUM0WWV3RnBWSWZB?oc=5"
-    },
-    {
-      "id": "canada-10",
-      "source": "Al Jazeera",
-      "title": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships",
-      "excerpt": "Canadian PM visits Saudi Arabia to strengthen energy, mining partnerships&nbsp;&nbsp;Al Jazeera",
-      "timestamp": "2026-07-09T20:07:32+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNUFRYTdhNFJuMkhHU0lMSEJsZnhxNEhiR0ZNWUZHR0EyRzZPV09RbHppV0psZEE0clY3UTVxLW42LTk1UWxpS3hqVzJZTDdBQmtMUVdka0RzU0k5ZDQ5ZENySVhNc1UwN2I0aFNiY0ZpQV9tVy1paVMtWDBzbGdqTUpWdThYdll3V3IzWEJpQUpLWDVVazg4czMtd3Fwd0dnbkU4RDN0dlJrZDhXYXNHWi1WcXhfUdIBuwFBVV95cUxQNExhWEhHNHBPRmtmUzRaYTlBRVdnOGhqSFlydjZVWkI2c21fOWtZQmlmOHlwdERfUDEwSUxmLTBpdmtRbXg4TEYwMjRDS1lSenFNekNHdExIai16NkozY0xySnJfckc4c0l2SFNNM3E5SzhSRl9RWXpaZmxKdmFrWjdOWVZUNWNPUnl0S1dpZnZLQmdrRUhjdVBSbjlkTmpkQTB5RnBxVTdUNW5ZT0VyZ1Vsd3ZlS3FGenFV?oc=5"
     }
   ],
   "United States of America": [
@@ -460,6 +460,14 @@
     },
     {
       "id": "kazakhst-7",
+      "source": "Qazinform",
+      "title": "ADB says Kazakhstan's economy to remain on growth path despite global uncertainty",
+      "excerpt": "ADB says Kazakhstan's economy to remain on growth path despite global uncertainty&nbsp;&nbsp;Qazinform",
+      "timestamp": "2026-07-09T07:24:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLXJ1SF93clIwVUZ4OXB6Y1JxYWpNSU9yRUpQZjh6SkFUWW5qWXRXNTlXMGNobERWUzFrR2JZUlF1NVowaGFpaTBKQ1MxcV9vcGo4M1lDVzQwbUdWSVkxeTNqNjg4dkw1MGhfc0Q2N2pqZVdFcHFDbEtmeDR0NmxqdEdVSllMaHlQWldnRXRiMTM3TjE0MHNaSXhDUjMtMDFkMkI3NkY4Q3o4ZWtaV2J1Z2hjQUzSAbQBQVVfeXFMT2V2bmtzM2lKSmg4NXJuX2NzUlBIX0M0REZfa1lkZ2FzaERrQVduYkhOdElHeXJzSHJKSmdXVncwbl9oSnAwbXdxNWR0ZFVpTGVtUGVnX1NVbXBhSzFySDZpYWRMN0ZXaFJDcXhieGstNnpKUmNSM184UzF3Z0VjaTZBS0R6RXVHdGVZRzRaSVhsWGxXS0JrQ0cyWFA3UVdFYzJydkhVR1RrYTE2OEFyN0ItSXFM?oc=5"
+    },
+    {
+      "id": "kazakhst-8",
       "source": "Kursiv Media",
       "title": "US opposes 3.4 billion yuan loan to Kazakhstan",
       "excerpt": "US opposes 3.4 billion yuan loan to Kazakhstan&nbsp;&nbsp;Kursiv Media",
@@ -467,7 +475,7 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1pvWVh0VDlVYTl6Nm1Hc2ZzTDFYeDJtVmJ5SmEyb0VYWGplQjIzcEt0VU1XM0V5T1RBNlJFWXd3M2Z5WWxLSTBHZGstaEhKWkhienFob1BtWkFwT19sMlRxb1dRNDMtNVc4Yjc3dElVeG4yT2hyQ0FMWllJeEVwMElYcFNmVlJTUUdMUGU0UEJJclFIU1pvQlEtTdIBoAFBVV95cUxPZEtDSVE3YkQ5YzRsMkdWV2lIV1E5T3oyTGFxUXYxSkJEWkxwTkkycUYzVnNUWUl1bG5iMDd4d3J2UU96bGJ3SEVRMmwzRjZfWHhiVWpQRTFoVENuYkY3eVd4S0pQbjlsblk4VjFDLS1KeTE2RGxoWFEwLTRuUTNsTG1hb2ZJQUwtUkVFUHNmS1BTdUFoVDIzcHMzY05qbFdH?oc=5"
     },
     {
-      "id": "kazakhst-8",
+      "id": "kazakhst-9",
       "source": "The Borgen Project",
       "title": "Higher Education in Kazakhstan and its Transitioning Economy",
       "excerpt": "Higher Education in Kazakhstan and its Transitioning Economy&nbsp;&nbsp;The Borgen Project",
@@ -475,20 +483,12 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYNGloMExzQTZoUWpPZkYtSDMzQ2RkQ01Ma3FQakJDTmtiSkk3cllFOWVYMVlmZWF1U1hGUlJubjJMbHMzVkJld3BEX2pZelRjWUdUTE9wcHZ5RWZBTjM4RGJFcF9KYV9L?oc=5"
     },
     {
-      "id": "kazakhst-9",
+      "id": "kazakhst-10",
       "source": "worldfinance.com",
       "title": "Kazakhstan’s banking ambitions go global",
       "excerpt": "Kazakhstan’s banking ambitions go global&nbsp;&nbsp;worldfinance.com",
       "timestamp": "2026-07-07T09:34:03+00:00",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORXhyVmRjTWNsQ3lzS014dVdBRWVGVWlGeklVcTMwX2k3MXBIMHVDZFNac085NU9fZW92UF96WGx0WmdvcGd2VDVUVUJDcDRDeEx3NG1RaVFSR1BScXpia2JwMlRmLU1GeFBIN1lSeE1wejlPc2RNbTExODhRWGpNeTFn?oc=5"
-    },
-    {
-      "id": "kazakhst-10",
-      "source": "Encyclopedia Britannica",
-      "title": "Kazakhstan - Nomadic, Turkic, Diverse",
-      "excerpt": "Kazakhstan - Nomadic, Turkic, Diverse&nbsp;&nbsp;Encyclopedia Britannica",
-      "timestamp": "2026-07-07T05:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NS0NDbGRqQUljYk1ZMmc0UmRnTW42a3JzY2pkV21CRGQ5UGwwTWdYMlVDUWlicE5xb3RoX194MXBoSDFnZG5yNEE0a2J6TEpscVNvS3BIVmJyX2dlQ0FB?oc=5"
     }
   ],
   "Uzbekistan": [
@@ -7058,7 +7058,7 @@
       "source": "Kurdistan24",
       "title": "Iraq Finance Ministry Defines Role in Anti-Corruption Asset Recovery",
       "excerpt": "Iraq Finance Ministry Defines Role in Anti-Corruption Asset Recovery&nbsp;&nbsp;Kurdistan24",
-      "timestamp": "2026-07-11T08:02:29+00:00",
+      "timestamp": "2026-07-11T13:45:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2tlaWpaQTZzWkNlc1RPc0tPcXVaRFVuMXhZVDhFQmRTbWVOZDdvSkkwTDZmOHVFQk5sX1k1ZnRuSTh3Z09KNnR2VFdhMjZrZUxmZFRVOF9mWmZiTUJJcWZUU3hXOE1wbXVSNG5pYmExYTVzQWMyVEN3MDV6dnVZLUlBd0FYXzA4Zi05Tml3RnZ1bXZkVEQwc3M2dXF1a1BFUUhFVklVOXpCSGpnSDFoUlhB?oc=5"
     },
     {
@@ -8039,6 +8039,14 @@
   "Bangladesh": [
     {
       "id": "banglade-1",
+      "source": "The Business Standard",
+      "title": "Will Bangladesh economy gain momentum in FY27? ADB hints not yet",
+      "excerpt": "Will Bangladesh economy gain momentum in FY27? ADB hints not yet&nbsp;&nbsp;The Business Standard",
+      "timestamp": "2026-07-11T14:35:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYV9FMzRENnQ5WE5hYkdQRmIzTktpWlNjTnloMThsbmljQXY1UEtMZkFMMzluRFdLLVJ2N1FzeTlKYWljc3d2TkxwYWd3SVFOd3I2dWtxcGk5S0tWQlE2TnNQU2Z2WHFzZDR6SE42RXIteDBORGdZWFpDUmlNZUpKU19wTlFCLVFBWEVhR09kSlZuS0ZycjVUaE5PRE1QNTJjNnfSAacBQVVfeXFMTm9veTRvNlBOeE1wcXRRMVdJa1ZPeUM0OXF2YnpPcHU4SS1mMVBTR21oQ1pUV1AzUmNGOXFobndoVklEWFZacU1vcFBjOWlHRFg4dWNYLUh6WHc4RERMYUpQQ0JEdzlVMVE4eDZpQ090WDM2TXprT1N0MVp4ckJ6YWNJZ3BUTjJxRjhaV2xYeGJwRzFaMU1Tdlh5Y05SN0Zzd0RjYTdybk0?oc=5"
+    },
+    {
+      "id": "banglade-2",
       "source": "Bangladesh Sangbad Sangstha (BSS)",
       "title": "Mindset change, policy reforms key to unlocking Bangladesh's creative economy: Experts",
       "excerpt": "Mindset change, policy reforms key to unlocking Bangladesh's creative economy: Experts&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)",
@@ -8046,7 +8054,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVUo2Z3YyX3ZTcU9haHN4V1JhTWpMeFBmSkMwbmxKcWJ6WThma1hlc0twajNNWXZONTZzRG5Ja0FQMmJWek1YMGN3d256b0Fh?oc=5"
     },
     {
-      "id": "banglade-2",
+      "id": "banglade-3",
       "source": "daily-sun.com",
       "title": "Policy reforms crucial to unlocking Bangladesh’s creative economy: Experts",
       "excerpt": "Policy reforms crucial to unlocking Bangladesh’s creative economy: Experts&nbsp;&nbsp;daily-sun.com",
@@ -8054,7 +8062,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHZYU29razFxRG5tcnFpX3ZYUmJDbXZpX0piTkZTOXUxRmd6NS1vMFVFZmdORDVFc2V4LVdFRXRoSVJUenVpNkFIOF9jNlVrQmcwaTQxUS1lTFpwZ3B3aURqaWZjdlk2ZW50c2RyX1dJc2xLTGJyQlF6X2xGekJLakQ0TG9WbnF1aER0akZIZnJma2tvaHJ5MWFjcmdab1V4cnpQM3BtSlowR2dsODc2c2lLVGN1UQ?oc=5"
     },
     {
-      "id": "banglade-3",
+      "id": "banglade-4",
       "source": "The Business Standard",
       "title": "Beyond outsourcing: How Betopia Group is anchoring Bangladesh's leap into Asia's leading AI economy",
       "excerpt": "Beyond outsourcing: How Betopia Group is anchoring Bangladesh's leap into Asia's leading AI economy&nbsp;&nbsp;The Business Standard",
@@ -8062,7 +8070,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbVhYdGFkUUpSdXo2X1dlN1VKYTFPeC1nemhkVHEyWU5Ca3Q4TFQtajZhZTA5UTVqYTB2X2VXWXc1NFNVZWJha3BGUnRQM25kb3NRYks3eG1ZbmYxU0VobDllZi1mYTlKS0pjZ0FESW9PZkkyYU8xRFJteVBlNGpTRTZRZ1lDVXhJamwtVEtfNzAzV3Z4TzFaa1NxT29CbWY0cUpKLXktRnNMamZBdlJ3YkJPcU5XdkJjOVZwX2dBWdIBxAFBVV95cUxQNXdpbXpJOU0wUjVveWFVd2pLMnphM29lOEFLdWY1SXBwRjQ3andUbVVVS01PQzZZR2JMOXFCN0hfWUVWUkhkUUNTX2l4MlNEV2lDNW5oYjRaOHhESzQ2SURJZjNOV3Nha2RST3g4NVRxRFl4REVFZkFXUFg5c3ExWnc5dl8tNHRJUDBHTFN1OTJtYldiQVg0NUxjbGoyWkNmZlZpUm9wNnpta1RpVTUzbGtkcWFWY3VNcVhZcDBLU0tDdFRV?oc=5"
     },
     {
-      "id": "banglade-4",
+      "id": "banglade-5",
       "source": "The Daily Star",
       "title": "Fertility U-turn may imperil economy, healthcare",
       "excerpt": "Fertility U-turn may imperil economy, healthcare&nbsp;&nbsp;The Daily Star",
@@ -8070,7 +8078,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSE9TWkZBRDMyV0R2LWNrRUtfSUhzeDAyNEJXV0pxbWwyRFRjVTZJZmpIY2FhSHdabmNia2tLTURrSC15UmRZeVpyanBZZ1p4Y3prbk03cWFYNW1TRklQTkhmT0x1TmIwWnZOUy1Ebk9ZX2FveHFYcmxuOE11bHM2UWEyVXBWWHhWbk8yblZ6Uk40cnBiVW45NFdySWFIQmZ5cUkwOHpXYU0?oc=5"
     },
     {
-      "id": "banglade-5",
+      "id": "banglade-6",
       "source": "The Business Standard",
       "title": "Funding the unfundable: What Bangladesh's banks still cannot see",
       "excerpt": "Funding the unfundable: What Bangladesh's banks still cannot see&nbsp;&nbsp;The Business Standard",
@@ -8078,7 +8086,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHVEU1hHNjhoUW1wcmIyd0k4MktWTjE1ZGtjNlhWU1YtY2xkN29EU1VRTnNuVmdabGlsdDc2QUVnUU1XZDdOVEt6Rk9ncVlJY3JEbHMzOFE0S3UtdVVxM2ZsUU1FWUFsZEZHUUZrQmp0ZktYelcyeFprTGN6MW9kX0U2bzB3V3RVYmR0QjhENHdRdTBLUXlLXzNfaWZQbWxj0gGmAUFVX3lxTE1JQkpvYjY4bkJHQXN3WTR3OUJVb0x6eEtVWXdkS0YwMGJVTVN2VjU3Vm5uNldtR3FOVHNPYzZVOUtvREhFcVpqY3B0cG14aVY5NHE4eWFFeUR0VXRWeEI5cHBOMk4zYzVVN05UYUVPMU5IYTB2MmZhVlhkX2c4VDgzM3N0NjhFZ082VFlKTTJneFJvSi1PRVRwTkNnbk93dFZLUFVlM0E?oc=5"
     },
     {
-      "id": "banglade-6",
+      "id": "banglade-7",
       "source": "Devdiscourse",
       "title": "EXCLUSIVE-Bangladesh's Hasina plans December return with party colleagues to surrender",
       "excerpt": "EXCLUSIVE-Bangladesh's Hasina plans December return with party colleagues to surrender&nbsp;&nbsp;Devdiscourse",
@@ -8086,7 +8094,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORURvekVVdGpyQU9xZWNTMjNlVUdyWmd1SnAzVnFneFI4ZkdCUU54cV81TUVaV2lwR1pMYVpZS1NyU0dHUnV2Tnp5RkVUMkVWdFpkN2J4RDhJWkhnakV5OXJXUW5YdEZ3ZGl1NFh1NENOSGRjNlBJZnFod1NjTWVoY1dhaFNGSlVoZV9McC1RZ0N0S3JTckVzdERwNXhjUWFPTlRrUUVoZUpCclY2ZDE4WGlmbVh2NmN1OWlXN3FucDAxVFYyVU1RUUxrMWR5eDJJNm9YOWpR0gHbAUFVX3lxTE5jMmZoRmlrQW1fcVZoN1RxNUVINWptM01GaG8zaWxSRlFuVjZrcHVUNHFDcllsTC1hanNwMTJFbE5Jcm93ZHpneHJFMFVETFpxTWZ6ZkxudWYxbjU2Q2dCSHpaNFdxbTNyMnQtaXJvenV0NWRRMm80M2ZMREhVUmFkZF9Ndk1TYWxrV0NZeXRXcWxUWGd1VnJGLW83TnVjb3ViMzZKU2NpQUFydUVfTEZMdHFhd1ozdGsyYTh2TmtQSkZfbV9sUzJwWHBKdWlkNE96N0xsSEJnUmxUZw?oc=5"
     },
     {
-      "id": "banglade-7",
+      "id": "banglade-8",
       "source": "The Daily Star",
       "title": "Bangladesh economy to grow 4.4% in FY27: HSBC",
       "excerpt": "Bangladesh economy to grow 4.4% in FY27: HSBC&nbsp;&nbsp;The Daily Star",
@@ -8094,7 +8102,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZWFuN0p1azVaRXhtQmVpdy13ckFwaEpmc2o2QVRHN2VqUHctX21GejUxR2h0d0ZETERoRGp1cEU4X0lnZFR2TEJ2a1ZuQW9PQVgtazd0andmOVg4T21OSVhmc0RCX3BVd0lOZjB3MU9KVkFZcDJMR2FERE9sUThjVnRSMTB6OHNSNEthQVlBWHU?oc=5"
     },
     {
-      "id": "banglade-8",
+      "id": "banglade-9",
       "source": "The Business Standard",
       "title": "Bangladesh has world's second-highest NPL rate after war-hit Ukraine",
       "excerpt": "Bangladesh has world's second-highest NPL rate after war-hit Ukraine&nbsp;&nbsp;The Business Standard",
@@ -8102,20 +8110,12 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTJIZHMzdTVYcndtZk9tY29UOHNBT2lQbHBKak1nbjF4amxlR0s4ejZTZ2NBUDhHbjBGZzl3RTd2SmZXVHZVRGh6M1FvWWJQQzM5aXRlRzV3V0Rob2ZlZUhhakp4WjlNT1ZiZHprZXd6THRxTDFVTU9HNW84MDJmeVNqN2tReW1GV1ZEbHNqeWc2YmZVUlYyNUxzMERuRFdoRGFjZE5tV0ZVRHZuQndKZ2VBLWx0Z9IBuwFBVV95cUxNcmxCcGFOX09ockZ1ZmFaX0NUSkd2dlo3SE1pemJKa1RHODFEYl9JRjVKaDk0ZlNGWkFRYlpfelpTY0FYV3JLVlZxa0RvNjVwc1VIQjJvek83cVE0SnNzVmdtSVpqdHNQc2R0REg5Vkt1Q1oyTUl5NmlDYjlYckZtODBBMWtUZVFkR1MyWmllM3JMZUttVm45dU44YVV0ZVA4SFJtMEQyWVRiVVc3VU8yQUVLR0tiQnN6cjdN?oc=5"
     },
     {
-      "id": "banglade-9",
+      "id": "banglade-10",
       "source": "Fibre2Fashion",
       "title": "HSBC expects Bangladesh economy to grow 4.4% in FY27",
       "excerpt": "HSBC expects Bangladesh economy to grow 4.4% in FY27&nbsp;&nbsp;Fibre2Fashion",
       "timestamp": "2026-07-10T04:02:47+00:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNVJuYTh0U1JhV1ZzNFpDa3VQdXZIcGFaaEY2MXZjZjhrcVZWWGF4Rm1EelVvM3RxNXRnWFZubG1sV09kd3BYNG1mWEpkeERxdHRTbk1YNVh0YVl2NXRNN3dNc1lYczFDVnh5eTFkZzcyYkljRXg4OVRGTDVpNGYzRFJSUFNLejhBNEg5NGhHa1lXTGxNd250dndieWxpV1JDcjJTb21ndHdOcG9lakFCZDVOckNOc1lUMVg4ZnpsTQ?oc=5"
-    },
-    {
-      "id": "banglade-10",
-      "source": "News On AIR",
-      "title": "Fitch Ratings revises Bangladesh economic outlook to ‘Negative’ citing rising risks linked to Middle East conflict",
-      "excerpt": "Fitch Ratings revises Bangladesh economic outlook to ‘Negative’ citing rising risks linked to Middle East conflict&nbsp;&nbsp;News On AIR",
-      "timestamp": "2026-07-09T23:01:47+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbElxbWJQbzNwLWp1SEN1UDZVa0Rfc3V0Q19GelQtQjZtTlBRaUVFc2F4QW4za3prRlVRbWRzanN0NFMxMGZUcHNzeVlaV0RmbHRYTVpZTmlRRzBDTGtES0dDV2t2dGMtU25XYUNGU0NROWNCUk1NcXk0aHZhcmhJQThrNjVFdFVJOWVUd0szLW56WnNqRkxNYnk0eFVlRkVXOEd6aVJ5UXI0Y0hMUW9WNTZNUjIzUUh5cU9UYVJnRmtVQVhNcnVJUnp0M1BvRG1DWEprSw?oc=5"
     }
   ],
   "Bhutan": [
@@ -8531,6 +8531,14 @@
   "Kyrgyzstan": [
     {
       "id": "kyrgyzst-1",
+      "source": "AKIpress News Agency",
+      "title": "Kyrgyzstan, Indonesia discuss cooperation in Islamic finance, halal industry and IT",
+      "excerpt": "Kyrgyzstan, Indonesia discuss cooperation in Islamic finance, halal industry and IT&nbsp;&nbsp;AKIpress News Agency",
+      "timestamp": "2026-07-11T08:22:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORm9wZWNoSUdMOVNPcGdTa0R3aFNTdHpaYl9KTHM1aVFCdng3SVhsREJYZ0FmRHpKUGE0M2dhOG5qMnZhVFFNU3I2LTJTRDhxVVpZNVhUSFZKZ2JrbDN1b1NDTDlEcnpLZDFwancwYjhfWDJFSHZzLUdfWlh5MnpJMU5JNi1DbHI2emNfblBVZ2V4RTlMVHFCUFJKU2RkakRQQk53RUN3VDRoLXdIQU1aOFRKSkdfX25x?oc=5"
+    },
+    {
+      "id": "kyrgyzst-2",
       "source": "trend.az",
       "title": "Kyrgyzstan rolls out new green financing mechanism for businesses",
       "excerpt": "Kyrgyzstan rolls out new green financing mechanism for businesses&nbsp;&nbsp;trend.az",
@@ -8538,7 +8546,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XN2lKWlFJRjdUbGpqcjB5LWhYVmNKTUdWX3dYSm9XajB4MlpfX1hsWl9Dam5mUmd6dENHVmtLLUo4NElSSnlXXzBQM2syX0FHUF80WA?oc=5"
     },
     {
-      "id": "kyrgyzst-2",
+      "id": "kyrgyzst-3",
       "source": "trend.az",
       "title": "Kyrgyzstan adopts landmark climate law to advance green dev't",
       "excerpt": "Kyrgyzstan adopts landmark climate law to advance green dev't&nbsp;&nbsp;trend.az",
@@ -8546,7 +8554,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80X29DcDJaZk1wVTU1ejFxTjNGWUFzaXdwM3JEOG9OTnhsTEdhUDVkSlpHS05LRDdQZkcyclBuSWZKbFl3MC1iT2xWVGhtdV9va3M3WQ?oc=5"
     },
     {
-      "id": "kyrgyzst-3",
+      "id": "kyrgyzst-4",
       "source": "trend.az",
       "title": "Kyrgyzstan, Pakistan discuss expanding economic cooperation",
       "excerpt": "Kyrgyzstan, Pakistan discuss expanding economic cooperation&nbsp;&nbsp;trend.az",
@@ -8554,7 +8562,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByazhDSjhWdTRzYllSaXV5Z25BZXhpQ3hDM0tTNHRwRXBucHRBaDJGYXZXbUMzNzQ1TlhYcG4wd3A5WWRaS1lHZ1lYS3hGNzFfb3VQYw?oc=5"
     },
     {
-      "id": "kyrgyzst-4",
+      "id": "kyrgyzst-5",
       "source": "trend.az",
       "title": "Singapore's Sunvera Solar eyes 2-GW manufacturing project in Kyrgyzstan",
       "excerpt": "Singapore's Sunvera Solar eyes 2-GW manufacturing project in Kyrgyzstan&nbsp;&nbsp;trend.az",
@@ -8562,7 +8570,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OZTlHNGJoX1NrWkxmZ1lKQ3NyZTJNalZLOHpYaHhxLTZWM2s4eTZ6VzNOVjVpQW8zY29uTjFzY2NTY2hJNmhQMHZ2RWwxbENHTDJPdQ?oc=5"
     },
     {
-      "id": "kyrgyzst-5",
+      "id": "kyrgyzst-6",
       "source": "trend.az",
       "title": "Kyrgyzstan lifts AI-95 gasoline price controls",
       "excerpt": "Kyrgyzstan lifts AI-95 gasoline price controls&nbsp;&nbsp;trend.az",
@@ -8570,7 +8578,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WOTRraGkyalpoYkI4VFBxdzliMnVuUGxCZXgzNFFRdWZYMUkwS1J5VjY4UUZ0U2xfaTNFTHN6X01DSFVCR0d2UWp4bEFBcmxid2lPTw?oc=5"
     },
     {
-      "id": "kyrgyzst-6",
+      "id": "kyrgyzst-7",
       "source": "trend.az",
       "title": "President of Pakistan to pay official visit to Kyrgyzstan",
       "excerpt": "President of Pakistan to pay official visit to Kyrgyzstan&nbsp;&nbsp;trend.az",
@@ -8578,7 +8586,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DUXJhVlBwWld4MG1yTk81OFZsUTlacVVZVzVEczBQV3M1LVh2aGRUNE5HeXEwMVllYTh6RmN0MV9Zbk56V0gzeVR6ZVNnZkRXMU5WeQ?oc=5"
     },
     {
-      "id": "kyrgyzst-7",
+      "id": "kyrgyzst-8",
       "source": "The Independent Singapore News",
       "title": "New Silk Road for finance: Kyrgyzstan opens Tamchy financial investment territory for Southeast Asian investors",
       "excerpt": "New Silk Road for finance: Kyrgyzstan opens Tamchy financial investment territory for Southeast Asian investors&nbsp;&nbsp;The Independent Singapore News",
@@ -8586,7 +8594,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYU9PV1Q1WVZLMnBjaEF2QTNkMmJRWmc3ZDlJTHNiWWNqYjZ1ZXhMeEo4N1BPQTk1dVBxU1pIRVU3Y0wwQ25qY0pOaTZZM1lidVlQcWZyQTJKb25PVjdqSDB6ZHgzVU5LTUx1Y1l6Q0V3cFZZNkdhLW1SZDFDX004dTlITC1IOWhUMnVWOTZpZEVzcl9lMEFUZjFPTHFKdVJUSE44ckJHZzFTLUJ4bDBUdEIwNGVleHVpZ1dkaThxTDl4TGtzZlNlS2pPTHFLVlEtT0o0?oc=5"
     },
     {
-      "id": "kyrgyzst-8",
+      "id": "kyrgyzst-9",
       "source": "The Times Of Central Asia",
       "title": "Kyrgyzstan’s Eldik Bank Secures CNY 1 Billion Loan from China Development Bank",
       "excerpt": "Kyrgyzstan’s Eldik Bank Secures CNY 1 Billion Loan from China Development Bank&nbsp;&nbsp;The Times Of Central Asia",
@@ -8594,20 +8602,12 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkEyVy02OWlxYktQRmFIQjZzTXpNVTlISUNfdmhSWjdhUlFPclJSaVdmNklmR3dVREt2bmVNeS1nR3d3SkQ4WktZQkdHYmFFUnhMLXZnR0puUWVoRGJ5bl9YZ0tjSERINl9pMDItR0U4UUplRkpJMU5xTHNFazRuY2xYd1JMVzZNek1qSW9kOG9nazZFV0VCWm8teWNocTQ?oc=5"
     },
     {
-      "id": "kyrgyzst-9",
+      "id": "kyrgyzst-10",
       "source": "Devdiscourse",
       "title": "Political Power Struggle: Kyrgyzstan's Turbulent Ties",
       "excerpt": "Political Power Struggle: Kyrgyzstan's Turbulent Ties&nbsp;&nbsp;Devdiscourse",
       "timestamp": "2026-07-02T17:05:49+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFhMQ2VfMEtuLUJJOFpTanowclhvbW5GQldPTGo1QWZBcmtGZkcyWVlUX3p1ellkOXp4ZTNVbnBMWXBtc01EVTgxVDVBc252YTY2bHE0djJkYUFuY2h1Vjh5LXJwd0RSc2tiU0xMQk9lVkNveml2ejV2ZFJvcjJENlRNWDFYQVZoLWZlU1dISnhaTWgzQWNGMDg2S0RPRDJSZ05aeW5kTHLSAa4BQVVfeXFMT0JZNnRTdVJlTTJMcE5sLXF4dFlTMjRrdzREZGVQeGxITTJjRHAtRkRZTzF3ZXZKbTZCX1QwdFRYT0FBU0FyQVVEbkdwQTJqM3M3cG10bFAzYjR0Nkl4cW5KVmdPREphSWxDNnlUc1dQY1RvMElMZDVlaHFjR0ZMWFVENDNTaXpCQ3RUVHVxOHZKUTZDMzVpSmhUQzBHY3psc1VZQU95cFZIVS0zTjJB?oc=5"
-    },
-    {
-      "id": "kyrgyzst-10",
-      "source": "trend.az",
-      "title": "Uzbekistan, Kyrgyzstan discuss expanding economic cooperation",
-      "excerpt": "Uzbekistan, Kyrgyzstan discuss expanding economic cooperation&nbsp;&nbsp;trend.az",
-      "timestamp": "2026-07-01T06:04:51+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wUXpKRjJzcUJBTHJ5YlNjUl9CdFBnQVNNMDlCM0Iya0E5eGxEUm9Xc0hzMGpqcEJwY3A3dTFTdGNmMEpTUmNxVEszaXlEd2NDaGpPWXZMVF9sWl9vdGFV?oc=5"
     }
   ],
   "Turkmenistan": [
@@ -9458,13 +9458,21 @@
     {
       "id": "moldova-4",
       "source": "logos-pres.md",
+      "title": "The Politics of Transitional Figures: What Does the Resignation of Moldova’s Prime Minister Tell Us?",
+      "excerpt": "The Politics of Transitional Figures: What Does the Resignation of Moldova’s Prime Minister Tell Us?&nbsp;&nbsp;logos-pres.md",
+      "timestamp": "2026-07-10T19:46:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT1A3NzREaDdCbnZMejN2OTRQSG5SZTd5SnZEQnpZRlQ0SndPN2pnUWY4T29zaHF6YjdGcWc5a1ladmJKSHo5UnRtNk94TlBINUpyUjB1SGg2UUtMZnRXdlBKVWlxVzg5OVB4OVdUazJVLUtMOC03QldBemh4TC1CVDI2RWRxaWNnRjRLSGh5clB3aldUZWlqcERaNzlsbnZ6dWY0Wi01amZ0VFBTVWhfMTNwemFFTlpnQXNodHk2VE1BVVVITHln?oc=5"
+    },
+    {
+      "id": "moldova-5",
+      "source": "logos-pres.md",
       "title": "Moldova Enters a New Phase of Negotiations",
       "excerpt": "Moldova Enters a New Phase of Negotiations&nbsp;&nbsp;logos-pres.md",
       "timestamp": "2026-07-10T16:41:41+00:00",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kZi03OU0xZy1DVXFGaWx0THRFbkh4YW1OWGhod3huQjEwRFhXOHlnSEs1Q2dDT2FQVmZLVFRud052TDVVX2huOHVsWmNtUGdlNHVSMXIwdl9RMmZwcmhfMXFjM25nd2RDQUlMb1NLQjNlRGRwSHY3MTJaekpSdw?oc=5"
     },
     {
-      "id": "moldova-5",
+      "id": "moldova-6",
       "source": "logos-pres.md",
       "title": "\"Yellow Alert\" Due to Fire Risk Throughout Moldova",
       "excerpt": "\"Yellow Alert\" Due to Fire Risk Throughout Moldova&nbsp;&nbsp;logos-pres.md",
@@ -9472,7 +9480,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT3B1WFFrczBGaEE4Zlh2bGJBSFRZTWh4RGJicFBFc20yeFIzc3hqWE9POG1scVduT1UtM213Z0FlWmp2ZmYzeGQ1dHRBWGwtS2NxOXNFVWlMcEtHRzdGc1dtbldFbV9HZG9SRW05Sk9KaXZfbVh4U0N1eG9IRE9nZW5RcW1UUQ?oc=5"
     },
     {
-      "id": "moldova-6",
+      "id": "moldova-7",
       "source": "logos-pres.md",
       "title": "Lithuania and Moldova Have Updated Their Cooperation Agenda",
       "excerpt": "Lithuania and Moldova Have Updated Their Cooperation Agenda&nbsp;&nbsp;logos-pres.md",
@@ -9480,7 +9488,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXVqRGl4anlWR2NTOE1jYkdFOG41d0xpVW0tUGFEVWJJcWcya3F2V01icGhTYVpxTU5lSk5yX2FlYWxaaERXVlk5MDV5Z2ZTWnBGQVRFY3RkTVZaYjVYTGxBWXRnYVB5clNwMEZlRWt5cHZxTTBNR1h5N0NKeU5aUGFWNjJnSFpiSjctTkJwUTF3NjEy?oc=5"
     },
     {
-      "id": "moldova-7",
+      "id": "moldova-8",
       "source": "SeeNews",
       "title": "Moldova's annual inflation eases in June",
       "excerpt": "Moldova's annual inflation eases in June&nbsp;&nbsp;SeeNews",
@@ -9488,7 +9496,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96N25HdlE0ZWhmUkNVOTdvUE5Bb3VBMW54T1FqWU0zcHpzQ3NkU3pGVUZvbU1LaFhaVXpsS2Zuc19xZzhpWEpITFFJVGIteXRXdXhCT2Z0VTNmc1Q1clFlU2JlSnhMY0ZYT0twaHUtbkRwTk9NRjg2bS11OC0?oc=5"
     },
     {
-      "id": "moldova-8",
+      "id": "moldova-9",
       "source": "logos-pres.md",
       "title": "The Ministry of Finance has begun reviewing budget expenditures",
       "excerpt": "The Ministry of Finance has begun reviewing budget expenditures&nbsp;&nbsp;logos-pres.md",
@@ -9496,20 +9504,12 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObDZhNzhiclVaZ2hLTC1qUUdYOGVBcmhIcFhZdHJESmRZcTZtUWNtVE5nV0lFWS1Mc0JSLWMwWkRiS3hQMEJJa29UUk05NFVhRkdSV3lldWliUlQtOEVpVDFUUFp2MXRYZzg1ODlvSTVKeDVGOGx0eHV1eDBnUHJXMEhfNjQxZG9pWURhV0MwNG5GZmw2cjdzODRB?oc=5"
     },
     {
-      "id": "moldova-9",
+      "id": "moldova-10",
       "source": "Encyclopedia Britannica",
       "title": "Moldova - Agriculture, Industry, Trade",
       "excerpt": "Moldova - Agriculture, Industry, Trade&nbsp;&nbsp;Encyclopedia Britannica",
       "timestamp": "2026-07-08T05:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CbVdOMjVsSFVqaVJ5aFNiNy1QZFJhRjM1U1NzdFRqdTN4REx5LTY4bmlNckc4TDFhY1hBRUNSNl83WFpYekV3bUJEZ1FXbUk1Q2xUMFh1N3FSZDVq?oc=5"
-    },
-    {
-      "id": "moldova-10",
-      "source": "logos-pres.md",
-      "title": "How We’re “Overheating” the Economy",
-      "excerpt": "How We’re “Overheating” the Economy&nbsp;&nbsp;logos-pres.md",
-      "timestamp": "2026-07-08T01:49:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSVhSQURpSXk5VWoyWWQxWVdhMV9vSkNWeU1lczJLZGdydDZNckhCQndsb0N1VVNSa1hsMlRHcXNkTXlXbVJhV3prNXhDSm5XVDNtUkVESXlZb2k1UVlWODlEalJkV2hpUWdDWllKd0g?oc=5"
     }
   ],
   "Romania": [
@@ -10105,6 +10105,14 @@
     },
     {
       "id": "turkey-3",
+      "source": "Foreign Policy",
+      "title": "Why Israel's Netanyahu Is Crying Wolf on Turkey",
+      "excerpt": "Why Israel's Netanyahu Is Crying Wolf on Turkey&nbsp;&nbsp;Foreign Policy",
+      "timestamp": "2026-07-10T10:31:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjRsQnNwWVhGeVdxYVVlN0QtQW5TQ0VjOUsxM1ZOVkkwelpaX2ZkTmdmUWU0LXVCNmg1bkd2Wmd6Q2pab1NfeUd2ZVlzSHN1cmdBLTJfUDBSS2dtaUhWb1hPQXZ6RDVSS3RyNmNiamR2NGdBaTJVN0JwbDVPRGpwN3kzUksyTFY0bks2MDFIUjBrS2lYZ0hF?oc=5"
+    },
+    {
+      "id": "turkey-4",
       "source": "TradingView",
       "title": "Turkey's inflation uptick poses risks to near term outlook, says central bank governor",
       "excerpt": "Turkey's inflation uptick poses risks to near term outlook, says central bank governor&nbsp;&nbsp;TradingView",
@@ -10112,7 +10120,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTnJLRmsyNnVtczlZRlV4cFppTm1qN2RsRW1FZnNUd0c3SlRvRUhaWWR0aDB1TFJkZWhuaDN3X1BlT1VkSjdnSDA4eUQ5RURfUEJreThETEcwRjFVTk56UU5xSmE3ZkJkVVhOODhDd09sNE5tTENIeTBWRERrM19rcDVsWlp3QjV6NjQzbGczREY2XzdGM0R2RUZPbHhZZW5YLUlQMjBOdVE2ZVdCNFM4TGp6eXdDSGU3a0dRNWxkNVF5dDQ5dzdHd3ZCMC1hQUN6OUpsZFdxRVZDWEh4RlpTSDRXX05QQWV5Nnhj?oc=5"
     },
     {
-      "id": "turkey-4",
+      "id": "turkey-5",
       "source": "NBC News",
       "title": "Security decision led President Trump to take older Air Force One after ending Iran ceasefire",
       "excerpt": "Security decision led President Trump to take older Air Force One after ending Iran ceasefire&nbsp;&nbsp;NBC News",
@@ -10120,7 +10128,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDU5OGZhTFI1TUt2Y2JHT2wyYkRqUTBjWmdMUk15TlYtd1pvNVI0UVEwaHNMWjhFX0ZMS2JEcFFBWUZyT1JGS2ctMzhTcDN1MUhzOXhVMlVRcEl1bzByUm5wUEdZYVcyQUY0SlJveVplMjgxNklveWlqYjdyaHN0Yl9oRlhVM1lpdlQ4ZkVxMmNGS3pZRFloWTY0SEgxLUVFRTFWd1MzeVJ4US1tZUpyb0tMeEdNdw?oc=5"
     },
     {
-      "id": "turkey-5",
+      "id": "turkey-6",
       "source": "LGBTQ Nation",
       "title": "Gay cruise blocked from entering Egypt days after being banned from Turkey",
       "excerpt": "Gay cruise blocked from entering Egypt days after being banned from Turkey&nbsp;&nbsp;LGBTQ Nation",
@@ -10128,7 +10136,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMXEtVFd2WXR3RFFGR21DZzNYdVlqWkl3N0dMSjVBY3pEUHFFdnBBaTYzYncxZFIxSWdralZNTXBFMmxNQW9xb25XWEVkckJSYm0wX29JZjBpTHdMT3dIRjAwb0QyYTdRQkJZQW9ZZWlKeVV1dnJVZzhTUVowcDVLMUZwdkZYVXVfT2NVN2hRMjhBNE5SYmxncWFhcG5taFFDZzlmb2pTQzN3M0tEbHpwbQ?oc=5"
     },
     {
-      "id": "turkey-6",
+      "id": "turkey-7",
       "source": "تسنیم",
       "title": "Iran Discusses Strait of Hormuz with Oman, Turkey",
       "excerpt": "Iran Discusses Strait of Hormuz with Oman, Turkey&nbsp;&nbsp;تسنیم",
@@ -10136,7 +10144,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQmtha3hMcGZMcVRTR2YyS0J1V0ZkVmctNlFoRHN4MDU1dnVzdnY5TFczZEdEYWQyYUpBTm1CNjFsaTFnZ2RiM0xLeHAwZjMybUNHemdNbXZxcU53SGNTX3JLbDdoZGR6VzFaQ2lEWnFUX200elJLbEtPNE5jeGJuYU94aVFHbUp2Vnhfdzl0bkp0Z0lZUWw4U1NTMVd0dVN4Vkk00gGoAUFVX3lxTE1QbnpuNF9ILXYyRDJVdW1semRrVDExTEI2VFpWa194YTdyejFla3I4TmM3RnI3Ml96UjMyR1lSa2pRalVSbGxfcmhSZTF1cjhkR2NSQThIb0ZSWV96ajNsS3RmVUYtWGl6S2F2UGt0UGRzU2VXSGZFdjRlVW5PQ25PSWdtZ3pxWjhOVkIwc21ZbEp5U0ozM21Gb3c4cnJlWkdmVDhITGQwZg?oc=5"
     },
     {
-      "id": "turkey-7",
+      "id": "turkey-8",
       "source": "CNN",
       "title": "Security concerns prompted Trump to depart Turkey on older plane while sending Qatari-donated jet ahead, officials say",
       "excerpt": "Security concerns prompted Trump to depart Turkey on older plane while sending Qatari-donated jet ahead, officials say&nbsp;&nbsp;CNN",
@@ -10144,7 +10152,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRbzdDY1RkcmlMR2x6eDlOOGVmWGZ1THM5T3pUSkNBZElGWERZSWZiZGFrdy1la3pXVFFOOXdDaU1ncWZQSUh0N2R1YXFwbEg2NGxZWmJqVm4xMWdReHE2dV9PM1V0X2ZISnBGTzVQY0pySmNrTFZIbEFMVGFFRDg?oc=5"
     },
     {
-      "id": "turkey-8",
+      "id": "turkey-9",
       "source": "The New York Times",
       "title": "Security Precaution Led Trump to Use Old Air Force One in Leaving Turkey",
       "excerpt": "Security Precaution Led Trump to Use Old Air Force One in Leaving Turkey&nbsp;&nbsp;The New York Times",
@@ -10152,20 +10160,12 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUURlem10QWtLUEx4NkVTOUdHWjRKdmR4OTctOUlCamJqVjk5VFk5SkEwaUZRa2F4VThyS0o4bkRvbWxFRDNXTXg0RjdPLUp6bVRqSHBfOFRJVnVkTFRTejRKb1JzVlBUcWtvY1dZYzZXd3VuTURzOTRtVzhMXzJUb01jUmYxdG8?oc=5"
     },
     {
-      "id": "turkey-9",
+      "id": "turkey-10",
       "source": "UNITED24 Media",
       "title": "Turkey Joins NATO’s PURL Mechanism to Help Finance Weapons for Ukraine",
       "excerpt": "Turkey Joins NATO’s PURL Mechanism to Help Finance Weapons for Ukraine&nbsp;&nbsp;UNITED24 Media",
       "timestamp": "2026-07-08T13:15:40+00:00",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1BSUWRzZDFjM2dlajB4YnZ0bDlmS0pXMC0xWVR6ZWdOeFhMa3NqakhSQ0VPT3ZXb2IyN2hUMmZLYWVTWldGaGJiSVRWUHFCazhzeGNtQ2pRb01YUDktMXNCYU9VTVNVOGlVMEozMk16UWdWYXNpaEtZRmstYWl0b3dnekZkR3c4UmE3ZUltaDl3Uk1mQlN0QWQ5NVBSZlVaV1hxT1hRMjlEZVZiYXhfaF93Q0o2TTQ?oc=5"
-    },
-    {
-      "id": "turkey-10",
-      "source": "Euractiv",
-      "title": "Erdoğan pitches Turkey as a NATO asset, warns EU not to exclude Ankara",
-      "excerpt": "Erdoğan pitches Turkey as a NATO asset, warns EU not to exclude Ankara&nbsp;&nbsp;Euractiv",
-      "timestamp": "2026-07-08T10:59:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZzVUSHhpbzJ1bUNlbXdxSVVpSndlS09CdzV3c1FockNxbWx1a0tFSDUtUGVqVm8xNGNyNnZ1dGFuUFQ5LWptUmxXekZNN0k2RlpRU0w1cVl5M2dzcENENGRjQm9EVkdnXzlTVFgwNE9IenlaN2RhdnNzaTdnZEk2RmhxQkhLT0ZLQWlGNERlM21sS1ZMaWJRUjZyNVBVb0xxSUE?oc=5"
     }
   ],
   "Albania": [
@@ -11893,6 +11893,14 @@
   "Georgia": [
     {
       "id": "georgia-1",
+      "source": "Atlanta Journal-Constitution",
+      "title": "Why Raphael Warnock, not Jon Ossoff, is fueling Georgia’s 2028 speculation",
+      "excerpt": "Why Raphael Warnock, not Jon Ossoff, is fueling Georgia’s 2028 speculation&nbsp;&nbsp;Atlanta Journal-Constitution",
+      "timestamp": "2026-07-08T09:02:37+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUWxNaTBKM0wzaVRCMElrZEs3RTk0WHdpM0F5Mm85eW1ydDJqaVJtdHdBenU2bnlMazhEakJSUkVONTdoc29XUUJsN0FldzY5U2M4V3NKczVxOHFzZlF4Yk1fSy1vVW51aXVtZ0d2OEJEbmFuZVkxNlFtZGxsWmNZQzVzdUZFeXNCYjJBeGxZTzNqbXJLRVdRcTVXRFJSNE1vU0FzekxYa1VrMGhVUHc?oc=5"
+    },
+    {
+      "id": "georgia-2",
       "source": "Scripps News",
       "title": "Judge rejects DOJ's attempt to get names of 2020 Georgia election workers",
       "excerpt": "Judge rejects DOJ's attempt to get names of 2020 Georgia election workers&nbsp;&nbsp;Scripps News",
@@ -11900,7 +11908,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkp2TnJYOHZDYlA5bElxY3dMZXJ0MVhjeXFSdnJSMTdrWWtKYUM1UHlZcVVRaUNxcXZmSVlIOF92WUJkM2RsMV9mWU5zaFlZTUk5ZzVXR1c1bTVWQTlXSGJ0VS1KcnFpN0d5c05OeEVxWHVGalFRcDl3TTdyX0xKREhQSklsSUowdU1zYS15bnNOSkFLUW9ZelRlcURwOHZ2SFpUREM5UXEzcVI1a3c?oc=5"
     },
     {
-      "id": "georgia-2",
+      "id": "georgia-3",
       "source": "PBS",
       "title": "Judge rejects Justice Department's 'unreasonable' attempt to get names of 2020 election workers in Fulton County",
       "excerpt": "Judge rejects Justice Department's 'unreasonable' attempt to get names of 2020 election workers in Fulton County&nbsp;&nbsp;PBS",
@@ -11908,7 +11916,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeUtfNWJ2OXZpWVN6M29DZkxJLVUteVBOYS1qVF9wdk1SZXZTU05hdG5hcU9rMzdRMl84MlR1Zmp5Wk9tU1Jrdkt6SVljWmItT216cExVbFZUZ2REX25IaUJKTFpfQlZVQWI5dW56QzhKVnBzTk1IVkZBVEVkd254Ty0yRTNjOGVlOGJ5WGRrZEZ1eHIzYXo2LTVRQkZYQTZzSHVOeHVmVzNUQzZzX1pfX2VmQmhoOGxpZ3lmb1JRaDFvaHJldDdEaURfRGtTcVlGYl9FRzNmMU1uVHlhSURPbdIB5gFBVV95cUxQY2p0dFFwYUo2T2dMOUFrczR2WWJRazdVbkZmRW5XUTByYlZFcGhGelVVWkxULVY4WC1rYktmTzdvcFFRX016XzBsTDRLQVVzNkI3TXo5Z0R2c25RNEx5cWNWX2pqSExjUm5ESXgxdGZJOFNJZUp4Si1jUGFUNkdhTjNfellnR1VEbll0ZU5HSFI1WldJelp5Y0V5ekZIcGJzOXdGQ21GSk51cmFVU3dtMlpQR3EtS2E3Z1FTRU1GR2V5ZmYyNWl5QjNHVFZhOTlpWlAzYjAyRV93NW1DczljRnVyeGlodw?oc=5"
     },
     {
-      "id": "georgia-3",
+      "id": "georgia-4",
       "source": "NBC News",
       "title": "Federal judge rejects Trump administration effort to get names of 2020 election workers in Fulton County",
       "excerpt": "Federal judge rejects Trump administration effort to get names of 2020 election workers in Fulton County&nbsp;&nbsp;NBC News",
@@ -11916,7 +11924,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcm5Hb0RxUUNxVnBCNzlsVC1WbE1jN0U4ajNseUd4UC11Z09HT3RlM0Vudy1DS0NnbXJTdHNodl9maGpHS1FWc1VpUFl3UWU0VDB5am1tZFhaWUpIbHNNRGpXWWx3OW5ZcGNiUi1uYTRfLXNaOTkzcnJUeVVqbUZlektlZVhkREIzOTExUHhwaEN5YjVxbDZFTXBKRE5Ob3BxdXJOdlRocGRlVWs1R3RvQVVUcEJMOUpUaThEbWltQU9uVS1fS1FBMXJERjAxZw?oc=5"
     },
     {
-      "id": "georgia-4",
+      "id": "georgia-5",
       "source": "CNN",
       "title": "Judge quashes Justice Department subpoena for information about 2020 election workers in Georgia",
       "excerpt": "Judge quashes Justice Department subpoena for information about 2020 election workers in Georgia&nbsp;&nbsp;CNN",
@@ -11924,7 +11932,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWndjTlhhVlJySHNoOTMwWk9JRzFJSXVSUHI1SUU1aTFWeTFubEtLZ1JsZ0ZHc2hXY1V3OHhibF9kazMxSkZuNEJUQjI2dkEtUTROdnJTNnV3aXB3VzdOX0E1QUxKYjQ5Q0t5YVB3UkpDcWhVTzRBcjRrVWNxWHR3bUp1Q3haSDZ1LWY2NVM5ZWUyT3Vqa2ZmVUlTSGx0UQ?oc=5"
     },
     {
-      "id": "georgia-5",
+      "id": "georgia-6",
       "source": "Florida Politics",
       "title": "Georgia woman convicted in elaborate retail fraud scheme in Florida",
       "excerpt": "Georgia woman convicted in elaborate retail fraud scheme in Florida&nbsp;&nbsp;Florida Politics",
@@ -11932,7 +11940,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGJIdXdJUW9FdWZJMkhkb1JhR2t6ajByOUNRamdHcTBvREdBVTF1ZVIxbV81MkprdTdXTnlVQjh3emtINklTTjhqbDB0ZmlkdHRlNjlaWVkxN0M1M19aX1lQaWJCNFpScG1iZnNidnRaaVNlUlVXekhFZEprYVdDQkxXODFwajJQTE5sTEM1S0ljemhfejZPMlo2SUlFa2tDa0U4V21kUnpuNFRvbFRIMXRB?oc=5"
     },
     {
-      "id": "georgia-6",
+      "id": "georgia-7",
       "source": "Newshub.ge",
       "title": "Georgia’s Economy Minister Holds Farewell Meeting with Ambassador Extraordinary and Plenipotentiary of the People’s Republic of China",
       "excerpt": "Georgia’s Economy Minister Holds Farewell Meeting with Ambassador Extraordinary and Plenipotentiary of the People’s Republic of China&nbsp;&nbsp;Newshub.ge",
@@ -11940,7 +11948,7 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPXy14UEFtNktSYkhSWm1STkRoUTBER09keXdIc0k3WkFqdXdWQ0licjVyN0VTSHdYODZoQUpqbVc4cE5wQ2R4ZXJWT0lNVk5mX3dTalBWNzlYbExyUnFhSmpDOVV5MXBjdGlfWnZRQXphdnZPMlVLTEE4d01OYkRlMjF6d2I0ZVZESkJNSkt1OGdJZnM1am1CTjNWZUFaV3I3TXV4bVNqWmNHOWRIR0NYenFEVkhoSWVFTjVtZU9fcUI5NVZpc1JieXI4aHZqcnFlWGJyeTVJbHViZzhNMUhIYjJhSXg2U1Rfb0tsYkVJMW5jQkpsejBXY0Fn?oc=5"
     },
     {
-      "id": "georgia-7",
+      "id": "georgia-8",
       "source": "USA Today",
       "title": "FBI to investigate Georgia as 2020 election fraud conspiracy continues",
       "excerpt": "FBI to investigate Georgia as 2020 election fraud conspiracy continues&nbsp;&nbsp;USA Today",
@@ -11948,7 +11956,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZGlxWmJKWTQ4VXE0VUJJY0lmRXkwZ1V0b1g3T0xMLUhwUFBHWm9nRG1YZ1FfY1RnTTA2YzNWc01ZcjdvUHd6UXhhYW9qVHl5S3I4RUlpbmU4UHQ3Q1RQXzZaTHoxOEpDcFBpMXdnNmVKenM4bl8zMGdfa3ZoYVRRWGY0anpycU90REVsUXRhQ2ticTRHNERGSEJQM3htSUpaUGJ6czdBNFZZZm5DeTRQMmF0UjZSM3RKaHRJUzJ1ZzBzZy1seGhCamlIMlVfX1JrVHdrcG9FR2t4ZG80WlgzVA?oc=5"
     },
     {
-      "id": "georgia-8",
+      "id": "georgia-9",
       "source": "Now Georgia",
       "title": "Fireworks, heat and politics: America celebrates its 250th birthday",
       "excerpt": "Fireworks, heat and politics: America celebrates its 250th birthday&nbsp;&nbsp;Now Georgia",
@@ -11956,20 +11964,12 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORnAwSWpJNklFSTgxZFRZenVYNVNabXp2d2FyTkxDT2dzcnpvTGRPNkhJM1BmRlFkalhEdkRSMGhoSXlwdi1TZy1CN2J3WmJwaHFFdElEUEpRcXNtcUtXVm1UUFBHVXZJUDdoOVFUcTczcll0ZzI1SmxLWHk3MmJZODQ4RXFMbDBVWkw4TUdqc3VfZFU?oc=5"
     },
     {
-      "id": "georgia-9",
-      "source": "PBS",
-      "title": "The FBI is directing hundreds of analysts to its investigation of Georgia's 2020 presidential election",
-      "excerpt": "The FBI is directing hundreds of analysts to its investigation of Georgia's 2020 presidential election&nbsp;&nbsp;PBS",
-      "timestamp": "2026-07-03T20:42:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNVVqX2ZxUDFwaURKX1NLTWNPVndqNHVuamhONVExZmtTWmhUT3Y2WDRnSmVzb0lkQ2t1UWRGUnpuZXlzMVYtR3UtaVZ6X2MtMThwUjlkdWV3end3ZUZwNlJBdDRUdmhVQlJiTVpWdlYzT2JXWWpwdWZiUW9mTExIOExTRXZzTHZld0VyOElTOEtJWUEta1A0Y3hiTWhFWE9qUXVLQUIySnhQVldKbWZxdFhFU1ZaRXhwR3A1dHc4dU9OQUdJbWc0RXpTRGxDS2QycTV1YTFB?oc=5"
-    },
-    {
       "id": "georgia-10",
       "source": "PBS",
       "title": "The FBI is directing hundreds of analysts to its investigation of Georgia's 2020 presidential election",
       "excerpt": "The FBI is directing hundreds of analysts to its investigation of Georgia's 2020 presidential election&nbsp;&nbsp;PBS",
       "timestamp": "2026-07-03T20:42:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNVVqX2ZxUDFwaURKX1NLTWNPVndqNHVuamhONVExZmtTWmhUT3Y2WDRnSmVzb0lkQ2t1UWRGUnpuZXlzMVYtR3UtaVZ6X2MtMThwUjlkdWV3end3ZUZwNlJBdDRUdmhVQlJiTVpWdlYzT2JXWWpwdWZiUW9mTExIOExTRXZzTHZld0VyOElTOEtJWUEta1A0Y3hiTWhFWE9qUXVLQUIySnhQVldKbWZxdFhFU1ZaRXhwR3A1dHc4dU9OQUdJbWc0RXpTRGxDS2QycTV1YTFB0gHbAUFVX3lxTE53Tm8yLVhLYk1hSDNiQl95bWF3UEctWko0X05IVjZUNWtjY05teDFoRWNzV0VWd2JxNVpOTmd3aDhHelozZ3NDY29WSnhDZVRXbUY0UjFZcXR6Q0YwWnJUYmFzTnR4cnJoVnNrYzU4Z05HcURCdllsMkk5NC01VmJwdGNfdzJKcUt5WDcwSjNVSUhCMVhKdFNBV1UtaTRGYnlyR3NXRFlZUWVvNmFBeUV1TUo1ZjdmZk1GLTVxSkJaUmdMTXhleF90RHRyQU1hNjg0OEFLTEt3UGRVUQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNVVqX2ZxUDFwaURKX1NLTWNPVndqNHVuamhONVExZmtTWmhUT3Y2WDRnSmVzb0lkQ2t1UWRGUnpuZXlzMVYtR3UtaVZ6X2MtMThwUjlkdWV3end3ZUZwNlJBdDRUdmhVQlJiTVpWdlYzT2JXWWpwdWZiUW9mTExIOExTRXZzTHZld0VyOElTOEtJWUEta1A0Y3hiTWhFWE9qUXVLQUIySnhQVldKbWZxdFhFU1ZaRXhwR3A1dHc4dU9OQUdJbWc0RXpTRGxDS2QycTV1YTFB?oc=5"
     }
   ],
   "Philippines": [
@@ -12663,6 +12663,14 @@
     },
     {
       "id": "japan-5",
+      "source": "Financial Times",
+      "title": "Japan finance minister urges giant pension fund to invest more at home",
+      "excerpt": "Japan finance minister urges giant pension fund to invest more at home&nbsp;&nbsp;Financial Times",
+      "timestamp": "2026-07-10T06:00:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMlYzMmFTd0xNVk5BUmtOVVB3X040THV5U1RNWWpOTkdlb01aUmdDMjdNNzlXb0hINVh4RW85c2lwaW56VllCcHdycUdoRHNnNmY2c1hWem0tWVFaSjk2b1NKZjhaS0t2dmVaZTJVVTFFXy15SWlMU0o4TmhFb29XN3VEQV8?oc=5"
+    },
+    {
+      "id": "japan-6",
       "source": "Bloomberg.com",
       "title": "Japan Urges Its Pension Funds to Invest More at Home, Boosting Yen",
       "excerpt": "Japan Urges Its Pension Funds to Invest More at Home, Boosting Yen&nbsp;&nbsp;Bloomberg.com",
@@ -12670,7 +12678,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWMwRTQyVzVzQWpneElBYnhiamY0T2E5TXNFczVYVmdNaW9wR1RoMzRLUlg4V2dsajNSMk4xdmk0bUIwX3VzM0tXNHJpRTJZcWI1RTRlMHRBU011Rjd2VGFBWWh5c3lsVlZGT1hSQm0zTFJscHVCZ1pVZy1GOTBoaF9TNm9pTlByLUd1UndPQ3NRTmxsekRpa0NwTThkdmhiaE96Z2ZJTVUxNWN0YUE?oc=5"
     },
     {
-      "id": "japan-6",
+      "id": "japan-7",
       "source": "Reuters",
       "title": "Morning Bid: Japan calling capital home",
       "excerpt": "Morning Bid: Japan calling capital home&nbsp;&nbsp;Reuters",
@@ -12678,20 +12686,12 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01Z0U3WDNlMWJlR0oxNTFQN2JiX216NGNYQnI1VnZQSTQzZ2g1cklROWNIMm5nWHdSZVhMcGNPbU5XWElBV2lLanQ0QktBb245WG9fX1A2Z2ZvOXJGU21KUVUxUlVNR1BncU1YcER1TzFmZlhGUXU3U0pxU2I2cGM?oc=5"
     },
     {
-      "id": "japan-7",
+      "id": "japan-8",
       "source": "Financial Times",
       "title": "Japan finance minister urges giant pension fund to invest more at home",
       "excerpt": "Japan finance minister urges giant pension fund to invest more at home&nbsp;&nbsp;Financial Times",
       "timestamp": "2026-07-10T04:31:19+00:00",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVE43VW1IRDZuUUVQaUVnRUtydUFGSDJCVkY0TnRHVnM0cnF0cEVRZ1poYXZrdEVmU2Flb25jQ1lLU2c3TXNReUZPcF95ZkwxVG85VkZzZnNNV0VUWnowdDJNVmF3b1pFZmI2WC0tYVk?oc=5"
-    },
-    {
-      "id": "japan-8",
-      "source": "Financial Times",
-      "title": "Japan finance minister urges giant pension fund to invest more at home",
-      "excerpt": "Japan finance minister urges giant pension fund to invest more at home&nbsp;&nbsp;Financial Times",
-      "timestamp": "2026-07-10T04:30:30+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMlYzMmFTd0xNVk5BUmtOVVB3X040THV5U1RNWWpOTkdlb01aUmdDMjdNNzlXb0hINVh4RW85c2lwaW56VllCcHdycUdoRHNnNmY2c1hWem0tWVFaSjk2b1NKZjhaS0t2dmVaZTJVVTFFXy15SWlMU0o4TmhFb29XN3VEQV8?oc=5"
     },
     {
       "id": "japan-9",
@@ -13378,13 +13378,21 @@
     {
       "id": "libya-2",
       "source": "Libya Herald",
+      "title": "Libya and China to Launch New Logistics and Cultural Initiatives",
+      "excerpt": "Libya and China to Launch New Logistics and Cultural Initiatives&nbsp;&nbsp;Libya Herald",
+      "timestamp": "2026-07-09T11:34:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNXzBabUFkeE4wSXNWaGl3TXFvMmdQd1dxSmxNeUx4eHZGYVJLeWdMazhUelVJeGVfaXRSeFZVNkZ3Z1l5bnpXTEpVekhScE9IWkJpYmlEYkJXZk5KX3VIM1FibHQwN2I5Q05lNzZtMWViNTR5c1dCMURUY0JiQXQycW5CYUpYOTFwUG9pSjB4S25MYlh5a3J4OTZqYzNHNjlpMnM3S2NBMmVtMFZ2WEE?oc=5"
+    },
+    {
+      "id": "libya-3",
+      "source": "Libya Herald",
       "title": "Libya Hosts Policy Dialogue on Innovative Sustainable Financing",
       "excerpt": "Libya Hosts Policy Dialogue on Innovative Sustainable Financing&nbsp;&nbsp;Libya Herald",
       "timestamp": "2026-07-08T22:26:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcjJGRDVlYVl6eFl1Y1hzcjVkYXZSa3ZqdFNqbm02cEQ1Z1d2SUVvcDlMN3o0aHVHSmZQVGZJNnZ5OFdZMUNNc1Z5WTZxM2U3b3ZNU2hHLWVhSEl0SzBTVVJzQWR1UXhuVkphSUw5UTJmeUtobWhCR3RSMDZTU1pLV1NOcThkekxKVEpOLWxyZGk5NGQ4OW5VcjlncnBXN001ckFXQ0QyQURWUzB6OGpDMEFVNA?oc=5"
     },
     {
-      "id": "libya-3",
+      "id": "libya-4",
       "source": "Libya Herald",
       "title": "Libya HoR Speaker Reaffirms Hussein Al-Ayeb as Intelligence Chief",
       "excerpt": "Libya HoR Speaker Reaffirms Hussein Al-Ayeb as Intelligence Chief&nbsp;&nbsp;Libya Herald",
@@ -13392,7 +13400,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ3F5Ty1Qb0s4cF9TdFhYb3hodV9wS1BWQ0FxYmxnVVY4Tm5rRTgxanFTRmtYMW5LSVBwelA5MWNfVVMwamtQeDI1eWZWV2dEU09UeEpyZVRJQVRwWUljRDhhbGNmNzkzRDRnN3piWFRNWDJfZE1Gb3VjVlR6LThvdkk4OUttR1NnSHUzUFJwTjV2TFc4bUt5Q09lVlFvd1h6UzRRbV9PZzUxLWJUN2padjZ0S3lFdmZTbVduZ1hwLVhibXJFMXQ0?oc=5"
     },
     {
-      "id": "libya-4",
+      "id": "libya-5",
       "source": "The Libya Observer",
       "title": "CBL Governor calls for stronger mortgage finance system",
       "excerpt": "CBL Governor calls for stronger mortgage finance system&nbsp;&nbsp;The Libya Observer",
@@ -13400,7 +13408,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2tlbS1SdGZiOF9uZ2lTcGZfUWc1R3l2S1dEU3JKNzJTYXk4SkxUbzUzWmlqaWxtdW1MRDhJNUpkaTZYS09MSVBZaG1SZk1DcU1IR3N2WEliTHNEdk9OMjBKZGs4VklnTmJLbWpUOXluaHI1UDRvUnRvbUVPdVktcnltSm0zWmZBSkhTSw?oc=5"
     },
     {
-      "id": "libya-5",
+      "id": "libya-6",
       "source": "The Libya Observer",
       "title": "CBL governor holds talks with US officials on economic stability",
       "excerpt": "CBL governor holds talks with US officials on economic stability&nbsp;&nbsp;The Libya Observer",
@@ -13408,7 +13416,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkppOWx4Uk04dXBSd0xLQmxXVjliYzd0bGQyeTRKNTNhX0dFTlItZnhMQUwtM2VDQlc4SjhSaXpWVlNJU3p3VzA1VjdOajc2M3FYUHB0X19xZ3ZsaEZ1VGdqUGpQZTUyRGd0WHVIMmR2NXpZRzg3RXNEQzVNb29sZEpRZkQ1NXVVbWN3TEhOVXZiYUk?oc=5"
     },
     {
-      "id": "libya-6",
+      "id": "libya-7",
       "source": "Libya Herald",
       "title": "Libya Launches National Housing Policy to Address Shortage",
       "excerpt": "Libya Launches National Housing Policy to Address Shortage&nbsp;&nbsp;Libya Herald",
@@ -13416,7 +13424,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTXdXQUxjXzVsa3ZycG9Ed1lFTERibWZxTWRORnBqd3E5YW1Va3BOVHI1UmIwb2ZrZWJRdjlvVVhYbmlmZWVIeGRNVS0yb3IwaDZUZHgteHVXaU5yQm1pWXhQeDkyTjFIWC1WOTFiNVNxNmdkTkEtc1JwSGZjelctQndieW4xTjU1Nl9ONHhaT1FuY253ZTF5S1JHWGV5MkpmYzVkMGZEeG02QmlDVERYVGxHc2tDV2JTZEtEOExhakpxTGVvNXpIZUZNWkkyeEY1cDc3Tw?oc=5"
     },
     {
-      "id": "libya-7",
+      "id": "libya-8",
       "source": "The Libya Observer",
       "title": "CBL outlines stability measures after cyberattack",
       "excerpt": "CBL outlines stability measures after cyberattack&nbsp;&nbsp;The Libya Observer",
@@ -13424,7 +13432,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3dibnkxS19QWG02Y1RKLVJtRTFOZDhxdXB0VGx2NmVNNTNncnZpcVJKb1hmSEdCQVRMMGNaV1JSZDVjcEpTUDJKOF9BSzZMTFNBR3VuVlRhZnhieWxCaWM1d1N0bWoxWHlpeURiYnRlYTlfNm5zeUltSjdVMHFRVS00VXdaZ1pxV2c?oc=5"
     },
     {
-      "id": "libya-8",
+      "id": "libya-9",
       "source": "The Libya Observer",
       "title": "Libya restricts agricultural pesticide imports to European, US and Canadian products",
       "excerpt": "Libya restricts agricultural pesticide imports to European, US and Canadian products&nbsp;&nbsp;The Libya Observer",
@@ -13432,20 +13440,12 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2RSTVNKcUtZWnVCY1ZUWk8zVllDQ3FmMmRSYVVvQTZOUVl4Uk9IeC1SZ2xUZnhUMmFkOEhoYkx5S3VWOWJHcFZzQ0F0aFlmR1lNb05JeVYtZndSQUdKZjIxWlBvTjVzSHBQWUU1NFBnVk9uV2VhWUhMa0JRWG80NWhrYUFlZTFfR0hGaXNMcExCdmJ2S3AyMnlTU1RwM2Z4UHZRM1FNZmJqazVKTkhsZ3BZUQ?oc=5"
     },
     {
-      "id": "libya-9",
+      "id": "libya-10",
       "source": "Libya Herald",
       "title": "Ben Ghalboun Appointed Minister of Local Government in Libya",
       "excerpt": "Ben Ghalboun Appointed Minister of Local Government in Libya&nbsp;&nbsp;Libya Herald",
       "timestamp": "2026-07-03T08:56:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZ3pzejFvODRXU2RtRHprdFBKU1IyUlp0UTBwQkJONFNHMGFqbmR1TXFXT1pocFRzcjB5cTR2d25WOGxVMDlGTTZDejlURjZmcTRnVE9FY0tvbTJTaU80bjQxVEc5TlhBb0NVOFdNV2o2QWJXYTlsY1ZmNUZ3a2FkRU42blB0enUwNlZnaEVJSXVVYXp5QW5lRFktekpfZXE5eUpwRGpLRC10MEg2TlpHaGxld25iSXd6a0J3Q1BNbEhnM0VIY00zeVhZMWxTbTdIV0U0UlhHa0RJODdaZHlHSjRMQWpNSzNWZGdCYjByclJSWGRD?oc=5"
-    },
-    {
-      "id": "libya-10",
-      "source": "Al Majalla",
-      "title": "Libya: power sharing",
-      "excerpt": "Libya: power sharing&nbsp;&nbsp;Al Majalla",
-      "timestamp": "2026-07-02T14:16:27+00:00",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uSm5JTEFXT0o1cVRZMnFvRHJtb25VdnpUY1FxOG5DSFUwTVh5amRzMGlKUUhYSHJUb2JjY3AtX2Y4OFdZZkUtNEF5OUNhbmFpZ2F0Zm9YSWZ5bFB6NzBSSTRNY1ZKVE55c29VMjI2VGQ?oc=5"
     }
   ],
   "Ethiopia": [
@@ -13697,6 +13697,14 @@
   "Uganda": [
     {
       "id": "uganda-1",
+      "source": "ChimpReports",
+      "title": "Finance Minister Musasizi Asks Management of Uganda Airlines to Embrace Private Sector Business Model",
+      "excerpt": "Finance Minister Musasizi Asks Management of Uganda Airlines to Embrace Private Sector Business Model&nbsp;&nbsp;ChimpReports",
+      "timestamp": "2026-07-11T13:57:34+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDVpMFZsblZuN2NMSlBqTzR1OF9WcFE0NzkxeWRKdU9ERmxkUzZQSEdXU1pOLW1mZW9XUko1b3VWX3FoRkY0OExKYlJfZ1NXS2pueTRhRkZiUVlYSzM4Ym9JTTJwcGNiSzJwR0VNU3A2TkJlQV90cTJXeV90MGdQZWpRU3dEWXlZU0JMcHBsQXNSVHF2bUpkZjF5VE1ZUUhpN3VibEtTNDYzY0d1azhza29OSnoteTljLWpkS2F2RXk3OUoyWWc?oc=5"
+    },
+    {
+      "id": "uganda-2",
       "source": "TradingView",
       "title": "Uganda's FX reserves up 68% in year to end-March, finance ministry says",
       "excerpt": "Uganda's FX reserves up 68% in year to end-March, finance ministry says&nbsp;&nbsp;TradingView",
@@ -13704,7 +13712,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdjQtM1ZTRUptRDRDS3VsSmgwZ1poWmZzeXZuNmUzRFJYZTNyeWh1dkJJRE5tTkNxTHZRWDBBTS1sUHd1ODJZQVZsazlZSUNheU1fbXBSeUl6dkd0bEQ4VlBRQTZxMjlpT2dXTmxQcm5mNGhDeGhiemRkVFFLdXRKamlYWVFqSFd5bWtPd09QWDVOcHk4djlGZG40X1B3UE83bzVHaFRCcm1TTTNEQ1NwLVFKWG1tYnFYMUFoRDFtZ2FxYjFlMnJVaHd3Znl1ZDkzVlNXczd3?oc=5"
     },
     {
-      "id": "uganda-2",
+      "id": "uganda-3",
       "source": "MSN",
       "title": "Uganda: Economy expanded by 8.5% in last quarter in December",
       "excerpt": "Uganda: Economy expanded by 8.5% in last quarter in December&nbsp;&nbsp;MSN",
@@ -13712,7 +13720,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQM1hwSWEwb2pkSV92RjRJb0VkTzN0elpUYnFGRlNFSjVVbEpiYmtJV1lnOTdCM1RUYklEVGJvSUFMU3NNakdBUU15bVg3TzdfME5NZFhMSXl2SXJTSllxOUlxMFlTc2g4S1F3YWxhU19NZl81ODl2SENLRU5YRF9oZ2RDWVlOS21ySXRlZjRHT1dWOEs0VVhUc1JQTERiRllyRlJ2MHU2MURzTU80Xzh1Mk9aZnRUZzVZRERIa21uOWVjVk9fRHo1SnF2U0dJYjl4SWZwWmpDWlJEc0JOa2xJT1ZSSXJ6Z2c1WE83T0luQ2ExVGd6ZkRfMHRoeXpRYjhNOVhJelBCZGI2YUZleVE4cFFUOFBSa2tKNzlPbmY0M3lGZDRKalE4S2tRTGc4azYwZ3dUU0JZNWlUTGFGWEExTUJkM3BFNlZ1dEFaMkt1TC1VT3JPQ0Z1QmtWYzhwQ1lpMlZmT3J5ak0?oc=5"
     },
     {
-      "id": "uganda-3",
+      "id": "uganda-4",
       "source": "Uganda Observer",
       "title": "Finance, URA plan major tax collection drive",
       "excerpt": "Finance, URA plan major tax collection drive&nbsp;&nbsp;Uganda Observer",
@@ -13720,7 +13728,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FTHpqMFgtQmFYbVJIZi1FT1lPQl9lN2ZKWEZVZElPZGJnR3hlQWZYb1VLdXVTRVJzcnlrOEZ0UGRHYmxRUzRHNWNFWVNKNW1JOEpmQnFPaXB3aVRzSzdjZmE3UTZsNWtXSnFmbjhKeGN2TE1vX2Y1UUdQb0hydw?oc=5"
     },
     {
-      "id": "uganda-4",
+      "id": "uganda-5",
       "source": "facebook.com",
       "title": "Emmanuel Mwamba. . Uganda's President Yoweri Museveni has ordered the country's Finance Minister Henry Musaizi to explain the circumstances under which funds meant for repaying external loans were diverted to private accounts abroad.",
       "excerpt": "Emmanuel Mwamba. . Uganda's President Yoweri Museveni has ordered the country's Finance Minister Henry Musaizi to explain the circumstances under which funds meant for repaying external loans were diverted to private accounts abroad.&nbsp;&nbsp;facebook.com",
@@ -13728,7 +13736,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV3NVeVJQVG5fcEFUVkRwRzBhWU9vcDhvM3VTYzYwbmRza0V4d3l3dUhxWEo3ZTlmX29ZbkFLX1BnY3RialNjaDdVZC01UzRKUG9YcHBIcDhTcTQwYVBrN2lkLWYwNVI5LXphT2IwSDFQbnp0cFNKUFVzZDl3eWtOZi1XZkl3amFmRGJNMlAtXzRZNjJQX0E4LVd2YjdReGEzYk1YSVMyQTVMdFotYTFUVllhWEJtZTBNMFM1cVJ1UnpsT08yeTduYmJWaWkxT0hxNlZBRWk3aGd0TmNVSWw0R3l3NA?oc=5"
     },
     {
-      "id": "uganda-5",
+      "id": "uganda-6",
       "source": "Nilepost",
       "title": "Katikkiro warns insecurity could drive away investors, hurt Uganda's economy",
       "excerpt": "Katikkiro warns insecurity could drive away investors, hurt Uganda's economy&nbsp;&nbsp;Nilepost",
@@ -13736,7 +13744,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQllUdUJWcGRKOXhfdjRiYkZmU2xZMF9naTdjZXEtZU4zVTlsSExWdUR3N3dsNy1HWTd4VkpBejVLY3pibDRxOEM1ejB3M0QxU01NUm5EUjJWRGo3WU1IWUtDQTF2c3Y2bTV5RU5Scy02eURONHpQM2RSMi1CU0FWcGxobXlXa0xvc1k5TXdDOF93RThZUThWRjV3ZDlkTVNYdG04UHlueXBiMUJnYnfSAbYBQVVfeXFMUGd2VjFfTlVGRWhjSUFweWFUYTVuLXNMV054b2VHb3plcXRBUUZ2bmVYUEo1VGVBWVU2T21jUUlXNXJoc3htX1ljM1QtckdzZVZhMzJIcm9BQ2RFdEhEU2pReHRncXRXSW5xNWJXa1o3UVFlaDNFYlF4OUNkYW0zdFpxdWZfd201YzhmbXpmVzA3cjI2UXFIQmYwUFBOSGczbzFDaVJmY0labGlWMDFBTjRlX3JIdkE?oc=5"
     },
     {
-      "id": "uganda-6",
+      "id": "uganda-7",
       "source": "Nilepost",
       "title": "Uganda Eyes Global Halal Economy Opportunities as ICCIU Hosts First Business Dialogue",
       "excerpt": "Uganda Eyes Global Halal Economy Opportunities as ICCIU Hosts First Business Dialogue&nbsp;&nbsp;Nilepost",
@@ -13744,7 +13752,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHZGbHRmeHV6WXB0X2w2VDdoM08xR01uT0xlUzlaV2ZvVERfU0t0QVhJelNzdUlST2Q4NVJxWUNub0pSYnB1NHMzYTJJSmFMd1ZiNTBrMVhXMXB1NWF6dTdGTEY0cFNqZ2x5UXZSY1hfYXFCN0dDWDZQaWpqRFVlWHFvczJaN20tM0E2Y21IZ2VSR3d3dmVUT1daY3VjLU9VX01rRHRyQk5oMHRlZ1Fqc0lfOVFYa2tkZzNsRl9QcVotd9IBygFBVV95cUxPNUxuZ1RwVGNhRDBySEJTalJkV1Y0MUo4bFlQeERRanVKLUM0S2xZbmJKTWFCelRUdjZLdVc3NkNTRVFsdnhmcWViYk1vWE5vclg2ZTRXZk1JejU2WXdTWnRCVDcwRVZZZXJyc3c0UTIzaDFqQXBac3VlVlJPVzItQ2dBVWhEOFB4TlNCR0FIX2p6OF9ZWmV3MFFfRDlsa1F2ZFd5R3ZReDE0dGMxOTdKRnRPVndUZmpMZ1ROcldXWmVuTmg5MVEzMkV3?oc=5"
     },
     {
-      "id": "uganda-7",
+      "id": "uganda-8",
       "source": "ChimpReports",
       "title": "Uganda Sets Oil Revenue Cap, Targets Sharp Debt Reduction Next Fiscal Year",
       "excerpt": "Uganda Sets Oil Revenue Cap, Targets Sharp Debt Reduction Next Fiscal Year&nbsp;&nbsp;ChimpReports",
@@ -13752,7 +13760,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmN0alRZRWtCVDlTZ2ZSVEFHSWM2YVJsTGdlSlV1NEZaems1eXFuRjNrb3RsNXVZWHhlS3Q1NEZiVExpSXlMaURFUERsVzQ4blhhc0dpanRkSVFBUGhvUmdORDdfTWVIRjY3elZ6ZXlrcFZxY195MUQzbVI0Tk1ZVnNyUjBLWnAyTENaV1VWOEpHQkxQSFZUWE5TVVNDa3pT?oc=5"
     },
     {
-      "id": "uganda-8",
+      "id": "uganda-9",
       "source": "The Africa Report",
       "title": "Rwabwogo, Muhoozi and the race to shape Uganda’s transition",
       "excerpt": "Rwabwogo, Muhoozi and the race to shape Uganda’s transition&nbsp;&nbsp;The Africa Report",
@@ -13760,20 +13768,12 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSzM3dXFQZnowYWdkUVUyOGpucVpqLXBweGRFNmFmUFM4Q3BQOVJ1NDJOQjBRTXYwOUxxZWN2NFA0UHZ5dUlEYkI5T0lhWTVHLUVGTVY0RFk0emk2REVNNU43QW02dW1rOWR5aEdzdzVNcnJEUHRBSnhHckYtSTIwMGlyNFNtM19ySTVTaDFhM3BZMDhVMWdrWnZFNTBVZw?oc=5"
     },
     {
-      "id": "uganda-9",
+      "id": "uganda-10",
       "source": "Devdiscourse",
       "title": "Uganda Finance Minister Urges MPs to Track Budget Spending",
       "excerpt": "Uganda Finance Minister Urges MPs to Track Budget Spending&nbsp;&nbsp;Devdiscourse",
       "timestamp": "2026-07-02T16:43:43+00:00",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTBya285U1FlRldRTHpHcnFIS3pxSHhUUFVENUwwcmFkUWljbWNwVW1CVDJKdXlVYjQzdGhqNy1fRGFRNmpUZEdQekZPUkJBVjVwVWd2RHpSQjdBQlBQMGUyczcycmJRYlIzbWg1M2lFZ2lfcWVnZ1VwRVIzSXdCY2tnSDZKdmFsU24wcG1KSXZITjFOaVR2cWhmaFpuMXNmZVAwRlppQ1ozb0FpdkkzaU1nONIBuAFBVV95cUxORl9Kc2s0d2xxbk9FamNEc2RYTzVCQTB4ODgyTzBtdWN4ZXRDT3F3RE1NNEpaTmxyaVdDcXo0TGp1dUVyRDRvVFk5ZTdUZWM1Z0tWR2FYWGMybmxia3Y4N3NPUEhBY2wwdXF4RjU4dWFJZkpQb09zZ1dtLVdfYWIxTEVvTXNrUXpEQjFZRGtXU1NVcTJWOUtpY2lWZmdSdHcyenZyal9RSTFpZF9iOEF5a08ySWM4VUVZ?oc=5"
-    },
-    {
-      "id": "uganda-10",
-      "source": "Uganda Observer",
-      "title": "World Bank warns: Uganda running out of jobs",
-      "excerpt": "World Bank warns: Uganda running out of jobs&nbsp;&nbsp;Uganda Observer",
-      "timestamp": "2026-07-02T11:54:16+00:00",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xZTJlcXVtbmNLa1NHanR5ZzZ4d2g4RjhsbUxfNy1jM0JidGNubkp6b2JGcmx5aWd1SzI0Ym9SZGpYdzJUTEk4SHZ0NXNCdWgyOW9wX3drXzUtRmVDYWxWR2N2dzlzTFdwVWFhb1ppSlAzZlJyVk16bmdjWDBOUQ?oc=5"
     }
   ],
   "Rwanda": [
