@@ -1478,6 +1478,14 @@
   "Russia": [
     {
       "id": "russia-1",
+      "source": "Yahoo Finance",
+      "title": "Russia’s economy is an ‘illusion’ built on debt, and a banking crisis is ready to explode, intel report says, while the Kremlin may seize pensions",
+      "excerpt": "Russia’s economy is an ‘illusion’ built on debt, and a banking crisis is ready to explode, intel report says, while the Kremlin may seize pensions&nbsp;&nbsp;Yahoo Finance",
+      "timestamp": "2026-07-12T20:02:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORXI2VklfQUx5UDAwQWtIampJNndTMDhGdE5yRUgzU0s1RGtMYThOTk9XSmlnWXFzS2xSSEtGcF9vOTdHcHY0Ml9CZXNuUjZqTTExNXRIeXdsU1FUV2ZCQ01zUXQ3ekMwYW8yS3RYdjNIVkJzYWUzUm9zMUJVY0N4RTI2cXdHSUxtOHF0VGJGaVgtMzFTVzNN?oc=5"
+    },
+    {
+      "id": "russia-2",
       "source": "Fortune",
       "title": "Russian economy is an 'illusion' built on debt, and a banking crisis will explode, intel report says",
       "excerpt": "Russian economy is an 'illusion' built on debt, and a banking crisis will explode, intel report says&nbsp;&nbsp;Fortune",
@@ -1485,7 +1493,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjhKY0RpME0zTDNwSTVsSEJnM3otZUpELXhEUjhsTTAyTXZSQzRiWFktNG9Fb2o1UGJOdUV5dm83VnhaOEtQRUl5NlNyYkcxNjZMY3lDdF9SYWFicEJqektDaF82ZWUwYmlrOTZZbldCci16ZnZabkdfbGZGZVk5bU5XN0hKb3ByRDc3MEw5RENhNWxWVmVoYWRvLWNHbGxwVHo5RXN4RkpPRE93U0xaajRZTmt0Zw?oc=5"
     },
     {
-      "id": "russia-2",
+      "id": "russia-3",
       "source": "russia's pivot to asia",
       "title": "How Russia Is Transforming Temporary Fuel Disruptions into Long-Term Strategic Strength",
       "excerpt": "How Russia Is Transforming Temporary Fuel Disruptions into Long-Term Strategic Strength&nbsp;&nbsp;russia's pivot to asia",
@@ -1493,7 +1501,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX3Z0cXhVUVJ1SDF6alQ5N0pJd3QwMl9lWFk1UXNPRWdIazZ5bVVWRm1vN0hmcFF0OC05eEFnTEFRU1pBNVpINW51bXRwa3plZHF4MzlWMkRtbi1MTzl0VGFQSnd1SUFkWEJjd1hMeFV2NGJoTExXRUI1cE9wQWo5RVdKSUo5WnowWndwOHAwZklLWWdONFVhbDQ5TGZSY0FMTGM2WnBUUFR1bEcwMkxuS2hhM1ByN09sT05N?oc=5"
     },
     {
-      "id": "russia-3",
+      "id": "russia-4",
       "source": "The Independent",
       "title": "The West is preparing for the wrong post-war Russia",
       "excerpt": "The West is preparing for the wrong post-war Russia&nbsp;&nbsp;The Independent",
@@ -1501,7 +1509,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVFRQjZyS0lNc0tmajBjWVpCdG9NX1lWSjJMWGdscm9mUnp5ejdpc2dxQ1duMlJfaGdpd0tHRTV2N18wcklxMkVjUGVsS012NU9fRmxVeGVlYjJscWFFdVB0ZWFYYkIyVTkwTXhHY1hjYmpBYlhmdVEzWVRYQjNyY24xY2pBMEhvSkQ1bk1EY1lBM0Z3M2lJU1lNREt4RlRDWlVISlM1cUh0OExyTmdFYmpISjZPQQ?oc=5"
     },
     {
-      "id": "russia-4",
+      "id": "russia-5",
       "source": "TVP World",
       "title": "Russia hacks cameras across Europe to spy on weapons bound for Ukraine",
       "excerpt": "Russia hacks cameras across Europe to spy on weapons bound for Ukraine&nbsp;&nbsp;TVP World",
@@ -1509,7 +1517,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDFEd1YwRGp2d1d0WmlJWkQtVF9hWV9va1BpeDdYclNVUm01S0ZJbkNialpzdUY4emJIcEVJRUFJZDhROTRjV3Rod2NJb0tQX081Sjl3T3l4cnJqQXhGMlJULWZjWFRkNlZfM3YzdjJxakJwN0F6aVA1Mk1CZnh2UEQtSjNoc24xQjMwaUZPNUZVV3A5bGVoa0ExZ1pHdXkwYUViSjg2ak5zVGlFMGc?oc=5"
     },
     {
-      "id": "russia-5",
+      "id": "russia-6",
       "source": "The National Interest",
       "title": "Russia’s War Against Its Own Future",
       "excerpt": "Russia’s War Against Its Own Future&nbsp;&nbsp;The National Interest",
@@ -1517,7 +1525,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiaTEwWk4yV1RabkhBeVduR2VGcnhFQ29tR2FQbmExRDU2YkJFX0FXY2pFSk1zd2lBaFBVS3V5MFVVX3g2eGZubDc0RDRTSDdsMXVaT2R5aFFaemJWNEd4RzhKV1F2XzM5ZHA2STZmZHp2UXh2MVdGUDlPRQ?oc=5"
     },
     {
-      "id": "russia-6",
+      "id": "russia-7",
       "source": "KTEN",
       "title": "Bipartisan senators announce agreement with Trump administration on Russia sanctions",
       "excerpt": "Bipartisan senators announce agreement with Trump administration on Russia sanctions&nbsp;&nbsp;KTEN",
@@ -1525,7 +1533,7 @@
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZ3RBa0gyd20yZDF2YzZBa0NTLWdiWUNVRnBVWS1lU2xmR1R5TnBsbjhIX190dmo1OEF5U2x3WkNSYko5UDVoaWR2WENzTlQxQTBMQjlqSWVUTlFyNmdzSnEyZHE1VnNqZV9wQXJRbTBRMV9yUE1MUzAtTnVtUFhVLTBWSEhWR2ZGT2RJUEpuSnlnSWhQeGdTazVMNm00aDk1bzNuNDk5R2dZMmxFSXNlQkVtSmI2R1ZMdlo5N09sUzJpY19PTWlCRlF2UEpkbUVaZkF5bk9uWXo3QnlmVXhSOGtkQ2Y0VnU5SUJOOUtuRFIyT2s1SDR1RGdnbFBEQQ?oc=5"
     },
     {
-      "id": "russia-7",
+      "id": "russia-8",
       "source": "CNN",
       "title": "Bipartisan senators announce agreement with Trump administration on Russia sanctions",
       "excerpt": "Bipartisan senators announce agreement with Trump administration on Russia sanctions&nbsp;&nbsp;CNN",
@@ -1533,7 +1541,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbmlYcl9WYnhYYmx1eDBfLUdPSFhLT2JWUDVFSEREalpGTDFyT0t1c2phVUJ0cXlyYks4OWhXY05IbFdCM1plbm15UmZvaU9Lbi1qUTE1VmxQZTE3RV9QN3psZUdPcENubG9UYkdXNk5QNFdZZll0cVV5dThSc2lDNnJkQm1WTTBUeDhpLTkwMkZvdTlGVjlyU1Rua0w?oc=5"
     },
     {
-      "id": "russia-8",
+      "id": "russia-9",
       "source": "Council on Foreign Relations",
       "title": "The Time Is Ripe for Russia-Ukraine Peace Talks, But Putin Could Escalate Conflict",
       "excerpt": "The Time Is Ripe for Russia-Ukraine Peace Talks, But Putin Could Escalate Conflict&nbsp;&nbsp;Council on Foreign Relations",
@@ -1541,20 +1549,12 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSEZGXzZINjJ2VnlsMndycFg3cEV1cGJLcVlwek1fdl9KM1ctdERNOHpLSmVySkdjakpBMk9YZFd6S0QtN1laUDBINVNESlc0ZEdEYXJudDJuQS1pNGlnTHRHN09oYm1kZ3lkSVhieDYyUURad1JrRkN4ZkdHdF9HUzVmaklULTFQbGdOXzEyME13eVNyN29ndzFJQ1MtWF9ZeThCaTlxZHRMNHVRS3Jr?oc=5"
     },
     {
-      "id": "russia-9",
+      "id": "russia-10",
       "source": "The Independent",
       "title": "I have visited Russia every year since the Ukraine war began. The mood has changed",
       "excerpt": "I have visited Russia every year since the Ukraine war began. The mood has changed&nbsp;&nbsp;The Independent",
       "timestamp": "2026-07-10T05:38:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdWxYaUp2UlZQNlVZcDU0T3BPTmpIY0pmSERRRWEzWTRfTHJoeTJsa2F6dlctUGJtQ0RycmdrVU5SRVZzTV9zQ190eFhVUmMtaTBEdHhfUjBlSWlkQmVTak1HRExia3J3SDFNU0NVT1k2c1Eta1BPVGg3NFozSzZRSmhXTDFuSW1OQzktMnRXckd5clFxODBGQkIyR3BGbXFBSkRyWTdCY1l2NDNRNGdLbExR?oc=5"
-    },
-    {
-      "id": "russia-10",
-      "source": "The Economist",
-      "title": "Russians start to pay a price for Putin’s war",
-      "excerpt": "Russians start to pay a price for Putin’s war&nbsp;&nbsp;The Economist",
-      "timestamp": "2026-07-10T05:00:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2V4ZHVMSjRYTXYwV0h1RWxLaWVwdWoxYjhlTnM5ZWU3SnY3dGN5UzRuR1lyNW1HVGh2eHp3bnBWWFdEVE9zMWRIT2hEazdqY3FnZWRWTU13YTI0RUJtaEw4ZVE4WXJYLUNEYjRXWHBWYUljcFpiMkZUR3RBTVJlODRzd3hwVmh6WXNmcjdiajRfX0FQTDVj?oc=5"
     }
   ],
   "Bahamas": [
@@ -1974,7 +1974,7 @@
       "source": "DNE Africa",
       "title": "South Africa’s Economy Gains Momentum as Reforms Boost Growth Outlook: Standard Bank",
       "excerpt": "South Africa’s Economy Gains Momentum as Reforms Boost Growth Outlook: Standard Bank&nbsp;&nbsp;DNE Africa",
-      "timestamp": "2026-07-12T11:58:44+00:00",
+      "timestamp": "2026-07-12T14:52:20+00:00",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtOXRwcGE4UTZzMEJiOVlqcTFoMkhUUlJ4SjZZNUpnWGZzMXZydVhoR1lCV3QzWFpGZXMyMWpzdDJGWHRFWXpqSFpvckFaMWNPb19GSXRmbm9uRzVUTHRpOG5fUDIwUFk4VU5rTzZsLVl2VTVQYkdKX3hUeDZsM00?oc=5"
     },
     {
@@ -4513,6 +4513,14 @@
   "Nigeria": [
     {
       "id": "nigeria-1",
+      "source": "Punch Newspapers",
+      "title": "Lagos Hosts QEDNG Summit on Nigeria's Creative Economy",
+      "excerpt": "Lagos Hosts QEDNG Summit on Nigeria's Creative Economy&nbsp;&nbsp;Punch Newspapers",
+      "timestamp": "2026-07-13T00:58:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUI1eTFNM1ZlV2xmOVp3c1dINGR1YTFrbVJ3Y1lQWDF1YmJKTWI4RlhrbXloU3VvbkdURl9LVnhQdWxZR3dyUnNfU0U0bmdBbFVNOWxEUk52NHZubnJreGlFTzloc2xFcW9vQVZ1TUFQVXZ1OGljMEx1OWpZTkxVYW1OZ0w?oc=5"
+    },
+    {
+      "id": "nigeria-2",
       "source": "The Whistler Newspaper",
       "title": "Tantita’s Oil Asset Protection Key To Nigeria’s $1tn Economy Target",
       "excerpt": "Tantita’s Oil Asset Protection Key To Nigeria’s $1tn Economy Target&nbsp;&nbsp;The Whistler Newspaper",
@@ -4520,7 +4528,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcFVVNHl2NmFHMmN6cE82RGY0dXJtdGw2NExJeTV2UUdObjkyWmpEQkFpeFp4VkVISEJPNGVmakZNT1B5WDc0OFBqLTlLTlkwbWFJZzNXMUNObmI5bTYwYmFQRjlWd1N2ZDQxZ3ZvZm9ZUEVLTDdJckMzcUM3RmxPS1pHMXpDTlRJNDBFSGFxZ1g3UQ?oc=5"
     },
     {
-      "id": "nigeria-2",
+      "id": "nigeria-3",
       "source": "Politics Digest",
       "title": "Can State Police Secure Nigeria? By Aysha Haruna",
       "excerpt": "Can State Police Secure Nigeria? By Aysha Haruna&nbsp;&nbsp;Politics Digest",
@@ -4528,7 +4536,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55S3piR2k3U2hNcUxuUlFxak9IcWV4dUlmVVZSc1ZjRlhrZDdJODJwX19LaWtnWUkwTXdUaHVMOU4xMzBiWWtjZHo5RFpCcHFETHJPV1NReUFja3M3YnBDeGlB?oc=5"
     },
     {
-      "id": "nigeria-3",
+      "id": "nigeria-4",
       "source": "Business News Nigeria",
       "title": "As Nigeria expands social protection, Akwa Ibom is building a grassroot humanitarian economy",
       "excerpt": "As Nigeria expands social protection, Akwa Ibom is building a grassroot humanitarian economy&nbsp;&nbsp;Business News Nigeria",
@@ -4536,7 +4544,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNUN0SnNvSlNNT1JGQ09xTlg3c0M2MnRuSnNxazU2eW9ReWptcktSUDFqOC1xLUM4VlFLb0VDMm8xaFVyVTNkcWJvVzZwNC1wdHNXY0xKcDhDVnAzbkVjS1htQkpzSEFsUGlZNDBsY2FQVEY5WEJnSDdKcUk5WElKZGtmVnRDTXZRQ3UwaFVFM2ZOeXIyc0hiNjhHZ1dwSll2SV9WWndaNFRvV3M2NHNCOXZ2aWxndWs1aHk1UUJ5MDFDa0xDYmg5bkRrYmlyMVRHOHc?oc=5"
     },
     {
-      "id": "nigeria-4",
+      "id": "nigeria-5",
       "source": "Business Post Nigeria",
       "title": "Stanbic IBTC Capital Emerges Best Investment Bank in Nigeria |",
       "excerpt": "Stanbic IBTC Capital Emerges Best Investment Bank in Nigeria |&nbsp;&nbsp;Business Post Nigeria",
@@ -4544,7 +4552,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdktxQTJ0U2VwdnBiX015b3pYQ0UzTEVmM3ZrcUF3eXJ3VDdRVnlTVnY1UENsQl9TM2VkZmFSQlBoeVgxc2d6RjRrR2VUeWlFUXk5Q1dLT2xESGRlejNjYkozLTdLcDVuRmVRdjFvTHQ1anhKU3cwWHhubTBKQWE3ZFBrNTFRYjFjeWFmVlBBNTFvOFUyaWJ4aA?oc=5"
     },
     {
-      "id": "nigeria-5",
+      "id": "nigeria-6",
       "source": "THISDAYLIVE",
       "title": "Emem Usoro: The Quiet Banking Amazon at Nigeria’s Central Bank",
       "excerpt": "Emem Usoro: The Quiet Banking Amazon at Nigeria’s Central Bank&nbsp;&nbsp;THISDAYLIVE",
@@ -4552,7 +4560,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWFFSnRDYjlZVklOSHFQNmhvNm9hVV9QdjdEcG0xRXd3SkJwdy0zejdLZnVMSTFFYVVrWXZBQmluTzFUbVIzZmJzRUJIY0ZNTi02alV6WjY1bktGWE1rSF9PWlBGV2ZZVUZvaDdhcV95WnEwdlhWeFFPU0d5WURlZXcxZmlOUEFxOFYteklfWExLZmI0aklaVDcxRmVrZGliWHc?oc=5"
     },
     {
-      "id": "nigeria-6",
+      "id": "nigeria-7",
       "source": "Tribune Online",
       "title": "VIDEO: Tinubu came very prepared; reforms transforming Nigeria’s economy — Ooni of Ife",
       "excerpt": "VIDEO: Tinubu came very prepared; reforms transforming Nigeria’s economy — Ooni of Ife&nbsp;&nbsp;Tribune Online",
@@ -4560,7 +4568,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXE1dFZjM3B0NEdDTlBzYzVpQ3NBaXNfb3ZBZHVEYkVtUDl0VC16a0llZFQ1alZNYklOaEw4Q2RJSHU3eU50TlNGUnhrTHpVdjJFR3F6Mnl1SXFyN0tVOFQ3UFJfZ2p4bVhLUWZpekFpbEQzelVCZnB2MFJGbk9qQjlDNThUQWlBcDdXVHpnN0FXeVNSZThvZUNWVnZ2d0p2YWdiN21naGhxc2syWkJN0gG0AUFVX3lxTE9rX2M1amJLOHB5emlHeVlmdXJhdXpDV0ZMaGlMZWJ2NWw1a0hCZUJlcUk0OXJjaEhtN2tESHROYXFuSExFalZZWi1NaS1iR2x4OGE2R2ZIVmJjZUhXMzQwOWZtcmh3cTdnZEFJM3NtaVBGNWs3N0hlUklTMTZBOVRTOHZ2UkoySFJFc2FVaDBPSzJhWDBrd25jRXVhazlYZVZtWUdTTVM2ZjB6LVJ2eDA3S2lTTw?oc=5"
     },
     {
-      "id": "nigeria-7",
+      "id": "nigeria-8",
       "source": "The Africa Report",
       "title": "Fani-Kayode heads into Nigeria-South Africa diplomatic storm",
       "excerpt": "Fani-Kayode heads into Nigeria-South Africa diplomatic storm&nbsp;&nbsp;The Africa Report",
@@ -4568,7 +4576,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbHFmdmZ1SGhhREJxaGxHM2E2cVEzaWljUnFvVmgtSEtwZjVWb2FFdVdXTFVhNXhseWxOcEFZSFNGOGI3eEpyN0dEZEdzUGxTekhhWW8ydGN6TWhMN2hDVjBrS2NfbFVhLXJSS0lWSTJCQlBPcHdoY2dPTE5rZW80Qk9QTktKNl8tZXJLb2tEbS02UjdIUDBsekJMSW1VU1RKTXc?oc=5"
     },
     {
-      "id": "nigeria-8",
+      "id": "nigeria-9",
       "source": "BellaNaija",
       "title": "Nigeria's Creative Economy Is Booming: Its Infrastructure Isn't Keeping Up- Meet the Hub Trying to Close the Gap",
       "excerpt": "Nigeria's Creative Economy Is Booming: Its Infrastructure Isn't Keeping Up- Meet the Hub Trying to Close the Gap&nbsp;&nbsp;BellaNaija",
@@ -4576,20 +4584,12 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Dd3hEc01aZEdIa3MyMzN0Z2hweGYwUEk0VkZ0WGc4czZyUldib0JqZThnM2J3S2ZjalFiMWhLQ3dlSEtEdmg1ckk3eVVwQ0xweFBwSDVuSlBOT0lUNFotRDdHNEdtdUxDdlh0a3Z5M1lIVlJHZlBkMnpibw?oc=5"
     },
     {
-      "id": "nigeria-9",
-      "source": "Tribune Online",
-      "title": "Over 250,000 active influencers in Nigeria as creator economy booms, redefines entertainment industry",
-      "excerpt": "Over 250,000 active influencers in Nigeria as creator economy booms, redefines entertainment industry&nbsp;&nbsp;Tribune Online",
-      "timestamp": "2026-07-10T07:15:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa25YTHhid1ptc1p4QzBaakJzOWpxeVhTY2M4WlNmR2tuS1pHRVdfT09qU0tncmFQSHNBdzA3UHVVdkxpbXBwUTB3MC1wSEE4aDNLS1EyQjJlb1FsT2FLN1dKTFdyU0Y2czgzaTducElQN0dHbVFTVU0tbk9PY1pZQXZ2QmJXNDNZRVNMc205dzl5cHJsRERrN1dycGVUTEItenlRT2lLRzdhRmdEOVI5Z0ZrSi1mU3NoaTcybktFaklQcG9DMklV?oc=5"
-    },
-    {
       "id": "nigeria-10",
       "source": "Tribune Online",
       "title": "Over 250,000 active influencers in Nigeria as creator economy booms, redefines entertainment industry",
       "excerpt": "Over 250,000 active influencers in Nigeria as creator economy booms, redefines entertainment industry&nbsp;&nbsp;Tribune Online",
       "timestamp": "2026-07-10T07:15:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4eUxxU1VOeFgwM2o4OEhEZjAzX0x0MlZVSnRUb0RSNXI5bVNoSG9Xa01DQngtckZyNHFXbTJDTDZnblZ5NnlGQ1RWdlFoQTg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa25YTHhid1ptc1p4QzBaakJzOWpxeVhTY2M4WlNmR2tuS1pHRVdfT09qU0tncmFQSHNBdzA3UHVVdkxpbXBwUTB3MC1wSEE4aDNLS1EyQjJlb1FsT2FLN1dKTFdyU0Y2czgzaTducElQN0dHbVFTVU0tbk9PY1pZQXZ2QmJXNDNZRVNMc205dzl5cHJsRERrN1dycGVUTEItenlRT2lLRzdhRmdEOVI5Z0ZrSi1mU3NoaTcybktFaklQcG9DMklV?oc=5"
     }
   ],
   "Cameroon": [
@@ -4923,6 +4923,14 @@
   "Guinea": [
     {
       "id": "guinea-1",
+      "source": "Encyclopedia Britannica",
+      "title": "Equatorial Guinea - Oil, Agriculture, Fisheries",
+      "excerpt": "Equatorial Guinea - Oil, Agriculture, Fisheries&nbsp;&nbsp;Encyclopedia Britannica",
+      "timestamp": "2026-07-09T05:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VVWs1dUF3M3pxck13YlAzeGo1MlFMQjE4bUZCUWppU3hFODg5Mi1QdFpKUU02SnpwSE91b1E4Y0hiSEctLURDakdaVGREeEszNmV4dFRTakd1T24zYk42dGZtYUxJMjZ5UUE?oc=5"
+    },
+    {
+      "id": "guinea-2",
       "source": "Post Courier",
       "title": "Papua New Guinea’s Economy Grows, but Jobs Gap Remains",
       "excerpt": "Papua New Guinea’s Economy Grows, but Jobs Gap Remains&nbsp;&nbsp;Post Courier",
@@ -4930,7 +4938,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdTB2cEhvcGhCWUk3M2Jndk16dTJpdEJvRmlsRXNzRFk1X3lUQmRNMlNRcmlTS1c2b2t0VlBwSjd0c0VFdjVhYV9LQS1za1pHMGFpMms0d05ZMDVFekdtaUJSRHVZZXNwMzJ0WkZSZDFCUTRjSzFJTG1RMDV0LUh2ODdYWWVHV3hhLUZ5Yw?oc=5"
     },
     {
-      "id": "guinea-2",
+      "id": "guinea-3",
       "source": "Mirage News",
       "title": "PNG Economy Grows, Jobs Gap Persists",
       "excerpt": "PNG Economy Grows, Jobs Gap Persists&nbsp;&nbsp;Mirage News",
@@ -4938,7 +4946,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wUjJoVWYxUFlJcC1sQlB0WW5McU9sTEQ3d2UwWFA1VkFfSDlQN0twUW9MbnZMV3F5Y3QwZENlMVJ1VGNlTnhrcnNPZTBtU21UNG1mRWF4OEFXNHZwV3BqLVUwVGFDN0NaTTZWLUVRV04yMmFETXhDOVJsZw?oc=5"
     },
     {
-      "id": "guinea-3",
+      "id": "guinea-4",
       "source": "Encyclopedia Britannica",
       "title": "Guinea - Politics, Economy, Society",
       "excerpt": "Guinea - Politics, Economy, Society&nbsp;&nbsp;Encyclopedia Britannica",
@@ -4946,7 +4954,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zbTM4VGlsLWlqSGdZaGNUZHlIQlI0VzVlVWtUNVZhLVdUOHozUzlYUU1YTDVzYlQ2TzllSWprRjlkZEtRbVF0WDc2bWxINElQa2drUDM5ZzAwUzQ4dzNXOGZvdUcwakg2VXpHN3I4Yw?oc=5"
     },
     {
-      "id": "guinea-4",
+      "id": "guinea-5",
       "source": "Dabafinance",
       "title": "World Bank Adds $163M for Northern Gulf of Guinea Project",
       "excerpt": "World Bank Adds $163M for Northern Gulf of Guinea Project&nbsp;&nbsp;Dabafinance",
@@ -4954,7 +4962,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbEFneHpxV1pVZklwclR2blEwWnpYUkZmNkd4RU9ZSTljQ2VTSmd6SFJONUtWWFRpemM0Q19ScnhHal8xbGFYTlMxV2RpcW5rRElpOU80SXJ2ck5GX2pRZlowRlp3WW41MkREYTRiU3RwaU5BZzVrVkVXd244OVZEczE2c2Q?oc=5"
     },
     {
-      "id": "guinea-5",
+      "id": "guinea-6",
       "source": "banquemondiale.org",
       "title": "World Bank Group Report: Pathways for Unlocking Productivity-Led Private Sector Growth in Guinea-Bissau",
       "excerpt": "World Bank Group Report: Pathways for Unlocking Productivity-Led Private Sector Growth in Guinea-Bissau&nbsp;&nbsp;banquemondiale.org",
@@ -4962,7 +4970,7 @@
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT1FlMk5pWVhrVG9ueHNFT3VCb0FvUm9ibzNIQk9xRGZpSm1nVDMxWGRWRmtDS3Q0U2JWaXoyY2JMdzdPMEo5X1NITElLWlZ1MmdBSldpdUlEdjM2YU54SGN2SC1wcnJVZTMtU3Z2V1g1WnFNNVd3VFVWYWRINUJYdHg4RkRGYnNPcWplUHpmTmFMVTkyendDYm9Cd3g0MWt5MGRjU0p4MFNWUUU2OU5hQVRDaDg2Y1hwZW0zZGZfVzJURDQ3U2U5a2owbVdvRzVWcnBrME5LSFZpVTYxSUpKOXlMV21qWXAxZGZrMjhyN2V6dkdUSlh2Z013?oc=5"
     },
     {
-      "id": "guinea-6",
+      "id": "guinea-7",
       "source": "pozirk.online",
       "title": "Belarus to close embassy in Equatorial Guinea before appointing first ambassador",
       "excerpt": "Belarus to close embassy in Equatorial Guinea before appointing first ambassador&nbsp;&nbsp;pozirk.online",
@@ -4970,20 +4978,12 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkYWl5ZFQ3UGtHV080TmxaYjdVV0plS0s4X0cwMVgwNVRqMmNOZGExbW1PYUN2UzVtQV84WTZaS1hTR3VzeUZ1Z1laaDBvZw?oc=5"
     },
     {
-      "id": "guinea-7",
+      "id": "guinea-8",
       "source": "World Bank Group",
       "title": "Guinea-Bissau 2026 Economic Update: Pathways for Unlocking Productivity-Led Private Sector Growth",
       "excerpt": "Guinea-Bissau 2026 Economic Update: Pathways for Unlocking Productivity-Led Private Sector Growth&nbsp;&nbsp;World Bank Group",
       "timestamp": "2026-06-24T13:11:09+00:00",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZEFyOXVYVlFkRW4wdU5vYVZ2ZEM3TXl5a21aa1hYeHVUSXEtLV9XWWdhV3doVDZ6dHExNzVfb1p0cUlxU3Ayd0FRZlo3Q0ZWTnNlMktva3NxME1YUzBvc0hnMVFhcFRCd2lrdTBiWmk4NXZpcVYxMi1ESmVsbXRMV0cxYWc2Vl9idDlLcUVwOU9nQVdLWnEtX1YtVGFrWm5nOWk5ZU1DWkRid1A5RUQxVVlXNk5tOGxoX00zUURhbk5LQWNEZmFhWHZDRkgwWmRpUkJGSzRCTHdMZVR3SzRTVmxrQQ?oc=5"
-    },
-    {
-      "id": "guinea-8",
-      "source": "Encyclopedia Britannica",
-      "title": "Equatorial Guinea - Oil, Agriculture, Fisheries",
-      "excerpt": "Equatorial Guinea - Oil, Agriculture, Fisheries&nbsp;&nbsp;Encyclopedia Britannica",
-      "timestamp": "2026-06-24T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VVWs1dUF3M3pxck13YlAzeGo1MlFMQjE4bUZCUWppU3hFODg5Mi1QdFpKUU02SnpwSE91b1E4Y0hiSEctLURDakdaVGREeEszNmV4dFRTakd1T24zYk42dGZtYUxJMjZ5UUE?oc=5"
     },
     {
       "id": "guinea-9",
@@ -5088,13 +5088,21 @@
     {
       "id": "liberia-1",
       "source": "The New Dawn Liberia",
+      "title": "Liberia Expands Digital Finance",
+      "excerpt": "Liberia Expands Digital Finance&nbsp;&nbsp;The New Dawn Liberia",
+      "timestamp": "2026-07-13T00:49:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXa1pnRlVXQzV5TG1jV2FmVU1DUkJndnI4WHBGU2RFNms3ZE9CTTE3elhxclFUZ0c5TWk3bUxld1pXcHBaNEhFeGV1Vkp1YVpZTThVUUE3bFI5cDJvdW85Tm1vSjRDXzJzN1JNMmJKVVhwTjF2?oc=5"
+    },
+    {
+      "id": "liberia-2",
+      "source": "The New Dawn Liberia",
       "title": "WPA Sends Finance Officials to Regional IFRS Training in The Gambia",
       "excerpt": "WPA Sends Finance Officials to Regional IFRS Training in The Gambia&nbsp;&nbsp;The New Dawn Liberia",
       "timestamp": "2026-07-10T14:53:44+00:00",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdEwzYUkxVml4WEgtUTVvc29SNFZUMERuTHNudEFoRzVtNWt3NHBoWm1vbm1RUDlNaElxVTNSYm9kWFJudGdLRVdUTEpsdnhTX1MxV3JjNkRfSGZ1R3dCNUllUXQ0cUV1YVRJdExhTkh3RWY5MDZEODFnbGNaRmlEajAybExJTnRydS1Ia2s0TlEwWmJLa0Z4TXhvbnVZaktudlRPeQ?oc=5"
     },
     {
-      "id": "liberia-2",
+      "id": "liberia-3",
       "source": "Africa Sustainability Matters",
       "title": "Liberia’s fisheries communication strategy signals new push for transparency and blue economy growth",
       "excerpt": "Liberia’s fisheries communication strategy signals new push for transparency and blue economy growth&nbsp;&nbsp;Africa Sustainability Matters",
@@ -5102,7 +5110,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa0wzcHNnMHZZMGgtVmRLYVBicldxeGMwcUo3VWhVN3dXQTlPTXozYnA0TVU5QkZwOVhtRWkzendQdFFmRXgyZDhsUDZRaVpoRmtWcjkyLWFTRXZzTy1NaE5TNnpPZk1fVDlBaUdRUWgxZkJzM2lEOUIxSGllVEFMdkg4Nm9CRXZsbHdyaFpreHNraHFRUjJMSDQ0eDNZWHctNDdJZzliR0Z4WTAyWGtaMndNWlZ1Yk1LUzVHZmY5UTdhNkEzUFFxQ2hJaGphU2Q1WnhLMjZKdw?oc=5"
     },
     {
-      "id": "liberia-3",
+      "id": "liberia-4",
       "source": "The New Dawn Liberia",
       "title": "NAFAA Launches Blue Economy Communication Strategy",
       "excerpt": "NAFAA Launches Blue Economy Communication Strategy&nbsp;&nbsp;The New Dawn Liberia",
@@ -5110,7 +5118,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNck9ZMURCY0NJampqcVhnYzJ4WGtCMEZsZXNXcFVUUEFWVTBWWU1mS0tzRTdSaHBzZF9aOW1QS2FMWDdGclBIR2NyYkFtVmJ3Rkg3VUc5ZDdxZURwdFA0dmhmc1Rkb0phWWdqUi12c0p2bktjaThrLTN4Ql9GbmQ1OGpsMTZtUnpqLTVkUU5n?oc=5"
     },
     {
-      "id": "liberia-4",
+      "id": "liberia-5",
       "source": "Global News Network Liberia",
       "title": "PUL President Kanubah Urges Government Officials To End \"Attack Dog\" Politics In Public Communication",
       "excerpt": "PUL President Kanubah Urges Government Officials To End \"Attack Dog\" Politics In Public Communication&nbsp;&nbsp;Global News Network Liberia",
@@ -5118,7 +5126,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaGxDSEdlWmhHd2o4Z003ekZySFA5VXR4cV96YU5FLW1ldzBGeEpEQVc2OXZ2dnJOY3ZQQnRfTDktMUJqRkFMdUNkRnVMTV9ZVGUzZHZpWmdwUUtfZ0tIcU5rbDhTZ3p1T1Iyd3hyVHQ2V2ZmWjFZX1NxMEtEd1dnSU54LU5oUmRBT0lheHBJSTk1X2U3aHhXandFUldVLWhaOXdzZU9WdnYzbHhNZ1laZEVoamZjdko2YkZpY29BWl8?oc=5"
     },
     {
-      "id": "liberia-5",
+      "id": "liberia-6",
       "source": "liberianobserver.com",
       "title": "NaFFA Taps Media to Advance Liberia's Blue Economy Vision",
       "excerpt": "NaFFA Taps Media to Advance Liberia's Blue Economy Vision&nbsp;&nbsp;liberianobserver.com",
@@ -5126,7 +5134,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWjZkanJiUTJxdV9mdlFjV3ByQU12OTVSRmpzNWtKRGR2cy1FSDF4NXl4dlhiNG41NVc4V3ZmWERtMWlwbWtTakp5YWtXdjhzWkJGMXJxUThyVExmWGdyN28xY1ZiUWZpbkFKTDJ6Q1NmUmhsVnpCVXZSLVB5WHBmT0toY3lDSnlHekJsUDM1S0J1ZWY2di1SYks2ZnVvVDhrdU5Td0NwbDBQa0x5SGd2ZlVaMmppYnR5WUZyTXN5NkI5cm51dkp1MU4tVmV0cjJVWEpCdTJDT3dkUnJsc3Q5MWZVZDE?oc=5"
     },
     {
-      "id": "liberia-6",
+      "id": "liberia-7",
       "source": "The Observatory of Economic Complexity",
       "title": "Liberia (LBR) Exports, Imports, and Trade Partners",
       "excerpt": "Liberia (LBR) Exports, Imports, and Trade Partners&nbsp;&nbsp;The Observatory of Economic Complexity",
@@ -5134,7 +5142,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFZFBVN3JoYlpjVTNKMGhiLWk4R28tNG82Tkx0enNHYS1sVTBkVVJrWk9WVHM3TDF6VFVuQVkxR3diUWtpU0xhd1htVzFadlF3Z2c?oc=5"
     },
     {
-      "id": "liberia-7",
+      "id": "liberia-8",
       "source": "liberianobserver.com",
       "title": "PKF Liberia Admits First Female Partner",
       "excerpt": "PKF Liberia Admits First Female Partner&nbsp;&nbsp;liberianobserver.com",
@@ -5142,7 +5150,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHg0M0lLazFZX09WU3RGbHoxRENOQWpmS2ZiQjM0N0U0SVYteXEyclk3c2JFc2NLR0duTnRleXR0ZGtNSXhYMkdOZVJMYjdURnQtbHl5dGg5Y243U2ZJcnJ5YTZXajZVSDZwYl9hRDZwXzk1cHc3dUMtdkUxV2FpcC1jNjdzUjdYd2ZpT0pJNW0wQUk4Qk1CaXA1N0JxT3Awd3daT3VxVHU4eEpkV3AtZFN3WDNnbDM3ZXlZTmUtVzFsOFJZM25wSkJFSQ?oc=5"
     },
     {
-      "id": "liberia-8",
+      "id": "liberia-9",
       "source": "liberianobserver.com",
       "title": "PKF Liberia Elevates Accomplished Finance Professional to Top Executive Rank",
       "excerpt": "PKF Liberia Elevates Accomplished Finance Professional to Top Executive Rank&nbsp;&nbsp;liberianobserver.com",
@@ -5150,20 +5158,12 @@
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUElmX1pra1lobU5qbUxZdkZpdFlKUDF2dDRGNFFGY1k4UkVJWDRNa2ZGSktNRmpTeUxPbVRtcnlCeERmQThqallCeFlaazM3YUV3TFdkeHZBM1JFV1ZkWWZSeGlnM0lKX3VEN1pMalNpMTNCNW9melRvemhWV3d5b3lIcGd6aHFTckhXallJNnJ2Qmh4UWJuQzhvOUNUTHhCd0JmVExDVlJGN0kteUhGa0JkMkpValdMUms0Y1pSVmtIX2NfUVJXVU1YVE5IVE43X2RURjhmdEgwYVZBV0xfSXZsSEZfMVQyRHhnNXJDR3FKZWpscWd4ckRZTGg?oc=5"
     },
     {
-      "id": "liberia-9",
+      "id": "liberia-10",
       "source": "Capmad",
       "title": "Monrovia: Central Bank of Liberia consults stakeholders on phase two of the National Financial Education Program",
       "excerpt": "Monrovia: Central Bank of Liberia consults stakeholders on phase two of the National Financial Education Program&nbsp;&nbsp;Capmad",
       "timestamp": "2026-07-05T15:46:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQzBFN0NwZFlxaEhkZWhSU21kbDFhN1EzU05YQV9jb3ZLSFBsS3M4S1JYOHowNlVzZFMtMmZxMkRpNEVTcC1OWl9vUnpoV1k5WVVIWHJFT1FISENCdVRDbHhYV3F6SF9CTW5TRDFoWnI4SVBhQmZwdGlncnp5YU9NOEtDQ1dqMXVGelp0WW5mTU9fM0Y0amM0QzJKQ1B0bS1LQnNnNWxZMlZ1LTlBZUw5SUNlS2JPc2t0c0RkSFdVcHNMT2N6ejNhVzhTVmlzalBFWDVCZzZ3?oc=5"
-    },
-    {
-      "id": "liberia-10",
-      "source": "The New Dawn Liberia",
-      "title": "CBL Consults Stakeholders on Second Phase of Financial Education Campaign",
-      "excerpt": "CBL Consults Stakeholders on Second Phase of Financial Education Campaign&nbsp;&nbsp;The New Dawn Liberia",
-      "timestamp": "2026-07-03T00:58:38+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbkMtOW1XZXN0akNKRmxyU1V4V3N0WEtGZjJUbkxNQ3VfcXVGVW8tM0pVUV9udFhSamN2LUs1SFN2eGtlcklNNkxVQUpBZHhYMWNDQXVmdXUyeXFuaGxYa3RySTJad19QUG1RT05QSTdYTWRsd0NuSHhCMWwyUmM3VEFrUW45emw1b1dMX1FxdnRsVWl2cG55N3RSbnJiN2Z4R0wwMHBUVFRJRDFX?oc=5"
     }
   ],
   "Sierra Leone": [
@@ -5932,13 +5932,21 @@
     {
       "id": "eswatini-4",
       "source": "Times of Eswatini",
+      "title": "Eswatini-UK trade plummets 87.5% in 2025 :: Business & Economy News",
+      "excerpt": "Eswatini-UK trade plummets 87.5% in 2025 :: Business & Economy News&nbsp;&nbsp;Times of Eswatini",
+      "timestamp": "2026-07-07T13:32:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeU1MS1oxNXlsWFhuYmU3djc5S1VWWl9IN1BicDJRWUowazlpNmN3bnJOd0Fob3BhRVNKeUZ5cnY5RGJ3bDhZWXhNVUhFQXNiNE5rY1ViTEZXQ2RKeGNqMk5nTXk5OG1ZZTF1M0dRc1NsNXo5MnhRNTdkYlVYYThsaktTSEVlakxmWUd5b1dUQ0hlcFpJWUVRSDkzYm5mbDgwakprS1JWTFFYTnBxNlg5bVRnSVV3emVFMWtRaTdkRllkcXA3OVF5MU00R2dUMHV6RldxV3pn?oc=5"
+    },
+    {
+      "id": "eswatini-5",
+      "source": "Times of Eswatini",
       "title": "Eswatini’s job boom masks growing economic fragility :: Comments & Analysis",
       "excerpt": "Eswatini’s job boom masks growing economic fragility :: Comments & Analysis&nbsp;&nbsp;Times of Eswatini",
       "timestamp": "2026-07-07T07:48:49+00:00",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQkg3VVZ2NDRQaHQ5NVFLNTlpTVc3V1Y5VllEc2ZzV3pJOFJra2VJeE5FT1JZM0RIYm9DVnVpYmxpWTJMMUdBWnR6aEdtendKZUVybFZUb01lOGZwMTVaRURodWZzRXFsbHdBazBPbmFDZzA2MFY3TDZneHNCd1ZwSjhkaUZGVlpTUHNHNFJJSm9kU3FLQ1plWW5hN3ZiVWJDbDROcXVTME5Hakt4UXVqbFpYa2NsUFBfXzBYWkhxWWp2elF2RlhtT3dQSkFyNmVvcXB5ZHRFTUE?oc=5"
     },
     {
-      "id": "eswatini-5",
+      "id": "eswatini-6",
       "source": "Times of Eswatini",
       "title": "Eswatini-UK trade plummets 87.5% in 2025 :: Business & Economy News",
       "excerpt": "Eswatini-UK trade plummets 87.5% in 2025 :: Business & Economy News&nbsp;&nbsp;Times of Eswatini",
@@ -5946,7 +5954,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYkJhMjFuNWlyNFJFYmJEYnQ2MUE2b2dGQ00tNG5hNEExcHcxZW9iNkduVXNHdmRrLVFoeTlDT092c2FQeHd3UjdONlpuQ1o0ampUTmxjZ203XzBOVXN1MmhaOWxnZXU3dTRlOWM1R0tNLTZZM2pzSUJ3OWNBUHpoM0tCNnpaU0hOQ2dUZEdJUkpLcWE5U25QcXpldjdtUkFjRHdTN0Izd21hZ1lMakJYRER6NVR1WWhfLXNBTURWMHJNQVVlRlFjOUtUakV4TlFxeXIteE42cHZrMDQ?oc=5"
     },
     {
-      "id": "eswatini-6",
+      "id": "eswatini-7",
       "source": "Times of Eswatini",
       "title": "Tax transparency milestone boosts Eswatini’s global tax cooperation :: Business & Economy News",
       "excerpt": "Tax transparency milestone boosts Eswatini’s global tax cooperation :: Business & Economy News&nbsp;&nbsp;Times of Eswatini",
@@ -5954,7 +5962,7 @@
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSV9hNWEwVk8wWDNzRUlpRFBERjhoQmduVlBmV3p0R2R0RU5Sd3R1a0I0NmFXa3VLR1ZpSVVUQ2diVWlIOWFfZW5YZmphUXpXNVpYbDF0WE1DM1lSWlhoZjVqdkRnQjhHVF93MDFtX0ZDMG5WT1JyVG4zQ21YUlg0dUZQWTdYM096aTNvVHVsb0w5R1NzQjU1MUQyeEkwa3lHSGM0c1A5OV8tdHhlZktCVXc1YXZKNjZZN1Bwb0d4Z09RTkc3bDc2NlZKODVVTzJoN2szazFOXzN6eVZaanZUV1BoZ0dGbmR3bE4zYUNMdHJSREFFNEM3dndnZDVibzVPeFpHNUpLWQ?oc=5"
     },
     {
-      "id": "eswatini-7",
+      "id": "eswatini-8",
       "source": "Times of Eswatini",
       "title": "Eswatini well placed for AfCFTA investment opportunities :: Business & Economy News",
       "excerpt": "Eswatini well placed for AfCFTA investment opportunities :: Business & Economy News&nbsp;&nbsp;Times of Eswatini",
@@ -5962,7 +5970,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdHQ0VWZCSEc1RFF0QWR4TlpyeG9Dbkh5Z1U5eTR0N00zbEFyVDdYQUsyQlBNVUdqM2hHUk91SUxWMjV4UURsM3YtWFR6UG5OejNpZHVsTl9QX3Fsa0RReENvdldIdmNnMFJBdXBJb2F1S1BxN0U1dWZkRkJJRnNOUUlNRzRoVm5QWkg5R0hTSFBCcTZZTkdlUmtYajBIWmFEVURTQ1I4bWNfQ0xPWWJiTXFnSWhCS0V5MXBRZU1IYkRheE8ybDdBeVlNY0R6UFBPZW9LOE5iOTY3aS1jc0ZxRUxUaTYwYjRzbkFHcWtVMA?oc=5"
     },
     {
-      "id": "eswatini-8",
+      "id": "eswatini-9",
       "source": "trend.az",
       "title": "President Ilham Aliyev approves memorandum of understanding on cooperation with Eswatini",
       "excerpt": "President Ilham Aliyev approves memorandum of understanding on cooperation with Eswatini&nbsp;&nbsp;trend.az",
@@ -5970,20 +5978,12 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11Rm02enZfTzB4b2t6YzNYQjNfMEUxNUNsSXpMX3pZUXdxM1d1UGNNb05hczVGT0FybEtMaDQ3Z1RzZWt1LWtvdm81UVVGWl9qXzRMc0ZSMUF0dTNjb0pvZ1lCZw?oc=5"
     },
     {
-      "id": "eswatini-9",
+      "id": "eswatini-10",
       "source": "Times of Eswatini",
       "title": "AfDB commends Eswatini’s economic reform progress :: Business & Economy News",
       "excerpt": "AfDB commends Eswatini’s economic reform progress :: Business & Economy News&nbsp;&nbsp;Times of Eswatini",
       "timestamp": "2026-06-30T02:08:38+00:00",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaWppUlN3Y0RmZW5NZzhXWklDNmVHWmtWNmFxa3ZMeV9sOEplRnR5ejk4c3RCUEtkMVRXbW1uTXFnU2lrUTJnenp3bjBVRktKbFpEcU9ObDQwcDZDbjI3Zm1FSlZ4MmI5QjFkaFozc2NOVHI1S3JWNzBIaENrUndseHZjM2tra1pVN185WGFmU2I1V3h0UzFGeW5Sc2R4b0VPN2w3NEJYYWhRUVUxZmtTU1hOOE1JQ2xtSXp1T0FBSFJHSE5tdzhXTi1xcVctSE5ueTVCa29PaTd2RUlsR2xweTFVbmh5dGQ3N3g3ckpVYw?oc=5"
-    },
-    {
-      "id": "eswatini-10",
-      "source": "Focus Gaming News",
-      "title": "Eswatini finance minister says illegal gambling prosecutions reinforce anti-money laundering framework",
-      "excerpt": "Eswatini finance minister says illegal gambling prosecutions reinforce anti-money laundering framework&nbsp;&nbsp;Focus Gaming News",
-      "timestamp": "2026-06-29T15:26:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVnpET192THF1a2dFMFVZM1VBX190U1dVbGFUWFV1ZW9uaVgwNWJ5aXlCUHhRd3hOQmRDNGVUQ2FDNTdVc0dqVEpyMHg1NmRxRHVod3Y2MnFaazh5RzByckxQZmJITV8tU1NFTTFLLWlkakplamlfbm1nLTFEOXZaTUxKQmliNmRiTlJadzNfTDlzbk81MlpBX2dya0pGMTNEdlNHbUw5SWJDbE5UcmpIbmcwLU8xc2pPZ1hWb0FR?oc=5"
     }
   ],
   "Angola": [
@@ -6156,7 +6156,7 @@
       "source": "Al Jazeera",
       "title": "Israel to hold national elections on October 27, parliament says",
       "excerpt": "Israel to hold national elections on October 27, parliament says&nbsp;&nbsp;Al Jazeera",
-      "timestamp": "2026-07-12T21:28:09+00:00",
+      "timestamp": "2026-07-12T21:34:15+00:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWNlTjROOHdtbXdVZm43NGxBYVh3bnlrX0Y1bmptVEpHVk9fZWtsenZjZEZLeE5hWUhMUGU5SFdDd0hoa3A0NHdQd1FLTlZuc1RaNzlUbTBNNV9TU0RQRjl3S0pnTTJMVW5YZkVCd2pwelVETzRqSWR3TWM3d2IxelYtS2QwNHVYMy04blRZR1pteGJoNDhqOS1qMG9zSkFvTjV6X1FLRdIBrAFBVV95cUxPaXZhNTREdEpwSGNrSjBoZUtOMHRzRGJJYUpyOGRMZVZlQWQwRno0cTgyTzJfdlFYQXF5WV9ramJiWHluRlB2U3RqTkFUSVRtZ1dMaHdNT0IydEhOYnloS2VWZHNDSzJMRXVWdHlaYTlnbzBxUmlnWmNBV1dXRzhvYkpROGY5ZUM5RVpxaVhlNkVjQUc5NEQ2SWlQYzg1aEk2X0YzbXB2Sl9fUnZP?oc=5"
     },
     {
@@ -7481,19 +7481,19 @@
     },
     {
       "id": "laos-3",
+      "source": "Encyclopedia Britannica",
+      "title": "Laos - Rice, Livestock, Forestry",
+      "excerpt": "Laos - Rice, Livestock, Forestry&nbsp;&nbsp;Encyclopedia Britannica",
+      "timestamp": "2026-07-08T05:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YZW94clpmRHV2cmtBNmJiY045UkpVYkhrbDJUcDUxaUhnR3ZMcV8tQ01UX1J5c3BLcTltSUxVcUFMSEg4UG84NURUWUFwbnpQY0tFZVhTY1ZuMW9iZnU4LU5RZDlvSXU1bnZ1Q1Qxd0txQm0xbFl6VGFB?oc=5"
+    },
+    {
+      "id": "laos-4",
       "source": "Statista",
       "title": "Laos GDP by sector 2025",
       "excerpt": "Laos GDP by sector 2025&nbsp;&nbsp;Statista",
       "timestamp": "2026-07-01T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNazVLVm40OFpzczZtZmtyczJ3OTBjUTU5VE1wWmphSkplc3Q1NFQxNGxnaXliSTI3RThhNld4RkJkNlpBdjJ5Vktxd2NYOHlBSUM1YkVBR0xwY19FdjRrZkl5RzlNQkpRRGNSS2xGcFFtV1ZxNGZfbURVa2dlaENWT1dIVU1KbGtFbmJ6NXA5MHVyQQ?oc=5"
-    },
-    {
-      "id": "laos-4",
-      "source": "Encyclopedia Britannica",
-      "title": "Laos - Rice, Livestock, Forestry",
-      "excerpt": "Laos - Rice, Livestock, Forestry&nbsp;&nbsp;Encyclopedia Britannica",
-      "timestamp": "2026-07-01T05:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YZW94clpmRHV2cmtBNmJiY045UkpVYkhrbDJUcDUxaUhnR3ZMcV8tQ01UX1J5c3BLcTltSUxVcUFMSEg4UG84NURUWUFwbnpQY0tFZVhTY1ZuMW9iZnU4LU5RZDlvSXU1bnZ1Q1Qxd0txQm0xbFl6VGFB?oc=5"
     },
     {
       "id": "laos-5",
@@ -7579,6 +7579,14 @@
     },
     {
       "id": "myanmar-5",
+      "source": "Encyclopedia Britannica",
+      "title": "Myanmar - Nationalism, Ethnicity, Politics",
+      "excerpt": "Myanmar - Nationalism, Ethnicity, Politics&nbsp;&nbsp;Encyclopedia Britannica",
+      "timestamp": "2026-07-10T05:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GbUZIMFZpWV9hYXlSS2lNX1dyRTgxZjF5elhnSnJFQjF3VVdfUXl4dGxVb3Jvb09ZbzFLcjhqUWQ3WjBiWWRqM2M2UWVVVVNCRW5oaENTS2UyRzhVdlQzNXBncVo3OGZsbUlxa0plRGQyZWZzdU1fUA?oc=5"
+    },
+    {
+      "id": "myanmar-6",
       "source": "Devdiscourse",
       "title": "ASEAN to discuss engagement with Myanmar at special meeting, Philippines says",
       "excerpt": "ASEAN to discuss engagement with Myanmar at special meeting, Philippines says&nbsp;&nbsp;Devdiscourse",
@@ -7586,7 +7594,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSTI5cXRER2l6Z1p0S19lbUFFUV9LRW5sYzlyOTB3b1RabmJnMl8tcUc1cEtBYllEVk5MbFJEQnZQZ2g0Q1hNamp6ZzY4MDVNbDZmbGpDZU11N3RQSGdEdlFzejF6Y3lWWUI1UHE5a09ZTl9IdDMtVkZLQ0d2MF8xX1IwLXpnVVBLbUlZR1hELUlFTmJTUTJhY05hQnhxRjYyMFRDbXpCMW9uS1RXblBEbWFqWUZNTlJPNmtVN09MY01wcmRnVmd5RWJn0gHPAUFVX3lxTE9nQTZSVmVreV9scThuamo4dzgzS2FMaXdIN2RKRVlucUZUdjBjUHc5T0xoTDBBZWJINVJNZ253NVdnMElCU29hcjhzWW83NlljLWd3UXo4N21nNkpHQjFadGtlMHpRMmxLYktUU0E2NGUwRUM0dm1ZYUFYUFpudVhjT0I1a3daSGV0YVJNTko3QzZRVVFzZ2VETnYtSUdIMk9jTXlhTkEycFNjNklXZDU2WUI3RWJ4ZThIc2JTSFY0elhsTWtNR2FQWjVjTlZQWQ?oc=5"
     },
     {
-      "id": "myanmar-6",
+      "id": "myanmar-7",
       "source": "Modern Diplomacy",
       "title": "Myanmar Between India and China: The Politics of Strategic Leverage",
       "excerpt": "Myanmar Between India and China: The Politics of Strategic Leverage&nbsp;&nbsp;Modern Diplomacy",
@@ -7594,7 +7602,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORkZyNFJVRktqdHNTekQzRVV2Nmgya3JRTzdkSnBZR3NVZjBrYUdMWnppaW10ZGY2MGZqY1JiNUFzblZLRWgzNWlpRGlRQk5JWWthZkZkVlhhNTd1blJFUXZOWkVkUTB4RXltcHF0dEN2RVZLcXlqeGdCdnBrdmUzY1k5OEotVndzWlBoQzFXWWctNFpsOWxObWhHZ2VwMnNZTk40N0hMYzY?oc=5"
     },
     {
-      "id": "myanmar-7",
+      "id": "myanmar-8",
       "source": "Global New Light Of Myanmar",
       "title": "CBM sells US$2,200 to CMP companies",
       "excerpt": "CBM sells US$2,200 to CMP companies&nbsp;&nbsp;Global New Light Of Myanmar",
@@ -7602,7 +7610,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84bERLelRKa3I3V25Xamo5OW1vQmk4aXZqZFRZT2RLcmlsZkJlMHRTQzM5WUJDOUMzWjNlRFlDS3MxUFNVaGZlbFR0ZThTM3NueERHRWxBNk1SalhLUjZVV281WnBrWExtd3c?oc=5"
     },
     {
-      "id": "myanmar-8",
+      "id": "myanmar-9",
       "source": "Reuters",
       "title": "ASEAN foreign ministers to hold meeting with Myanmar counterpart at weekend",
       "excerpt": "ASEAN foreign ministers to hold meeting with Myanmar counterpart at weekend&nbsp;&nbsp;Reuters",
@@ -7610,20 +7618,12 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWtqcVFEOTZiWERHUnozaHlBVGpSanJWd3dONWl3MFBZZlZJTy1nS1NlMzh6WGo3VkxQeFlGUzBMMWp0dUJvNjVFd3UwcVU2QTUzcV85MDFUdkdhQTJBd1Z2SUEtWXgyb3NqSE1ibkVjOE0wVHlpbjNucm9kZmVNbVNGMEJmSURJdU5lOEFJVHRFTXpWdFNPVGdNZF9NakttRjFrZk1QVkQwNnJ1THd6aXBLRmNSeGdjVW42c1JhR3dxUQ?oc=5"
     },
     {
-      "id": "myanmar-9",
+      "id": "myanmar-10",
       "source": "Devdiscourse",
       "title": "ASEAN Ministers Convene for Critical Myanmar Meeting in Bangkok",
       "excerpt": "ASEAN Ministers Convene for Critical Myanmar Meeting in Bangkok&nbsp;&nbsp;Devdiscourse",
       "timestamp": "2026-07-09T10:08:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenhya09RS1Nmbk0wdDhERkVNVVRrc2tteVRBTDN1cXNKSTJoTTl5NVc3VEY2eGs0R3dqN2syMWxubjN0SnQtSkpudU42V0c4RE5WMjd0dnFnME5ob2wxVlpaR0p2dmhlV243bzR0ZC1RelFlVUIzdkl1T2kyYUpZTjJUdnBITzV3VmZDRmpRajY4OGdTbmplbVpEbENDeWRBRVhUWDdMTWJzcW01TGpRYW5TQ3hOT21L0gG-AUFVX3lxTE5XOFRfSllwYVNlZmhhV2ZfQUYzMWl3VmItT0x1WUNheHA1dm9lbF94NmNodmd0RldNbFlTNDdyZDN2MlMzX09xZmpNakJYd05pRlNaVGtmSE4yaTZYT1JDMTYyTFY2ZVRRRnlER052VnZsR1ctZzRFTDl3Q0lqZF9qTjdVdzIyYzcxOVE5X01FbndyU3UtLXZXMm1JT0t4SUR1b3NiX3BEVlRjZjNzYTVjV2dxOG1tYnh6Z0NIekE?oc=5"
-    },
-    {
-      "id": "myanmar-10",
-      "source": "The Diplomat – Asia-Pacific",
-      "title": "Despite Sanctions, the Myanmar Government Continues to Procure High Volumes of Jet Fuel",
-      "excerpt": "Despite Sanctions, the Myanmar Government Continues to Procure High Volumes of Jet Fuel&nbsp;&nbsp;The Diplomat – Asia-Pacific",
-      "timestamp": "2026-07-08T13:13:03+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX29oZkhTMGRhSEZwTk9qNmhHcXU3TEp3OEhsT1NNajlaQ25qdXh1alk0S19NU0Fidk5yejZ5UHNUNjFSQzBtM0pEV29ycXBJTTBnYXlHLUFKdUc2cWhlMWp0emQ2U0t1RnZJZXdaN1VjVENZMy1takYtbUtHNm5qS3RjeWkxZXlBTnN3a0JxQm5VR2JROE5kRC1HS2JuZjBnMFBxaVk0RDk1VDU2OVREQlh6eGFQOUhTR0Nj?oc=5"
     }
   ],
   "Vietnam": [
@@ -7801,6 +7801,14 @@
     },
     {
       "id": "southkor-2",
+      "source": "finance.biggo.com",
+      "title": "Kim Yong-beom: \"South Korea's Economy Is No Longer on Its Past Trend Line… Long-Term Path Is Changing\"",
+      "excerpt": "Kim Yong-beom: \"South Korea's Economy Is No Longer on Its Past Trend Line… Long-Term Path Is Changing\"&nbsp;&nbsp;finance.biggo.com",
+      "timestamp": "2026-07-12T07:55:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00X2c4SUo2OFZBNmF6cV94a05nWTJsS2JLWENFa0FjQ2V4WGdQUUd5YzgyY05YczNLc09tSGdSVWwxZjdOODhqWlZPZlQyZ1d4aFVCaG94d0FiMU9uUFFjWl9yR3lvaTFGQ3dRLW5GVmtaZXNuR1E?oc=5"
+    },
+    {
+      "id": "southkor-3",
       "source": "Invezz",
       "title": "Top catalysts for South Korea’s Kospi Index this week",
       "excerpt": "Top catalysts for South Korea’s Kospi Index this week&nbsp;&nbsp;Invezz",
@@ -7808,7 +7816,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMjNyckZfOEF4bjlGa2VHdUtYd3ZPZk5wbzVZS2JRRkRLMlFNakczREdEak01S3BJOTNhMjN3Y2lFdWtTaWszM3dnV2djNGFseW9hRjJzQjVOWHJ2OE5XRmtPVmZIWkpIWktvSmVEakdsTFNBRmpBaVFLXzlBbHRzMVJpMUV2U1hLei1jZGs2X2xsbFo4VWc?oc=5"
     },
     {
-      "id": "southkor-3",
+      "id": "southkor-4",
       "source": "Invezz",
       "title": "Top catalysts for South Korea’s Kospi Index this week",
       "excerpt": "Top catalysts for South Korea’s Kospi Index this week&nbsp;&nbsp;Invezz",
@@ -7816,7 +7824,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNODVVWlVWclFyQWNhZnR2QTJTWjQ4S0dTVjd1alhVYVBlMjI1MXlSQVJNbDRnMU0zclVkQVpsV0dwWlNYak55bVJpNTRwenhUWFNHUWVSOXFHLVdYbGFwSmdPc0QzejBZUVhkQUdQOXRxTmpQVGF3UmdlamFsbWtxNFl6UEJoQkt6Z2k2T1Y1U2dsZw?oc=5"
     },
     {
-      "id": "southkor-4",
+      "id": "southkor-5",
       "source": "finance.biggo.com",
       "title": "South Korea Moves to Curb Tax Breaks for Non-Resident 'Trophy Homes,' Tighten Holding Taxes on Ultra-Luxury Properties",
       "excerpt": "South Korea Moves to Curb Tax Breaks for Non-Resident 'Trophy Homes,' Tighten Holding Taxes on Ultra-Luxury Properties&nbsp;&nbsp;finance.biggo.com",
@@ -7824,7 +7832,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FdkwwQXBuU0d3dnk3cmpoVUR6WGFxYTRjZW45Zk52OTB5Ti1paWN5ZXRFMEJLOENkeEpzQWFzTkdJcmlsakRCT0h1TURldW9VaDVBSFh3bm5wamhXTTBlelozVFpBWG5Nd0NxMGMzWHlTanVFN0E?oc=5"
     },
     {
-      "id": "southkor-5",
+      "id": "southkor-6",
       "source": "Frontline Magazine",
       "title": "South Korea’s AI Boom and the Risks Beneath",
       "excerpt": "South Korea’s AI Boom and the Risks Beneath&nbsp;&nbsp;Frontline Magazine",
@@ -7832,7 +7840,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3NuSWdrYy1GaWNVYVJfZHlLX1RuYUR6TkgwSWpud2xVV3RGM3JSckZvWTRQbnhxNUVkUmNucEI5djdQMWd1UXVSUzRTclhZd2RhWDlYUFBMNUN4NUZzRWp5aDJ2TExrc19ldm94dHFkc2hfUzRtdjRjRlJrcG5vRTgwYm1SUDhiYU9oWU5nNkdIaTNISWpyMWFSYlNPYXQyZ0QxQmFBczI4UmvSAbIBQVVfeXFMTng2SG95V29LMzhPX2cyYWRLbVpjN2wtSmZsYmlfZVgtYUROMzkwR0Z6U1BQbnpWdHNfZXFKcU1TSzF5ZE5GT1ZoWTZZVVp3ZHZaWnZYVG5yaTR6QXhZTkdKSTJ6MW1VSkc0a21lZ0JObENzZWxoUFUydjJucUNkaVhJOThDbkxsWU1hSmJscUdhaWNKb1c3T0ZOLURpdVN4TmJ5a2QtLUhGZlBXQkJXcVBfdw?oc=5"
     },
     {
-      "id": "southkor-6",
+      "id": "southkor-7",
       "source": "Al Jazeera",
       "title": "South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO",
       "excerpt": "South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO&nbsp;&nbsp;Al Jazeera",
@@ -7840,7 +7848,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMW1PZVczU0xtNDZfTlRiT3ZKaEdieUNWeFhkcFJhS2xnWF9YYm5fZkpDcV9aZUUzQ1dhVmlSS3JHaTBzdnl4bHA1QlBvTDZYeDhWNHdhN2JMMTV0NUNTdHdOY2d4Si1mTWFWRTJhb1pGQVBKQXlDUVUtRm5iOGZJRER5MkVkLTZzSVppazI2c0VNQTdPUUFnZk9KbkF3TjVkSzJIblBGUzHSAa4BQVVfeXFMT3dyM2xXc2xudGhZbjVtWkxmbHBDajlSWThFVWcxT0lRZmFJSHNuQjFMdmdpcFN0OTZiM0hJZXdXeDRQQ3NyRjFMNDNtSW1FV212S1NLRGh1WlZ4NUpMcW90b0I5TGpPX29TaTg1cGFaUHA5TGtvekhRTDVZSTdRV0RmeTAyWndDdk9zY1Zhb0d1R1k0Y1pzOXdZZk9XT3ZCYVpOU2dtYkQ0UzdtbXd3?oc=5"
     },
     {
-      "id": "southkor-7",
+      "id": "southkor-8",
       "source": "Finimize",
       "title": "South Korea Says The Won’s Slide Doesn’t Match The Data",
       "excerpt": "South Korea Says The Won’s Slide Doesn’t Match The Data&nbsp;&nbsp;Finimize",
@@ -7848,7 +7856,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUN2aS1iMENZQjRaZ182OFlGOE1KSk83VWJaRi1hNEtGenZhTkx6MEdNMlNMZmhHNUpCelJZZUxVTV9rUXg4VzZGNFFUZG9OdWlUSU9hSHV6R3JvelVDckJEWGQtWmxUbU5DbkJwZ3pyV0dOeFl0VzQzVFJZM19fRW1qcGpRN1l1bGc?oc=5"
     },
     {
-      "id": "southkor-8",
+      "id": "southkor-9",
       "source": "AFR",
       "title": "‘Printing money’: Chips sent this market and investors on the wildest ride",
       "excerpt": "‘Printing money’: Chips sent this market and investors on the wildest ride&nbsp;&nbsp;AFR",
@@ -7856,20 +7864,12 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ09vajNlN1JCRnloUGNySVJfQXFvQlZTdkFCVGtoWi1HMGd2aTVZaUhHc2JFbGMzZmR1QzdHV3gxc3E1TDNfejJyNHRyQjdtQ0xGWmgwNks3bFlEV3RJMlhOdno2MkhiS1k0V3RZZElVOVdfU2tJN1EwWmt4LThwY1dQOU1seUpoeHJoQlFfM3RrN3NvRG1vZ1JsZjZCb2VTZTF3cER3Mi0ybFpfdXktc25UZndaUVpG?oc=5"
     },
     {
-      "id": "southkor-9",
+      "id": "southkor-10",
       "source": "The Korea Economic Daily Global Edition",
       "title": "Food costs in S.Korea remain among OECD’s highest for 3rd straight year",
       "excerpt": "Food costs in S.Korea remain among OECD’s highest for 3rd straight year&nbsp;&nbsp;The Korea Economic Daily Global Edition",
       "timestamp": "2026-07-09T17:30:10+00:00",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yTDdnZlVjcFQ0ME5sVkc2WEVPb2laYVU3VDY1dG01bVdSVWVkRXVpb3pxUzlfVkVlWUdsZWlXWDBuYm15cUxYN1lJaGdSZGNnSHpXOUlhVy1hRlBvWDNjYzU0SGcxWVZoTWc?oc=5"
-    },
-    {
-      "id": "southkor-10",
-      "source": "KuCoin",
-      "title": "South Korea's Central Bank Expected to Raise Rates Next Week Amid Market Volatility",
-      "excerpt": "South Korea's Central Bank Expected to Raise Rates Next Week Amid Market Volatility&nbsp;&nbsp;KuCoin",
-      "timestamp": "2026-07-09T10:22:39+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFdRTFAteUZVYUJ6M04wb21meWREc09SMGE1aVU4Yzd1N2JrNEVtRHFRQ1dRaEFzV00tQ3VJVEEzNWNKZDNsWUo1UnlpTmcya25jVkZZSmRxQ3YwNHE3bE1QbktRMS1GelVEZFNsbnVPelJtQkhNX0xZU3QwcC1sLUljbW9VTS04OHJTZHNHY3FYckFQbDBjRy1vRUdXcG1MNDhieXBGR0xYbXlMR3VPOXdMUmFVZGc?oc=5"
     }
   ],
   "Mongolia": [
@@ -8777,11 +8777,11 @@
   "Syria": [
     {
       "id": "syria-1",
-      "source": "Asharq Al-Awsat English",
-      "title": "What Does Removing Syria from the US List of State Sponsors of Terrorism Mean for Its Economy?",
-      "excerpt": "What Does Removing Syria from the US List of State Sponsors of Terrorism Mean for Its Economy?&nbsp;&nbsp;Asharq Al-Awsat English",
-      "timestamp": "2026-07-10T08:41:39+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUpfUC1RYVBBMGNsTngzd3dyWTlydEFJRTFoMkRXbjVXeHZIclIyRjZZZHlvdGp1NHVNSUFsbEo3cExnSHQ1SU1PZVNQSGswclV5R1RaM1RMMGFfTHJ6VWZLbmpBdW96em9LekV6V0E5emdoRFNJY0JCSlVPWUVzRVA4bjQyaVZFY0JVRjM4bFVERFRPbi1FY3dUMHV5SURKVF95Q2ZXVXlHUTZMVnhGQmJnbGhLNG9zV2o5LQ?oc=5"
+      "source": "سانا",
+      "title": "Syria inaugurates \"Tech Town\" innovation hub to support startups and digital economy",
+      "excerpt": "Syria inaugurates \"Tech Town\" innovation hub to support startups and digital economy&nbsp;&nbsp;سانا",
+      "timestamp": "2026-07-12T21:41:17+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ibG84TjZzeTJJN2hKamZ2TjJUTmZGYmI3eE9mUUtHX0FaRkd0ajVtVFhGZkdabk5CVEFUYVp4YzZ6VkpHWXZZcG84ZlY?oc=5"
     },
     {
       "id": "syria-2",
@@ -8789,10 +8789,18 @@
       "title": "What Does Removing Syria from the US List of State Sponsors of Terrorism Mean for Its Economy?",
       "excerpt": "What Does Removing Syria from the US List of State Sponsors of Terrorism Mean for Its Economy?&nbsp;&nbsp;Asharq Al-Awsat English",
       "timestamp": "2026-07-10T08:41:39+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUtpVGNHYTZ6SEVuWV9RQ3lUT1F6RDVCSmZOOGJKNDljNmRuQ0xhN0hteUFlSzVDWWlrb3NaX1AwUlF3VEZXLU5CaV9VdFJxNWVpYWtVbVA3VnFpQXJHV01hV0ZXOHdwQTBaZ0FiQnVGbHRFc285N0VaclE2clZlNnB0TWRHaDl5VjdHMlI0OWFmcDdoOWd2RzVUYVR6ZEw0cERRWFlMWXd2SGR4SHp1ejM5eWFyUHdCMGc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcUpfUC1RYVBBMGNsTngzd3dyWTlydEFJRTFoMkRXbjVXeHZIclIyRjZZZHlvdGp1NHVNSUFsbEo3cExnSHQ1SU1PZVNQSGswclV5R1RaM1RMMGFfTHJ6VWZLbmpBdW96em9LekV6V0E5emdoRFNJY0JCSlVPWUVzRVA4bjQyaVZFY0JVRjM4bFVERFRPbi1FY3dUMHV5SURKVF95Q2ZXVXlHUTZMVnhGQmJnbGhLNG9zV2o5LQ?oc=5"
     },
     {
       "id": "syria-3",
+      "source": "Asharq Al-Awsat English",
+      "title": "What Does Removing Syria from the US List of State Sponsors of Terrorism Mean for Its Economy?",
+      "excerpt": "What Does Removing Syria from the US List of State Sponsors of Terrorism Mean for Its Economy?&nbsp;&nbsp;Asharq Al-Awsat English",
+      "timestamp": "2026-07-10T08:41:39+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVUtpVGNHYTZ6SEVuWV9RQ3lUT1F6RDVCSmZOOGJKNDljNmRuQ0xhN0hteUFlSzVDWWlrb3NaX1AwUlF3VEZXLU5CaV9VdFJxNWVpYWtVbVA3VnFpQXJHV01hV0ZXOHdwQTBaZ0FiQnVGbHRFc285N0VaclE2clZlNnB0TWRHaDl5VjdHMlI0OWFmcDdoOWd2RzVUYVR6ZEw0cERRWFlMWXd2SGR4SHp1ejM5eWFyUHdCMGc?oc=5"
+    },
+    {
+      "id": "syria-4",
       "source": "thenationalnews.com",
       "title": "Syria on cusp of sanctions-free era",
       "excerpt": "Syria on cusp of sanctions-free era&nbsp;&nbsp;thenationalnews.com",
@@ -8800,7 +8808,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbUpoaVdfZUhVRFFvNTRhVlZjdmc3VmpDWXZTYl85eGhWOFAzd1VFNTFha1dibTEwOWItNlZLWEtDYXBpQzhoSndmdURaRUpsWGFHaDBZWVQyXzkwVHc1QmhZNnAzbWZERl93SEduU3hHXzF0LXhsWVhQRjRpU3ZvVFl3?oc=5"
     },
     {
-      "id": "syria-4",
+      "id": "syria-5",
       "source": "Global Finance Magazine",
       "title": "Syria Taps Raslan to Lead Central Bank",
       "excerpt": "Syria Taps Raslan to Lead Central Bank&nbsp;&nbsp;Global Finance Magazine",
@@ -8808,7 +8816,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN1BjN1BMd1Joa21PUjhKNWszMjdibjNDQmUwRlBaQ1hGckxNbGJUbkIxQXdiSTI1WUdOdG9OR3p0eEo3bVViU1BKZlpVMkxjc3dnOXlhTEVyY2g1UWhhRWZ6S0FKdjEyZy1XWmFwQ04yMWhCNENONmtZWUFMNk5Ld1p3VlpiUQ?oc=5"
     },
     {
-      "id": "syria-5",
+      "id": "syria-6",
       "source": "KMVU FOX 26 Medford",
       "title": "Syria authorities say captured IS-linked cell behind blasts",
       "excerpt": "Syria authorities say captured IS-linked cell behind blasts&nbsp;&nbsp;KMVU FOX 26 Medford",
@@ -8816,7 +8824,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQVF0cE02b09nSVJtRVBrbko1SHhEQWlIa2dKTkRpS1BLd2NURGxKVmRJUG9fM0NmVzZza1EwMzFaX3R0WXhnYmxBc0h4c3ZyclZNWEg2SFdXLTh6ZUItR1U5YU5uWUtEVnVRVFJzOWdXV3NGTk4xOGNVSVFna0VwRWk3enBWWk5IUktXS2dzdkFQdnFNRmhoMWhGYlV1bldOX0xkSTUySjJ1eXdBRDhBT1U3ZWpPemJwN05SNHJSZm9TTm8zMlVERkEyX2ZSdUNhc1dOcmZZQldCQi1IV3d2NjA5d3RtRk0?oc=5"
     },
     {
-      "id": "syria-6",
+      "id": "syria-7",
       "source": "Devdiscourse",
       "title": "Syria says preliminary probe links Damascus bomb cell to Islamic State",
       "excerpt": "Syria says preliminary probe links Damascus bomb cell to Islamic State&nbsp;&nbsp;Devdiscourse",
@@ -8824,7 +8832,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNmxKcGhVa3RkdXJtTmNqN1I4azB3dElVeVExTzlnZG1hS1NvQnJuc3FGYnUydFB6UjhlLXJEQTVoQ0NTUzFaTGx6OVNsTG5TcGlDMnB5T1RZXy1TVjBuV19iTFV6dDB6ZFNDcUdlejJOZS1aY1Y0QjJoWXFsTnZUSUkwTmVjRnB6QTI2bHVWbk1KWklvVkE5QnVuUm81enQtUGJ5allrdlhSZWlaQUFTMGVPcGdjYnlHLS0taDYtZEQ2UdIBxwFBVV95cUxPSjF4UlZFUll1QjcwZXBNNEZwTGk2V04waHRTY1pMSjdKQnVMQ2RCX3Y5TEVBY21Sa3VoZ1ZUMjUxTGI4cy1HYzlNSmF2aEd4cjZJY1hUT3dCVGhjaElRWkZ2QXBINDZ5LUpORW1zbDFuYktUZFR2VUg3UHdEaDZSQm81ZnhodWx4WW44ODFDUzRZU0p0M0twTGpxZm5PVzd5eDZqM01hY28tNWE1NDlzT29fOGJsY19TUk9oMWJRa3Zxa1ROTkww?oc=5"
     },
     {
-      "id": "syria-7",
+      "id": "syria-8",
       "source": "KMVU FOX 26 Medford",
       "title": "Chemical weapons watchdog reinstates Syria",
       "excerpt": "Chemical weapons watchdog reinstates Syria&nbsp;&nbsp;KMVU FOX 26 Medford",
@@ -8832,7 +8840,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmJ1Z1I2NUxQZXc3RWh3aEhXdVFNNjU2Vnp5T1I3Rmk1S1dxUEc1WW1xdUtYVl92bGlpTEE3eldVM0pzRWsydFZ0Nl8tY3Q3R0xtcmJ5ZG1UVVJJV3hhdTY0cTBlZHZhblNaRnJUR1p3RE1wWGJqZGwzNHAySDcyelFXM1ltak9FeEZyOGFvOXlWTk1sSno4XzNrWldKX09ubm1YSmF1WHZUUnBLUmlSMUh0ZlcxdnJ6NmJwRVFtdEtubGV4bGxtbGVna2YtTmVW?oc=5"
     },
     {
-      "id": "syria-8",
+      "id": "syria-9",
       "source": "The Tribune-Democrat",
       "title": "Chemical weapons watchdog reinstates Syria’s voting rights",
       "excerpt": "Chemical weapons watchdog reinstates Syria’s voting rights&nbsp;&nbsp;The Tribune-Democrat",
@@ -8840,20 +8848,12 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUHEzTkt3ZzM2WkFZTU15N2p0UnFkN1NrMEhGRWkweGc3ZzFnYnBHSk5Sem45QjdxLVc2UXNVX2hYSFZ3bVZOcFF2c2lEbTJDeFVWVUl0WWVfUFp0ZEFFbHJwMVNidkNXUXczRzdJcGh5MW1Na0czajNWMEtBQmkzMDNEX09jVWpkZjFRVDIwYXFQZU81ZDRTRkIwZDlYcUdwOXotTGZ0ZlVrTEVLU1paRndHdjhGOFR3YTBYdGozRE1zSjVLbXRwY0p4Z0xZY2RNRjVlamdlX2MtRmRGLTFr?oc=5"
     },
     {
-      "id": "syria-9",
+      "id": "syria-10",
       "source": "سانا",
       "title": "Finance minister, Central Bank welcome U.S. move to remove Syria from terrorism list",
       "excerpt": "Finance minister, Central Bank welcome U.S. move to remove Syria from terrorism list&nbsp;&nbsp;سانا",
       "timestamp": "2026-07-09T07:33:12+00:00",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSODlacGVMQ2xmY0pMNE1hZDc1Z2liTU43MTZlY2gzV09NU3BVQjJmZmRFOWJ5eHJiV2M3S0oyS0dBQko3d3dHeXg5cWg?oc=5"
-    },
-    {
-      "id": "syria-10",
-      "source": "Enab Baladi",
-      "title": "France Reopens Syria Banking Channel, Returns €51M - Enab Baladi",
-      "excerpt": "France Reopens Syria Banking Channel, Returns €51M - Enab Baladi&nbsp;&nbsp;Enab Baladi",
-      "timestamp": "2026-07-08T17:19:46+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmZuSGR5dDR5d0R4RjZpNndCVUFEY3lIMFBOcWh4azE0RTJkbExjZVl2SnlkWHJyamRtay1LS2RaaU02b29LZDV2dkZISWo1anNLZEtoRnlRek1ILVlxUGl1QnlPRWdsS3AwNE1jZ1pOTFFURlJmTUk4Ry1oZUZja1NZNTZKQzJxYXVnX1pEamluS2RtTUhpUHpMcDgyVDjSAaQBQVVfeXFMUGhzTDZNVC1udTFyNHphM2ZYSlkwSmNBM25GTmZZbTN4S0xBUGdXUlB5VFBoWW9rd3o4ZUVOMUNLekFIRlJWT0ZLV3F2WmJFZGJFUDZnNUFiRXBxbURqQ2lhS2p6a201VEo4am5zSmZJSlFCZUxPalVkaElsbVdUWTZTYU51aXg0cVdDUEE4S2ZDQXNVYkEwZ1YwN096cTNqRWR2QlE?oc=5"
     }
   ],
   "Armenia": [
@@ -9597,6 +9597,14 @@
   "Lithuania": [
     {
       "id": "lithuani-1",
+      "source": "Euractiv",
+      "title": "INTERVIEW: Lithuania turns to AI as drone incursions expose defence gaps",
+      "excerpt": "INTERVIEW: Lithuania turns to AI as drone incursions expose defence gaps&nbsp;&nbsp;Euractiv",
+      "timestamp": "2026-07-09T02:02:40+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1ZUV1R5TDZ5bFZVeHZqOW50Sk9CZ1pPd1U1cnFTMWFTS1NsV3FneDBWc0l2TlpXaHQtNlhiT2xQbG91S240Mk9oQ0FSblpXR2JIcVZKak1KUjF2d0l4aXQ0OGpycUZRWmJJMDY2S0k4c3doeXYyd2ZZcVRNeWdGR1Q2U24xM3BIWFoxOTZNLWdsQ2VLMnN6NTluRXl0ZG5tdFJuQw?oc=5"
+    },
+    {
+      "id": "lithuani-2",
       "source": "Devdiscourse",
       "title": "Kremlin Warns Lithuania on Nuclear Weapon Hosting",
       "excerpt": "Kremlin Warns Lithuania on Nuclear Weapon Hosting&nbsp;&nbsp;Devdiscourse",
@@ -9604,7 +9612,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUlkSWgwZm5ieUpLaGNYREM2YVpSM3ZCN0ppRHVlWU5kU05kQ3M0WTd3bFViUFNOSUR1YUxMNGFPNEl1TE9DNk9nNUJtN1ozYzQ4RjRjOVVKc1c2RmFXeXRGUDdGRGxqNnhQYk9ZWW91TnY5SWVRczVuMWhFVWtyWE9TVDRTMmZDN1VWWGpGQ21Sb1JLb0RSWGZ1UVBraklSQlpCQzJ30gGrAUFVX3lxTE9IQktHZ3BQcGVEN3FyUjMxMTIwZE55UlJSZGtnS0VMTm1XUFowMGMxU3JOaVN2R3FSTlo5WlpDU09EazJ4SUxQd2FnYjBjWEI1T2g3ZU9WVjMtWWR2U0pJSWFpNThMV0F1dmdZVnFPcnZFT0ZYRlJHWjlFeHNmV1lTMXE0Vm16TjBLQkpoRTg4N3NfZUZFWFBtSFR1NnFEcW9OdzN4ZzcwaUpJZw?oc=5"
     },
     {
-      "id": "lithuani-2",
+      "id": "lithuani-3",
       "source": "pozirk.online",
       "title": "Opposition leader urges Lithuania to maintain firm stance on Belarus",
       "excerpt": "Opposition leader urges Lithuania to maintain firm stance on Belarus&nbsp;&nbsp;pozirk.online",
@@ -9612,7 +9620,7 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EX3N1dWE5TmRmcGZ3Z3VZb3pVYVhqbjBpNXN6T2s1bm5VckxqQ1hxSGJPZTlpQW5xQWFnQ2hsSXdhQmhPb18tc25MWFRrUQ?oc=5"
     },
     {
-      "id": "lithuani-3",
+      "id": "lithuani-4",
       "source": "Global Times",
       "title": "Lithuania’s tragedy of small-country politics",
       "excerpt": "Lithuania’s tragedy of small-country politics&nbsp;&nbsp;Global Times",
@@ -9620,7 +9628,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0VFhJcHB1TDY0NExFLWhwUl82dllBWGp0YlZvUE5RdzFaakhwRVdMNHdVUzNsbURoTlNJV0RiVjlOcUZFSUJNNGxqNktCZ0JMSzFReHM2QXZlcW9KblpRTXRB?oc=5"
     },
     {
-      "id": "lithuani-4",
+      "id": "lithuani-5",
       "source": "TVP World",
       "title": "Lithuania plans to repeal nuclear weapons ban",
       "excerpt": "Lithuania plans to repeal nuclear weapons ban&nbsp;&nbsp;TVP World",
@@ -9628,7 +9636,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YMldkbXVFMHpBRGgzMmtYTUhqel82aTNxOTVaSGMzUl9WZjJ5NGhoWmhpcHBENUFWZ2gtc3RydkwxU051TzQyNi1JZFpqRjBVQU9NVFVkZkdyQnRvQ2MwcXBLX0Y4NlFNWGNISmpNOXlPS1ZfcWpQeHZQS2Q1QQ?oc=5"
     },
     {
-      "id": "lithuani-5",
+      "id": "lithuani-6",
       "source": "ANSA",
       "title": "Lithuania aims to be 'part of nuclear deterrence' against Russia: president",
       "excerpt": "Lithuania aims to be 'part of nuclear deterrence' against Russia: president&nbsp;&nbsp;ANSA",
@@ -9636,7 +9644,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWUxvQm9pRkR2QUhuMHY4ZGZVZDNHVVZDZlJsXzRuMzk3ckNMbGVUYVZCU0lTSDhmck9oWWJDYUxZMmV3X1U3Q3RETG9OZkRLMGJyUnFsaXk2TFg5M1B3R2tpUHV3RHBZb2NzNllNdHItelA1OVowNm5mYVpzckR2WXphVDd0TXdBMlNXTEtOZFZXdFVjSllKYk5hQzdwY3diRmZ2YnhhU1FhYWlSb25fQm9kdlFaZEhWelJ2Nkh4LVhLVmhRRzUxbzBsUTBacHlyUUt1MEpVQmg4eEZvWnpzUVRuTHU3NDNENEFfcXR3dFQ0LWF0SmIzS3lEREttU3R0d21YSzdFMmszVFEzMkctcm1B0gGXAkFVX3lxTE9nbDNvRjRZVXYybF80WTZIU1F6b0NObEhKdnE4aTJnTEFDOERiRnl4ZlM5VUQ5dlI2T1lwTUFhMWdEb2Z2YUxCQWdxXzhPMlFOMEdVemo0d3lmemdpOHprNEtYcEhEa2dqWVU1Z041OXdBV3lLa0R5OEd1WVY1VUJZQWNWTVFVSm1RSUlZNWpjamhZNDFDV2x0eGI2emtWcHAydkVsd3V1cVZScmVXQTVxYTVscDVmRFF1bW5PVkxXV2dmMGlyLXVrNXEybTNPekVDSWFxMlUydXdPWlAzMzZMWGxWTDNadzl5SHgwR2RuZ0lleTJkTHkydWhRX3ljYldCUzVfZDJXOVB2MTBjUy15MmxXM0FKZw?oc=5"
     },
     {
-      "id": "lithuani-6",
+      "id": "lithuani-7",
       "source": "Encyclopedia Britannica",
       "title": "Lithuania - Baltic, Plains, Forests",
       "excerpt": "Lithuania - Baltic, Plains, Forests&nbsp;&nbsp;Encyclopedia Britannica",
@@ -9644,7 +9652,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RbkhjU3Z1VEUzOVlHU0xvNnVSbXMtbTBMNHBLdFFjbnV2NXdoWWxHZEtHeV9KdERZb1BZZWhVV2pkQ0EycFJWRjJUdGt6U1E0SG9xYVo4WThpOTNpYWg5UFN4SzVSWEtPdktMUm14MA?oc=5"
     },
     {
-      "id": "lithuani-7",
+      "id": "lithuani-8",
       "source": "Encyclopedia Britannica",
       "title": "Lithuania - Domestic Policies, Economy, Education",
       "excerpt": "Lithuania - Domestic Policies, Economy, Education&nbsp;&nbsp;Encyclopedia Britannica",
@@ -9652,7 +9660,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qc0pkUEtDSlVVNXJ1dVdpWFZBeVpTS3FhcEdybE42cDFERWdXZHNxM08wVnQ4OEVLUkhvWWQ5d1F5cV9XenIxcENpbkdheW4xbFpUTko1REY0M0g0WW5UQURwUVlCLXNwNkZKYg?oc=5"
     },
     {
-      "id": "lithuani-8",
+      "id": "lithuani-9",
       "source": "trend.az",
       "title": "Azerbaijan sheds light on investment volume to Lithuania",
       "excerpt": "Azerbaijan sheds light on investment volume to Lithuania&nbsp;&nbsp;trend.az",
@@ -9660,20 +9668,12 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85WHFxODQ3YURIYTVRSVoxdXdNNWVWamFlSjhZYUhsVHNyZUdPQjVHdUFsZjg1X3V6UXZVZmZTeTlJNGVWMVRLSlh0dDlPV0xGLTVtNg?oc=5"
     },
     {
-      "id": "lithuani-9",
+      "id": "lithuani-10",
       "source": "Infoerdve.lt",
       "title": "Lithuania Links Fintech to EU Finance Resilience",
       "excerpt": "Lithuania Links Fintech to EU Finance Resilience&nbsp;&nbsp;Infoerdve.lt",
       "timestamp": "2026-06-25T10:45:32+00:00",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlJUZnhlRFpaZkJTeWdNVk1INlFNSk1YMjhQRkVId3pUU1ZwRlJmVXJYNDFCOVhqeEQwY3V1RllGYmRtb19WUExJMkJIRUdPNmhZdGFfTmZfVjM3TWJyMWQ2UUMzdVFFWjNSR1o5VXZlbjZ4YmZpdHU0SThUN0pfOUotQ2FzbWdrNXRV?oc=5"
-    },
-    {
-      "id": "lithuani-10",
-      "source": "Devdiscourse",
-      "title": "EIB and Swedbank Finance Lithuania Military Base Project",
-      "excerpt": "EIB and Swedbank Finance Lithuania Military Base Project&nbsp;&nbsp;Devdiscourse",
-      "timestamp": "2026-06-25T08:11:55+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHJjMEZybGNHMjZiWTF6NFRNcTJmQXhkc1JQOFBYV2lwWmVKQnNjTUkxb010TnRYWkoxWU0wWHNaNFFtM1JFTEpCcXppVkRwZWV6Sk1XMHlLbTFSeVBVaVYtM0ttUDI0anJiUGNsRnp0RWZuOUtGNlp4UFV4VFNfbWN3eDhMRjJmMmxsRldFWWR6R3puRnFabGUyRktHOFI0TDIxc091U0t4RGxZSi130gG0AUFVX3lxTE1lX0JOekliTk5CVzdhcEtYQk9UeDhEV05kcnllcTZGaU05WkVJMjhrMkMxYWJfLUI1Vmh1SXdJWmVnSGZ2S0pCSG1oYWgxNzYyZ1BaS041Q0c4V1NjeXRTSU93M0NmMkZLVFNlcnkxNFU0Nm13OWI3RFB2ckN5bEFaRXQwMU5YaTJqTnF5eW5UWjVDem04Umo3Q2lKZ2l3cTdHbWgyTzczRVpIWFhmbGMtYmU0YQ?oc=5"
     }
   ],
   "Latvia": [
@@ -9965,6 +9965,14 @@
     },
     {
       "id": "bulgaria-6",
+      "source": "Encyclopedia Britannica",
+      "title": "Bulgaria - WWI, Balkan Wars, Treaty of Neuilly",
+      "excerpt": "Bulgaria - WWI, Balkan Wars, Treaty of Neuilly&nbsp;&nbsp;Encyclopedia Britannica",
+      "timestamp": "2026-07-09T05:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IZlJSQUluOUg1WUtsSlhkTDZwS3RJN051NkR4ZG9NeW1HRERzN3pxeEF3MFNzQ3ppa3U3UVN0UFpVNktpaFByTUR2YUxzOXRSWFRqQ2xkZUZMaXdaUENwMHpHcw?oc=5"
+    },
+    {
+      "id": "bulgaria-7",
       "source": "SeeNews",
       "title": "Bulgaria raises 2.5 bln euro by reopening three Eurobond issues",
       "excerpt": "Bulgaria raises 2.5 bln euro by reopening three Eurobond issues&nbsp;&nbsp;SeeNews",
@@ -9972,7 +9980,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNnBBTTgydVFvQkw1Z0V2OWV4RW1VTEhmS3B1Ny1ISmNySllYZEhYTHlvZXBqOXJjc1c2Y1ZnUWZRLWJFcklNZjRUTHNkODlQRFE5dGZkN0E4dDYxSkZzUmp2QkZ4aGFQNE9Zc3FRd2ktVFFYbGY1b2NqOW9tbXJJZWdfZXlUZ2MtTUZxRG02WjFOU1ZDRVFOMDZyNk8?oc=5"
     },
     {
-      "id": "bulgaria-7",
+      "id": "bulgaria-8",
       "source": "Defence24.com",
       "title": "Bulgaria will not provide military support to Ukraine anymore. Prime Minister responds",
       "excerpt": "Bulgaria will not provide military support to Ukraine anymore. Prime Minister responds&nbsp;&nbsp;Defence24.com",
@@ -9980,7 +9988,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2FWZ2dJdDlLRlFpMlFHMjd0QmpsNXRtMV8zYUM4MjEwQklSejYzMkxEa1hfRkw3WldZNEp6c1NmSzRmYkpIOFlvalhSQmVfekxmOGRNLUJ6aEZYbU1MUFkwSXZlLWxUY2RST3JmNEZydkQ5M2JhcjRSTmt5UHNTbER5cWdtWmIwZHJVUHhDYXpqTjJrcHJaWVB3UVJJNzZQNVp5TjJyRHJrdGVNUW80aHFOVWJKLVVtcm5N?oc=5"
     },
     {
-      "id": "bulgaria-8",
+      "id": "bulgaria-9",
       "source": "Novinite.com",
       "title": "Bulgaria Raises €2.5 Billion in New Debt",
       "excerpt": "Bulgaria Raises €2.5 Billion in New Debt&nbsp;&nbsp;Novinite.com",
@@ -9988,20 +9996,12 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNemFaamd3eW9mbzBVTE9rRnhXNEF4UjFFMk9obnlxUXVoUDFtclkwVUZPU1Q0SElaYWlNTUJPQ19IMndOeTh5ckt5MkxHUGxySDJoc0N5eHo0UlJ3YnNhakdoMkJ0blZxRlc3Y0JnU1o1X2NNYTA1MlZiTDN3dC0zd0NvMWR4Q2l2VG5lQkFtblU1d0k?oc=5"
     },
     {
-      "id": "bulgaria-9",
+      "id": "bulgaria-10",
       "source": "БТА",
       "title": "Bulgaria Records Increased Production of Business Economy Services in April, M/M",
       "excerpt": "Bulgaria Records Increased Production of Business Economy Services in April, M/M&nbsp;&nbsp;БТА",
       "timestamp": "2026-07-07T09:48:51+00:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM2RZOFJzXzJnRDB4RnBPay1KLUstR183MnVqUmJTOXJTa2tFSXEwMHVDWnRpRHYyaU5NVVF3SlFqNUFIU1Z3dkpfWURMRnNMeW1sUmd1RkdhYXhVQ3ViTXdEcUFqdkp6bGJyaVMtbVA2MUNhYnd3bUxER1hUT2dnVTJTVUZkVXlvZDl5QTlZQmJ4WTJXTDdsQV9XcUZXQU5rOG9QRmZjb2VIVHkyVmNNeW1xemJyZjdDcVE4Z2Eycw?oc=5"
-    },
-    {
-      "id": "bulgaria-10",
-      "source": "SeeNews",
-      "title": "Bulgaria's retail sales increase 7.9% y/y in May",
-      "excerpt": "Bulgaria's retail sales increase 7.9% y/y in May&nbsp;&nbsp;SeeNews",
-      "timestamp": "2026-07-07T08:34:55+00:00",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVXFZem1CeTMwRThPMU1VY05EeVdWaElSTWtKcGFKR1dva1dpNC0xek5ONlBBLWNNT1QtcXJRbzBQUjNYY2pCSUJZV0V6QlhaTzg0eEVqMUJzWGtEVXlQNEFzcmdUS0E0bmxMeHVuYkFEZk5RSEMzYURKMnFMRWZZQjNGUm5OZkZISk9BNTFNcw?oc=5"
     }
   ],
   "Greece": [
@@ -10015,6 +10015,22 @@
     },
     {
       "id": "greece-2",
+      "source": "Encyclopedia Britannica",
+      "title": "Greece - Farming, Livestock, Fisheries",
+      "excerpt": "Greece - Farming, Livestock, Fisheries&nbsp;&nbsp;Encyclopedia Britannica",
+      "timestamp": "2026-07-10T05:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PUHcwa1M4LUtSSGo4WllEQUZlbHpIcER1SUpmTkZQS1dUeHpRWkpheUFyRTJJVU1YN2VPSm5fRjhNTkx5dVo4S2pOeUFYM2NRcXY5SVN3SVctU21nUlc3MC1QWXN5NUxGN3RZMEE3b2xLeEdYWk9UWWgtaEg?oc=5"
+    },
+    {
+      "id": "greece-3",
+      "source": "Encyclopedia Britannica",
+      "title": "Greece - Greece’s debt crisis",
+      "excerpt": "Greece - Greece’s debt crisis&nbsp;&nbsp;Encyclopedia Britannica",
+      "timestamp": "2026-07-10T05:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SYU05V055VFVCdUxFUFI4LVFNMDdpNmFWbnkwQWVFdGM0YU5FemVOdXkyYWxxeG5vSUJTT0Q1a2diRllybDBheF9sWmNrdmZvcFQxLVlhTWJQemFxTThUWXBBMW1OY1I3dEdn?oc=5"
+    },
+    {
+      "id": "greece-4",
       "source": "Armenpress",
       "title": "Armenian ambassador, Greek deputy foreign minister discuss expanding Armenia-Greece economic ties",
       "excerpt": "Armenian ambassador, Greek deputy foreign minister discuss expanding Armenia-Greece economic ties&nbsp;&nbsp;Armenpress",
@@ -10022,7 +10038,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Yks3LXN2UncxaWVFM1ZVOEt2c3VjdmlfUEtudzhJMkxpZWV2ZTFFWTdYMGFtTWU0Q3NOa3lRTHhUS2p4c1QxQ3dqVzNsb2hjUHfSAVdBVV95cUxPUGQ3MGdPTHBoWnUyemdBZXBTa1ZiSllNT3FhaGllNEtrQ0RMdUpHazd3ajQ0bHVISG5SXzdDbjBPaTk3TDN2NGNOZ1F2NkZxc0NTQVNZWlU?oc=5"
     },
     {
-      "id": "greece-3",
+      "id": "greece-5",
       "source": "Euractiv",
       "title": "Russian ships on high seas remain a target, Ukraine tells Greece",
       "excerpt": "Russian ships on high seas remain a target, Ukraine tells Greece&nbsp;&nbsp;Euractiv",
@@ -10030,28 +10046,12 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUlBkQTllQlJ5b21nbi1fN3hRajByMUt3SUY1WTFfcWNBckxpTkw3QnQwclBYcEJ6aTE0dDZTbmM3WXJkQV9lbVJJYnZ4MU1uaU1HQkZNVjdWRGNQSG5SRUZjQVdDMWF0NUdsam02VEN0dlJyOWR2eG10UTB6dDY4LVhTdG1qVnVGTVNyaVpHQlpsV2daT1pHNkdn?oc=5"
     },
     {
-      "id": "greece-4",
+      "id": "greece-6",
       "source": "The Manila Times",
       "title": "Inbank and Eurobank to establish an embedded finance joint venture in Greece",
       "excerpt": "Inbank and Eurobank to establish an embedded finance joint venture in Greece&nbsp;&nbsp;The Manila Times",
       "timestamp": "2026-07-08T06:39:11+00:00",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSmgtNFVUUnRDdGhCTC1fRnZUU2x0MjRkM0FDSldjNFVKUnRhWGxpdlpQbFZ3WHFjZlhvQUFYTVJ1ZzlUYUlkcFZfOGJDcXZXUW4tenVZZEF2WDdaQnpyeFM5aW9rRXhzMWRMMXpxVzdvMXdxQTlyM3BhUmJGSWI3M0dwMWxRT3hCV3ZmLXpMVWl0YjF3aGZiQlNRT011bEUzRFVOcVBrTWhRbi1ONU8yb29JdkRkeG1ZV1VjazlhQnhKNkplM0FmYW1uc2NJMG95aWtqSkI5V3BsQUNqWUZzcGI4dlHSAeoBQVVfeXFMTUNiMWRIam90ZEtEU1BwaG1TWjVWOUU0N2FTU1IzUzNwdm40dXNpeHB6eElQSm50Y0k0TjlzaEJVREd2eHNwb3YxVVZ5NlI0eGxHZG1YbHRsa3lIdk13NERsenNGT0hjYmtKN1gtX21DeGE1NzM4OW9uQnoyeVU3RXRXNVpBMGd3d214dEN1bWNGOGNaMzFkZXdSWG5XUXo3bF9wMWJIMzdkWC1GYWJoUEkxblNYazdLUkxuZjhrU1dmd3VNRW13RnUxZEpqTFR6THptZEpZc3lkWnBLT2hkeTVtOTZjOF9BYm1n?oc=5"
-    },
-    {
-      "id": "greece-5",
-      "source": "Encyclopedia Britannica",
-      "title": "Greece - Farming, Livestock, Fisheries",
-      "excerpt": "Greece - Farming, Livestock, Fisheries&nbsp;&nbsp;Encyclopedia Britannica",
-      "timestamp": "2026-07-08T05:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PUHcwa1M4LUtSSGo4WllEQUZlbHpIcER1SUpmTkZQS1dUeHpRWkpheUFyRTJJVU1YN2VPSm5fRjhNTkx5dVo4S2pOeUFYM2NRcXY5SVN3SVctU21nUlc3MC1QWXN5NUxGN3RZMEE3b2xLeEdYWk9UWWgtaEg?oc=5"
-    },
-    {
-      "id": "greece-6",
-      "source": "Encyclopedia Britannica",
-      "title": "Greece - Greece’s debt crisis",
-      "excerpt": "Greece - Greece’s debt crisis&nbsp;&nbsp;Encyclopedia Britannica",
-      "timestamp": "2026-07-08T05:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SYU05V055VFVCdUxFUFI4LVFNMDdpNmFWbnkwQWVFdGM0YU5FemVOdXkyYWxxeG5vSUJTT0Q1a2diRllybDBheF9sWmNrdmZvcFQxLVlhTWJQemFxTThUWXBBMW1OY1I3dEdn?oc=5"
     },
     {
       "id": "greece-7",
@@ -11812,13 +11812,21 @@
     {
       "id": "azerbaij-1",
       "source": "trend.az",
+      "title": "Pellegrini’s visit: Karabakh emerges as strategic pillar of Azerbaijan-Slovakia relations",
+      "excerpt": "Pellegrini’s visit: Karabakh emerges as strategic pillar of Azerbaijan-Slovakia relations&nbsp;&nbsp;trend.az",
+      "timestamp": "2026-07-12T18:51:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FN2lqXzVKWlR4ckQtR0hsX19tLUlFZmlEbkdMbzJZSmRNTmpxRjZaZWU1TGVBMHpjNEVKMFhiZ0M2Y0FybFR3WVJ6OXhZNTFMZkpXZEpuYUpGY0VoY0xlbk9QZw?oc=5"
+    },
+    {
+      "id": "azerbaij-2",
+      "source": "trend.az",
       "title": "Azerbaijan’s Central Bank announces tender for network security equipment",
       "excerpt": "Azerbaijan’s Central Bank announces tender for network security equipment&nbsp;&nbsp;trend.az",
       "timestamp": "2026-07-12T01:07:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40cldfWEMzQ1VQOWFsVW95Sk8yX2FONzNQb3RyRVlvS0VST25idmtuOXZTM3VkQkJFejlYQmVkS3VrVmU5RXhjMy1wTzlPa1VqSTdRN0ZoVHZISU5zeUYw?oc=5"
     },
     {
-      "id": "azerbaij-2",
+      "id": "azerbaij-3",
       "source": "trend.az",
       "title": "Azerbaijan commemorating anniversary of Tovuz battles, which led to second Karabakh war Victory",
       "excerpt": "Azerbaijan commemorating anniversary of Tovuz battles, which led to second Karabakh war Victory&nbsp;&nbsp;trend.az",
@@ -11826,7 +11834,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ma1dDemNsUlVralUwOFpzRFVBbWZmY1NiS1c1cXJzeUdDQi1VSUJ1cno4S0U1VkhZVUxZZ1dOYnZKaDhrTXh1WEhOUTNVX3MyYmhIcU9tbk9mcS1iUzlDTm9rNA?oc=5"
     },
     {
-      "id": "azerbaij-3",
+      "id": "azerbaij-4",
       "source": "Caliber.Az",
       "title": "Economy defies turbulence: IMF, ING forecast growth of Azerbaijan’s GDP - Review by Khazar Akhundov",
       "excerpt": "Economy defies turbulence: IMF, ING forecast growth of Azerbaijan’s GDP - Review by Khazar Akhundov&nbsp;&nbsp;Caliber.Az",
@@ -11834,7 +11842,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMS1wTGFvLXVsdWpSLTdIemN4TVlHUWFJcDhGbTM4UjlSZVVHVVhSNm50SURYWFk5SFVUeVBqWlp2aFAzMFBSVDUxRmpsS1pKUXEzWUdJUXVBYTFTV2dCcnVPel9hcXFsTHhTeDNmd0FPU0RhZTlaSDI4N0pxVXg3TXMxeG95Y2x2eXdaNXFoLXRMaW51SnlGVXE4emc?oc=5"
     },
     {
-      "id": "azerbaij-4",
+      "id": "azerbaij-5",
       "source": "AzerNews",
       "title": "Azerbaijan's economy grows 0.8% in first half of 2026 as non-oil sector gains momentum",
       "excerpt": "Azerbaijan's economy grows 0.8% in first half of 2026 as non-oil sector gains momentum&nbsp;&nbsp;AzerNews",
@@ -11842,7 +11850,7 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TbkhTR1ByUnZ4OVB2cnBpU0ZaZjBSaU9naEdlQU1pbm9kcGVNNElKN2VUcEZEUDRGb0pIblpIU0RSbFhUTjhaRThUYXYwT0lvaWhRWXBwbw?oc=5"
     },
     {
-      "id": "azerbaij-5",
+      "id": "azerbaij-6",
       "source": "Caliber.Az",
       "title": "Azerbaijan to support introduction of its ASAN service model in Colombia",
       "excerpt": "Azerbaijan to support introduction of its ASAN service model in Colombia&nbsp;&nbsp;Caliber.Az",
@@ -11850,7 +11858,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmRtZkQtY3hpQW1ucnNybG0xc1I5eF9NUDNvTDdmTDBEQWtfcHl0S2hqNDFqZmsyTFJ5eHBYTFRSOFpZYVpzWWpscEJyNTViRkNlWm95c3p4Z29qQ08tTmY3YXctVEFUY1Z4YnBhdDNiMHhrNzFNYy1TMG04c0dBbzRFdDdRQ0Jybll5SzZJX0hUYlJ2YmRyUGYyNFNPcUho?oc=5"
     },
     {
-      "id": "azerbaij-6",
+      "id": "azerbaij-7",
       "source": "Caliber.Az",
       "title": "Colombia sees Azerbaijan as gateway to Eurasian cooperation—envoy",
       "excerpt": "Colombia sees Azerbaijan as gateway to Eurasian cooperation—envoy&nbsp;&nbsp;Caliber.Az",
@@ -11858,7 +11866,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTEgtZHNuZF91RFVfWnBaa3U2Z0NTUlRkMmhfQ2plVUZjcGxPMmdtdWt1VlFXUHRrcU5fMzZ4NG1Lbng3OW42UExhMXJDNmVEMDYzVWxqcVl4S25mWmUwU2F0MVEtUWdyWlBGNGVfYzBVOFNxdGdMT0ltcU9rTWVyOVg1Z3NpV0RsNkcyN0dHU1llbHZtWEJj?oc=5"
     },
     {
-      "id": "azerbaij-7",
+      "id": "azerbaij-8",
       "source": "Armenpress",
       "title": "Russian fertiliser and liquefied gas shipped to Armenia via Azerbaijan",
       "excerpt": "Russian fertiliser and liquefied gas shipped to Armenia via Azerbaijan&nbsp;&nbsp;Armenpress",
@@ -11866,7 +11874,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdi1lblUzdFdscENMUlBaX2VnS200WHdqTzZOcTJPNGc3WG5CZGNCUFJSbnpOaEprakN3RDZpYUpxM3FacXh1NzM0U0dMWXBVeUHSAVdBVV95cUxQVzJHVGFFbl9CWlhXdW83clpCSlp6X1Y0SFlULUQ0Q3ljU3ZoTDdKaVJqTTJiWkVxNWNrREk0TEtOUElhb1pjd3VCRk1tODFLODBZS0otelk?oc=5"
     },
     {
-      "id": "azerbaij-8",
+      "id": "azerbaij-9",
       "source": "trend.az",
       "title": "Azerbaijan approves agreement on supply of natural gas to Georgia",
       "excerpt": "Azerbaijan approves agreement on supply of natural gas to Georgia&nbsp;&nbsp;trend.az",
@@ -11874,20 +11882,12 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uUjdSTFl6QklGdVpXemk3dzl5MHBUWWZWSndVM3dnOWoySXJuVFROQUkxSHd2dDdud01Ba3VBbTY3Ul9pNldKQ29MQmZ1YjdRZWxQc1ZRY0RRa0xxT3hZb25sbw?oc=5"
     },
     {
-      "id": "azerbaij-9",
+      "id": "azerbaij-10",
       "source": "trend.az",
       "title": "Azerbaijan spills beans on its foreign state debt by July 2026",
       "excerpt": "Azerbaijan spills beans on its foreign state debt by July 2026&nbsp;&nbsp;trend.az",
       "timestamp": "2026-07-10T08:50:19+00:00",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DWkhBVkZqWnRBWnhOc0Nqd3dXd1ExU0tCdnQzUThfbkJESlBzVFV6MVNBLUlLN2taQ0JWU3ZWQ24wbU5CUzNjS1NYb0F2eDh2TW85WA?oc=5"
-    },
-    {
-      "id": "azerbaij-10",
-      "source": "Apa.az",
-      "title": "Azerbaijan's economy grows by 1% in the first half of 2026",
-      "excerpt": "Azerbaijan's economy grows by 1% in the first half of 2026&nbsp;&nbsp;Apa.az",
-      "timestamp": "2026-07-10T08:24:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUW44YkViWWNzR1pLQ3lINGdtY09jMU1CdzhyOU55a3duckxTaFI4dFpSaXNBNG5Da3cxZ3ZOZERhX25HVDB3TUVaTmp0VVFJb0lyblg3NTExdFJXcmRnMzlYcnk0X2Z2bDhhZ2JTUjNQY0dxMXdXZ0xGVUV4YVJtSjlyT1VTa1VfTFNhNjJPQU5sNkplS3ZOeXpmTmdwb0JzR2pN?oc=5"
     }
   ],
   "Georgia": [
@@ -12057,6 +12057,14 @@
   "Malaysia": [
     {
       "id": "malaysia-1",
+      "source": "finance.biggo.com",
+      "title": "Malaysia’s Factory Boom Faces a Digital Reality Check",
+      "excerpt": "Malaysia’s Factory Boom Faces a Digital Reality Check&nbsp;&nbsp;finance.biggo.com",
+      "timestamp": "2026-07-13T00:05:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JeFZVRlhGbEpyZzBtWkVKUGFrR2x5UTFTZF84WTFMeUtwWjNFT3BBRVdBVm1WbDl3NVltMkNQR05aY0ZvWi1sbVhsZDJNMS0wWHNCT0c0ZjRqRE81WGhCM1hoelp6bUdzMGJzRDVyNVl0cHNTeVE?oc=5"
+    },
+    {
+      "id": "malaysia-2",
       "source": "Borneo Post",
       "title": "The nature of politics in Malaysia and in Sabah in particular",
       "excerpt": "The nature of politics in Malaysia and in Sabah in particular&nbsp;&nbsp;Borneo Post",
@@ -12064,7 +12072,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdENrRmQ0eTYzTGhmbVZQZGE1ajNJZkprMGZjZG1HTDNVaTZhVEJ0OFNMd3BPZ1cwdGJlVm5BSWFPTGZibXFUV0p1dmFMZm9yNnhPRjlMZXNhd2FJQUYyOFdrdFgtY1JKbWd2V04wczMtdlhlSEZWYVA1ZklCcEFmT0pzT1RuSTNudlBlR2pZRlpwTjBIMkx3aTFNeFA1R1NwMXNPTnRR?oc=5"
     },
     {
-      "id": "malaysia-2",
+      "id": "malaysia-3",
       "source": "South China Morning Post",
       "title": "Hard questions for Anwar’s PH after BN sweeps Malaysia’s Johor",
       "excerpt": "Hard questions for Anwar’s PH after BN sweeps Malaysia’s Johor&nbsp;&nbsp;South China Morning Post",
@@ -12072,7 +12080,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeG5Ta3FSald5MUE5WTdhMGJSUDRBeTJnNlBvVEJmanZqY2k3LXFJUEFKOTdmVjdOVHhTNElNV3JzT3hTSzNFTEpiNm9VSlhTWFliYXdacC1sMkZ3dU9yMzdYN1FYY3Z0YjdOY3hHVGNBNkgwa2VqMmJ3QldhN2ttWlZ6dkFGdmZnTFFEaTB5YUhYX3BDaXFDeDhxUVEyZ2pzQ3hjM1E2UVJMX2tNLWZkX2JiUll6Qk5PLWM1NFY3SkbSAcABQVVfeXFMTkVyemJGYW5tYmxwNjY4cXdIclFHU3ZGaFQ2dm1jV09DTGhMRUVCZDZaSWJpZUR0QS1SUGxfbkdzRXY4ajFyMlpQdXpuZ0xOcmFMVkt6NDY2eGtWUTJITENVLVBxX0daYmtZcXJuUFFMby1fbzMzR3d3c05xVWtJUnd5MkxzTGpqMzJJT0prSGZUQkJ3TUpjcHQ5V0pyWlNWaXQyWlV6RFlWZlZaekNxWnFNQnd1Y1Z6WHdwbkZ2RXEt?oc=5"
     },
     {
-      "id": "malaysia-3",
+      "id": "malaysia-4",
       "source": "Economy Class & Beyond -",
       "title": "Malaysia Airlines kicks off its service to",
       "excerpt": "Malaysia Airlines kicks off its service to&nbsp;&nbsp;Economy Class & Beyond -",
@@ -12080,7 +12088,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmJVemVSMnBzTFEtakJZaE9MVWU3RUlsTVo4V3NVU0I4OG9Gb1g5QlZQbS0yQ0wwdzFfMmJIT1dSNnhzZXJoNmlKcDBJYWVlYU10LWhHbGUtN2lPS2JGOXVTa0p0T1VfNlduczVEcjY2RVdyQnU1V2tiRUR3QmIyT0RnZ3NTcWkxMXZHUFE1Q0VieVprQW42V1RvdmdKRUxOOHVZ?oc=5"
     },
     {
-      "id": "malaysia-4",
+      "id": "malaysia-5",
       "source": "Vietnam+ (VietnamPlus)",
       "title": "Malaysia central bank upbeat on 2026 economic growth",
       "excerpt": "Malaysia central bank upbeat on 2026 economic growth&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
@@ -12088,7 +12096,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXdBaDBQSGh4Y0x3T3JDRV9tRVhUQVNjeUpOcU1hQ1pOQWtyWU5ScWZOV0stQ3VwLTZMRV9Xb19Uc294MlFsbVlkaDY5dG90dXMtc1BuMHRhU05KZDAyZXQ5elF5QzJ0RVVUbWpaUHA4aXFtR1JRTXZBVThMVDVwak1HeUJGaXVCTnh5OTZQeVZvdlpCV3VIVQ?oc=5"
     },
     {
-      "id": "malaysia-5",
+      "id": "malaysia-6",
       "source": "The Star",
       "title": "Malaysia's growth to stay firmly within 4-5% - Bank Negara governor",
       "excerpt": "Malaysia's growth to stay firmly within 4-5% - Bank Negara governor&nbsp;&nbsp;The Star",
@@ -12096,7 +12104,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWjViSlpkckpoOEpuaVJkc0kzTHlucWM5NGdmVENyXzJsVzRuR3FFNmpVQjd5MzdmeUkxTW94MktCM3I2UnhIX25DZmZOYU50NThSbl82bVE0T25kSE0tdWFBNi1KX0QxX3pYclNPTXFMSElfTXBEdHdiYzVpc1dDdlJUWENCSC05UnR4dVVPZS1QRVp5XzdPb0ZnRXltRDg1alYxcGFScVluOWN2VXFQQkdId3FqNE84Z1Z1S09PNGZqWXpQSEtGSA?oc=5"
     },
     {
-      "id": "malaysia-6",
+      "id": "malaysia-7",
       "source": "South China Morning Post",
       "title": "In Malaysia’s Johor, Chinese voters prize affordability over politics",
       "excerpt": "In Malaysia’s Johor, Chinese voters prize affordability over politics&nbsp;&nbsp;South China Morning Post",
@@ -12104,7 +12112,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQlNwWlFUSE5OcnNxVDhwYld6MFdMbzN5OTNKcWJReGxxLXZiY0hIUU9tYms2Snh6cU9GaUY2M3hFb0Jyc3hnWGtnczgxbWlqYl8td0pPM0tERDdqZUREX3pDWi11MWI0Vk5WenhNNVNmaU1SbkdLS3hQMHhyM0JxVS1yUTBCaUMtRzhkOWJseUM1NmZZQVhDY3hNTVZ0YlQ3SnBxekt1cGdVdnRtQVpqSVhac01maWhCcHViVtIBvAFBVV95cUxOby05dzJfS1ZRUzdTN3p1VUxCUTBvcTFBZ04yYVNRTlR5b3JfdVBBbTI1R244c0ZQMWpzWl9YNUNJcVR5dGkxZ2V1MXVrbjc5ZTJ3UEQ3MWd5Z2k3YmphVEJ2S1VQNXRWUjFyMXJTZmgxSUYwZUc0c05xRTZMQ05SOW9oTlFIdU9ZZUZpcnlEMnVpVlh3WF9Ia1NFUFZsSXRQUTh1OW1idUx0QUE0dWpkTno2bjRrWU45Q1Q5eQ?oc=5"
     },
     {
-      "id": "malaysia-7",
+      "id": "malaysia-8",
       "source": "KLSE Screener",
       "title": "Malaysia's economy seen growing 4.7% in 2026 on data centre, tech cycle - IMF",
       "excerpt": "Malaysia's economy seen growing 4.7% in 2026 on data centre, tech cycle - IMF&nbsp;&nbsp;KLSE Screener",
@@ -12112,7 +12120,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeEFncl9sblVaaDRZcEw4S0FGUjFHVF96azd4YU91X2F5MWRvRnFuel9JdWlOamZLSmVoZlprbmROVVVqVFNQWWY1ZnZ6T29vT1hzdXIxdGZaclIwcUJFVDliNnlZaEpVMVFvVnQ5RGNmd1hWUEU5SlRCUFVyeWZnRTBFNWlNZDJhMjhTOXhuQUIxaXIyVG51aGp3T1RQbXYyUVJPd2NDNWN5Mmkxb0Z1X05kejQxcXJ6VWh4ZmlDQ1M?oc=5"
     },
     {
-      "id": "malaysia-8",
+      "id": "malaysia-9",
       "source": "The Star",
       "title": "Malaysia's economy seen growing 4.7% in 2026 on data centre, tech cycle - IMF",
       "excerpt": "Malaysia's economy seen growing 4.7% in 2026 on data centre, tech cycle - IMF&nbsp;&nbsp;The Star",
@@ -12120,20 +12128,12 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYk9tWkVrMG5iNGtkX3lnb3RFUFlwTU9YOWJKMFhGUUpoYTBpUWxEVXpBVjNNLWFLd0ZTUlFEeDMxYWQ4TUlTVzRQbEN2TXVsemJNMF82SGVyMEpaWnNHc3dhNTdsY1NHMzlsekhWWFlBVTF1dDRYM0ZaQzE2M2RLbEFQQTAxdXlJb2E4Z3dpTXJrNHkxX21PeG5FVkdiT2ZTWjdCWC1laFNaQlZlR3R0MkNKLUltWmI2UjBwemVEWVFIR1k0LWNmemxnZktXU0VTOTNz?oc=5"
     },
     {
-      "id": "malaysia-9",
+      "id": "malaysia-10",
       "source": "Reuters",
       "title": "Malaysia will only import oil from Russia if acceptable from an international trading basis, minister says",
       "excerpt": "Malaysia will only import oil from Russia if acceptable from an international trading basis, minister says&nbsp;&nbsp;Reuters",
       "timestamp": "2026-07-09T09:05:43+00:00",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHE4enVpUlBob1k3UmNkZ3pBVVAxQTFnXzRYdHZJZm9WbUItdXM1dEFuUml1OFdLWTV4VVo0ZmxteGFaTnFuN0tXT3V3MThyNEc2MTlsTWJwSXJ5ZlFfN0dKNkEwRW5Yak93MjRwNlpfdzFkMmZWVHFVMmZKTnBvYlh6dlRjUE9KUmE3YkFkUzJFQlZLV2stQ1owYXNiNko3Y21VRk43Wk05NzJIZUtqQTJrdElFUFpsU3FxMXFoa1NmRHN5MEE?oc=5"
-    },
-    {
-      "id": "malaysia-10",
-      "source": "WSJ",
-      "title": "Malaysia Central Bank Remains on Hold as Mideast Tensions Rekindle",
-      "excerpt": "Malaysia Central Bank Remains on Hold as Mideast Tensions Rekindle&nbsp;&nbsp;WSJ",
-      "timestamp": "2026-07-09T07:45:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNmNvODNIWGxZdE9ZdFdVaFJJSUs2bDdpMGlBZEFfam1yYTZjUnlmbmFUMnBMVllCbWpoRXgwMmljNll3QzNCQzRrb0FaWV9FS3M3bVdHX3cxeDByNFdjSFIwUUpBdnNWSVZuUUVaR0s1TG9MbnBRZGppbHJhdUEwVDBWbTg5UDkzYVpJUlRWeUdrNjd3bGhwRjFkQjY1NUxuYlJLcmE0dWpib0lZeUtaNGF6M0N0c2lUUkJz?oc=5"
     }
   ],
   "Brunei": [
@@ -12386,13 +12386,21 @@
     {
       "id": "slovakia-1",
       "source": "trend.az",
+      "title": "Pellegrini’s visit: Karabakh emerges as strategic pillar of Azerbaijan-Slovakia relations",
+      "excerpt": "Pellegrini’s visit: Karabakh emerges as strategic pillar of Azerbaijan-Slovakia relations&nbsp;&nbsp;trend.az",
+      "timestamp": "2026-07-12T18:51:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FN2lqXzVKWlR4ckQtR0hsX19tLUlFZmlEbkdMbzJZSmRNTmpxRjZaZWU1TGVBMHpjNEVKMFhiZ0M2Y0FybFR3WVJ6OXhZNTFMZkpXZEpuYUpGY0VoY0xlbk9QZw?oc=5"
+    },
+    {
+      "id": "slovakia-2",
+      "source": "trend.az",
       "title": "President of Slovakia to visit Azerbaijan",
       "excerpt": "President of Slovakia to visit Azerbaijan&nbsp;&nbsp;trend.az",
       "timestamp": "2026-07-11T15:04:49+00:00",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0VWt5a3IwZU1pbUZYQ0Z5ZHM0enR1U2MwYnNiQmZBVFM5UGUxMkFLWnpmenNLM1hrRi1HNWZTTGp6QS1jNS1yRzFFZWl2YjFoTmM5X1Y0NWItbl9qaE1tZlJmSQ?oc=5"
     },
     {
-      "id": "slovakia-2",
+      "id": "slovakia-3",
       "source": "News.by",
       "title": "Fico: Slovakia will not finance the continuation of the conflict in Ukraine",
       "excerpt": "Fico: Slovakia will not finance the continuation of the conflict in Ukraine&nbsp;&nbsp;News.by",
@@ -12400,7 +12408,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUlqajJEcTZ0SVpLZTEtN0JBSnhWSUhFZ0NHNGtlZnE4RHAwVzhUZEdQMFNJdTJETFI2QjhDWExyYnlTRzI4aEsxcllzbEpIY3hhWURlN3pkTlVqdmo4WXBKTzUyLThVamtEVmJVWVljdGxvRGtSNkxXWkl0SkVfMHNXbzRvWnc5SU0wbTl1Y0E2N3BOUmFvMUt0WFhmdld3UkUybV9wcGNhQQ?oc=5"
     },
     {
-      "id": "slovakia-3",
+      "id": "slovakia-4",
       "source": "Encyclopedia Britannica",
       "title": "Slovakia - Manufacturing, Automotive, Tourism",
       "excerpt": "Slovakia - Manufacturing, Automotive, Tourism&nbsp;&nbsp;Encyclopedia Britannica",
@@ -12408,7 +12416,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EbGJoWlZEWW1SWGp2Z285RzlER3d4Ui1NYjRxV21mQU1UVWVhU2xZVXY3ckNKWVFlN3pPNDFXYldSWFlxVkJfdHF4QlJ1dWpXZlExbWNjek1EYUhsVGc?oc=5"
     },
     {
-      "id": "slovakia-4",
+      "id": "slovakia-5",
       "source": "Encyclopedia Britannica",
       "title": "Slovakia - Manufacturing, Automotive, Electronics",
       "excerpt": "Slovakia - Manufacturing, Automotive, Electronics&nbsp;&nbsp;Encyclopedia Britannica",
@@ -12416,7 +12424,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMNEh1WENLSDNPTHBjTHBiRDlGaDNtM2NxZkdINElzYUpFS2JOZFRYNU9MejMyV1I2aHV6SWQzQVlYWVFFenNUNGVnNGtzR3o3Q0pFeEllQ2hJOTNlU2o3VF9IUEliZw?oc=5"
     },
     {
-      "id": "slovakia-5",
+      "id": "slovakia-6",
       "source": "Encyclopedia Britannica",
       "title": "Slovakia - Politics, Constitution, Regions",
       "excerpt": "Slovakia - Politics, Constitution, Regions&nbsp;&nbsp;Encyclopedia Britannica",
@@ -12424,7 +12432,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZN1BvNGs4QzlUUDBVeGc5YWVzRDhfMFZWVFVtRkR6Szd2dG1hbWJsNWo1VnlObE5mVjVidm1MNUZIcHVtM1I2dFdfNXVsbkR0OGtFakx4M0REcFh6VWFQVVNpSEl0YTFhUUJYMzZqNmo2QQ?oc=5"
     },
     {
-      "id": "slovakia-6",
+      "id": "slovakia-7",
       "source": "Springer Nature Link",
       "title": "Hungary, Slovakia, and the Ukraine War: explaining the outliers",
       "excerpt": "Hungary, Slovakia, and the Ukraine War: explaining the outliers&nbsp;&nbsp;Springer Nature Link",
@@ -12432,7 +12440,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jN0MyMzBPNEsyTW1pR29oWUxZNEtMUFVnc3JIYldlQ3JVa1dyb3dtd2JGenpmY2ktZ21MV1NiYVl3WHZoWFpzdUdOanZBcmVuUUJHN0tCREo4eDE1VUNSd0JyTGFxRmdYYXNHVw?oc=5"
     },
     {
-      "id": "slovakia-7",
+      "id": "slovakia-8",
       "source": "TVP World",
       "title": "Slovakia's Fico says he won't back new Ukraine military aid at NATO summit",
       "excerpt": "Slovakia's Fico says he won't back new Ukraine military aid at NATO summit&nbsp;&nbsp;TVP World",
@@ -12440,7 +12448,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2RnVWsxVFQ2dktKazJaVXBFWVJnd1FncmUzcmFZNjdjcVV6RnBVUDhRTFlQenVyVEZvQUhRcEVSMmpVT2VueWo4SWpCaDVEcEF0RnV4ZFN1cmUzQzQtQm4tWFdTWkRFNHA0N05weEM2V2t2c0h4XzVDd2EySEV3T3BSSTBXSmFnZkszQUJJX1gyUk5CZVJILWx2RWw3dFJWWDBzUA?oc=5"
     },
     {
-      "id": "slovakia-8",
+      "id": "slovakia-9",
       "source": "trend.az",
       "title": "EU-Asia co-op: Slovakia and Turkmenistan set transcontinental connectivity",
       "excerpt": "EU-Asia co-op: Slovakia and Turkmenistan set transcontinental connectivity&nbsp;&nbsp;trend.az",
@@ -12448,20 +12456,12 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00dWhkUmVNaURpRWRHUTEwczhXZzJKV3hjYzhtVk9nR19JZndZajdkd2w4cHlld3gzZk5Ud0VQWVozQVlCUnV0ZzduU2lIdmMtUVQ4bg?oc=5"
     },
     {
-      "id": "slovakia-9",
+      "id": "slovakia-10",
       "source": "Euractiv",
       "title": "Czechia, Slovakia weigh in on Methane Regulation spat",
       "excerpt": "Czechia, Slovakia weigh in on Methane Regulation spat&nbsp;&nbsp;Euractiv",
       "timestamp": "2026-06-18T11:02:18+00:00",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ0pmeE05X1cyT0hkNFY3MENydlV2NDVCVVU4VlRXS1V1SzE5SThfVjRSRnBDdDhpV0hNVURsRG1DaWd4S3dKeF84aXNEX3JqdTBTYzRiTElqOS1WTFlIeDJ4akx3VmowbENDd0ZRODhvUC1VWFFlSVdaaEIwMVN5cWhvRk9NYno4U2lz?oc=5"
-    },
-    {
-      "id": "slovakia-10",
-      "source": "trend.az",
-      "title": "Turkmenistan, Slovakia hold first economic cooperation commission meeting",
-      "excerpt": "Turkmenistan, Slovakia hold first economic cooperation commission meeting&nbsp;&nbsp;trend.az",
-      "timestamp": "2026-06-18T07:46:46+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Uc2JlY3ZWUzVpYjh0ODQ2dHVUTThJS0lFeVlpNnBjQW5vcDRtYXZHMXZETWotNXV0WTdFWERDWjNWR0dkX0NIUFdrNUt2Wl92R09kRQ?oc=5"
     }
   ],
   "Czechia": [
@@ -14517,6 +14517,14 @@
   "WTI/USD": [
     {
       "id": "wtiusd-1",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "title": "Big Oil's War-Related Profits Anger Governments",
+      "excerpt": "Big Oil's War-Related Profits Anger Governments&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
+      "timestamp": "2026-07-12T23:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmdwX0F4VzQ3cVVkMmJoN0xPNndpQlVhRVJHUVJqZEUySmxaWXktQlloZEQwNzM1cGhnZXk2Q1IzU004Z3U1N1hVaWg3cWd6RHVyY3NtWDlFdFZZMmlHZUVRTnpFcmR0cEFDR3htQ1ZnOGJ2NEpzc1A2UVlsNGFmaHY0dU9Ha0pJekw0YUxNbmhocDTSAZgBQVVfeXFMTjhiTGVJcWlyRGw5d0M3X2FoS1NBNG9LU0FkSXZ3RFZWRWZTREgtMVllV3FfLTgtdTNZMVNxNkVwYTNPR3M4cXJHYmR5clJsNjU1bVNuaXBVUDVtSXdBSWo1OWd3MlFVckhMcTY1YXNxZXYxSmFOd0o4ZjZodDFBTnpFU0toaUh1U01CWW1MZkdnQ0tSdzVXVUY?oc=5"
+    },
+    {
+      "id": "wtiusd-2",
       "source": "CNBC",
       "title": "Oil prices rise as U.S. and Iran fight for control of Strait of Hormuz",
       "excerpt": "Oil prices rise as U.S. and Iran fight for control of Strait of Hormuz&nbsp;&nbsp;CNBC",
@@ -14524,7 +14532,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFYzekVvMlNULUZZc3ZlUkE5RmRjYVE0ZXJMLW80SzQ5MzhLRUt0UlZRRmxXbi1sQ3Q4REVTcXZNSVg3bFVwRnNwT3FKbXVBaGZvWWhuOUVLSUZ6X2dUTHlVMGcxVlRaR25EYkVkckw5VG55ZlZObmRQRjRMQ1JqclkwVm7SAYoBQVVfeXFMT0RzeVVLZHMxdEFSczJLVFpiODNfYjJXN0gtWFNsbGlveVJfQXkxendKY2J0UkJHQ0pnMGRBVFVwWk03ZExkc2tjb0paNzQzTXlTNXhYMnR3Nkh4R3NZOTB6RjF5X05iclhwMTBoVklQQks0UTBncUFIYzhCdzNEYmdERUdMWkJYdUxn?oc=5"
     },
     {
-      "id": "wtiusd-2",
+      "id": "wtiusd-3",
       "source": "FOREX.com",
       "title": "Crude Oil Weekly Outlook: Oversupply Risks Challenge WTI & Brent Despite Hormuz Tensions",
       "excerpt": "Crude Oil Weekly Outlook: Oversupply Risks Challenge WTI & Brent Despite Hormuz Tensions&nbsp;&nbsp;FOREX.com",
@@ -14532,7 +14540,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM09qSjhxS2tEZGhhN01TOTN3dVdfVTJQWVd6SFBsbU5seDlFZnNMZW9aVnB6SXNJSFFJVTg1ejNHYnJTT3cxbGw3N1EwZHBmTXltdldYLVFOVUc3c0J0Ymw1THU5NVJoYmMxa3FlcUlDUElGN3ZvZDlCei1UcjNuVE9qdDhFNktIdGZMWGt6Y050WGNKRE02TlRsRVVMV2NOLW80Sy1wSGpfeTdDUUZiTnpDTTJyVy1sWHBvR05GYkJCWWNXRlBZZVprNnJRTnJsdWc?oc=5"
     },
     {
-      "id": "wtiusd-3",
+      "id": "wtiusd-4",
       "source": "Forbes",
       "title": "The U.S. Is Both The World’s Top Oil Producer And Top Consumer",
       "excerpt": "The U.S. Is Both The World’s Top Oil Producer And Top Consumer&nbsp;&nbsp;Forbes",
@@ -14540,7 +14548,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUt2ZlU2NHhUZjFSNm9sM3c0cjV2MEV0YTNTQ1JYUVFFU2xfeTdxMmNSU2c4YWJJTkNpMFdxQkVmVHQ4cHN3azNpWFc1cTBHUjZaRkNQYTZiLU0teG9PZlNTVHJ1QjNKcnd3dmtoMXFjUDNQc29EM0RFVWlvdlAtRFFzclpwbVpsNWYwWW9yVmx3Z1pfT0hZdEZTV1JJMHFHaWdINkg4UjlEXzN1?oc=5"
     },
     {
-      "id": "wtiusd-4",
+      "id": "wtiusd-5",
       "source": "EnergyNow.com",
       "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank",
       "excerpt": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank&nbsp;&nbsp;EnergyNow.com",
@@ -14548,7 +14556,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5"
     },
     {
-      "id": "wtiusd-5",
+      "id": "wtiusd-6",
       "source": "The New York Times",
       "title": "Oil Prices Set for More Volatility After Latest Iranian Attack on Ship in Gulf",
       "excerpt": "Oil Prices Set for More Volatility After Latest Iranian Attack on Ship in Gulf&nbsp;&nbsp;The New York Times",
@@ -14556,7 +14564,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVNCUXM1Rnk0bjJIbzAxT0wzbjZaa1IxWjVZOU80QmxXdXJaeUZ4dFVNSUZoeEFyVnkwRlJjbHFfdlZUZm9UdTF0bHFGRWZRNm5TbVkyS1pTUGNwajRrN3piV0dKRlpEV05SSmZ4b3lsQ01NU01HSEhBTHhydXlGVzlhbkZISWVwdzF5eTBBcGU2QlZk?oc=5"
     },
     {
-      "id": "wtiusd-6",
+      "id": "wtiusd-7",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "title": "The Next Bull Market Could Be Built on Inventory Replenishment",
       "excerpt": "The Next Bull Market Could Be Built on Inventory Replenishment&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
@@ -14564,7 +14572,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUtPWmVFM1QzdVphanNITXQ3VE1KU29hdnVwRS16YW9JQ1J1bHZoU1VhaTJGbEdvWDQwOEo4R2NBaUlMTUJzcUlBVU1tWkh3MGhueTRrNk42eENDTHJmYjlQRzJzSnpNOXBwcDVVa0FMejVKMlVZZ0pjUzFxMUdDQkxacDdianNjQVgyeUN2U3NZaDJkY3JPR1otOUROMHVDc0tCMXlSVXHSAa4BQVVfeXFMTXNqdUZrQ0l6dkY3cFBrNDFodWlja08xbG55ZkRESkxtNmtZWDNWM1E4bEpON2M1Vmw3dmhHVlBsVWpjVjc5Rno2a2VCNFdrenE3XzAyUDZsazhHOXlLSHkyOUdvOE1YbElsRXBPREJ3ZjZOQllnU2pZVW43bGhQLUNJMjhVdmlsU2I1OXNzQzh4eXgwMnQycGtxN0JsZTIyVEtVR2N1TW5ZeUVCd0x3?oc=5"
     },
     {
-      "id": "wtiusd-7",
+      "id": "wtiusd-8",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "title": "Can Colombia's New Government Reverse the Nation's Oil and Gas Decline",
       "excerpt": "Can Colombia's New Government Reverse the Nation's Oil and Gas Decline&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
@@ -14572,7 +14580,7 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWjQtbGZDWU93b1Q5ejNIWDQ3QzZjQ2U1OWE3NVBTdjI1T3lIaktxRUxLd3hmV3BvZHNPcWZXZkF5RHhndzFyUFVld0JaWWlwLUxVX0w3WXNVOVpnMGgta3NnN2hIUzlad1JGOGQ5UXVoM0Exblo1aGk0bG9tOWNHYXkyTmQySC1pY090b2NBNDFLTUV4V0F3b1pCMzJXMmt0WUUweVpUaHFGMkd4MFhIUlBQb09pM2_SAbwBQVVfeXFMTy01dmhtZVB6Z0Vwa1c0TUt6eG9ZRGZLVkNvY1ZSZW15dC1tSERfSWdjT2lBeHFOTHZnYlJKZzR0d1RrbXR6TnhramUxdU93N0IwWnBFUms2cmhNYWhlUzRKZXdXS3B5VE5Ja3ZYTlNKbm1xQzZGNWQxYWhOVVdwSHBvTkJvTUFvaUt0R1gtbkdZcWZkWXJJa1RGdWJJU3V3eWhYRTliTWZSRm5peDhSRGFrZnFGZGwwQlVRZ2M?oc=5"
     },
     {
-      "id": "wtiusd-8",
+      "id": "wtiusd-9",
       "source": "Axios",
       "title": "Why fuel prices stay high as oil prices steady",
       "excerpt": "Why fuel prices stay high as oil prices steady&nbsp;&nbsp;Axios",
@@ -14580,29 +14588,21 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGN3BwcDdETUNuUzhhQ0RqYmlhRkJ0OWxSdjFpMmpuNHF0Z2pGYVpNTHdPWkRURW80Vi1YcC1FN0ZpNkgzZVFmR2lYTnRobjgwclVtTmtBZEFnUmdTX2dtaFY3SVFiekN2eVE?oc=5"
     },
     {
-      "id": "wtiusd-9",
+      "id": "wtiusd-10",
       "source": "CME Group",
       "title": "WTI Crude Oil and Natural Gas futures slide to multi-month lows.",
       "excerpt": "WTI Crude Oil and Natural Gas futures slide to multi-month lows.&nbsp;&nbsp;CME Group",
       "timestamp": "2026-07-10T21:36:42+00:00",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzVkWU43QW5xZzhrSzNxMXJycXpNY2RaejlCWVRFeEgtTnA5eG83UWZYRkRzRW1Xb0RjRjB2aWZpckZ4RW5JakJNai1XSmoyeGtfMW8tekk2WlNFV1pScldIUktvd0ZKVEpOWHNvaVU0Y0x2MERqdnhrMy1zenA3dnUzLW9rbVlQTFBKamNJWVpyMm53UExxeUlsMzNPN0E1aUZqMXc4aHFoTFd2NUNWR0l3?oc=5"
-    },
-    {
-      "id": "wtiusd-10",
-      "source": "Hart Energy",
-      "title": "Kansas Fed Survey: Rigs Heat Up But E&Ps Aren’t Betting on a Boom",
-      "excerpt": "Kansas Fed Survey: Rigs Heat Up But E&Ps Aren’t Betting on a Boom&nbsp;&nbsp;Hart Energy",
-      "timestamp": "2026-07-10T20:24:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1cE0yakVPeTZST1czMjVpZDVGQ19KQ2JTWnFHSnFqM3Rka1Z2aEVUazR1dnN0U3lpb0Q4SzdMd0Ytb1VsWF9EbFBhV0s3X0gxNDh0MTFqbjZLVmdIeElPNUhELXZGQXdLVHM4d2l4TzEwUmc?oc=5"
     }
   ],
   "SPX": [
     {
       "id": "spx-1",
       "source": "Investor's Business Daily",
-      "title": "Futures Fall Amid Iran Attacks; Big Earnings Ahead",
-      "excerpt": "Futures Fall Amid Iran Attacks; Big Earnings Ahead&nbsp;&nbsp;Investor's Business Daily",
-      "timestamp": "2026-07-12T23:09:00+00:00",
+      "title": "Futures Fall, Oil Rises Amid Iran Attacks; Big Earnings Ahead",
+      "excerpt": "Futures Fall, Oil Rises Amid Iran Attacks; Big Earnings Ahead&nbsp;&nbsp;Investor's Business Daily",
+      "timestamp": "2026-07-13T00:48:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORU9feGs2S085SEFuY29nazFKXzBHU0hjVDlBMmNzTXREN25hTEEzcXlzR2tiRTEwNVQyMDloQk5mNkxYTFlSeXI1ZmlhSW5hMWNYbFBkbjJPdUI3ZF9Ya0tuSENUVGhHNG5NSnFGQ1hYMk90ZDltNlo0c0M3QmY1X2ozNkVXYlNZZDJhY0RJeTZKN3FZUzZsb3diekV3b0dPZWl5dmhodm9LUDVZMmFYM01UVXhpVDJqdXNNalYyVzNyUlRLMGpyRjRPYXFyRXdM?oc=5"
     },
     {
