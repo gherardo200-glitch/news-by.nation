@@ -2299,6 +2299,14 @@
   "Brazil": [
     {
       "id": "brazil-1",
+      "source": "Reuters",
+      "title": "Brazil cuts rates by 25 bps again, September rate cut in play",
+      "excerpt": "Brazil cuts rates by 25 bps again, September rate cut in play&nbsp;&nbsp;Reuters",
+      "timestamp": "2026-08-05T23:06:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcU5ZelBrN3dWTm4xVGk0ZzVIV1lhZVM3aHl1aGdseDFlb2NVSXY1YXZvQ1QwVHZwYVV1Z093MXc1Y2ZZdlY4WjhtZjFTWTFiWUhkamlKSHI0dDNUazNBOWFzTUVFT19IR1RpWWd3V0R1VGFxT29NcmNCaloydkUtVUZXNURKMG4zVjJiX213TGVKOEthbGxHV3dLekp2ZFBBWlpEOVlxYWxLVW11T2txYmE4bC1xZw?oc=5"
+    },
+    {
+      "id": "brazil-2",
       "source": "Finimize",
       "title": "Brazil’s Central Bank Cut Rates Again, But Kept It Data-Dependent",
       "excerpt": "Brazil’s Central Bank Cut Rates Again, But Kept It Data-Dependent&nbsp;&nbsp;Finimize",
@@ -2306,7 +2314,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcElkdHpaNWdMeHRlc2pteTZSeUF4RDYtd2VuVHlSV2l5S1UwSnFnaXhDOU1ZUWRsclpLMTRmNENPT2t3emdFdmtzSGZVYjd5NXlMamRGbUZGMEhMMTBEV2lBSkNSRUd3alp0UFpMazlGZElsckx2bk53aEFhQkZBSXFKYURTcld5YmVrQzZMcHdVbGdlZHYw?oc=5"
     },
     {
-      "id": "brazil-2",
+      "id": "brazil-3",
       "source": "WTVB",
       "title": "Brazil central bank cuts rates by 25 bps at fourth straight meeting",
       "excerpt": "Brazil central bank cuts rates by 25 bps at fourth straight meeting&nbsp;&nbsp;WTVB",
@@ -2314,7 +2322,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0NJOEktaHlyaGFWcDF4RF85a0FfRllEYzA3ZndNYlN4TGZ6VGZyOGs1RkJYbXluamM3MDNLdTNWZ3NkMmRpbk9Xa3FiZWdhc3FtaHYzWmVYTGtXdFFGQlBWTUVEVWNHX3Rsa3hCNzhTTnUzYjJVMUJDd2gzd3VnODVNNWZmdDB4dDQyZzFxckFQV2VSMkFrbG5aVnAyUDA?oc=5"
     },
     {
-      "id": "brazil-3",
+      "id": "brazil-4",
       "source": "wsj.com",
       "title": "Brazil’s Central Bank Cuts Rates as Inflation Eases",
       "excerpt": "Brazil’s Central Bank Cuts Rates as Inflation Eases&nbsp;&nbsp;wsj.com",
@@ -2322,19 +2330,11 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMldCTWZBUXoxeUVBZ1EtMkZJMXAzRjZGeFNUWDZRLXZIcmdIVnNJREZ5OFlsVmMtYk1QVE1BZXQ0dTNWS3plZHNwOHc2eXNyNF9GRlZ5dFFkQW0zOFc2N0pkZVYtQkZSNm92WW5FRld1dHRaX1dNeUxMckluOEhabkh3dldPa01vWUVTaG12RFVMTWVHQ20xX3dGSnhwX2pON1BIUGZB?oc=5"
     },
     {
-      "id": "brazil-4",
-      "source": "Reuters",
-      "title": "Brazil central bank cuts rates by 25 bps at fourth straight meeting",
-      "excerpt": "Brazil central bank cuts rates by 25 bps at fourth straight meeting&nbsp;&nbsp;Reuters",
-      "timestamp": "2026-08-05T21:45:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcU5ZelBrN3dWTm4xVGk0ZzVIV1lhZVM3aHl1aGdseDFlb2NVSXY1YXZvQ1QwVHZwYVV1Z093MXc1Y2ZZdlY4WjhtZjFTWTFiWUhkamlKSHI0dDNUazNBOWFzTUVFT19IR1RpWWd3V0R1VGFxT29NcmNCaloydkUtVUZXNURKMG4zVjJiX213TGVKOEthbGxHV3dLekp2ZFBBWlpEOVlxYWxLVW11T2txYmE4bC1xZw?oc=5"
-    },
-    {
       "id": "brazil-5",
       "source": "Bloomberg.com",
       "title": "Brazil Central Bank Cuts Interest Rate to 14% After Inflation Cooled",
       "excerpt": "Brazil Central Bank Cuts Interest Rate to 14% After Inflation Cooled&nbsp;&nbsp;Bloomberg.com",
-      "timestamp": "2026-08-05T21:34:13+00:00",
+      "timestamp": "2026-08-05T21:41:48+00:00",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXBydHB6RHFIelhNeTUtUVN5RnFtcXJXVlZFSU54RTdpd3BnaFduUzB5Z0c3cG5RNFp1U1pOa1EtV3h1aXAxR3hZbkE4c1g0cGY1SHVsQnVPWkdpUmZJeTdmVTFlWE1Pbi10NHRVMjV0WTJUalk1VVc5VkVvYUEtQ0gwS2JfOE1pVE9RWDFyVGVYRC1jc3hYbU1rYkRidw?oc=5"
     },
     {
@@ -5826,13 +5826,21 @@
     {
       "id": "mozambiq-1",
       "source": "CLUB OF MOZAMBIQUE",
+      "title": "“RAIZ Mozambique” launched: a new programme to finance small and growing businesses in Mozambique",
+      "excerpt": "“RAIZ Mozambique” launched: a new programme to finance small and growing businesses in Mozambique&nbsp;&nbsp;CLUB OF MOZAMBIQUE",
+      "timestamp": "2026-08-05T23:15:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWVUZFhMTjQzcHlBTEp5am5PMkxGQk1MVTJtSnlOOGRRN2VzYTFGWkJGVnJwNHpHWVlPcTdoajNKQThFWEFtRDJBQjRPZ3NXOVBIMTUtXzBhbnU5WVNNSWlUR0pYSFFiOGE3eDdacGw1WXNiei12d1hZQWNhalpkanFvRVFqaWV5akhsemJ6bjAzM0tZX2NaUkdMdHNHejNMRUd5UHd3T1ZyN1d5andJRFlJbDE5c1pwYXdrX3Z0S3ZCZTB3VlFwYw?oc=5"
+    },
+    {
+      "id": "mozambiq-2",
+      "source": "CLUB OF MOZAMBIQUE",
       "title": "Ernst & Young Mozambique calls for transition towards a less aid-dependent economy",
       "excerpt": "Ernst & Young Mozambique calls for transition towards a less aid-dependent economy&nbsp;&nbsp;CLUB OF MOZAMBIQUE",
       "timestamp": "2026-08-04T22:38:44+00:00",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzIxVG9pUS1ieHRWajlrRUFFNDFaM09SWk5tWFVVb3otQnl0U29HREd2eFIxeDlyX0tSR1Q3TUoxUXNkTWJQeUxlU0xVMnVJMGhuNDhZTGlJRTh0dU1wYXY5NU9DbWQxNGpOMEJjQU9kTDNaakdzanpVOVNXa0F2WXJwMlptU2dydG96M3A2VWZYWk5jUFYzUlJ3Uk1OckptSTFpYndTb0tvTFlsbm8tbHJtRl9fQQ?oc=5"
     },
     {
-      "id": "mozambiq-2",
+      "id": "mozambiq-3",
       "source": "clubofmozambique.com",
       "title": "Mozambique: Finance Minister in Tanzania for Africa50 Infra for Africa Forum and General Shareholders Meeting",
       "excerpt": "Mozambique: Finance Minister in Tanzania for Africa50 Infra for Africa Forum and General Shareholders Meeting&nbsp;&nbsp;clubofmozambique.com",
@@ -5840,7 +5848,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZHBzMVJENk9WNkI3VkJsWlRucWFoTVR3YnZGNmdSeXoxTjhSaXRDcXhOZjNtX1FVZjNFX1pOVFhYSVd1SldPRjV3dGxQb1hCZGtSRHBlUThpWlNQRms0anMzV29ncE9WcXI1R0g5bkJ5Z09RbHhleUQ2b0MzR3ZzbVpmeE1zZ1k2S2dhblFvN0otWjdVU2xVU2lrUUJFcGJMTUdGdmpvZTRzdm50Yi1BdjM4c3I1M3dPM1BQZUt1RkplVVcwU0JmRzRVb1daM1NfaXFfdVlJZ0o3VGc?oc=5"
     },
     {
-      "id": "mozambiq-3",
+      "id": "mozambiq-4",
       "source": "clubofmozambique.com",
       "title": "Mozambique: Finance Minister in Tanzania for Africa50 infrastructure forum and shareholders’ meeting",
       "excerpt": "Mozambique: Finance Minister in Tanzania for Africa50 infrastructure forum and shareholders’ meeting&nbsp;&nbsp;clubofmozambique.com",
@@ -5848,7 +5856,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa2RIN0FZS3dkV3FRNXZnWjJzeDU2MWZlWU9feUhqRHdMbmphbjVNeW1NaDdXaW1aVlh0Mm9hSUplRnlvaHpKY2QyeDlPZkN3dDl3NXBiRnRpUWRGc2JSU2VaeWduWG4xTzM4X3I4cDNqa2tBT3NPQWZOZUpuV3lXbVh3WHdhLUVldzFNZnVKV2hxd0pYdWF2Z29YUTJyaktGMFJhV2Q4SWtLRExhem45T2J0NjNYY2ktdDVwcFV0Znk5SkZOaWk4SGJuc2kyQQ?oc=5"
     },
     {
-      "id": "mozambiq-4",
+      "id": "mozambiq-5",
       "source": "CLUB OF MOZAMBIQUE",
       "title": "Mozambique: Economy minister backs new rules for online gambling",
       "excerpt": "Mozambique: Economy minister backs new rules for online gambling&nbsp;&nbsp;CLUB OF MOZAMBIQUE",
@@ -5856,7 +5864,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNU5QLUszN2c0TExIcnRXZEdlQkFpMUJoQUJ6MDBSSmE5RVFTX2NhMkZ4QzFOS1ZqelFsRnlPcEVVck1KV1p1MEZic0xhbHNnTkxQWlJBeXdPX1k3ZW9NWUo4V3UyNFpwd3pGU0pZdG82cThnbnUydG5OVm42TkNsSzVXSVA4a0xyalZkeDREeE1fNVNJdDRzNmhjNWEzVms?oc=5"
     },
     {
-      "id": "mozambiq-5",
+      "id": "mozambiq-6",
       "source": "CLUB OF MOZAMBIQUE",
       "title": "Millennium bim strengthens support for Mozambique’s economy and maintains robust capital and liquidity indicators amid challenging macroeconomic environment",
       "excerpt": "Millennium bim strengthens support for Mozambique’s economy and maintains robust capital and liquidity indicators amid challenging macroeconomic environment&nbsp;&nbsp;CLUB OF MOZAMBIQUE",
@@ -5864,7 +5872,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOeVFRZDdBSUdFZi1FV1pCd3VTM3lueW5jTG9QTFNfSmJJVE8yVEZJVnlYd25Nc3J2UlJaZzVRc3dsVjlEcW5mbUNRY0hVa1ppRE1yZjJ4S0xJakVNZlpWdmZIX1poRHNVV2tJN3VqZUdJV2JkazNxUF9yMXZldUlVNl8xVWxaTHdNeHd3VGJTZFgxVEdUc3M5cHRJTUswamZfaVN1VDlyWk1yd2dhVG9vbzJnUlg5aWduSVI1ZnRRWWNObmJMcUtfR2xIcjhXZk1tR3QxOUJSMnFzeWJ4MlRaQm1KcTdLTGNJdWl1WFlQTjJDRmxHbk1IeEtrTk1zQU43YlZtZ1l2eFdzRTdFd0drOFRjbndKQ3UxaHc?oc=5"
     },
     {
-      "id": "mozambiq-6",
+      "id": "mozambiq-7",
       "source": "CNBC Africa",
       "title": "Mozambique central bank leaves key rate unchanged at 9.25%",
       "excerpt": "Mozambique central bank leaves key rate unchanged at 9.25%&nbsp;&nbsp;CNBC Africa",
@@ -5872,7 +5880,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc0xxUl9BLUd0WWI3MHQ2X3pPcG1OSTZvdlJXaHNIRFlJV3ZhSnQ5OTJxdGctOThSMjY3MHllaFJTb0tGVDRtckRucDdRNWU3VGdiTC1pOG1UT0MwMU5xRUt6Q2JiVHk5RHBvVmEwWTdjNjNybDd0cTFGVTB5ZlVvWW1jQVJIcEVhb3RsUnBJS200Y2c?oc=5"
     },
     {
-      "id": "mozambiq-7",
+      "id": "mozambiq-8",
       "source": "Investing.com",
       "title": "Mozambique central bank holds rates steady at 9.25% amid inflation",
       "excerpt": "Mozambique central bank holds rates steady at 9.25% amid inflation&nbsp;&nbsp;Investing.com",
@@ -5880,7 +5888,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcFhtbnNIVzJPNGdpaXllWldpNUZ5azNVY2RpZGJVT0xrcGZOSlc3bnpqSlZyWGU2NkJZc3ZIVXZ5eVF6TXptTTJ2VmFIamtpQ2FOTGQ4emc4YWZrYktiRlRCenFsSkxVQ2lRa01NVVZVQW8tZFU5aEVrNlEtTzlRdU16S3pIVTdFSTFBSndOY2JFT2xXZnM4UDZweVcySC10ZUh2dmVPTFBXTWNidVdGdWRPeHdEdl83dEZrX3hB?oc=5"
     },
     {
-      "id": "mozambiq-8",
+      "id": "mozambiq-9",
       "source": "CLUB OF MOZAMBIQUE",
       "title": "Mozambique central bank leaves key rate unchanged at 9.25% — Watch",
       "excerpt": "Mozambique central bank leaves key rate unchanged at 9.25% — Watch&nbsp;&nbsp;CLUB OF MOZAMBIQUE",
@@ -5888,20 +5896,12 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNVRLRk12LWgtRW5zYTB6amNoX2NYSGRSNjd0ZjFmZWFIVTl3UVk0aXBHeVVXcTdiWHhyYnlnYTkwZmVXN3VfWktfeXZRVUJQbExDRVBFQzRvX3VSV2RRRVEwTUt4d1JKQlV3Q1o2T011a3hpRUwtWUJwN2ZUYkdSU3IwQVRUbm9nQk5weVF3ank3a1ZhNmszZ1dtRVU2TEk?oc=5"
     },
     {
-      "id": "mozambiq-9",
+      "id": "mozambiq-10",
       "source": "Investing.com",
       "title": "Mozambique central bank holds rates steady at 9.25% amid inflation",
       "excerpt": "Mozambique central bank holds rates steady at 9.25% amid inflation&nbsp;&nbsp;Investing.com",
       "timestamp": "2026-07-29T15:05:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeEhxZ0YydkZteWs1MDl1M09rbGtsUmpzUHhjVWtHWHFaRWV4Y094RTdKQVdWVEJYdUFoU0JWN3lrUERpMEg3ekZUekpsY0dYMkRrV255NHV0VWhxV1BrdXJ1S3kxcmVRMlVnYktVZVhkRThtZmVRdXAzeWtUVjNULUhzY2h5OHFxRTlVWEJCSnRfbTlaTmVKbHpIcGc5VlhucHY4Ujk2azJjUkVhMV9GcXlJV1IxSExfRmFfNkt6LTRFQV95aE5pTQ?oc=5"
-    },
-    {
-      "id": "mozambiq-10",
-      "source": "CNBC Africa",
-      "title": "Mozambique central bank leaves key rate unchanged at 9.25%",
-      "excerpt": "Mozambique central bank leaves key rate unchanged at 9.25%&nbsp;&nbsp;CNBC Africa",
-      "timestamp": "2026-07-29T14:30:20+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1phR3g0WG4tbjhjTGt2OHFDM0ZkOENEWmplUUpldGhsVE1XUXdTMjlEMGcySmxueGRwdUJDVjdKLTVjYU1yLVNfaTAtNm8zYmlRdk1fQTFEM0hoWi1INDM0eFh0azQtSlUtd01BcllrNTRlTWhrMHZudWlmQkxkZ0UzOWJaN1dYdFg3NFFydUJGWi1I?oc=5"
     }
   ],
   "eSwatini": [
@@ -7465,11 +7465,11 @@
   "Laos": [
     {
       "id": "laos-1",
-      "source": "VOV.VN",
-      "title": "Vietnam and Laos share experience in building self-reliant economy",
-      "excerpt": "Vietnam and Laos share experience in building self-reliant economy&nbsp;&nbsp;VOV.VN",
-      "timestamp": "2026-08-05T10:08:31+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzB5eFRTcDZSZW9CdVlGaDVBTEp5Y19HTi14azIxaGtadTJTa3M5ay16Y2J2YjF5NjhrcVVLLWJOTk8zYWpWSEJ3TmdxTmhqSU5TSjVNcVJSN1ZGRHpaaE9BejVBR0V5R1g0ZHloelEtcjNBZzNNNjdvckxTN09SS0YtNUg4akpILWNpMjZiMUNTbXpHZ2I3WjQ3NFpmWG42cmw2UWZvYkI2MHJaOTJvdG92VUFUV0pTRDV3?oc=5"
+      "source": "Vietnam+ (VietnamPlus)",
+      "title": "Vietnam, Laos look to step up comprehensive defence cooperation",
+      "excerpt": "Vietnam, Laos look to step up comprehensive defence cooperation&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
+      "timestamp": "2026-08-05T14:49:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdS1uLXZ2RTlsb09DS1g2cGJodEFITjRHQTVwXzM0UWlQSUgxaFVIVVVLZlozZS11bHJBM2JNS3VvaGFTZjhGb1I0b2FZa0Q5Ri1Vc3dEWnJpWHVfZHNZVWJrektEblVkY3JSOE1jLVg5b0NfdWp3THNhWmhyS185T09Oc3Fvd0FqenBYcDFqZDVVLUIzUi1qQWt3bUYzV0pFM2t2bmFn?oc=5"
     },
     {
       "id": "laos-2",
@@ -7477,10 +7477,18 @@
       "title": "Vietnam and Laos share experience in building self-reliant economy",
       "excerpt": "Vietnam and Laos share experience in building self-reliant economy&nbsp;&nbsp;VOV.VN",
       "timestamp": "2026-08-05T10:08:31+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFBPOVZhOEp0eDNRZkZLWklwSk5STGphY0JjeXM3NVNwV0pPa2tnM21ubTlkVWYyRmpSdktGenVIaGVGQ2RyWE92WF9UTF8tc0pTN3ZwSzZpSEdqQWdMQzQ4N09fakNyMUZuclliaGItdkpIbVZUZHlmbGxPQi1BZk13c0xDcGlURU5rS283SlRwODVqSGRDWV8zWFl4LUZROFZYc1lKYnR1WVMxc0VWVllZa1VKX3JnX0VnVDdjbWcwamhSM0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSzB5eFRTcDZSZW9CdVlGaDVBTEp5Y19HTi14azIxaGtadTJTa3M5ay16Y2J2YjF5NjhrcVVLLWJOTk8zYWpWSEJ3TmdxTmhqSU5TSjVNcVJSN1ZGRHpaaE9BejVBR0V5R1g0ZHloelEtcjNBZzNNNjdvckxTN09SS0YtNUg4akpILWNpMjZiMUNTbXpHZ2I3WjQ3NFpmWG42cmw2UWZvYkI2MHJaOTJvdG92VUFUV0pTRDV3?oc=5"
     },
     {
       "id": "laos-3",
+      "source": "VOV.VN",
+      "title": "Vietnam and Laos share experience in building self-reliant economy",
+      "excerpt": "Vietnam and Laos share experience in building self-reliant economy&nbsp;&nbsp;VOV.VN",
+      "timestamp": "2026-08-05T10:08:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFBPOVZhOEp0eDNRZkZLWklwSk5STGphY0JjeXM3NVNwV0pPa2tnM21ubTlkVWYyRmpSdktGenVIaGVGQ2RyWE92WF9UTF8tc0pTN3ZwSzZpSEdqQWdMQzQ4N09fakNyMUZuclliaGItdkpIbVZUZHlmbGxPQi1BZk13c0xDcGlURU5rS283SlRwODVqSGRDWV8zWFl4LUZROFZYc1lKYnR1WVMxc0VWVllZa1VKX3JnX0VnVDdjbWcwamhSM0E?oc=5"
+    },
+    {
+      "id": "laos-4",
       "source": "Nhan Dan Online",
       "title": "Viet Nam, Laos step up cooperation in political theory, training",
       "excerpt": "Viet Nam, Laos step up cooperation in political theory, training&nbsp;&nbsp;Nhan Dan Online",
@@ -7488,7 +7496,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRTkyMmdkOFA3YWs0UERYRkVNS0xPVGdrbXpPbzUtTkN6ZjY5OVBIb1dDOGhMZ1pMaDRJWHlrVS1sYUpub01lQldNOVJfVjlaNW9LaVlFRzc4Q1ZTZDlNYWN1VFNtWkpBZlh5WWxVTUFTYzNqNmRpZHZabTRfT1ZJNU9vRDRWOFFCTFJCQmtjSUUtZURPd1N3dllDTC1sdFhaQ3c?oc=5"
     },
     {
-      "id": "laos-4",
+      "id": "laos-5",
       "source": "en.vietnamplus.vn",
       "title": "Vietnam, Laos step up cooperation in political theory, training",
       "excerpt": "Vietnam, Laos step up cooperation in political theory, training&nbsp;&nbsp;en.vietnamplus.vn",
@@ -7496,7 +7504,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlBmTjdWWXZYYzk4ZDlaYWNTdE1qR3dxZFcybV9YYWVhclA5NmhCSmhIbmtNU19UdlkxNEZuZUw1WVdMc0lfU1pfNk56UmJXWEZTSHptdzBDbVFuYUQwUEZYeDA4bHN5S3RycVRoX1hkSVVIN1lmUE5fTTY2OW93Zlh3MTBfRmpSa0M4ZTQ5LWhFbkNEc01yUnhuVDJ2cFZJU0ppdg?oc=5"
     },
     {
-      "id": "laos-5",
+      "id": "laos-6",
       "source": "TravelMole",
       "title": "Laos launches cultural body to boost tourism and creative economy",
       "excerpt": "Laos launches cultural body to boost tourism and creative economy&nbsp;&nbsp;TravelMole",
@@ -7504,7 +7512,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUEVhbzdUbnNPYUVzdTMyWE12S0t6b3hCbE9OOWlRZHZSQW5CZTl1N3FEYmFQZy1XLUgwNkFiMlZrWVlWTTZ4Zm1jQTgzSndGQW1oTlh6RDEzeVJzeEpTVWRwdEVwNDFSRnVRTGtYNDhxTzZFQl9mOVA0bVQ3ajBDRVY4SjdiV3hvQjlEYUduSkNZQ3l6Y3RKMA?oc=5"
     },
     {
-      "id": "laos-6",
+      "id": "laos-7",
       "source": "info.gov.hk",
       "title": "Speech by SFST at MOU signing ceremony with Ministry of Finance of Laos (English only) (with photo)",
       "excerpt": "Speech by SFST at MOU signing ceremony with Ministry of Finance of Laos (English only) (with photo)&nbsp;&nbsp;info.gov.hk",
@@ -7512,7 +7520,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwNFlqeEZ5Ty1rSG51UHpEblhHNEJsX0dRRFdOdVhocmtVU3FHcVlLbV9PSnVlakdRTGVIVU1obkZ4UDhIWVZRejVUWmVjZWZOOU9hbEhKRF8xbVZsd0hxWkFzRThpajM0MTVQd1g2M0dHZw?oc=5"
     },
     {
-      "id": "laos-7",
+      "id": "laos-8",
       "source": "info.gov.hk",
       "title": "SFST signs MOU on gold market co-operation with Ministry of Finance of Laos (with photos)",
       "excerpt": "SFST signs MOU on gold market co-operation with Ministry of Finance of Laos (with photos)&nbsp;&nbsp;info.gov.hk",
@@ -7520,7 +7528,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13Yl9JblZvUWVJRncwR1ZwUjRfRlpySHlCV3FLZXhsQy10NS1IREJidDNTcnJqNnR6X2tQLW0ycGlkRkhxZmxsdTZXRzRoZ2ozci1sRW1oRXRhWjNBZnp5TVBReklOVlhZZUxaenl0NHZyZw?oc=5"
     },
     {
-      "id": "laos-8",
+      "id": "laos-9",
       "source": "The Standard (HK)",
       "title": "HK and Laos sign MOU to forge seamless gold corridor",
       "excerpt": "HK and Laos sign MOU to forge seamless gold corridor&nbsp;&nbsp;The Standard (HK)",
@@ -7528,20 +7536,12 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDhQa0lTR2lSVnJZVEVCUFZZWGJiY0NVXzBUYUw2OUZTYzVjWDBMOGJVXzFCWnY4Mmx2eHNjU3Z5cU9GVW9TZElpZ1BGZFUzRFNSOVVVSDZ1UHZSMGFJcUFkTC1BbE5FUzNvLTJyb0dBVVVJSVN3dm5sWW5RejZ2U2lQM3cxRFB4WFV5MHZSTlVnVXF5WXNUUmRMNjRvbUxQZGtHTHNlaTNGQQ?oc=5"
     },
     {
-      "id": "laos-9",
+      "id": "laos-10",
       "source": "巴士的報",
       "title": "Hong Kong and Laos Sign MOU to Enhance Gold Market Cooperation and Financial Services.",
       "excerpt": "Hong Kong and Laos Sign MOU to Enhance Gold Market Cooperation and Financial Services.&nbsp;&nbsp;巴士的報",
       "timestamp": "2026-07-20T11:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzBsSGtvLUpXVmg0RklCc09qZlpmM19sa2tzYmIzZXJjYWhHdmZoZ2s1aklCR3loOTkxcVFYZmRNUmVKR2Y3Z3Vqak9SOXpyX1cydm55Y0F1U1BITGNmbFIwTVMxVUhadGJscEhzSVBpVnFtQ2lKSWxwdmJUX3JpdVV6M0JpZW5CMXJ6cUlyQ3VRQWFvNUhFaGJUa01DMFU3U3FXY3lKWXk5T1V4RnY0cXJGT0FiMjlGZUNNT183d0lRZkRHTFBXdWd1Y0lfa1FpQjZr?oc=5"
-    },
-    {
-      "id": "laos-10",
-      "source": "Vietnam Economic Times",
-      "title": "Finance minister becomes chairman of Vietnam–Laos Cooperation Committee",
-      "excerpt": "Finance minister becomes chairman of Vietnam–Laos Cooperation Committee&nbsp;&nbsp;Vietnam Economic Times",
-      "timestamp": "2026-07-19T08:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTdWV2YxWGNRRGUyYW5KTE1kX0ZYZE53bllldFRCZDVEcmFPWkxnekppeHVOSVJRQnVlT2oyaTg2NDVYM3NSdVdQRlVZQmxuM1hkeEJGSncxZGRSOWFOejNOSGQ1eHhkZ05IeDh1T0FnU0JvN2ZtNDU4U1hOcmlOM2FYY1NlcHF6OEk2cDZMZThnbXMxUENOcGVObUUwMVE?oc=5"
     }
   ],
   "Myanmar": [
@@ -8227,6 +8227,14 @@
     },
     {
       "id": "nepal-4",
+      "source": "english.nepalnews.com",
+      "title": "How three decades of the internet transformed Nepal’s economy, society and politics",
+      "excerpt": "How three decades of the internet transformed Nepal’s economy, society and politics&nbsp;&nbsp;english.nepalnews.com",
+      "timestamp": "2026-08-05T06:47:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVS1iWThrMFJrWl9UZHVQeWxwWlNscjNwR0ZVcDdIaFdNZ2wxTDVuaG5TdXdOSVNVSkV2c3BabnM3ODFaejlXeXVyZENScmNoOHFjUHdvazBQdjlUcXJXZXNXV1lEc3BIWlJKSDlxVG50R1ZYN2Q5RUw3WnE3QTM3Y0tZUGlFSkNvYlptMFpNZ2t2eGk3YnhsRHZpbElyVmh1S2hZMm53X3Jra0M2N0l2dkZEQ2hWbmFkMW1nWU9mUQ?oc=5"
+    },
+    {
+      "id": "nepal-5",
       "source": "Nepalnews.com",
       "title": "Three decades of internet transform Nepal’s economy, society, and politics",
       "excerpt": "Three decades of internet transform Nepal’s economy, society, and politics&nbsp;&nbsp;Nepalnews.com",
@@ -8234,7 +8242,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0VnMURSTTQyNExWbmZfWG9UQ1NOSDRITjBiRFhPcnlaQm1kZWNTbXFIbkpDaDEyTVkyYnVqS3ZickVhVWRkZERyUURUSHNQX2tBR1VXTkVhMVdvOEFmUXZNSW01M3JOMVhoQjM0V0RqZWJjdFM0N05aUnNXbmhNWWN3b1I0UThUQ1dOV0hVQ2k2N2lKZk1YQkdoNDFBN0xMNEdzcjgxZ2FPV1lheTZuWmxB?oc=5"
     },
     {
-      "id": "nepal-5",
+      "id": "nepal-6",
       "source": "The Rising Nepal",
       "title": "Finance Minister sees need of amending NRB Act to make central bank further proactive, accountable",
       "excerpt": "Finance Minister sees need of amending NRB Act to make central bank further proactive, accountable&nbsp;&nbsp;The Rising Nepal",
@@ -8242,7 +8250,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vLXAta25ERjFOOUxOel8wRlIxb09OV1A5UVd3WGlNNlVVVW9DelpuV05QVFJ5YUg2aWh2eVh4M19GdnBDVVlpeVl4R1U5eWph?oc=5"
     },
     {
-      "id": "nepal-6",
+      "id": "nepal-7",
       "source": "Nepalnews.com",
       "title": "Bank executives urge Finance Minister Wagle to rebuild market confidence and ease tight credit rules",
       "excerpt": "Bank executives urge Finance Minister Wagle to rebuild market confidence and ease tight credit rules&nbsp;&nbsp;Nepalnews.com",
@@ -8250,7 +8258,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWXltN1EyOU5CNzNMX1diUlh4R0xMc0RnRUZra0tQTmwxM2ZOZkdWMmJtMktHbGp5a2dxOEQ3NjdjcEtYVFctNTB3bHd3d3ZTcU1LVmg1bVJtcGdNSGVTZjJhZVpxY0R6T2laYXhUaTA1M21FU1huRVIxajAyU1NldlNRLXk3eldoYTk0UEpsOWhSOXhwbHJzOGVWdjJSR1V5UC1UZnptb2g0SGdja1prV2c1TkRnN252M0lBUjZfVjRtS1FUekxtUHVvMzdEMnFGLVhURFR0Q0w3UQ?oc=5"
     },
     {
-      "id": "nepal-7",
+      "id": "nepal-8",
       "source": "Ratopati",
       "title": "Finance Minister Rejects Proposal to Remove Finance Secretary from Nepal Rastra Bank Board",
       "excerpt": "Finance Minister Rejects Proposal to Remove Finance Secretary from Nepal Rastra Bank Board&nbsp;&nbsp;Ratopati",
@@ -8258,7 +8266,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmY5cTFYN3NlYkxUWGx2RGdsSmtFWDQwdUt3UWI4bS1TNEhsTVBKRm9saUo1VWFZM3U1a3lGZXFoZUdvNGZ1MGh1bV9kQkswMDIxZm5kY3M0cmE4RGJfdk9lV3NXdW9FQmhCT2hQajU4VkgtS0dqQzhKYTNSczdRMHBEdWtXS29yVVpLdVY1V3Y1SXVKTW1xNzdTMVdRbDdkamRja0RiekdDcWhpUUdSLWx5b0VQTXh1bExrRlg2c2sydGdL?oc=5"
     },
     {
-      "id": "nepal-8",
+      "id": "nepal-9",
       "source": "Ratopati",
       "title": "Finance Minister Warns Against Frequent Changes to Nepal Rastra Bank Structure",
       "excerpt": "Finance Minister Warns Against Frequent Changes to Nepal Rastra Bank Structure&nbsp;&nbsp;Ratopati",
@@ -8266,20 +8274,12 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZVBGcEROb1R6dFRmWFI1UzlPYm9fZEhxZVYtbWs1MTNZZEZXUnNmOEhkQ3VmMHJ5Q1lPQjVRRTlhQWRkRWVHYUxOcmpUWThhZWZnYVZrYV9MSDdXUnFXZjVBXzlZdGRDU0xfTnRab19yclJQWFd2QmM0MkFfdE1LWGRCMzdNS183ek0zWjNDV25hU3ZMOUdjdm9TZ3h6VjJxd1VnX0pVSlNNaDktYjJJa242bTFWVXRKZUhHUVREcjVuX3Fwd2JkWG5KT0djcTRlQ1B0b3g5WQ?oc=5"
     },
     {
-      "id": "nepal-9",
+      "id": "nepal-10",
       "source": "Ratopati",
       "title": "Finance Ministry Proposes Maintaining Seven-Member Nepal Rastra Bank Board",
       "excerpt": "Finance Ministry Proposes Maintaining Seven-Member Nepal Rastra Bank Board&nbsp;&nbsp;Ratopati",
       "timestamp": "2026-08-04T06:26:35+00:00",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlRrMVRjVndtenZXNktMeGlpVEppLV9iOGxuUlE5MTRxYWxRM2k2ZTlVOFRkdlIzZlNiRmp0R3p6akNhVDk5OEV2UVpCQUg0VGpYZUJ2SHBXaGtZS2p5UUFFdDRjWWpaMl9TVVVXZ3FxejBHWVRjT2s0RkQ2aXQ2NHgyci1zSVMxQmFLanFvck9fOUhhamFKTXBrekFKaVdyWHpYeU5PdlhZdTQ5aWNrS2d2UkhLWXVoWE9KTDBrd0tHUV9Od0E2QzFSYw?oc=5"
-    },
-    {
-      "id": "nepal-10",
-      "source": "english.nepalnews.com",
-      "title": "Finance Minister Wagle invites commercial bank CEOs for discussions today",
-      "excerpt": "Finance Minister Wagle invites commercial bank CEOs for discussions today&nbsp;&nbsp;english.nepalnews.com",
-      "timestamp": "2026-08-04T05:56:16+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbElzZG80Tk8zcFh4Zjh0UWkySEM3cjlXUHRkdG5JcG45eDc3aVUtWUp4eGZET1RxMm52eG9yWVdTUU9PcG1RblN2cEwyQjByM2VpYzUyZWJUMm53SnZ1YTlBRUl1WDlhdkRsMk83ME0tVFlqZGdnVGdta2RkSXdUb296Y2hFMU04MzUwVkItbGREUTNmS0QyekphdVFjQkM0U2Rka2NjRUZ0dERYZDJyVVRCVDRZdw?oc=5"
     }
   ],
   "Pakistan": [
@@ -9436,7 +9436,7 @@
       "source": "logos-pres.md",
       "title": "The National Bank explained the increase in expenses",
       "excerpt": "The National Bank explained the increase in expenses&nbsp;&nbsp;logos-pres.md",
-      "timestamp": "2026-08-05T11:32:47+00:00",
+      "timestamp": "2026-08-05T22:00:26+00:00",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmZ2dGcxVEJ1QXVCM1E2RkV1dURoSVE1Mnp2eENyYlZPMWF6QTlmcFVYU2dkMFVVYWs0dkhETHJ6QS1pTks0U2dFM1R2V0gtdGtyN0t2bVp5SEU1cUNZZ3pPLUswSnd0eW4wdjd2S1huTGtlcXVjTU9YZ0JIU0tDcmJIQVZibGNZNEdr?oc=5"
     },
     {
@@ -11073,6 +11073,14 @@
   "New Zealand": [
     {
       "id": "newzeala-1",
+      "source": "NZ Herald",
+      "title": "Deals worth $24b: Latest overseas investments revealed",
+      "excerpt": "Deals worth $24b: Latest overseas investments revealed&nbsp;&nbsp;NZ Herald",
+      "timestamp": "2026-08-05T22:53:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSkVWOGwwOEZfNm04eU5zY3lVdGVKcmw0UDVvS2hYVndTSlF4cEd1cEpGaUxaelduOWE2eDVIdFoxamszcTZIZjBqVHd4YTlvTTQyaFFPS09YSjlVUW51UEd3Wm01ZjNJZXV0Q2FNdC00dklQeGR1VUpGZXI4S2RKeUttVmprOTFicjNqR2tqWWNiSm5jSU95WVQ4VEYxUWVyZVl1d3FMR3JjY2tESHQxVmo4enZQa0xuYTZ0THd3UklqcDE3b013RF9zZ0dodUcwNkRxaTRaZGNtSU9yWUdBNQ?oc=5"
+    },
+    {
+      "id": "newzeala-2",
       "source": "The Spinoff",
       "title": "Unemployment New Zealand: the numbers, the regions, the politics",
       "excerpt": "Unemployment New Zealand: the numbers, the regions, the politics&nbsp;&nbsp;The Spinoff",
@@ -11080,7 +11088,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORnp2a3I4ank5QTRwQ1ZHYUt2UlN4NndWUUhPRUFqaUludG93Z2wzWk9nTnNOd0k0azRYRlFIemR0RGI2djVnSjhOTU5ZcXBaX05uc2tJMmxac0N5N0lJTUc4WGs5cXVRV2ZNVE52NEJKUWNtT1VNSUhDb2hkZWhsRWdSU0tvUGVDMzRqdUdrUGFDdlVUOFYtSDZUYXJhYW5YU1lBZTVzMEpMSjRaeFY0?oc=5"
     },
     {
-      "id": "newzeala-2",
+      "id": "newzeala-3",
       "source": "FXStreet",
       "title": "New Zealand Dollar under pressure as unemployment hits nine-year high",
       "excerpt": "New Zealand Dollar under pressure as unemployment hits nine-year high&nbsp;&nbsp;FXStreet",
@@ -11088,7 +11096,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3U0ck5CZjFqUGpVQm0wV3N3anBWZWJwYnBQNlU2b3Z3THV2OHFvMXhIN3JNeUx1WWF2cGRlcERZZTgweTFGRnRrRmJIb1FWNThpV0dNYnpQN0tQMHZqdHhnNmVOUThCTTVBVWN2cVVzbEQ0T2s2eFloZGVTSjBVbG5OOWc0WmUwUjlNOGpuLVNrYl8tTVcwRG5HSmNTYXBDWnA2X3lPLUk1ZEpfUXBlZnNvdk1abHZwSm5HTVpUcWh6dw?oc=5"
     },
     {
-      "id": "newzeala-3",
+      "id": "newzeala-4",
       "source": "finance.biggo.com",
       "title": "New Zealand Jobless Rate Worsens to 5.6%, Near Decade High, Dampening Rate Hike Expectations",
       "excerpt": "New Zealand Jobless Rate Worsens to 5.6%, Near Decade High, Dampening Rate Hike Expectations&nbsp;&nbsp;finance.biggo.com",
@@ -11096,7 +11104,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qQkZNWXZtaU9wM0dsWTd5LXNZaVJrMjUyZXZYRVNtUEZucHZBWlZMMi1kYU1lZG11OGpiNzh2TzQtdVB4NHNFOFhucHhvU0pmYVdQay1tQTJ1c3g0Nk12Y0tPOWpPMXV6SEVnX2tUU0FYSUFlc2c?oc=5"
     },
     {
-      "id": "newzeala-4",
+      "id": "newzeala-5",
       "source": "WTVB",
       "title": "New Zealand unemployment climbs to decade-high of 5.6% in Q2",
       "excerpt": "New Zealand unemployment climbs to decade-high of 5.6% in Q2&nbsp;&nbsp;WTVB",
@@ -11104,7 +11112,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUYzOFhjcWtpSXZtdmIySWwxMS12TjA0a0Z2TGJjNzFuQnpkMmtqODdtME1lUzZtbUxJZzFyaUNXY3Jqa2dYX3VoUmFFSzlEcS1rd2t5MlZ5WG84UFlwWGhFUkhlYnp2RkxEaDdpRXo1TXYtRG0yd0dockhoZTR4UU43VEhLZmtneDJ6TXNaa2JYNzNX?oc=5"
     },
     {
-      "id": "newzeala-5",
+      "id": "newzeala-6",
       "source": "Global Banking & Finance Review",
       "title": "Antarctic cold snap sweeps New Zealand's South Island, shuts roads and schools",
       "excerpt": "Antarctic cold snap sweeps New Zealand's South Island, shuts roads and schools&nbsp;&nbsp;Global Banking & Finance Review",
@@ -11112,7 +11120,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUGFLS0l0UmVXeEQtOEtSTEVfOFFETUhfQldqQzVTcUNGZG5Ydk14YlhOU1VRT1p5SVl6cUQ1SEJ6UEhxTWlnSEVTZU9vY0p1YkdFclJLdjl0WkdNRHZIcU56RUswelpHV09PdWstWEdsSGpRRWZ2c1FnckpKam82ckJxMzhoWm9UQ2E5LXV0QWxmbkpQbmx2SWoxeUc4ZmVn?oc=5"
     },
     {
-      "id": "newzeala-6",
+      "id": "newzeala-7",
       "source": "cfotech.asia",
       "title": "Fintech growth exposes security & finance weaknesses",
       "excerpt": "Fintech growth exposes security & finance weaknesses&nbsp;&nbsp;cfotech.asia",
@@ -11120,7 +11128,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPck1nUzVwamNRNmRja0FtbUFRRWstZlpiUWpKVEVDd0padVp6MVhIY01UbURpaTZuWk1EQ0l2dTJfcG1yTW1QTG9OTTBSbVhaVWxwV3RKZWhIOHlIZThrU0lkUV9xS09CWVp4eDhZSzNPS3lrQXhVeUJYdk5OT0NFY2pGZw?oc=5"
     },
     {
-      "id": "newzeala-7",
+      "id": "newzeala-8",
       "source": "thepost.co.nz",
       "title": "Celebrating a silent engine of New Zealand’s economy",
       "excerpt": "Celebrating a silent engine of New Zealand’s economy&nbsp;&nbsp;thepost.co.nz",
@@ -11128,7 +11136,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGtPWjBpUE9DY1FmUmlSdDZxX19hSUl4YWlHUUJjcGVCendzbjJWWl83ZG5OWG9fOU10TVFhc2ItWW5mNjZHSExoNVE0Q0VKc2dUN2dIaHBEZU5vd1RDbGgxSU9OZklSdHJ0U0FBcFlFSmc4cld3RkwtTVVBMHdYNzEya0NfQ2E1eXI3YTNibGpFZC1pdnc?oc=5"
     },
     {
-      "id": "newzeala-8",
+      "id": "newzeala-9",
       "source": "MediaNews4U",
       "title": "Mihir Bhatt appointed CFO of WPP Australia & New Zealand, retains WPP Media Finance Role",
       "excerpt": "Mihir Bhatt appointed CFO of WPP Australia & New Zealand, retains WPP Media Finance Role&nbsp;&nbsp;MediaNews4U",
@@ -11136,20 +11144,12 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVRmWE96UmRqV0d4ZTFwQ1VPbktHRkNUZzdNNGo2b2tuOS11ZkpNWEtFVEVac18yWHdwX3JnYjdUeHcxN1RFWFNxLXZmOGhYWWVrZVFBWUMxTlYyZEM5S28zUG5UeXNYYlhhQVZMaWlGRHhoZC1Rbllza3Vfd2VfbzBEV19MUkl3WUpXRG43Z0hUVmJoNmpweUhvZ2dCWkxjSDlsQ1lQRTMxaEpwSFZjLWxRelU?oc=5"
     },
     {
-      "id": "newzeala-9",
+      "id": "newzeala-10",
       "source": "thespinoff.co.nz",
       "title": "The new UK prime minister just cut taxes on pubs. New Zealand should do the same.",
       "excerpt": "The new UK prime minister just cut taxes on pubs. New Zealand should do the same.&nbsp;&nbsp;thespinoff.co.nz",
       "timestamp": "2026-08-02T16:00:52+00:00",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmc3clVSN2NzaTM5eU1Na3gxaGZFcmczblFrTTQ0UlIwXzZDQ2lPcXduQ1l6cTRFTDBUVEVQVk5SdHl3Tks0eHdJVVVETGUweTBQUERnZTVfSlphbFU4TnR1eENla2hUTjV5N0dtRjg2a2I1WGdwVklTdmNNSU8wcmVuNWpMYlpMY1NNMDd2RVlaMlQtZkE2WVNJS3pqRTFHZ3QwbEpxY1diVUxTc0lXaHhYdksxeE4tQVNjNV9ZX2NmZw?oc=5"
-    },
-    {
-      "id": "newzeala-10",
-      "source": "South China Morning Post",
-      "title": "New Zealand’s Pacific defence diplomacy shifts into overdrive",
-      "excerpt": "New Zealand’s Pacific defence diplomacy shifts into overdrive&nbsp;&nbsp;South China Morning Post",
-      "timestamp": "2026-08-02T01:00:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbE9nMmRTYW1OdGhCTXlKSHJudHpWSjNucWwwd2hwWi00dHRlSnFEd2YzTDREZU5mODR6Y3BQQW1RSzFlQkl6Nk9ocTZSWXZqVVA2SDZKLWNnNXRHdEJlbGowUEFxVW5yeE1fbDJpLU8yb1NSQ1hpa25NcHBRTTFBdXZYUWlvWkpPeTQ0MTZMenprVUNZWVlBLW5WcnI4MVY5dVJoeVItU0tyaFVOWHFxRzR6U0YtOVpZUkdqNEdR0gG-AUFVX3lxTE16UTczU0g1UWt5SVc1RzNCaFpISnIwdlpGU0tCVHJOek1VOXhDNGhlR0FXWW5PazFEdlVhb0lPVHJMcUV4a2ZoS0w4RWREX1lxWWlFWGgxdk9teXBLa04wUU9FVUxMUWlTcjdISV83TFYxakdLX3hyS1JhcGwwM250Szd5ajhKTFZjZE9zRUpaczIwLTItSjlOaVNsY3hobEZ3ekszbDhTNnpRMlpiVW1ZdW9rQk16WTRvWWNRU2c?oc=5"
     }
   ],
   "Australia": [
@@ -11237,6 +11237,14 @@
   "Sri Lanka": [
     {
       "id": "srilanka-1",
+      "source": "newsonair.gov.in",
+      "title": "Sri Lanka’s Central Bank pledges tighter safeguards after $2.5 million cyber fraud",
+      "excerpt": "Sri Lanka’s Central Bank pledges tighter safeguards after $2.5 million cyber fraud&nbsp;&nbsp;newsonair.gov.in",
+      "timestamp": "2026-08-05T20:16:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3lTejdxMkt1WVZOcFdnWjNNQ1FwR3lMQnhmYVEySldjanhjQWtaaC1KNTc2NURsY0VyRTlaNGstVXAxdDdJWHF1ei03OFVhVDRPTDhxdnJ4dGlZeVZpZUsyc3hNOUV4Sjk3T3A1Qk9URlE5ZGFZbUVzUFoyNFo3N1RYQ1RjZ1RGZ0NuaTJWYUJWVXNpd2l4emFrdFBXZXhnSzhRM0NhNUUzUQ?oc=5"
+    },
+    {
+      "id": "srilanka-2",
       "source": "economynext.com",
       "title": "Sri Lanka central bank to promote digital payments in Jaffna",
       "excerpt": "Sri Lanka central bank to promote digital payments in Jaffna&nbsp;&nbsp;economynext.com",
@@ -11244,7 +11252,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV0JQWlF6QnBGRjVVeS1fLWUxTVpVZ1phVFViV2U5TXlIaFkyVlBSSmhNM0pZQkJzdDRMc29HZ0cyeGJlcW14cGh6NmdNdnJ0TUlDZ1p3eHQyV2dBWVFzTE05ejRPQTJoVElnUG16SVY3RGZZVkZ2NmY1aFRXc2wwY3R2MTBqT0pSLWVMaXZZS25VVUdIS3hn?oc=5"
     },
     {
-      "id": "srilanka-2",
+      "id": "srilanka-3",
       "source": "EconomyNext",
       "title": "Sri Lanka to implement UN migration action plan to curb trafficking",
       "excerpt": "Sri Lanka to implement UN migration action plan to curb trafficking&nbsp;&nbsp;EconomyNext",
@@ -11252,7 +11260,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjlrNkZ1QXo5YWZ6eWd1SkpEMFQ1cV82NUF5U3ZmbHFldl9HQXRsdGNSd3ZmMDlBX2w2UFpkYWE2NmctcjFraE1udTg5SE14OUhBdjgzWXk4cHBleXNkeHQ0Q0llN1pzSk44N0hCbUtaS00tOWRvVVVHd0dVREVjVEd1cU5iSUpJcndzN0xwTEdHM2pUMVJ3UkFIQm5IMUdH?oc=5"
     },
     {
-      "id": "srilanka-3",
+      "id": "srilanka-4",
       "source": "EconomyNext",
       "title": "Sri Lanka rupee closes at 335.70/75 to US dollar spot, bond yields steady",
       "excerpt": "Sri Lanka rupee closes at 335.70/75 to US dollar spot, bond yields steady&nbsp;&nbsp;EconomyNext",
@@ -11260,20 +11268,12 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNmJ2cmlIcVlncVFQZEtZenVOcjc2bTh3TGQ5TmIzaEd4SkNjVGZOMkd4ZW5FbVpiRjhYVEY1WFNIV1E0TW1vRWU5aHN6XzJnMFdPUzVnRThYZlF4MEE5TlR0OFpQanNIU1pxMVpIUUNMLVVJejN2RTJJaGVHeUVxWFpZNzlUaUg4TFFlc0VUVzVSamVhQ3hpMm96ZUIwQ1ExY0JJU2dWVQ?oc=5"
     },
     {
-      "id": "srilanka-4",
+      "id": "srilanka-5",
       "source": "EconomyNext",
       "title": "Sri Lanka cabinet greenlights $200mn ADB policy-based loan",
       "excerpt": "Sri Lanka cabinet greenlights $200mn ADB policy-based loan&nbsp;&nbsp;EconomyNext",
       "timestamp": "2026-08-04T10:48:47+00:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUnZoY1hGZGFWaFc4T3JXS0s4ZWItUjR6ZlgyTVItc2dtNnFWQ21CRTVLT05mbXVmWDM3MTRzUkNJUEdjX1hXV2kyLU04RlEydFdLRUZJaTd6QnJBRHpRZ1ZaN1dicTJJNm1zTjdvWGZMbGtuT2NTeUlYd1l1cmY4WFNMRldrc0R2dXFJcW41RWVwUHM?oc=5"
-    },
-    {
-      "id": "srilanka-5",
-      "source": "News On AIR",
-      "title": "Sri Lanka’s Central Bank pledges tighter safeguards after $2.5 million cyber fraud",
-      "excerpt": "Sri Lanka’s Central Bank pledges tighter safeguards after $2.5 million cyber fraud&nbsp;&nbsp;News On AIR",
-      "timestamp": "2026-08-03T20:18:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3lTejdxMkt1WVZOcFdnWjNNQ1FwR3lMQnhmYVEySldjanhjQWtaaC1KNTc2NURsY0VyRTlaNGstVXAxdDdJWHF1ei03OFVhVDRPTDhxdnJ4dGlZeVZpZUsyc3hNOUV4Sjk3T3A1Qk9URlE5ZGFZbUVzUFoyNFo3N1RYQ1RjZ1RGZ0NuaTJWYUJWVXNpd2l4emFrdFBXZXhnSzhRM0NhNUUzUQ?oc=5"
     },
     {
       "id": "srilanka-6",
@@ -14107,6 +14107,14 @@
   "Montenegro": [
     {
       "id": "monteneg-1",
+      "source": "ANSA",
+      "title": "No EU repatriation hub on our soil: Montenegro's PM",
+      "excerpt": "No EU repatriation hub on our soil: Montenegro's PM&nbsp;&nbsp;ANSA",
+      "timestamp": "2026-08-05T15:27:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZFVlcDVJTkxZTXRXcnBNTkFnTHE4M1BGYktGYmFPYWFUbkhnZHhEUlR0NFU1d0NwSHdvMm91akdHWk5KU3dfOVN3NjMtZVZ6V1BZLTBnZkQzUHk4MlVSZ3RERzhJUGtBd1FNVGFaOFk1Q0p0MC1xQkFKejIzSW0wQkdjUUNucjF5OC1rMGNNaTlvQTE4UEJWWGJISzMzQmhCS1ZmOFEyNFFtMThSTTUySi05Z3F1Y0c4VUtsWEpyOHliUTRVeDhJOU1Xa083UTdneUJvYnNmbDZsZUtNUnJuUkowTF8wX3lCV0pjSF9IOWN5S2PSAfgBQVVfeXFMTW1WRkdldjFrNnBxUDJoVlZsZG5DYUU4LTVnZmFkdDRvMTJnc1FyS0ZJUlU5RXdfQXlaOXlYa3FmOVJIV0NtRFViVnF5M1MtNHo4cGZfekdja1hPMVc0NUhvQ1FjZldjUGhuLVE0dlZpZk14cEwtaGRFOVpxejhtWEFLSTNsSjFkLVFqcXRGOVJyV1d5VWh3VEctVFduQndqVTBXWWtSOHdTZGVMTmNzbVJMMjFCdDZyMmNKdWYzRWpuYTU2MmlURE9oTFdOejBWVF9ZZmxnWkxybnk2Zl9MdXkzMFhtSFBfUzliZ2V2azdfY1p6akU4OUs?oc=5"
+    },
+    {
+      "id": "monteneg-2",
       "source": "vijesti.me",
       "title": "Vučić: Official Montenegro participates in the celebration of 'Storm', did not send anyone to Mrkonjić Grad. Thank you to the Government of Montenegro",
       "excerpt": "Vučić: Official Montenegro participates in the celebration of 'Storm', did not send anyone to Mrkonjić Grad. Thank you to the Government of Montenegro&nbsp;&nbsp;vijesti.me",
@@ -14114,7 +14122,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOcHVqTzgyVVczR1A2bVlpc0tRcENVSmQ2TFlpdWVfZjhxS210TXB0N1lxMzVXaF91eXZLVnBBWjJYMm1iNmpDQ3RFV0lNZFg2NnE5SFZPdmgzSzN3eE15UjlJWWFJMHktdGp2ZTFFSWpGSVRySktwNEpwREl5TGRYMUU2VXZVY0xfSnlSQ0ZYQ3YxX2RIU2lrdkRxS3o3RlhyOXhzcF9kaXRkMkxLQ1U5akFEN3AwZWNNbS1SanlBOVdxRXZLTnFwUm1nS3RjTW14Y1BDNjdBOVVsUGxJR2FNeG5EM0RHS2pRQ093d08tUks0NUJucnlRNzRaNzh4bTE1X2c3ZUU4dUNYT21G0gH8AUFVX3lxTE5YeVppRk5ocjhFTkt0dUMyd1VfelpoY1pPbm9DajJwbkwzRWg5WFp1ODIxakhLdWlPYlc4dS1HbFNTXzUxbHhBcTZLQms0aEpYTlNtSDlEUEc4a29BaGxUWWxRQVJvU1pUdGFIN3l6MGJPTDN1Skh6ODNVUWNuSFE4WjhkRllRMVVJY3pJamhhbExzNlQ5YU84MnJKTE5YZ0lJTXoxMXMtUTlNcU95akJFMTllSjZ1QlZZTVRvV2wyWVVXaFcyWFFTSjIyNEl6UVhHZ09laUc5RnpEYWNVeXdreXFfUzg5enFJUi1EY0ZUcHp0MkE2UTVqWGUxSA?oc=5"
     },
     {
-      "id": "monteneg-2",
+      "id": "monteneg-3",
       "source": "en.vijesti.me",
       "title": "Different faces, same patterns: Garčević on Montenegro six years after the fall of DPS",
       "excerpt": "Different faces, same patterns: Garčević on Montenegro six years after the fall of DPS&nbsp;&nbsp;en.vijesti.me",
@@ -14122,7 +14130,7 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDB6NkdOUmVaOU9nSldLejktTnEwYV9zLTZ6Q3JRUEdvalc2MnVqQWZuS1VveDFrbExkX2ZIQ2JucUNMWndPZlQxeEpYaWt0eUV0bldDWkNYNmIyNWxIWlRfamRLZVZSVURNaTVhcXh4YmNMcjhyTUhJWXp5dlRYNzdWcFNHWEtrVjZ1TlpadERETHVFWFhSV09Ick9qSXF1dmxsOWRVV1hzRmN3MlNQdUpvbVdEblhsVlloekxacFZ4Ry1va1VHdjQ5X3lOMGPSAb8BQVVfeXFMUG5ibFJ1YzAwYnJiblpFVGQtVk9ZcjJVWlBrMUR3TU9rVmd3R0FRTUtJWFdJcGhTWUdfMWowNDlqeVhsM0J6ZjhyLTJwSXh4bWI2cEVfeXpkWElUYjZQWUdpc2dnOV84T252NXRHMldKaGhTWldKeU04amlFY3VPSHF1bU53c0NBUUhuX0Y5VElzbXB2MVRqa19MTktZd3o1YVM4QmFTcnI4bDFFLWdvQkZLMVAtMUFsbURlbjk0UXM?oc=5"
     },
     {
-      "id": "monteneg-3",
+      "id": "monteneg-4",
       "source": "SeeNews",
       "title": "Montenegro's H1 industrial sales rise 11.5% y/y",
       "excerpt": "Montenegro's H1 industrial sales rise 11.5% y/y&nbsp;&nbsp;SeeNews",
@@ -14130,7 +14138,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDV6WUsyejk1UWJtWU5uY2ExN2xuUnpwcm1NcExiaTkzZzhJNVZodXluSTNaVmt5NHh3TjIxdHI3ajRBeWs1d09lNFphbW9yaFg3SV8xMDdUVDhlS2RtNmFpMUp2ZjlFaWd6X1J4N1JRMDN0dzUyWGx3VHhmbXNRN3dMYkdodElMMzN3MUJR?oc=5"
     },
     {
-      "id": "monteneg-4",
+      "id": "monteneg-5",
       "source": "SeeNews",
       "title": "Montenegro's avg net wage flattish in June",
       "excerpt": "Montenegro's avg net wage flattish in June&nbsp;&nbsp;SeeNews",
@@ -14138,7 +14146,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42ejB0SHRGVExONGtYbXRnbUsyMUR6R1gwY1lFMWd6cjljcURaTDVFVVU2bzNfTHNSbW40dFpJWGtxQ0dQT2VWMjlDTXlieURva3hEM1dLelYyMnRZaDJLUEgxb2VNQmFobFZnQlUtUTlnZVVkZ3ZiWmRtN3JwOXc?oc=5"
     },
     {
-      "id": "monteneg-5",
+      "id": "monteneg-6",
       "source": "SeeNews",
       "title": "Montenegro's Jan-June industrial output rises 13%",
       "excerpt": "Montenegro's Jan-June industrial output rises 13%&nbsp;&nbsp;SeeNews",
@@ -14146,7 +14154,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM25Ua1NlQTJfWUFVYm9HQUFBV25TZVVkdXdSTjlBaHZ6a1F3Y2VGRnU1NzB5RUFxbXlicHloZUhIVm1JZ3ZkSDkwZjhrT2RLYjUwYjRERGhZNmI2NUdrQTZhNDNVNjhvWUp4blVPdDJ5LWx1M3Fkb0daQ0ktbDdSUVNFTGd1WXQwZXZYYUZ2ZEhxQQ?oc=5"
     },
     {
-      "id": "monteneg-6",
+      "id": "monteneg-7",
       "source": "vijesti.me",
       "title": "Discussed how Montenegro can use new technologies to develop its economy",
       "excerpt": "Discussed how Montenegro can use new technologies to develop its economy&nbsp;&nbsp;vijesti.me",
@@ -14154,7 +14162,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLXByME92NTBVdjhLWFpFcGJ5MWZfdEp4bkIwQ1VyQi1vUUJrbURsRGtnLVczVm8yQlJ3UEhKMTlWZ18wMzZpNXoyekd3eTB4RE1GcjlQRGdEc2FvWGlEZ0p0TGhGamN3TF92ZjhSM01MclRZMVhYVTBlSmIxUjFCdVFMbXhyU18tX0JJUVlSVEZXVXlhMlBXT01KU0YzX1lhbnFOMU5iZ1PSAagBQVVfeXFMTi1wcjBPdjUwVXY4S1haRXBieTFmX3RKeG5CMENVckItb1FCa21EbERrZy1XM1ZvMkJSd1BISjE5VmdfMDM2aTV6MnpHd3kweERNRnI5UERnRHNhb1hpRGdKdExoRmpjd0xfdmY4UjNNTHJUWTFYWFUwZUpiMVIxQnVRTG14clNfLV9CSVFZUlRGV1V5YTJQV09NSlNGM19ZYW5xTjFOYmdT?oc=5"
     },
     {
-      "id": "monteneg-7",
+      "id": "monteneg-8",
       "source": "vijesti.me",
       "title": "Nikolić: Partnership with the US is a vital interest of Montenegro, a new generation of investments is needed",
       "excerpt": "Nikolić: Partnership with the US is a vital interest of Montenegro, a new generation of investments is needed&nbsp;&nbsp;vijesti.me",
@@ -14162,7 +14170,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON0xaZGszY3NJblk4cUhsWTJlZ2tYbHRhdlFnRFF2aVlCWjFoWWVublVjVTRqLWt0S0ZjU3FkeWZTa1Q1M21uV1NkbUNfOEl2eThRTzh2a0pGeUYxRlgweGlmMG5TVlBBZ3FUdThQM3JoV3AxUzRFYWI5M3FUVXpjOVM4QURlczRYQVJOV0FHVnh3clp5dFIxTFQ1ZDZHWWR6NWtZWkZkdW1zLXJmVGVhcUhPMkttRlpvR3pMQnM2M0Z6a2t0MlNtRXhDMW9aUVBFVHdGZVBXNXNyVknSAcsBQVVfeXFMT0JxT05MTERYTTZQQXEtb01nMEdsMFlhN3lUY1BBeEgwNi1BX3FpMkVjdmoxbmI3bXFCejVrUHdzMEpZcnFHWWJnNUhaYWVuX2U4Nk1YajFTa1VqYTg5ZklyMlkwVlhiMmlZNHlGaU9wUk5qWURfYUlXSFY3eWdJTUhwOG13b0h0aUdEWnBWa21zLUNGRGxlUGVxNVlNUTREQ0VUbjM0NFBwVGdqcVVWMFYwcmItM1ZpMGp4YXBTQW1tc09FVzlfcmtlU0U?oc=5"
     },
     {
-      "id": "monteneg-8",
+      "id": "monteneg-9",
       "source": "entertainment.inquirer.net",
       "title": "Nadia Montenegro wants Robin Padilla to enjoy life outside politics",
       "excerpt": "Nadia Montenegro wants Robin Padilla to enjoy life outside politics&nbsp;&nbsp;entertainment.inquirer.net",
@@ -14170,20 +14178,12 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR25IVFN3RHdsOGtFdlcxdXJzeE92eVQwNnpnSWZNcFUzN3A3Skp6cVNPcThhZl9rc1dGdWRvbktnaVFoODJSNVRPMjg3aGc2S0YyOVpkUDE3c1lxZ0EzdWcyaVBycnphTTNobEJZb2lmVzhDTGY5WkRIeV94a0NzWUU2YVJmWHhCbjhPN0tfMFlaeEU0Sk5oSFN2MVRDeXdIYmxYeWt4Rl9LMjJpVVHSAbMBQVVfeXFMT2Y5UVBDQnZsRUU0YWtNbERpODlScGw2cnJ1TWM0eDJ0WVJyS2U0OEh6emdCRlc1TFNNVUw2Sm00dXVhckZncUlwOTNCd1Rzc3BMeC0xM2N1aVJjU3lrTDNKN1M2ejIyNkphRElMa19KMUxDXzF0RXdjRllFRkVZN1JmeEhNYXd3MF9nSTNjSjZIcUswNXNCaExwaWFEZGhqZnowYzcwdTdZV3owMDRidHZFeUU?oc=5"
     },
     {
-      "id": "monteneg-9",
+      "id": "monteneg-10",
       "source": "SeeNews",
       "title": "Tourist visits to Montenegro's hotels rise y/y in June",
       "excerpt": "Tourist visits to Montenegro's hotels rise y/y in June&nbsp;&nbsp;SeeNews",
       "timestamp": "2026-07-30T12:08:10+00:00",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWRQRHdWUnNKOHhqaVc5Y0NoaHY4RDdXdG1IWkNVX25tNHNVaGtteDVYSWthMWRYSjB3eHJqaHRub1ZNcTMwMGdVcEQweTZVVTZodWtlOGowSVN2RlFXS0tZdGZnOGhoTFBRNmc2cDAyRUl1NThUNjBUSFF3WElhbHNoSFVIcmFjWTJNYXpn?oc=5"
-    },
-    {
-      "id": "monteneg-10",
-      "source": "SeeNews",
-      "title": "Montenegro's H1 trade gap widens",
-      "excerpt": "Montenegro's H1 trade gap widens&nbsp;&nbsp;SeeNews",
-      "timestamp": "2026-07-30T11:42:05+00:00",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LcFVLbHZrU3hpOWxrVWx6clN5V29SS09rMVFoRk1jOW5ZWmd2S0lzYnh0WVB4SmNZZHRQczJWd3h6RUZfRVgwdVRLdS1wZnNPVm1MRVBBclc4MGwxcm8zQkxnNS1SSkw0c0xHbjZtVHNMZw?oc=5"
     }
   ],
   "Kosovo": [
