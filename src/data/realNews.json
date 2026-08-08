@@ -296,19 +296,19 @@
     },
     {
       "id": "canada-7",
+      "source": "WSJ",
+      "title": "Canada Unemployment Rate Falls to 2-Year Low of 6.4% in July",
+      "excerpt": "Canada Unemployment Rate Falls to 2-Year Low of 6.4% in July&nbsp;&nbsp;WSJ",
+      "timestamp": "2026-08-07T16:11:57+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1VILWxTMC1LeklKQzRCbmpleVRYejZaa3phcF9icjNCdXVJaE1fa1lJNl9ETUhDTl9WTVFLX05zZVAtRGNEaXBFWWpDTUhuNUtROFNMUkNIRVprc01yanJ0cGVya2tTUl8wWF9TcjBuaUhma2tGY1VKV2FidXd5T01kcUVOOW9UM1VSWGNnXzI3Q0tycXVieTdmd1p1by1SVGhv?oc=5"
+    },
+    {
+      "id": "canada-8",
       "source": "Bangladesh Sangbad Sangstha (BSS)",
       "title": "Canada adds 75,000 jobs in July as economy adjusts to Trump tariffs",
       "excerpt": "Canada adds 75,000 jobs in July as economy adjusts to Trump tariffs&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)",
       "timestamp": "2026-08-07T15:01:13+00:00",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lQkQ2T1dSemI5TURQM21uUlYtR2NSU3owdTRCQlVWdDNuRVZIQU05RHlqYldIRVRVSWQ2TUU2M25pLWlJTzRqQUp4MU9KT2NSd3BtN3Jmbw?oc=5"
-    },
-    {
-      "id": "canada-8",
-      "source": "WSJ",
-      "title": "Canada Unemployment Rate Falls to 2-Year Low of 6.4% in July",
-      "excerpt": "Canada Unemployment Rate Falls to 2-Year Low of 6.4% in July&nbsp;&nbsp;WSJ",
-      "timestamp": "2026-08-07T15:01:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1VILWxTMC1LeklKQzRCbmpleVRYejZaa3phcF9icjNCdXVJaE1fa1lJNl9ETUhDTl9WTVFLX05zZVAtRGNEaXBFWWpDTUhuNUtROFNMUkNIRVprc01yanJ0cGVya2tTUl8wWF9TcjBuaUhma2tGY1VKV2FidXd5T01kcUVOOW9UM1VSWGNnXzI3Q0tycXVieTdmd1p1by1SVGhv?oc=5"
     },
     {
       "id": "canada-9",
@@ -1314,6 +1314,14 @@
   "Haiti": [
     {
       "id": "haiti-1",
+      "source": "Miami Herald",
+      "title": "‘The streets are empty’: Haitians recede from public in South Florida as TPS ends",
+      "excerpt": "‘The streets are empty’: Haitians recede from public in South Florida as TPS ends&nbsp;&nbsp;Miami Herald",
+      "timestamp": "2026-08-07T23:02:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZk9lb1hoQVdudDBWT180TFM5R1RsYUlTdzlkXzcwRmQ1MmEyYW9fVGNDbEhTWlVDTnVleG41VXZfRS1CSGVCSXZybFhDd0pZZmV1N0RVRnV2OVZlelR2amtoSDYtQ3pFMnBZRS1Mc1FuMXNWdU4tZ05ncFBpOTIzb252Wm1iZmFIeGkwMFJLZzNPZ9IBkgFBVV95cUxORmxfVk5QU0JMVUphRnBuNXdudk5oNjR3ZEZkeElCVzhOUTZyWjZSUjJiSkdrS0VjOTJhRFdJeGFSRXhLNTEweXFPU2ZNc0Y0ZUJoUWdFNmJUY2JpMU54YW0zcWh2OWhfZTA0ZzJPTGFjZ3dOVHBLdTNHS1ZOeTZsMkJNYVdCWHhYX0t2RU4zRHhNdw?oc=5"
+    },
+    {
+      "id": "haiti-2",
       "source": "HaitiLibre.com",
       "title": "Finance : Banking stress tests in Haiti (report)",
       "excerpt": "Finance : Banking stress tests in Haiti (report)&nbsp;&nbsp;HaitiLibre.com",
@@ -1321,7 +1329,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVliRENaMUkxbWI3OG90MzRvbGZXZUs0RC1ZeVktODZWa3M5cVVvRTRkTUpEY0pUS0ZUVGM4ellBOGhiOTVxSFBvV2pWaElwcnRqZ1RnWWE0a0l6SW1OUGUwOEFkUExMTWU1RlozdmNzRHZwSXBWZG1vTnRaYXVwX2NSQlIwYy13WHlSM09xZEZYV1Ux?oc=5"
     },
     {
-      "id": "haiti-2",
+      "id": "haiti-3",
       "source": "HaitiLibre.com",
       "title": "Haiti - Economy : The BRH is preparing the payment system of tomorrow",
       "excerpt": "Haiti - Economy : The BRH is preparing the payment system of tomorrow&nbsp;&nbsp;HaitiLibre.com",
@@ -1329,7 +1337,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZDJiNTJJcXE5RXNtVjhUTTlHWUNFeTdwR1h0b09wQkxmLUdGMGlnRUUzQnNFdTVxSnFNcEZiSkN0TXF6QlFsQlAxbnlJSTBnNHc3TFF1TThwcElFUGZrb2JJd2VjOGtydEpDLWJsdHFQeERnQ09DS1RLbEpOMmhaVnFjallQb2NNZ0pDVzlmUF94ZzdDdzgyREYtc0htLVV5VkZGb2hVRmJKblNsSlhtLQ?oc=5"
     },
     {
-      "id": "haiti-3",
+      "id": "haiti-4",
       "source": "HaitiLibre.com",
       "title": "The Decisive Role of Women in the National Economy",
       "excerpt": "The Decisive Role of Women in the National Economy&nbsp;&nbsp;HaitiLibre.com",
@@ -1337,7 +1345,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRHBSUXc3eTJqbHI3NVlqWHo3dE5uZmxMREJZSlJ6NlhFNldZNnFpdWJHYjU2TVd0OHZHX3BlRjJobURLendkYVZOZnEyVW1mWVZneFdMbWkxcFNjR2M5YjRKUmZUXy1xOFJ4STVJUE55aFNYVlZaYUVKS1RQMjZqSVk5ZThVUUlObk1MYnlaaUdCTktZbTctT3pPRlQ?oc=5"
     },
     {
-      "id": "haiti-4",
+      "id": "haiti-5",
       "source": "foxnews.com",
       "title": "'They fed him his own ears': Top Republican shares horrifying stories of gang rule in Haiti",
       "excerpt": "'They fed him his own ears': Top Republican shares horrifying stories of gang rule in Haiti&nbsp;&nbsp;foxnews.com",
@@ -1345,7 +1353,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEppbW94aTRma20xcTlEQnRPRW9sZXZaNVBNNkpHQTRrSEZrOG9wYXM5UVBLWlcwMERBYVhzZjc0NlJNdjl0bmxnek50MDBoRVlJakJpaWo3aDVkRUxwWG5zLThVUW1TbGZyU3VUYmdPaGx3R0RyT1kyU2pHMi1xNTYxdWYxVlZsLVd3ZEh1UGpmQVpLWXVPQnluT3JIQnBtdEtmNVIwQl82UjBEOENmX1M2UUx0Z9IBuwFBVV95cUxQclBPZDctZ0NHdWpHNUEzMXZBaE43UkZwVlhLMWcxM2ZMNXVvaTNxOElJQ0Z2WlJKRXF1R2xHbTF5MGV0dXMtdGZqaGdlZXBDQWFYcGowZHVZbEFremlEc3pXMVRJLWNhNWxKR2l2c0ZSQ0NFZTR4ajNSd1o3cXJYcFdOdG85U2NYemIyeGNubE85VnhSRkRZQ0ZNeFphZnY5X043R05fbGpUbEg0NERSU0xJM1l5dERIMkZJ?oc=5"
     },
     {
-      "id": "haiti-5",
+      "id": "haiti-6",
       "source": "Texas Metro News",
       "title": "Cruelty Is the Point: Haiti, TPS, and the Politics of Punishment",
       "excerpt": "Cruelty Is the Point: Haiti, TPS, and the Politics of Punishment&nbsp;&nbsp;Texas Metro News",
@@ -1353,7 +1361,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUm50UzJ2V21VWUdCUGxldTV2WVc1bmhXeENieXhLSjFDVTBNdDQxTFRUclVfemR3RndCZEVHa19MaVFoRG5oeHVIaUJkSjVrc3p2cmRvOEZra0FGM0tBX2JlbkpUeFAwMkd6M1BteW5BMV8tcDVYRzA1WlNfQkVtSlR5a2xxQ0M3SVVERnZEemJXWk1OUUE1d2pLUDc?oc=5"
     },
     {
-      "id": "haiti-6",
+      "id": "haiti-7",
       "source": "Miami Herald",
       "title": "‘Haiti is hell’: Ohio governor says kicking Haitians out of U.S. hurts economy",
       "excerpt": "‘Haiti is hell’: Ohio governor says kicking Haitians out of U.S. hurts economy&nbsp;&nbsp;Miami Herald",
@@ -1361,7 +1369,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nbm1hZi1NSzZCYi1PQTZNMWlUSTIwR3JVVFBZYTFOQVF0Qk5FaVJRQzJId1dmYVRWLWVfYzZyeWF5V2xxcjVqQVJNY1VLdXlLSVdzQkJiWXk4ZDl5ODR5SXQ2azFFRE02cHJLSHN4SEdrOGdacHNyUVpJbGPSAXxBVV95cUxPcE96ZGRIRE1Gck9EZEdaaUhOUU9tQ04yNUJmQkMxbjVRSm51OE52UmlPODR5aGRDc1FMc25KYUtxRVRRY2I2OWZsVk9HNmRPVl9CdlFqNmc2Z2dJQ0dpeW1mZlZNdldTSGRhQzlNZEo4akhkMzJvMzV4MEdU?oc=5"
     },
     {
-      "id": "haiti-7",
+      "id": "haiti-8",
       "source": "Spectrum News NY1",
       "title": "Thousands of Haitians in N.Y. losing temporary status",
       "excerpt": "Thousands of Haitians in N.Y. losing temporary status&nbsp;&nbsp;Spectrum News NY1",
@@ -1369,7 +1377,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdHpXRUNwMEJvLVdiUlBSNkd1cHA1SVpoUE9GNWZuQmpHV0xXOWhYMkgwNUdPOUt3cF9hTk1wSTJDRlEtV3RFQ21NbTM1LTdDU2t4OTBoWGVueVUyWlhzRzJLQzlBNkRLSmxrSlpCMUxKVHRpQ21rVzJyZmRBa2hpMVc1OA?oc=5"
     },
     {
-      "id": "haiti-8",
+      "id": "haiti-9",
       "source": "CBS News",
       "title": "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\": \"You'd be sending people … back to hell\"",
       "excerpt": "Ohio's GOP governor calls Trump's plans to deport Haitians a \"mistake\": \"You'd be sending people … back to hell\"&nbsp;&nbsp;CBS News",
@@ -1377,20 +1385,12 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XV20yUzJVM0VRLUF0QmhjLWltbHhKcnc5QURLZWtJdm84cE40eTRrQ3Atb21FXzJPSmVZTEFicWtTRnNTNWNyWkdReTdPYS1qMjAtU1dPTXYtTTFCa3JRdkwyb0JRZVUzMjFHNDg2Vkl4X3kxbWZ1MHlfamRyb1k?oc=5"
     },
     {
-      "id": "haiti-9",
+      "id": "haiti-10",
       "source": "marketplace.org",
       "title": "What the end of TPS for Haitians could mean for the labor force",
       "excerpt": "What the end of TPS for Haitians could mean for the labor force&nbsp;&nbsp;marketplace.org",
       "timestamp": "2026-07-27T20:15:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVdMRzl4Wkd2Zzk3M0MtTWRfa1hRb2JRWk9rb21FUDhjZFNpc0EtTTczZC1oYzVXQWtlZ3ZVVm96MldBLTdsNTFqeXp4eTR2VExXd29NdmxlVGNTNWI4eUlKVzlRbVY0TEE0bWVhN0pXS0dZUmJGVWNxQXFuWjQ1TUJDejN5QS0ycTZRNmdIeVpaRnk3dDVQeEd2aGhIenNUX05RMw?oc=5"
-    },
-    {
-      "id": "haiti-10",
-      "source": "lenouvelliste.com",
-      "title": "The Severed Artery: How the End of TPS Shakes Haiti’s Constrained Economy",
-      "excerpt": "The Severed Artery: How the End of TPS Shakes Haiti’s Constrained Economy&nbsp;&nbsp;lenouvelliste.com",
-      "timestamp": "2026-07-27T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0xRcjRJeWhYSTByeWJ3eG1zLU1pWUpRdEtBd1hKLVozdnVvTVBfcGVYSUJGWVNtSFJLcFRSVFNiMnFWazdVYVlvN2VPYmRYQWx2ZGNrMUlLVWhHSC1VQXk5cE9BN0dyX1dGcXJ0RXJsaXlhWmd3M0lOU2ZhYkJrUUNoTlpzZFNRX0FZZVVmX0FqeVhOVTRTRjladFdKU194OWNyaEROT1kyRXU4NXc5VjJmQWRIVkpfUVE?oc=5"
     }
   ],
   "Dominican Rep.": [
@@ -2135,6 +2135,14 @@
   "Mexico": [
     {
       "id": "mexico-1",
+      "source": "Mexico News Daily",
+      "title": "Mexico and My Money: MND launches new series on personal finance",
+      "excerpt": "Mexico and My Money: MND launches new series on personal finance&nbsp;&nbsp;Mexico News Daily",
+      "timestamp": "2026-08-08T13:00:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkY1eXhkdU5zdnhnZG5pck5ZejUycUFNeUhHMVQxSXpqVmRLSVZJZDlGQ3JsdW1rSHUzZ1FLaXdEeTN6TFZKWUVJbVV6NHd6emxiRHF6ZWgxQWVQZk9NckJkMFN3Zi1SRlFwQWhyV1Ezd2VwMmtmdVJvaEJSX3J6YnJaMzM2RGNnRXJuZThXVQ?oc=5"
+    },
+    {
+      "id": "mexico-2",
       "source": "Investing.com Nigeria",
       "title": "Citi sees Mexico central bank holding rates at 6.50% through 2027",
       "excerpt": "Citi sees Mexico central bank holding rates at 6.50% through 2027&nbsp;&nbsp;Investing.com Nigeria",
@@ -2142,7 +2150,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOHhBWEhTZ1k0UU5WZW0xQzNaRU5hV2dTWEl1ekp4eVM2QnZFc1cxWnFpWWg3Ri1JSUxfUWRfQ3Q0bnFYbFM2dllVMmtodmVKc0JYRklKRFdXLXNYeHRvT0JTamx4ckhaejAyeVNXcjlaTVlSbTFTM3pleDBLTGNXX2JHUDg3dER0VmtpdU55Z0Z5QTNJWXRTOUJ3V25FNXVnYUFFMUFSOU1Cd05tM1pPYjl5R0xTNFVlQUtjTFlHZkFRQQ?oc=5"
     },
     {
-      "id": "mexico-2",
+      "id": "mexico-3",
       "source": "Monocle",
       "title": "Colombia, Mexico and the Americas' Year Ahead in Politics",
       "excerpt": "Colombia, Mexico and the Americas' Year Ahead in Politics&nbsp;&nbsp;Monocle",
@@ -2150,7 +2158,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnNDNjVFRPRjBoMlRRSXNLNWtfY0l5bDZBRWppMnlEMG9GWXVfVGlMQVhRTE0wOGZvNl84TzZkRjRTZVowVDlVODczOFNtdjZ2S3h6M19kRzJsdURQd2daVEFGOVBXQlRISHpCWTRlbGlucjZFTzBwWlpDOGRrQQ?oc=5"
     },
     {
-      "id": "mexico-3",
+      "id": "mexico-4",
       "source": "Reuters",
       "title": "Mexico central bank holds rate at 6.5%, delays inflation target return",
       "excerpt": "Mexico central bank holds rate at 6.5%, delays inflation target return&nbsp;&nbsp;Reuters",
@@ -2158,7 +2166,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYTR0MGJPNnRtUjRjYUZjcU1ONEZ0WE9ucWtIZkt1WDY5aUF4XzVtTlVGTDl4Qy1lZzMyb2tSQmQwTDFnVkVVTkh6eW01MnZzZGFlNTdPcWloZ21EcFFuM3Zad2ZRcFM2Y0VVSEsyOFhENnJZaXBReFJKNVpQV2cxaExTSG43T3AyUDNiUllR?oc=5"
     },
     {
-      "id": "mexico-4",
+      "id": "mexico-5",
       "source": "Bloomberg.com",
       "title": "Banxico Keeps Key Rate at 6.5% as Inflation Risks Cloud Outlook",
       "excerpt": "Banxico Keeps Key Rate at 6.5% as Inflation Risks Cloud Outlook&nbsp;&nbsp;Bloomberg.com",
@@ -2166,7 +2174,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObEtOb0YyU29LRHVja0hia3RTWE1uWFdueF9UVVdEcE1SMDdzR0pGN3hwYlRxcXU1THg0WE4ycmEzbHJDd2VmNEN0c0NPeEF3ajNOS3g0eVZVcUFLc2FDYjN6OFpSXzFHYkFnLUZGSEk1bU1JZHFjRXNHOFVQYTNXT2w4ckhPR2VCLV9YcjJzc2dhd0owcG85bEhzM01tVWQzcDVqdmp4WS1tZEFyeVgwZjJmQQ?oc=5"
     },
     {
-      "id": "mexico-5",
+      "id": "mexico-6",
       "source": "Yahoo! Finance Canada",
       "title": "Mexico central bank holds rate at 6.50%",
       "excerpt": "Mexico central bank holds rate at 6.50%&nbsp;&nbsp;Yahoo! Finance Canada",
@@ -2174,7 +2182,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRFhNSm40TmE0QUdhZldhY1dUZmRMVXlaYzlpVHcwR21Eb0E0c3JsdDhhei1qS2xWRC02b2RqZkdqMnBUREVHOGYtQWEyWGRmQ0RZRUt5OVBsVkliTzROeEhZbjNIckpCVWdtaWFPaUgyaTg2dWFBaGtCU3VIN3lZY25SNlJkZw?oc=5"
     },
     {
-      "id": "mexico-6",
+      "id": "mexico-7",
       "source": "Mexico Business News",
       "title": "Mexico GDP Growth Projections Revised as Remittances Expand 3.1%",
       "excerpt": "Mexico GDP Growth Projections Revised as Remittances Expand 3.1%&nbsp;&nbsp;Mexico Business News",
@@ -2182,7 +2190,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGtyXzZQSl9YajdNbHp4TUJwQTBraVh2akhSZzFtUlBtUlFxVEkzdnBmTGNGQnNpOF9ibjhIUFRvTVAwbjNSV29feHhNQThkSm5pR04xX2dTbWlNVHVGaWZoak92T21LQnBHT2hBNF91amNUY0wxbllqRENDVUxOQVNRVml5Q2didTgtbWtScFFSa1ozcGU5d21KNnVZRGRPUUE?oc=5"
     },
     {
-      "id": "mexico-7",
+      "id": "mexico-8",
       "source": "FocusEconomics",
       "title": "Central Bank holds rates in August",
       "excerpt": "Central Bank holds rates in August&nbsp;&nbsp;FocusEconomics",
@@ -2190,7 +2198,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMlVUbHVpM2VLQVZsT2RwMnlVX25nRDNvY3daNERaeFVYUnczSVBQei1jV3VKZDRZMHJhcFFiS2l0U2tSSjJMaTF4V3pMZ01GUEtDeUg0SjNydHNuR0JOWi1UaWtoa1BNVWdEVVpZYUxzTm1lRUxmR2pkZnJ1eEI1cjZMN0VtMWR1ZFN0WlhxS1BWQ2kxbXJIY3d0YzdwRjVDaGpqbnZhT01zZmxrSG9VanZNa3ptOWtJRzRvT051RUh1QUpBaUNydWthSVRhZFVwYTRydlMwWVJiaUxt?oc=5"
     },
     {
-      "id": "mexico-8",
+      "id": "mexico-9",
       "source": "worldfinance.com",
       "title": "Financing Mexico’s nearshoring future",
       "excerpt": "Financing Mexico’s nearshoring future&nbsp;&nbsp;worldfinance.com",
@@ -2198,20 +2206,12 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnBBSWtIWEQ4VkVpZ1pPT0ZVSUxVanNVQTJ5bWd3ckRyekR6ejJ4MlhSd1Q4RHdBT09DZ044VW5qTGFGTk1qdVE5SVpHQmt2QVlfalZxLW5EWGo4b0dralJQbmxUUHViRC1KM3MyTGY5dUFyYlNvalcwX09oY3kzeDlpdXd3WkxWYXRV?oc=5"
     },
     {
-      "id": "mexico-9",
+      "id": "mexico-10",
       "source": "Mexico Business News",
       "title": "HR Ratings Cites Growth Risks to Mexico's Fiscal Plan",
       "excerpt": "HR Ratings Cites Growth Risks to Mexico's Fiscal Plan&nbsp;&nbsp;Mexico Business News",
       "timestamp": "2026-08-05T16:06:31+00:00",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOUNUaU1MdDZDcnFhM1ZqVndBSklnenBGNEx5QTJBMUhwZXBFdTdmdlRqMWh3eTNVei1aZXg3b2t0Zmp2QjNPUXMyQ2NGdUdlZTFpSnh4MnZsWHRHTW9NdldYay12dUxKSnk4ZHoyVGxLQTRDWUNaVDV0OUdLUHBjOWlzT1M3aVByMGFlU0Q4RkdqOE4z?oc=5"
-    },
-    {
-      "id": "mexico-10",
-      "source": "Reuters",
-      "title": "Mexico's central bank likely to hold key interest rate this week: Reuters poll",
-      "excerpt": "Mexico's central bank likely to hold key interest rate this week: Reuters poll&nbsp;&nbsp;Reuters",
-      "timestamp": "2026-08-04T18:54:58+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0ZteHM5cjhTWUxpV213ek5DMVVqdzJmRV8xU0ZXdlBWcXF0V0RSbDliS2R3MmhnRlVMRzYxQTNsSkNwdjluRV9QZnR1Q25MN1ZTV0dqRGtyemh5a1lzNnRSMTYzbV9INlZpOFZPUDNDelpmYTNjSjhNcUNWVnBJU2hraEh6cVNQRjNQWFJBS2JHTnI3UUdKam5IWTNHZEgxNFRUdUVnQjU4RDVrd1Z6Yw?oc=5"
     }
   ],
   "Uruguay": [
@@ -2955,6 +2955,14 @@
   "El Salvador": [
     {
       "id": "elsalvad-1",
+      "source": "NewVision.co.ug",
+      "title": "Politics: El Salvador goes to polls with gang-busting Bukele",
+      "excerpt": "Politics: El Salvador goes to polls with gang-busting Bukele&nbsp;&nbsp;NewVision.co.ug",
+      "timestamp": "2026-08-07T14:00:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV09WOFZuenFsbUhXeTkzUHo3ZHBpbmxsU21QTlBmemZYT0RCbHJmUGI1MERBX2lVb0RKcUZhYW9MTVd6SUI3X2JKUTJ3Tm53aGYzaVYzVTJ5Tl9BT1Z4cy05ejMwOFlfb1lMVURqU1ZGQ0RvQTJWeWkzNThIUDJ4SUkyenRkSEhfUFU2WE1sNFppejJxdWJSZEF2dzlkUXYzalk3NU5ldkg1ejRG?oc=5"
+    },
+    {
+      "id": "elsalvad-2",
       "source": "The Boston Globe",
       "title": "Man from El Salvador dies in immigration jail in New Jersey, ICE says",
       "excerpt": "Man from El Salvador dies in immigration jail in New Jersey, ICE says&nbsp;&nbsp;The Boston Globe",
@@ -2962,7 +2970,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOW5MNnduWlo3bGpHWkRjNzV3OGJVeXhWV1B4SzYydklUb3hydzlRSTlvVnU1LTRrNFZiMXhjdk1aRTI3N0N4QjhTUHJXaFNfN0d2NjMtRkxLRndNMGxXWXR4cHlNdi1yMk9BbFdOLXczRFFMMGF5TnBlN0s1Q0c2TEhRYjd4RmoxS18yN2dFYU9kYU44S1pzTE1JMFJUN29aUjNFWGhrcw?oc=5"
     },
     {
-      "id": "elsalvad-2",
+      "id": "elsalvad-3",
       "source": "Economics Observatory",
       "title": "The development challenge in El Salvador: is lower crime enough?",
       "excerpt": "The development challenge in El Salvador: is lower crime enough?&nbsp;&nbsp;Economics Observatory",
@@ -2970,7 +2978,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDJRaGlqM3d0TXZzT1IzdzUyU2RnTmI0T1JVelZLaTdsY0d4b1VrSE1CWHNpOVJqaUZIc3pGZExnRkJpbVowM3IzVkpsMVo0M0FhOTM2d3RWeERwUHh2LWxELWZuNlVwT3V6bFRkTWFoZVVEbzVXZnBUa2ZQMGxqb3l1N3hiVEwtT1NfblZ5UnZTal8wRDFEd04tT1JtVWJP?oc=5"
     },
     {
-      "id": "elsalvad-3",
+      "id": "elsalvad-4",
       "source": "TradingView",
       "title": "MPC Energy Solutions completes sale of project in Guatemala and El Salvador",
       "excerpt": "MPC Energy Solutions completes sale of project in Guatemala and El Salvador&nbsp;&nbsp;TradingView",
@@ -2978,7 +2986,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZVUzckh2NVFQMjNaRG8ySlRrY0hoV2FNY2l6WnJaRE1YVDRRMHYwYVdDRUgwZXd0cGZqUFVwVTV3UzJrS1A0cjB4RUpkeEhiR1JRcXJSbHFIcXcxcFh6bEwxVXpSNk9velRTRVJiSWkxczJjdVNjYU5LWjJBWUN2aXd1dWs0RGVlM0NHUlluc29hOVBra2NsSDYwZDFCWW1BZDloX01LcWZrM3RlcGdOWElOdVBWNXpxLW9meVZKWENYcm5LNkdfYWIzX21jY1ozVmpXeE44MDQ?oc=5"
     },
     {
-      "id": "elsalvad-4",
+      "id": "elsalvad-5",
       "source": "Yahoo Finance",
       "title": "Bitcoin Course at Risk in El Salvador? 2027 Election Rivals Challenge Nayib Bukele",
       "excerpt": "Bitcoin Course at Risk in El Salvador? 2027 Election Rivals Challenge Nayib Bukele&nbsp;&nbsp;Yahoo Finance",
@@ -2986,7 +2994,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQXNqODRfVlZjY2RBSWl1UEZsYVk2TlZBcy13aV93VEdaZ1luaWxJVXRhQ2NWMG1HUFJkZWdfU0QyajROSWR6R291VHB3bVJ2elFsWktyUlVVTFJKMWVzMXdOS0hNVHUwcmNwQWpzckRQTjgwN1YwWkU3NnJZX1BERG13OGZIalFTY25kaGNfeDFMT3FoV0ZiYmpwR2E?oc=5"
     },
     {
-      "id": "elsalvad-5",
+      "id": "elsalvad-6",
       "source": "Cryptonews.net",
       "title": "Latam Insights: Tokenized Cows in Brazil, El Salvador's Remittance Reality, and Argentina's Crypto Bill",
       "excerpt": "Latam Insights: Tokenized Cows in Brazil, El Salvador's Remittance Reality, and Argentina's Crypto Bill&nbsp;&nbsp;Cryptonews.net",
@@ -2994,7 +3002,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Lcmt2aVJnT1VmaTZWTWZKVE1FNzFIRWpMVXBNSzNLLVBfejljY244YWwzTTFCUDJoWWVEd2dzaFpIbExOcElfQTJIMHo2dllSNkt1NVVlc2U?oc=5"
     },
     {
-      "id": "elsalvad-6",
+      "id": "elsalvad-7",
       "source": "Devdiscourse",
       "title": "El Salvador 2024 Elections: New Faces Enter the Race Against Bukele",
       "excerpt": "El Salvador 2024 Elections: New Faces Enter the Race Against Bukele&nbsp;&nbsp;Devdiscourse",
@@ -3002,7 +3010,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRl9MbUQ3MFdkRGFxN2JzUWN1dHFnRFBfbG1JZVhLRFBxVzVXeWtuTElwYW5Sd09nQ3dXT245aDd1ZXFUWDI3ZG9md2xNeXlEWFZwdDlFNjRueU1yeDZVU2xEd05jZ3VJXzk1d0NCV2JPbjEzVnRxSk1uN2hZNWZhUnljYlNLQXowWWhwTXhQcHBsc015aDJtQUthN2QwdlFmNGMtSER1Rkd3SjR1T1gtZGJ5MWluVHdDVUhZd9IBwgFBVV95cUxPUW9UbEhkOUVpZUpwejJIcGRNU3BVclpvSlRZSWg5VlZxWFdVOG85Q2w4SzJsQkM5UThIbTlnUjNlb1I5ZnA1ZVMzZGZkUDJhVTRQajZ1QlM2alJFZTdUcDNvYzlMWlZfbWpsTldXVVVCNFpFNDd5OFhXQkVVVkR0eWZWX2tadDhoaE40OC1Zcjg5RVFrZnN3anJNdUpPT2lBaVJiTUdYV0wzTlJrY3ZXZHJFcEVuUi1NcFJkZGU2MVFLUQ?oc=5"
     },
     {
-      "id": "elsalvad-7",
+      "id": "elsalvad-8",
       "source": "Cryptonews.net",
       "title": "5 Years After the Bitcoin Law, Crypto Accounts for Just 0.7% of El Salvador’s $5B Remittance Market",
       "excerpt": "5 Years After the Bitcoin Law, Crypto Accounts for Just 0.7% of El Salvador’s $5B Remittance Market&nbsp;&nbsp;Cryptonews.net",
@@ -3010,7 +3018,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FTEVUOFZwUjAxUzlWQm5abTM1NVBTa2U2bUhFMldNc2NnVGYzbXJ4bjM3ZF83VmJvUDZtN0xmVWZvMTZ6cmZxWk45aGJQSGdWNkxpckJIYnk?oc=5"
     },
     {
-      "id": "elsalvad-8",
+      "id": "elsalvad-9",
       "source": "Audacy",
       "title": "TCU student deported to El Salvador after June arrest",
       "excerpt": "TCU student deported to El Salvador after June arrest&nbsp;&nbsp;Audacy",
@@ -3018,20 +3026,12 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3JlRnpaMEthbnR1ajJHOEU5NENYdUkxelpEZjFHRHRNVjRjLVZ3VGQtSWwtSGZ0MERmdFVWdjljZjV0R0NHLVpzcW85NldHbWhBSXB5UEd2b2RKek0zeENKbUZ6SThPeWN3T3kwQmUtSlVoamxMcW5ybHlGaUw5N3Fsa2gyS2tVQkFwbS1wVDVScG93UmhZ?oc=5"
     },
     {
-      "id": "elsalvad-9",
+      "id": "elsalvad-10",
       "source": "EL PAÍS English",
       "title": "The new oligarchs of El Salvador: How Bukele’s inner circle got rich",
       "excerpt": "The new oligarchs of El Salvador: How Bukele’s inner circle got rich&nbsp;&nbsp;EL PAÍS English",
       "timestamp": "2026-07-19T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzVvSFktSHUwcV9ZQWVwcUtCTTVUNXJvOVVwd3hmVkdoX0pwTGIxX01hRUktNFBXUTR1YVVPUkNyWjdXcGU0TjNvRklKaUt0eUlXNkZIemlibDNRaE1KYXdpUWhoTjZoM2wyMFRGdndOeUY1NENZT2ZQQURYaUNfZDU3RXVibmgtSUZnOUE1WnpkOWMzUDNQc0pIODVxdFJLeXYzM3Ezajh0Z1pXelZ5blAyaHpkSFVIcms2NFVVTFHSAdQBQVVfeXFMTkloeXU3bGV6YjNpVTJONENvel92MkEyeVJtZUxBazM4ZksxaVB0dUdhTUkzRTIzNzg0ZVVwYUZsak5UTWRFMFNPa0RXSHpSMXV0YkZ0Uk5YZFlFRzFfYnVNRE9sOHV2N1lIbXBELU9yeFFRVGltTU1hd3c1b096cVBFZk1TT003N0ZJZkp2NU5qVS1yNy11OWs5aG15ZVZmUENhNWVPeUozd2kydENlMExrV00yVzNLSFA5YmdpTWs5YXNsLTJGOWVwNWpKWkM1T3B2dVc?oc=5"
-    },
-    {
-      "id": "elsalvad-10",
-      "source": "RNZ",
-      "title": "Powerful earthquake in Mexico shakes Guatemala and El Salvador",
-      "excerpt": "Powerful earthquake in Mexico shakes Guatemala and El Salvador&nbsp;&nbsp;RNZ",
-      "timestamp": "2026-07-17T22:59:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeUpFcUdLQ2hndlJIblM5d0dCcTJHTFA1clZqMEVXbHBwU3VyOUNPSC1yc2JUbjgtNVFXdWk0ZTIzbUpDYVdROHc0VTg2bWphM1pXTEo3dklIRW92dzhyZlFXOVFDTGxDNUtvMV81VkFwOUxlejhLT2swT2c0QUtsb0FxQ1ppVTdnajVabnZvRUtiOUxaWi1ySExSYmJZUzRpcW82UQ?oc=5"
     }
   ],
   "Guatemala": [
@@ -4759,6 +4759,14 @@
   "Ghana": [
     {
       "id": "ghana-1",
+      "source": "Modern Ghana",
+      "title": "Ghana's economy has turned the corner; investors should have confidence – Biakoye NDC Communicator",
+      "excerpt": "Ghana's economy has turned the corner; investors should have confidence – Biakoye NDC Communicator&nbsp;&nbsp;Modern Ghana",
+      "timestamp": "2026-08-08T12:22:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRHJIRzA4dFhwZ0FtTWRZWTBuMklkSmZYWk0xNjFXSFpubG1yNHpYWGYwdEZjVUNFblA3bHdOVVNwMVowTHlTeElxbjhuTVBYbTctUi1MZk5lcEdwSEx6QzhMR095aUY2WG1DWWRWMllmRFJrUzdsVHhycnNIaUcydHZiNUV0d0pEVUlhUVE1alRLcG1tR28w0gGWAUFVX3lxTE5aaVNHN09BN2p5Vl9CdWZITjl1VzZ0TE9TWTk0Xy0yVWdKODFiWEZMem83NVBCV0xyUnlDQV9FZ1czeXhiUTY1U0dHTk8zcWdmbWgwTmVrMHkyeUI3ZVNuazJONGxveHBFUHFJNlhjeVN6X0lIVWdpOWdtUXZqMnlmaU8yYXhDa0luYmpPVHlaTkdjTHd3Zw?oc=5"
+    },
+    {
+      "id": "ghana-2",
       "source": "modernghana.com",
       "title": "FEED GHANA FIRST: The food system we build today will determine the economy we inherit tomorrow",
       "excerpt": "FEED GHANA FIRST: The food system we build today will determine the economy we inherit tomorrow&nbsp;&nbsp;modernghana.com",
@@ -4766,7 +4774,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3M3SUFuNnZ1RmYxM0kzRHk1U1I0RFVwYW10ZjI0b05BWFZOcUQtaDMzWkpyNFdmNjBIY1dkYkxkY3IyS2lvUlpTejNRbmNGc1RxZkUzYXBRVC1waEhjek1xNjdaaTZGZTZIcG41TDZmV29UaWdhZ2FOR1piOWpfUTdaVVZxenlpUm1zV0FEM2JjMERPM000eNIBlwFBVV95cUxObEUtUGFTTkRFaXV1aGdWT2I4TXpHVlFkdklHNFJEREtJQ3VnN0pDdkV5V1NqX2dRNl91TXVKQi04MzQwVXBoU2FBRldObUJQbXRCRTduNXVQNklkejJjcHNRUm9MbmwxYjdDN01hVDY5WXlzdncwSlBQczZNLWZBd3Nsc0VMM0VvWUlFLW10V05BRkFfQ1ln?oc=5"
     },
     {
-      "id": "ghana-2",
+      "id": "ghana-3",
       "source": "Financial Afrik",
       "title": "Ghana: Central bank incurs $1.7 billion in losses on gold purchases in 2025",
       "excerpt": "Ghana: Central bank incurs $1.7 billion in losses on gold purchases in 2025&nbsp;&nbsp;Financial Afrik",
@@ -4774,7 +4782,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLUg2b1ZyNnVtcTNNMG4tS3V5RWx1eVdUUVVwdF9KVW9DSlEyRUhBSmF3TU9nS1V2ZnNoN3pON24tc3ZoaU5kWTFmSzV0aGxNRThGeEZKSVJZcHVQOXZqU3JSWUtWaVIxNmhtZmpUSldqTUJYckhJLW1TNGV4a01CUk9JRjB2OWRlcmRVN3U5MlJNMl9tQUltVmVVUUgtSGlnVndzZEg5aDZnOHNQbjMxX1AyM3UzTmROalZj?oc=5"
     },
     {
-      "id": "ghana-3",
+      "id": "ghana-4",
       "source": "Africa News Agency",
       "title": "Ghana: $18.8 million to boost rice value chains",
       "excerpt": "Ghana: $18.8 million to boost rice value chains&nbsp;&nbsp;Africa News Agency",
@@ -4782,7 +4790,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGpQZk0wVUZrb2tKQjJLU0dfMXZ2d3VuRW96ZDZGM1R3TWlNWXQ4cHE3YTBWY2R5eFBDWHJxYVZJWFBQUjFDSzFWU0hPWHFGOG9wMkJ3QVQxYk15b3FoRVhrM09mcEJTSllVRFJIZDAtTzJmbER4Z0NpQTloSFFyWjlIRQ?oc=5"
     },
     {
-      "id": "ghana-4",
+      "id": "ghana-5",
       "source": "Pension Policy International",
       "title": "The political economy of pension management in Ghana",
       "excerpt": "The political economy of pension management in Ghana&nbsp;&nbsp;Pension Policy International",
@@ -4790,7 +4798,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaG1kcjFQU29wMTc1WnA1OFFCYTBVT3NPc05pdVRZMm16T1hKTm5YaU02QWVITU0wand0d2tOSFRjVlBab3U5RE5fTEtnOUJoR3pfVWhKRUFyRzNYWndxZmlXUXRZQUstYTF4NWhZT2F4MmxZaFUwa3RzUjNkU25KSDU4Vi1HXzlCRVZ3MFNud2ROQW1sMU82VFhXRm8?oc=5"
     },
     {
-      "id": "ghana-5",
+      "id": "ghana-6",
       "source": "Businessfront",
       "title": "Ghana’s inflation dips to 4.6% for the first time in July after three-month high",
       "excerpt": "Ghana’s inflation dips to 4.6% for the first time in July after three-month high&nbsp;&nbsp;Businessfront",
@@ -4798,7 +4806,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTQ4VU1ITTE3eF9MZE1mZXd1czNiSVhTUVhTWnhPazV6SzRBaTBVbDVPUFlVVUdELTV0SDlQQzlCRm5WU2dLbUFNckduTzhQWGhBTlgxRWc1Z2xFTURuaVB1YmNsOTdVZHJnS0NBZjZQMFRSVV9od1kxTEhDUXFxZk9vTW8?oc=5"
     },
     {
-      "id": "ghana-6",
+      "id": "ghana-7",
       "source": "CitiNewsroom.com",
       "title": "What happens to Ghana’s economy if gold prices crash? Here are three IMF projections",
       "excerpt": "What happens to Ghana’s economy if gold prices crash? Here are three IMF projections&nbsp;&nbsp;CitiNewsroom.com",
@@ -4806,7 +4814,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM05MTE5ZcFJUcHotcEdvbmY0dl94M2JPSjNYYW91Q0JSME9fQVVIbmVBM0VfRFJydXVOQlVvUm5jZkFmTjdMNkZlNFBXNFhtbGk1VFNxTnFRMHFtSnNkZFFRTE5jeThnbW9tNktYSmxsV29VZnJGZ1hyU0FRZ0NzZnk1by01bGlLbjI3d0RaRVVlc2JkYTJMc0J5N0hCTk4zV01BU2pFeENKVHRRY3RReVFBOGl6dk1heS1ONw?oc=5"
     },
     {
-      "id": "ghana-7",
+      "id": "ghana-8",
       "source": "CitiNewsroom.com",
       "title": "Why Ghana’s economy remains structurally weak: Prof Ackah identifies five key challenges",
       "excerpt": "Why Ghana’s economy remains structurally weak: Prof Ackah identifies five key challenges&nbsp;&nbsp;CitiNewsroom.com",
@@ -4814,7 +4822,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ2ZId1A5R1R0aTNvYzhSWmVfYUxmZ29RckVsUF9MOVNYakh1czgzcG8tMlo1ckloOXR2dXhLS25fNEVVQUNZUW9OS0NCQkZkU1FBMUJ6YVZISVRIM2dneFFjeUJtV1F6LUJYaENVczdlbE1zVXM1TDBFbVhMSXJDcDZaRF9hajlnd0JFRXk1dUhoLV85QTJhZnpuS0c0VXJTak9qMWo0WlFhOHR6dUc2b0tjYWYxRVJ3Y0lRakxNMU04QQ?oc=5"
     },
     {
-      "id": "ghana-8",
+      "id": "ghana-9",
       "source": "CitiNewsroom.com",
       "title": "Ghana must redirect diaspora remittances into productive sectors – Seth Terkper",
       "excerpt": "Ghana must redirect diaspora remittances into productive sectors – Seth Terkper&nbsp;&nbsp;CitiNewsroom.com",
@@ -4822,20 +4830,12 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUFvYmhoak1nSlpWc1U0YlAzX0kxeEU1QkU0SE4wN0hMbW1hS2xoaHZHb25UTUctYUdDR19CYndYZjRqRFZkR2EwWDhnR0wwOEZObm8zS2FULVpla2otclplcnUycjh0QnpxNEd0ZXkzeE9WX2JXNWJmaDFSNVQxZ0ROT1V4dXZrMUZ5VWF2WWo4dXI5VWhDRFUzUUwtUHljaFFqLUUtV0V2UzI2bFE3VkxkRGs2UQ?oc=5"
     },
     {
-      "id": "ghana-9",
+      "id": "ghana-10",
       "source": "Briefs Finance",
       "title": "Ghana Gold Purchases Cost Central Bank $1.9B",
       "excerpt": "Ghana Gold Purchases Cost Central Bank $1.9B&nbsp;&nbsp;Briefs Finance",
       "timestamp": "2026-08-05T21:03:01+00:00",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVm9tMjRJeTR2TW5ZQXRieHBPV21CcnNMUnNBNmJ6TXdnd3IxenpRSVUzQ0dFMDNnZGVDTUVHQkZoRUMtTkhOdkNCMHpEdWprclV3cjZHOS0xN2RqR1FyLUdUREs5VlIzOGpTc1dCQU9sbkhFVEFIVE5VLTJHVDl1cnVjMFR2dERGdVJZSHFfbU8?oc=5"
-    },
-    {
-      "id": "ghana-10",
-      "source": "Asaase Radio",
-      "title": "CIB Ghana, BoG deepen partnership to strengthen banking sector as institute’s new governing council calls on Central Bank Governor",
-      "excerpt": "CIB Ghana, BoG deepen partnership to strengthen banking sector as institute’s new governing council calls on Central Bank Governor&nbsp;&nbsp;Asaase Radio",
-      "timestamp": "2026-08-05T15:56:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZzBQck53dVlWamY0Ul9tQXNCNVowMm5ycHNGLWsyWWdfbDhGWnlPRnI1UWozcFo3dmdJT0NzalQwQm5oclVycUJRSUMxVjg5dW5pdThfUTZ2LTdjZWJqc3pwR3htdVJnR3RDOFNSNUtnM3RtNXpySWdnVzBUdUZ5LWtSaGVEZFV5N1o0em9RVUtOcktCMURGX3pqT1BhLWZ5MDBXNWxiVXd4RnVKWGtkTFFXSWtuME44VHZlSDlTalV2OElxZjFZUnFsUUhWTjN3a2d2RGpKQzN1NUhQOVNBcjNfTXFadlFK?oc=5"
     }
   ],
   "Côte d'Ivoire": [
@@ -4865,6 +4865,14 @@
     },
     {
       "id": "ctedivoi-4",
+      "source": "Dabafinance",
+      "title": "SMBC | BRVM - SMB Côte d'Ivoire stock analysis",
+      "excerpt": "SMBC | BRVM - SMB Côte d'Ivoire stock analysis&nbsp;&nbsp;Dabafinance",
+      "timestamp": "2026-08-06T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Y0FYNUxtTHhvSWk2M2owb004T1NSeXRuOC1oWWpfZmlWQ1R6bXVPU19fWFJQdkVvWE0zNjlKOU9fLS1SamZsYXJFdExWYzZ4UFcta0JORXZnUQ?oc=5"
+    },
+    {
+      "id": "ctedivoi-5",
       "source": "Capmad",
       "title": "Blue economy: Côte d'Ivoire gets its strategic orientations validated in Grand-Bassam",
       "excerpt": "Blue economy: Côte d'Ivoire gets its strategic orientations validated in Grand-Bassam&nbsp;&nbsp;Capmad",
@@ -4872,7 +4880,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkdKaTg1NFNoRUoxSjgzMWE2cGc2cmJJV3VSdXpaNFhGc0Z2NElqVV9OMkxxc2F4eEo4MldLT1M4ZTZiWHJsZXF3NFEwUW4tYlo4WUFSOV9jV2JwRVJUTkI2Q3duYmVYSUJxYXdXOTVMRmx4RUNsMTlyOGpvTkdDN01PS0Y0UHJvUkpWaVZqREVqUGcxdjAxcDdIX2xMNHF5aHdsYjgwNmdfWTJQYzBPag?oc=5"
     },
     {
-      "id": "ctedivoi-5",
+      "id": "ctedivoi-6",
       "source": "Africa Business Communities",
       "title": "EBRD invests €9.6 million in AFINHAB social housing bond",
       "excerpt": "EBRD invests €9.6 million in AFINHAB social housing bond&nbsp;&nbsp;Africa Business Communities",
@@ -4880,7 +4888,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNTQzYzZKWTVTandJS2xpZkpzb1FKeTVabkE3OThwS3Z1NmQxZF9femNqUVFLeE44MGR5UjRTU1RrNFZCVzZTNUl0WVZEYVltQVlUZHFvSHc4bVUzdFphWDZIY1JraHJBenJHQ204MGtFenpzNWFlLVhsRV9RUjVPV2REbzRYdmg2SmpMYWZn?oc=5"
     },
     {
-      "id": "ctedivoi-6",
+      "id": "ctedivoi-7",
       "source": "EBRD",
       "title": "EBRD and AFINHAB support affordable housing finance in Benin, Côte d’Ivoire and Senegal",
       "excerpt": "EBRD and AFINHAB support affordable housing finance in Benin, Côte d’Ivoire and Senegal&nbsp;&nbsp;EBRD",
@@ -4888,7 +4896,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNndNaXY2S0haMUUxTEI3eEU4M1lGZHNKMk1MRG9pUnJZVWxoNXBYMUdDNW1fREtSOFFPSmZEcUV5NUlEZHE2c2JFenZ0MDlMc0huR2JVN0dDdU1kNVdLR2I3Y0Nnc1REMzY0WWtiejVZTUVWb3JpV0pRU0JSd2d6REdMU0hZOFViOWhkUXQwVnhHaXVmX21Mczg5Nl9SZlFycWtTM2FtR1RvNjQxX1VudDh4eDdCcmxuR2JfbjhR?oc=5"
     },
     {
-      "id": "ctedivoi-7",
+      "id": "ctedivoi-8",
       "source": "Inside Politic",
       "title": "Banyana fight back to earn crucial draw against Côte d’Ivoire at WAFCON",
       "excerpt": "Banyana fight back to earn crucial draw against Côte d’Ivoire at WAFCON&nbsp;&nbsp;Inside Politic",
@@ -4896,7 +4904,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOUJFYTF5RnplSFlCYTA2bW5XaVMxUl9WT1Y2Sy04UG1wSHpfbEp5V0NrVjlmOWN3NFRxbzJIUFpyamdNQmo2NUJTWU5lUUluTnUzaGV2dzlfSXVZeDRQckc1X3pYdXl6dnZCS2lwZzRwemdKT1lKakVic3YwLTE4b2ZpVGRqLWZDNkdJQW4xb016YnBYU0s5WkFUSWI4cXNR?oc=5"
     },
     {
-      "id": "ctedivoi-8",
+      "id": "ctedivoi-9",
       "source": "Revelio Labs",
       "title": "NSIA Banque Cote d'Ivoire Number of Employees 2026 | Employee Count & Headcount Data",
       "excerpt": "NSIA Banque Cote d'Ivoire Number of Employees 2026 | Employee Count & Headcount Data&nbsp;&nbsp;Revelio Labs",
@@ -4904,20 +4912,12 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OOHNPSUdTQ250RTIzS0FGNVFKbkw5MUMxNE5nZnNYLWx6UVliRWtYWkx5OXpTSXpCS3l2eDZmeF9HcGxQY1dsOW9sWlhab0dOZGNGZzR4N0l1ZEdsWVVXOXR4SkhHcTJ5NTg1U3QwUVVtTDFCU0RqbDhrUDFVdw?oc=5"
     },
     {
-      "id": "ctedivoi-9",
+      "id": "ctedivoi-10",
       "source": "TechAfrica News",
       "title": "ST DIGITAL Backs Côte d’Ivoire’s Ivoire Tech Startup Growth Programmes",
       "excerpt": "ST DIGITAL Backs Côte d’Ivoire’s Ivoire Tech Startup Growth Programmes&nbsp;&nbsp;TechAfrica News",
       "timestamp": "2026-07-31T12:59:52+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemJQalZUdTNSaE5LUXp3N0JrRmdNNXV3SnE3dEo4eWR2WmZOVWVUUTFvWXoxNG1uRTV1UFhGVm02MFJSN2hUUDZJbVpGRHhZaV95U2dXNXNLTHpfQllKcVRyRXZaYU4wa2lVSWtLTHRfZF9xdlJJQWZjaTJYY0E5bTZ1dFNxTElqWmhLSWxnUG1VSkFWZFdYMWlldXByTjY4MFkwM1hMQUMtcnc?oc=5"
-    },
-    {
-      "id": "ctedivoi-10",
-      "source": "Tech Review Africa",
-      "title": "Côte d’Ivoire moves to modernise postal sector regulatory framework amid digital economy growth",
-      "excerpt": "Côte d’Ivoire moves to modernise postal sector regulatory framework amid digital economy growth&nbsp;&nbsp;Tech Review Africa",
-      "timestamp": "2026-07-30T15:42:26+00:00",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcDY2eGs3Z3NZRGMwMnpienQ4cHpOeFdLVE40a2x6bnk3MFJWUmFhNk1sSGNBSUtYMXY3TUxaWWdHc0ZQbElkSG5pNFdpaThsa2dod1Z0cGhZVlA4Y1JlOXBJeXMzNFUwbl9HQlZSOVdsSTVzU0RrOVkwaHFNLWVVLVhZMUNFQTFNemY4ak45anh4SUUxdm1WU0VicWdYLXlsQ0FuUndibWJCc2dMV1RyNWpRc1BrZXZ4ZWpQTUlyZzRsQnZ5MmhLWTVTRm5tZw?oc=5"
     }
   ],
   "Guinea": [
@@ -8005,6 +8005,14 @@
     },
     {
       "id": "india-7",
+      "source": "Reuters",
+      "title": "India rate hike calls pushed back after central bank's dovish pause",
+      "excerpt": "India rate hike calls pushed back after central bank's dovish pause&nbsp;&nbsp;Reuters",
+      "timestamp": "2026-08-06T14:58:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQTd2U0hIbFJCNzNPcnp2VksxMVlQN0c3MEQ1N2FTVHR6NmhuWWdGMm9OS1dUQmdqcEwtdnBmc0tSZUVIV3JGMXhZTTBISUVTclVzS3RjY0Y2amxHSnA0LThEWklhSXNvQmI3N2w1REl4eVhfclpFVnpOUUVNbE9Nang1Y010QVhHRkF4OXExQmNNMGhKano0YnYwWjg5ZVM2ek4xb1l1WEdPQkxmcHdGdXpmYlI?oc=5"
+    },
+    {
+      "id": "india-8",
       "source": "Music Business Worldwide",
       "title": "‘India at its core is a song-driven economy, moving toward a personality-led, show business economy.’",
       "excerpt": "‘India at its core is a song-driven economy, moving toward a personality-led, show business economy.’&nbsp;&nbsp;Music Business Worldwide",
@@ -8012,7 +8020,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWWE4dHhkWUVjQ0w0X1Z2QXExd3MxRzEwSVNJU3U0dTg5d2Jha2lncGNVSTlYQ1VBUld1YUNoeG85OXdZOXVsTXQ0cUZzMWZES3pXcV9haklfVTkwX1JTekJfamxDSFBRTHBhOE9YZXdMUmp1M0xrNzNYeHhGM3dZUWZTcVVwWXpZUF9wNTJrWGxJNDB4VkZsZXdNQ1dxcmpvRWpLLWxPMmtwMlZIa3lTWHlWM2tNWkxPeVFPWVd5ZnVNNW5lS0w3MTltaEVPdXM2OUE?oc=5"
     },
     {
-      "id": "india-8",
+      "id": "india-9",
       "source": "Reuters",
       "title": "India's central bank includes Tata Sons in upper-layer NBFC list",
       "excerpt": "India's central bank includes Tata Sons in upper-layer NBFC list&nbsp;&nbsp;Reuters",
@@ -8020,20 +8028,12 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSmxEVDR3VVFSS21nNnB4OV8wNmVuUG5qT1dQUFZqcjU3ZFBJUkxWdktuNDc4MVRFaWdpV1FuR0J3QkduNUlmczZWcWo0dENOYkVCcFByM1IxTm5XVzZkSDd4V3p0NW9sSTFWdm5iNEhZb2RaX29scmxNTTlNSDRqdmJkbHNSUWZOcGNpc2FLMVZTMUpOZTJEdUpYVHUyX3Y1QWdNSnJYc1VrYjY1?oc=5"
     },
     {
-      "id": "india-9",
+      "id": "india-10",
       "source": "Bloomberg.com",
       "title": "India’s Student Movement Shuns Politics, Stays Pressure Group",
       "excerpt": "India’s Student Movement Shuns Politics, Stays Pressure Group&nbsp;&nbsp;Bloomberg.com",
       "timestamp": "2026-08-06T10:55:53+00:00",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ18xejhaU2J2S1pyajV1ZHBvWm9KcGJwM2NDTU82UHoyUnFaNjNlOTBLXzcxUllxQ3pBY185bkRqQkdPeHV2QTV1SWg2UG1LejNORl9Ld1dyQmJsNGh5a2pRdWc3UkdoVGJTQlkzUHZlY2JHczNxQkRIV2Z0OTVWWEU1M3hodTk4TXVLbVlFS3M1eTVpUk54VFE3bTFNWTNGbmNRNG5ZM0FYT3BRWWtqNEJZR1RCX1cyVTR6bXpMY3pXRFlHalFLUjBaRkw?oc=5"
-    },
-    {
-      "id": "india-10",
-      "source": "The Economist",
-      "title": "India’s IT sector is surviving artificial intelligence",
-      "excerpt": "India’s IT sector is surviving artificial intelligence&nbsp;&nbsp;The Economist",
-      "timestamp": "2026-08-06T09:22:08+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdUJVM1FGT2Z0VmVvdF82NUhHYl9INllVUDJqb0U1X0ZQVDUwTGxPXzRNclc2azVVTUNfeDB2ZFY3aXVZTHlrZXpoUWluWUpLcEpCRm1kQjkyZ0RoODdWeVhuaVVKWmt2VkRPd3VQV05Odmc3bm5vNER0emFnaDVUdW1nbVQ1RHJQaEZYWXdGWGxpYzdKeWx3Y2h6M25qak00R2lkRmR0MGdYNXhqc2NtWTJB?oc=5"
     }
   ],
   "Bangladesh": [
@@ -8860,13 +8860,21 @@
     {
       "id": "armenia-1",
       "source": "Armenpress",
+      "title": "France hopes Armenia, Azerbaijan will formalize peace treaty",
+      "excerpt": "France hopes Armenia, Azerbaijan will formalize peace treaty&nbsp;&nbsp;Armenpress",
+      "timestamp": "2026-08-08T12:23:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13SVRhUVVud1AzZ3psd3VYZGJfbEVwYU9rblR3OUpnM25kRVpMRkxFRS1RSFVMazJyWHd1dHB1YldJOXNkOHZocm1oQktSRmFlNXfSAVdBVV95cUxOc1V6RGRGczdRRl9RSkNJclBuYjBaem1JQWNvTDZjUTZ3LVU2MHozUnJQMFFha2ZlY1JEMlZ0cnRRNmN4dkRRQ1lNekRPeFhhcS1pZG1OWlU?oc=5"
+    },
+    {
+      "id": "armenia-2",
+      "source": "Armenpress",
       "title": "Slovenia strongly supports growing EU–Armenia partnership, says FM",
       "excerpt": "Slovenia strongly supports growing EU–Armenia partnership, says FM&nbsp;&nbsp;Armenpress",
       "timestamp": "2026-08-08T10:25:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkOUpjdXpNRXh0dHRfTGhpcjF0TklZVktVZWVyNXBNaXIxUWg2MnVUdTZJLXNReVpGTjYtelpfUURWSS1vZndadWQ1aXdNMEJjWmfSAVdBVV95cUxPaGtpS1p6a0hzMnR0S3I3cFZnYkJXQ0Z1RGlBbXlVQTVFWnlFbFdmWlJrMEtZbHdsZGpnWTB2a1JuaWFTMWpzX2hMdWtENGlRd21xUUYyR28?oc=5"
     },
     {
-      "id": "armenia-2",
+      "id": "armenia-3",
       "source": "Armenpress",
       "title": "UK reaffirms support for lasting Armenia-Azerbaijan peace",
       "excerpt": "UK reaffirms support for lasting Armenia-Azerbaijan peace&nbsp;&nbsp;Armenpress",
@@ -8874,7 +8882,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRi1zcTcyS2tMMU1KZ2xaeUltV0dvbkZYNzdaLWhUNHpCY0k2SDdsU2Ffektjb3RhNXcycTBXb2YzVDluT25kYnVFcTR2SkNwaUHSAVdBVV95cUxNeXQ3d25NVUVrRWRIU0dyTkdMTExKdURfZXFhNldCV0RiaGctMjVzWUQtVE1yYjAyWjBTY2tlNnpZYzFfemd2TDUzNkVDdTJ6MGYwOWYtNkU?oc=5"
     },
     {
-      "id": "armenia-3",
+      "id": "armenia-4",
       "source": "Armenpress",
       "title": "Another Russian cargo shipment sent to Armenia via Azerbaijan",
       "excerpt": "Another Russian cargo shipment sent to Armenia via Azerbaijan&nbsp;&nbsp;Armenpress",
@@ -8882,7 +8890,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RRkFqTVZ2RGVhdHdTQVhqVHpJUkdvVVhIc0ZZT1NjZTNUSVpKNjVhRjF6dEpTZ2R4RGcwTUdGVzVXZWVlY0FKYkJ2ZXRhNi1pcmfSAVdBVV95cUxORnNnOXZ2NndVSEpTSTdfTlNsT3BodjlHY3VDclZOTDAtdTd4eUh4eVhvLVgtZXhHUVp6M2U0RDFrWTdPNWJ1TTUwLUM5UWpkLU9qQ2ltU2s?oc=5"
     },
     {
-      "id": "armenia-4",
+      "id": "armenia-5",
       "source": "Armenpress",
       "title": "Pashinyan, Aliyev discuss progress in Armenia-Azerbaijan normalization, TRIPP route",
       "excerpt": "Pashinyan, Aliyev discuss progress in Armenia-Azerbaijan normalization, TRIPP route&nbsp;&nbsp;Armenpress",
@@ -8890,7 +8898,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SWEM0UENFZ2FNNUJOZmM2bDl0ZFVfR1ZiRnQyZVVqblZjc0VVdHVkTTFOaXVWaHVhcnIzSkM0eGhQN2RZWGtaakxYMGRLamNkbFHSAVdBVV95cUxQbm1tUnMtM09zeGgxZkdPYnp3NUtQWUpVYzdwYzV5dl9XeVMyQ2xfZTJieDlOMXRBNWpNZTZzQUgwZVhBdFlKOXhpWnJxaWRWUi1jLUdMck0?oc=5"
     },
     {
-      "id": "armenia-5",
+      "id": "armenia-6",
       "source": "Armenpress",
       "title": "Parliament speaker marks first anniversary of Armenia-Azerbaijan peace declaration",
       "excerpt": "Parliament speaker marks first anniversary of Armenia-Azerbaijan peace declaration&nbsp;&nbsp;Armenpress",
@@ -8898,7 +8906,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ob0Y0ZHR4RmFuZGtRVlpPSk8tZnp0V1F1VmpTQlR4NHFjMWE4eXdjUnJSNEV4b0VoYTk0UzRaTnpPbC1HdFdVU1dUcFh4bzBnVlHSAVdBVV95cUxPM29WdDFwbk1vLWhDc3RxbkdLaVBGTmlPUFhXazJRUk9VQkpmWDVBQ2xEZ041VTRDT1VxTnR1bVVXWS1rYkd4Ui1BOXRCend6WG5ybWxJQjg?oc=5"
     },
     {
-      "id": "armenia-6",
+      "id": "armenia-7",
       "source": "trend.az",
       "title": "Washington summit became opening chapter of consolidating Azerbaijan-Armenia peace – Ariel Cohen",
       "excerpt": "Washington summit became opening chapter of consolidating Azerbaijan-Armenia peace – Ariel Cohen&nbsp;&nbsp;trend.az",
@@ -8906,7 +8914,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kcWNpTE1qSU5yYkY1NXlsYUUwRHZzX0FLUmVhWnNIMmRTTjEzbUx0TWNtUmU3VGt3dGRaSDZZbnBqdi1hcWtVMnZUZl9rb3otdE9kSFVZR0E0OFl3TngxZmROcw?oc=5"
     },
     {
-      "id": "armenia-7",
+      "id": "armenia-8",
       "source": "armenpress.am",
       "title": "Central Bank of Armenia: exchange rates and prices of precious metals - 07-08-26",
       "excerpt": "Central Bank of Armenia: exchange rates and prices of precious metals - 07-08-26&nbsp;&nbsp;armenpress.am",
@@ -8914,7 +8922,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OSGFhbjA0bHRaXzRlUHhlV3BabEVJYk5hcHdmMTJrUkFXR3EwM0F2b3QwNFJmbHA1bDBCeFQ0dnJBSllqQVplX2NwVi1MRkloY0HSAVdBVV95cUxOSGQ4aExCX3ljT2tKY3RXTjJ3bElmS0M5U2hfMG9xQnk4QjJXZDRlZEQwVGp3RWt1by1TQS1kMF9YLV9ETFNmb2tWckNpRHdOQlNzUUprSjg?oc=5"
     },
     {
-      "id": "armenia-8",
+      "id": "armenia-9",
       "source": "Armenpress",
       "title": "Officials review progress of Armenia’s €120 million tourism infrastructure initiative",
       "excerpt": "Officials review progress of Armenia’s €120 million tourism infrastructure initiative&nbsp;&nbsp;Armenpress",
@@ -8922,20 +8930,12 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QSkVhX2VDTDBNcVVud2tGa1NLVE1ZanQ4X3NvMjZOd1Y2NEtGRmVjTGF2UVZNekx5aGxudlY5SEFXZkl4OWtJS0RJMGFzUHVzT1HSAVdBVV95cUxPVmRtNHIwdWxHWkJybnJRWTVhTDdBQmwzNkQ2bWZoOEs1UFJlOTh5T1N3Z0sxOW1hZ0QwWGlrZzlhNFJhWF9DZ1NycW9ySW5hQjU3eW1peW8?oc=5"
     },
     {
-      "id": "armenia-9",
+      "id": "armenia-10",
       "source": "NEWS.am",
       "title": "Economy minister: €120M investment planned in tourism clusters’ development in Armenia",
       "excerpt": "Economy minister: €120M investment planned in tourism clusters’ development in Armenia&nbsp;&nbsp;NEWS.am",
       "timestamp": "2026-08-07T09:53:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KZVl0UmpsaC1NWnZHeFQ0U1VOdEs5X0dQeVlNNkdvQzdNV1JNMVMyS3N1cll4TzRfRXV2bGV0TTVQQ3E2SWc?oc=5"
-    },
-    {
-      "id": "armenia-10",
-      "source": "armenpress.am",
-      "title": "Kyrgyz President highlights Armenia’s progress under Pashinyan’s leadership",
-      "excerpt": "Kyrgyz President highlights Armenia’s progress under Pashinyan’s leadership&nbsp;&nbsp;armenpress.am",
-      "timestamp": "2026-08-07T08:47:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKM1liWDJQLUZiempOVm85c1JWcWxmTmFtLVZLQktOc2xuWDFjY1kxUXNtZElRX2d0V3pNZmxkQ19NcG5SZTdpQzV0bWoyQ19YaHfSAVdBVV95cUxQY1ptS0oyVEdaT29NN2dZM2VyeDZFcE1qOG5tb0JzcFhLQi15NkduVXBCODB1NWJOR25yVmJNYUdVYWZSLUJIS2tzVTg4aUxzMWxvWTR4LWs?oc=5"
     }
   ],
   "Sweden": [
@@ -9515,6 +9515,14 @@
   "Romania": [
     {
       "id": "romania-1",
+      "source": "TVP World",
+      "title": "Bulgaria: Rumen Radev says drone hits, entered from Romania",
+      "excerpt": "Bulgaria: Rumen Radev says drone hits, entered from Romania&nbsp;&nbsp;TVP World",
+      "timestamp": "2026-08-08T11:04:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHdMOVVtQmV3WUo5SlpxU0JPSTZMcWYtN2RiTFlSckktT3B0Z09SaDJqWDVyUERPU1dtWElQQ0Z2bUxwYXRTMmFQN2lYNUJBdXFwdHhwcVluSTRyUUMxN1V5dEsxeENpeVlhUXVTX0RhUXlXM2VFUnB4bFp5ZG83cTd6R2h3Vnc1Q2xnRXp2WXpNeEhpcmF2RHQ1aWZITUgtQkpMcTB3MFIzUGFGNDMzRlVWVFlNT25HZmluQg?oc=5"
+    },
+    {
+      "id": "romania-2",
       "source": "The Brussels Times",
       "title": "€100m EIB loan targets green growth and cohesion in Romania’s economy",
       "excerpt": "€100m EIB loan targets green growth and cohesion in Romania’s economy&nbsp;&nbsp;The Brussels Times",
@@ -9522,7 +9530,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMXdTRzR0bVJ5c3BpdW15NVB6YXo4cFZLbGYxUVZucDhzUGFhQTFuQzFBbkJ0bjY4TEMwTjJmbGgzUkhkeE1vQ2RiUmVqUV9keVRDelZfWk1NbzZBXzZScmpDbHJ1YV9naFA4bDNLZjYtUWtXZUdIclV3dDIwN2tBYmlsVk03TktnNzFCNDF1MEh4S1hodmFBREI5NEtzd21DWnhOcnNVSkVKdw?oc=5"
     },
     {
-      "id": "romania-2",
+      "id": "romania-3",
       "source": "Investing.com",
       "title": "Romania’s central bank holds interest rate at 6.5%",
       "excerpt": "Romania’s central bank holds interest rate at 6.5%&nbsp;&nbsp;Investing.com",
@@ -9530,7 +9538,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWxDSjlBdlVqaTFXUGdiRHFoOUxHelYxZThnZ0lSWGZSYlRWaUFsaHM5YVdXcGRNN1QwcTQ1TTM2TkhPZkp0SlZWdGpqc2w0ZXg5cDk1WjVkN3E5NnlsSHVIV1ctdHY4WmNyWWZfN1FRTjlmekxsMHpURlQtbVp4bEtKUEE0alpnellVcXNrRWpqOUM3Sklmc1laNG1qelFBX2NjdnpBbw?oc=5"
     },
     {
-      "id": "romania-3",
+      "id": "romania-4",
       "source": "BGNES",
       "title": "Romania expects minimal economic growth of 0.1% in 2025",
       "excerpt": "Romania expects minimal economic growth of 0.1% in 2025&nbsp;&nbsp;BGNES",
@@ -9538,7 +9546,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0k4SU5Ea2p1TWlpcFZqemxNZzFzWGxoNmJoOERpWnJGbW1YSm1ZREFYakxwZnlyQVIwbWo0c3JzTE5KWHhHN3NyWUxHbGEzZFkxUUdvLXdJdF9pTUFqcXNMdmVHNnJrWENuRU5abGI1WWR0bEpNc3k3SklMZHExRTVfWFVTa25QWGZV?oc=5"
     },
     {
-      "id": "romania-4",
+      "id": "romania-5",
       "source": "SeeNews",
       "title": "Romania's retail sales decline 5.7% in H1",
       "excerpt": "Romania's retail sales decline 5.7% in H1&nbsp;&nbsp;SeeNews",
@@ -9546,7 +9554,7 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWVl2UEZ5MHJYTmRtd2xPeG1RVjdrTURlRTN2U0ZRRVpTRlhFVHpSZWhqRk4wal9rdmc0SWktb1JudHJqNTU5MmY4Z1lKWW5WalBhSlFLZk15OWhaR2Z0TExWbzdQNDJZM3B6dnN0SnA2dC1XZGtVUUdQa3VQd0RPeHpfVUtXT2c?oc=5"
     },
     {
-      "id": "romania-5",
+      "id": "romania-6",
       "source": "SeeNews",
       "title": "Romania's tourist numbers decline 4.1% y/y in H1",
       "excerpt": "Romania's tourist numbers decline 4.1% y/y in H1&nbsp;&nbsp;SeeNews",
@@ -9554,7 +9562,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYTdZd21kcl96Ri1VRmZha1VSb3pzTDRQLXA2QmpLdzNKSGROR2IyZFhMQXQ2TWYwd2lBOEI0NU56Y0p0OUV0MkNadmVtNURUV2hKdGNOV0lZaDQwdVVmYXVfYjZqanB5Tm1hdTl5OFZ1SlA1bXBsejZEMW5PbWpmTXJha0ZBUHhJVXVKZkdPVQ?oc=5"
     },
     {
-      "id": "romania-6",
+      "id": "romania-7",
       "source": "romania-insider.com",
       "title": "Capital Economics sees Romania’s economy severely slowed by fiscal consolidation",
       "excerpt": "Capital Economics sees Romania’s economy severely slowed by fiscal consolidation&nbsp;&nbsp;romania-insider.com",
@@ -9562,7 +9570,7 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtUVF2LTFFS3N4VDJoWmFOR0NCd3l4b3Z3cTEtR09CVEd6c214bFBCdXJsZU5QV2ZnelctbVZibVg2X3Jmb3g3bEdTSnNmbmdXZEZ0R205VUR6VjBTU3BPazRpRUU3dnFTc0NlOHJTWlBYUm9YcThNddIBfkFVX3lxTFBsTW5PU2JyV2JtaGNOWURjLW9wSHRlLUZIQ0dpa2pNSHlpMmxZSFl2a28xQWtqM1RlQWtHN1U2VWxRVXNUUlpvcmVXNlZscFplY3FFZFJBWEEydDQxVWpFNExQUUpvSXBnV1JDTW1LVHJXWE95d2JuYndUcm96UQ?oc=5"
     },
     {
-      "id": "romania-7",
+      "id": "romania-8",
       "source": "Romania Insider",
       "title": "Capital Economics sees Romania’s economy severely slowed by fiscal consolidation",
       "excerpt": "Capital Economics sees Romania’s economy severely slowed by fiscal consolidation&nbsp;&nbsp;Romania Insider",
@@ -9570,7 +9578,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsTW5PU2JyV2JtaGNOWURjLW9wSHRlLUZIQ0dpa2pNSHlpMmxZSFl2a28xQWtqM1RlQWtHN1U2VWxRVXNUUlpvcmVXNlZscFplY3FFZFJBWEEydDQxVWpFNExQUUpvSXBnV1JDTW1LVHJXWE95d2JuYndUcm96UdIBfkFVX3lxTFBsTW5PU2JyV2JtaGNOWURjLW9wSHRlLUZIQ0dpa2pNSHlpMmxZSFl2a28xQWtqM1RlQWtHN1U2VWxRVXNUUlpvcmVXNlZscFplY3FFZFJBWEEydDQxVWpFNExQUUpvSXBnV1JDTW1LVHJXWE95d2JuYndUcm96UQ?oc=5"
     },
     {
-      "id": "romania-8",
+      "id": "romania-9",
       "source": "Informat.ro",
       "title": "Romania awaits today a new crucial verdict for the economy. Moody's decides today the fate of Romania's rating.",
       "excerpt": "Romania awaits today a new crucial verdict for the economy. Moody's decides today the fate of Romania's rating.&nbsp;&nbsp;Informat.ro",
@@ -9578,20 +9586,12 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTy1DSEM0UU52OXVGZWVvdFBMellkS3oxSWt4THJ3Q1ZtcU5XdnNKVURPZzhMSl95dFUtVXEyRTU2NkdzZ0dJMWJQc0RtOHk1ZTlGMmVST1g1ZU1lRE5YWGNVdjVyd1RzZHROQmEyMElXbVJFZHZvb2h4c3BPZVZmTlFjYVpqWWg5eEM3ZGRybGRfc0xJVmVCRThrT3BOVjNUaUlz?oc=5"
     },
     {
-      "id": "romania-9",
+      "id": "romania-10",
       "source": "Romania Insider",
       "title": "BasePoint Capital LLC completes acquisition of International Personal Finance PLC, owner of Provident Financial Romania",
       "excerpt": "BasePoint Capital LLC completes acquisition of International Personal Finance PLC, owner of Provident Financial Romania&nbsp;&nbsp;Romania Insider",
       "timestamp": "2026-08-05T06:49:48+00:00",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UMHJkNXNLRmtfV28ybnZyYW9wY3pJQjl4R0lTSDBlX2t1dHR4N3d3VVAxZWZ2TEtqUjRucWF4UEp4Vnk0aTdKRXd0b09zVUxMMUREcFdMUlVjb3dkTHpCQXl3QkJYcnV0T2Fvc9IBckFVX3lxTFBETUZETXg1OWJnUDVVQkEyaWh4YkVid0traHpWcWR1aUdEeUlHQnZfWFJ5bUtVaG43b0l5Smh5aGNvdGhKN3F5M3IySFZjWWxRTmE0SHBFMHM1U3A0TVpkdGVYenI1R1JNdTVGQnpHZWxmZw?oc=5"
-    },
-    {
-      "id": "romania-10",
-      "source": "SeeNews",
-      "title": "Romania's industrial PPI rises in June",
-      "excerpt": "Romania's industrial PPI rises in June&nbsp;&nbsp;SeeNews",
-      "timestamp": "2026-08-04T15:12:07+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzOXZCbG1hRGNKNEM2QmlrZF9JRlIzZzVOUjgybVJINmhoZnZBYndKRlFvakR0ZDNSQVRsOTU0QzFSbUFrQmpNcXp6MEowaFVldm5QSzU2WUNYZ3dHUmNuRFY5aEszT1ZielFaT1ZpLWxrWVB6NHlOeUpB?oc=5"
     }
   ],
   "Lithuania": [
@@ -9925,6 +9925,14 @@
   "Bulgaria": [
     {
       "id": "bulgaria-1",
+      "source": "TVP World",
+      "title": "Bulgaria: Rumen Radev says drone hits, entered from Romania",
+      "excerpt": "Bulgaria: Rumen Radev says drone hits, entered from Romania&nbsp;&nbsp;TVP World",
+      "timestamp": "2026-08-08T11:04:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHdMOVVtQmV3WUo5SlpxU0JPSTZMcWYtN2RiTFlSckktT3B0Z09SaDJqWDVyUERPU1dtWElQQ0Z2bUxwYXRTMmFQN2lYNUJBdXFwdHhwcVluSTRyUUMxN1V5dEsxeENpeVlhUXVTX0RhUXlXM2VFUnB4bFp5ZG83cTd6R2h3Vnc1Q2xnRXp2WXpNeEhpcmF2RHQ1aWZITUgtQkpMcTB3MFIzUGFGNDMzRlVWVFlNT25HZmluQg?oc=5"
+    },
+    {
+      "id": "bulgaria-2",
       "source": "БНР Новини",
       "title": "The Bulgarian economy has grown twice since joining the EU",
       "excerpt": "The Bulgarian economy has grown twice since joining the EU&nbsp;&nbsp;БНР Новини",
@@ -9932,7 +9940,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFc3Y2NXdDJ5MTVMUHk3dzNDa3UyQ2Q1V2otRGNhWnNSaVkwUWRuQ1RxdFVtSUNqeDJTSkFPSVJ1N2ktNE9rbERYeGZxbC1QdWVkcWJhM3pESFpsYUQxeW01M2FaODhfWnd6STVkLTB4TUVJT2I4dEJnUGJpQ0FQMEdNbzZ5S093ZXVPR3hqU0Y3UEhRZFZr?oc=5"
     },
     {
-      "id": "bulgaria-2",
+      "id": "bulgaria-3",
       "source": "SeeNews",
       "title": "Bulgaria's retail sales grow 7.1% y/y in June",
       "excerpt": "Bulgaria's retail sales grow 7.1% y/y in June&nbsp;&nbsp;SeeNews",
@@ -9940,7 +9948,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzBOb2tNQVNqT1h0N2EwbmpZNEcwNjBnSVhuaWgwVXI0TEtUNF9uNWtkZWdEeHhNSlFFbDNuUElPQndkeTEzSWQ5TFcyZmQ2aW9xWWRENExSOXZxVXNtS2JiU3Fnc2pHaDJGQUJVdXN0N2lISm5YV1FLaW5iRnpORFZ6UGxzVXpaMVNJ?oc=5"
     },
     {
-      "id": "bulgaria-3",
+      "id": "bulgaria-4",
       "source": "БТА",
       "title": "BTA :: Economy Minister Outlines Priorities for Bulgaria's Trade and Economic Offices Abroad",
       "excerpt": "BTA :: Economy Minister Outlines Priorities for Bulgaria's Trade and Economic Offices Abroad&nbsp;&nbsp;БТА",
@@ -9948,7 +9956,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObndzMGhNQk5mYlRpVmU4aWl1TGQwLVluSjVzRlhhVV9Hbnh0QWVHSGttSHlmaGR5SnVMejNqWjlkQmpoQkk0RUpONGZmN0ljWElGdGlYUVNqSi1ORkV1Ql9VTGUxb0lPcURwclpabjUzdGMtelNKQTRITFR5eVJxSS1tQVdnWW14TENyZUV2OVFEYUxodXVnSXd3QUlBMENtellaTTc0M3JqWUxMUGQ4ZlFpS19MY2hmZUFR?oc=5"
     },
     {
-      "id": "bulgaria-4",
+      "id": "bulgaria-5",
       "source": "worldfinance.com",
       "title": "Bulgaria’s euro era begins",
       "excerpt": "Bulgaria’s euro era begins&nbsp;&nbsp;worldfinance.com",
@@ -9956,7 +9964,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qOGVMaVRxME1EM0M3emRWdnY1X2pQQmdxX3Q2NWs5YlRoM3puTnUyTkg1amp4aHp4VXUxTzdTRzdLQXF2YTl5aU1QMG9iOFlIcENjVWVjUFpjNGJxNDdQVHpzVDh3T0N3Z2NQbk9Nbw?oc=5"
     },
     {
-      "id": "bulgaria-5",
+      "id": "bulgaria-6",
       "source": "БНР Новини",
       "title": "Bulgaria's Finance Ministry reports improvement in budget balance in July",
       "excerpt": "Bulgaria's Finance Ministry reports improvement in budget balance in July&nbsp;&nbsp;БНР Новини",
@@ -9964,7 +9972,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0JMLXhjLUZ6NGtKcjdrakZJRS1iX1FMR3RTcDRoWHlhMlFoVWpDV2VXRV8ta0lKMnJvNTc2UWJwSF9nTkJNZlJvYUxGYVJVdmI5UEpZOVF4QjdJWkFtWExaOTYzYXdRV2xqRlBrYWhkU1BGdXEtckd1Vm5mZ0Z6RVNHRDRuSm5tNGZ4OXQ2V3dBaWVhaEVnQnZjd3oyOVoyaDZ1b0tiMklEQQ?oc=5"
     },
     {
-      "id": "bulgaria-6",
+      "id": "bulgaria-7",
       "source": "SeeNews",
       "title": "Bulgaria's residential building permits grow 8.2% y/y in Q2",
       "excerpt": "Bulgaria's residential building permits grow 8.2% y/y in Q2&nbsp;&nbsp;SeeNews",
@@ -9972,7 +9980,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMGZSc2R2Um5QU3RlMU5acWdxSnRMejlUdndwUmszeDZtSkYxOVhBTm9YNDRxOG9KQkMxUDljYlVhWkN0eUszUndMcnlfQTFfVGJVcG1IWTJSd2QtOVhKa2lVZmNaTW55RE0yR1VOQmhTUEFNaFJLeUlvaW91NVFPbWhrejB0aE9KMGVCOWRMTFhLc2NBTGlEY29OaGZwUQ?oc=5"
     },
     {
-      "id": "bulgaria-7",
+      "id": "bulgaria-8",
       "source": "Armenpress",
       "title": "Bulgaria to hold presidential election on October 25, parliament decides – BTA",
       "excerpt": "Bulgaria to hold presidential election on October 25, parliament decides – BTA&nbsp;&nbsp;Armenpress",
@@ -9980,7 +9988,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBTHBTVXZpMUszNGVVd1FMMms2UndEck9VeURhbUtraG9mbnJQX0ZNNFd0blltSWxTT1JDX3hzWDlkMFJJS09nWkc1RXFoeXRLY0HSAVdBVV95cUxPMDNQNHk4WGFFZXdqZGFoQkFQM1ZXUHRuTWU1aERpZG1yRloycWlsYm1jZDJzd25ZSW8zejBsWl9vM1BFc1RWMFdaNHdNa0tjRC1PWFZ2UUk?oc=5"
     },
     {
-      "id": "bulgaria-8",
+      "id": "bulgaria-9",
       "source": "SeeNews",
       "title": "Bulgaria receives 896 mln euro in fourth RRF payment",
       "excerpt": "Bulgaria receives 896 mln euro in fourth RRF payment&nbsp;&nbsp;SeeNews",
@@ -9988,20 +9996,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPblgwM3pYbkdkN3N3dEFiQ1hVVlh0UVVvc21vWndfUFNObWtaNGJNTzlXMU5vX3RtclFxMUZtVHVyYmZaamZqTmlZYUstbFlWeGZobDZRbTBBYk4wZ281U2FkS1NNYVVyMFhreGxSTEJKeXBsUmgwWlBsU2RPUnVUR2ZxTmNoYWZsZGw5OEZB?oc=5"
     },
     {
-      "id": "bulgaria-9",
+      "id": "bulgaria-10",
       "source": "SeeNews",
       "title": "Bulgaria's July inflation second-highest in eurozone",
       "excerpt": "Bulgaria's July inflation second-highest in eurozone&nbsp;&nbsp;SeeNews",
       "timestamp": "2026-07-31T12:34:20+00:00",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaTFqTkxfSFZBcXBLeFpSamRyVjV4MkpQdkFabFZmajkyeldQeWdJYWVDSXdXaW9PSmhoeGw3cVR5bUV6ZzUzNl9ScVRmcXJCdy1ycFEtSGZjNjliQmotLWgtck5lVERFMGJlQS1xdHpaVlp3aGdUbzlCNHE4dmhJWGRQSHRaVnBtTERfRw?oc=5"
-    },
-    {
-      "id": "bulgaria-10",
-      "source": "Devdiscourse",
-      "title": "Diplomatic Tensions Rise as Iran Challenges U.S. Military Presence in Bulgaria",
-      "excerpt": "Diplomatic Tensions Rise as Iran Challenges U.S. Military Presence in Bulgaria&nbsp;&nbsp;Devdiscourse",
-      "timestamp": "2026-07-30T19:02:54+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM19MdmNnZmdJX3F6akNTOG8zZkRYVTNfeE5VY2F1aU04WHFFUm9kQ2s3ME9JeVZWeGIyTEZseWdSNUFPR3hwLXJSbTN3ZF8zcEJuYk9ib3JaeUMyM2h2bkllU21JWnduXzVQT2hQQkFyc2x5UG9TckFMVXFYTlpKNHpwbWRpX0ZBYTd2UnQ3X0FQOFV0czM2dHJhZ0dYOS1HR05UU1VEc3pXZXNYZGxoeGtCaEoyS3ZLd3psa1VpV1VkNVZkV1dNelhn0gHPAUFVX3lxTE1MbTJaa0tKejR3RFJRMlpXQjVVU2h6Y1AzVjhnbERMX2tLV19QUDNoZmlsQ0c1QjJRMzZ6Nmd0Tnc0cWtIVWNFTGRKWGRfNnk2RkJBMzE4alRUSk5ob0EyRGhEOXNRcG50WjlDeVNZN012VUo1UVNoSE1MaXhNUUM3b0dLNUplYWxteVhfazA3bURRcmI0VFdpTEFUZzQ0Tnd0c0NVM1RrczdJSUZEOF9rTm5pVTNla3dBUnJfa1VvWk9qYmc4M1FYc09wbkZxOA?oc=5"
     }
   ],
   "Greece": [
@@ -10748,7 +10748,7 @@
       "source": "euractiv.com",
       "title": "Spain imposes border checks on Italy as migrant showdown grows",
       "excerpt": "Spain imposes border checks on Italy as migrant showdown grows&nbsp;&nbsp;euractiv.com",
-      "timestamp": "2026-08-08T08:20:46+00:00",
+      "timestamp": "2026-08-08T08:24:59+00:00",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUko0MUhkTDZob0RwM1JBUXltWUdEWTEyOGtIcFBrTVhqY29aTlBEcWJnWGtOc0J2U2tWMUpfb001Ykxhd2t2VktYTnh0d01Sa1RzczBYRHc2T2VKWEVCdlZZR3RjMkpLNGZGMG5ZcHROUkdOUHpPRzlackdkeVFDeF9EYzI4bUNIbk1lTkswQ3gtNHFvWWRXaQ?oc=5"
     },
     {
@@ -11486,7 +11486,7 @@
       "source": "euractiv.com",
       "title": "Spain imposes border checks on Italy as migrant showdown grows",
       "excerpt": "Spain imposes border checks on Italy as migrant showdown grows&nbsp;&nbsp;euractiv.com",
-      "timestamp": "2026-08-08T08:20:46+00:00",
+      "timestamp": "2026-08-08T08:24:59+00:00",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUko0MUhkTDZob0RwM1JBUXltWUdEWTEyOGtIcFBrTVhqY29aTlBEcWJnWGtOc0J2U2tWMUpfb001Ykxhd2t2VktYTnh0d01Sa1RzczBYRHc2T2VKWEVCdlZZR3RjMkpLNGZGMG5ZcHROUkdOUHpPRzlackdkeVFDeF9EYzI4bUNIbk1lTkswQ3gtNHFvWWRXaQ?oc=5"
     },
     {
@@ -14435,6 +14435,14 @@
   "XAU/USD": [
     {
       "id": "xauusd-1",
+      "source": "CryptoRank",
+      "title": "CFTC Data: Gold Net Long Positions Rise to $197.6K, Signaling Bullish Sentiment",
+      "excerpt": "CFTC Data: Gold Net Long Positions Rise to $197.6K, Signaling Bullish Sentiment&nbsp;&nbsp;CryptoRank",
+      "timestamp": "2026-08-08T13:03:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PWExMQy15dkxTR3pWWFg4UWJSenpRSFBjd1ZYN29SOVFrR1VOZnN0RXRTMElWSV8wazBUdzlEVjdzZnB6ejd4UTkwRlRUbFI2T2k2alYteldIM0JyTXFnX3NOdjFNYVNCZjNKR3hTcnQwSklBYW5vSGYwYw?oc=5"
+    },
+    {
+      "id": "xauusd-2",
       "source": "KITCO",
       "title": "Gold Price Canada Today | Live Gold Price in CAD",
       "excerpt": "Gold Price Canada Today | Live Gold Price in CAD&nbsp;&nbsp;KITCO",
@@ -14442,7 +14450,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5"
     },
     {
-      "id": "xauusd-2",
+      "id": "xauusd-3",
       "source": "CryptoRank",
       "title": "Oil and Gold Price Outlook: Key Levels and Market Drivers for the Week Ahead",
       "excerpt": "Oil and Gold Price Outlook: Key Levels and Market Drivers for the Week Ahead&nbsp;&nbsp;CryptoRank",
@@ -14450,7 +14458,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40M1BjdnBXQ3dMNmdNaW5RRWRNclM4djl5TEVEN2hMcWwxczBaZ1JybXFaWWE3SWh1Y3ZXTDZRMUFzVkhTaml1TlYzRmNydGNVX18zRjU3ZHlpWWhPemV4dmRHWkI5WE5zZjBZQUV5XzZlLU5BeEJ0X1hldw?oc=5"
     },
     {
-      "id": "xauusd-3",
+      "id": "xauusd-4",
       "source": "TradingView",
       "title": "Gold Stocks, ETFs See Best Week In Over A Year — Why Gold Is Back In Vogue?",
       "excerpt": "Gold Stocks, ETFs See Best Week In Over A Year — Why Gold Is Back In Vogue?&nbsp;&nbsp;TradingView",
@@ -14458,7 +14466,15 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGZWbTQ1NEpINTdQR0RtMWwtVW1BRDc1MXFYUzdjMFZvQnF4c0FwSGdJb05JZHVRTTFndjNPSVNmYWMxV1h5cEF0WjVIWnlIRlJfenRzNnowVGdtSkxmUW1yYW1fS05WaEktcm1uUkJWNUxObWhzUzRGYnhlcXhJRTBreW5xenprNjlWLXpLZDFQcl93YVNwVldubEhHdjRzZXNqdGtxU3hyay12T0Jha0dRMnk5R1diMktidTI2ZG44SV9QTmVEdjZVSDY?oc=5"
     },
     {
-      "id": "xauusd-4",
+      "id": "xauusd-5",
+      "source": "KITCO",
+      "title": "Gold, silver rally as weak payrolls cut Fed hike pressure - Kitco PM Report",
+      "excerpt": "Gold, silver rally as weak payrolls cut Fed hike pressure - Kitco PM Report&nbsp;&nbsp;KITCO",
+      "timestamp": "2026-08-07T21:41:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR29NSHltby1Fc0E0bmk5WkFHTnIyXzFrbjczejFyRE50ckx2NzJJWEVUVzlwQ3owQXlIeC05RWM4U3A2dWtWc0FIREhDb1dLQnFxZWNwWm8xOV9FUXdvRVI3bjMxVTFFNmZkWUNpVDY2Y2lrbldpWm8xcFNoTWdtYTFCcFY4RDdMZzlQMDEtUWN2bnkxX0ZsQklmNEJVeDVkT1E0X0xjSThzM2hRV01BMmg5TDlYUQ?oc=5"
+    },
+    {
+      "id": "xauusd-6",
       "source": "ETF Database",
       "title": "Gold’s Winning Streak: Navigating Your ETF Options",
       "excerpt": "Gold’s Winning Streak: Navigating Your ETF Options&nbsp;&nbsp;ETF Database",
@@ -14466,7 +14482,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmZLOGhrczJSR3NkRnVwN29FRjBGMUZGYUltSG94eGN3cldCaEt4SXdxbldrLVgyRmttcTJEM1JwbVBOZ0ZqX1h2S1ZwVWpSeThXZUE1dmdTM3pGdFRzMTVXbUI5ZS10RUUxRmxYY0VkVF9XX0g3S3lpSFVLd3E3NnprNkZtSjc4QVdULWM4YlZ4MktrN1RV?oc=5"
     },
     {
-      "id": "xauusd-5",
+      "id": "xauusd-7",
       "source": "ETF Trends",
       "title": "Gold’s Winning Streak: Navigating Your ETF Options",
       "excerpt": "Gold’s Winning Streak: Navigating Your ETF Options&nbsp;&nbsp;ETF Trends",
@@ -14474,7 +14490,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTdCWnZtM2hDd0xqRHFvdmt0TFotNmk1RFdmSmxIcTJfM1pVZnM2Z1pBcnVCOWF4MHUwRTVRbGRzVFRkVENlVE80UGpvLWVXaU51MjgyMU14Ymh5RkJmUWY0ZElxWlhRTkhjVXZmdzBmVnRaSk41SUU4WU1UNVMzdjVaT2ZWRlJ2QUl1RThfQllsMFNJcVFhNGZMeXdYVEVo0gGmAUFVX3lxTE5HemRSaW9pWS1RZXppNVhNaUFWeml2V0NFbGNpX3hGQW4wVk1CcTJjTExlc2lfNUxmNEVjOVFzR3dRMWdLNDUzLW42amZtT0JrTmVsSmJSbDV6c2RGRlFMRWFCVzQ5SXFodnB4V3llb21uWktvcXlNR1BnOGp2aDhaR0VRS1ZlVmctZ1JGenAweVRDMk9LeTM4bWJ3aGJ4M1g3dEt3SXc?oc=5"
     },
     {
-      "id": "xauusd-6",
+      "id": "xauusd-8",
       "source": "CryptoRank",
       "title": "Futures to spot ratio for BTC on Binance reaches new all-time high",
       "excerpt": "Futures to spot ratio for BTC on Binance reaches new all-time high&nbsp;&nbsp;CryptoRank",
@@ -14482,7 +14498,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmRhRE5hOWt1aEpwX0prUFdtQ0dnRzZmOVVDOEhGS3MyM3Y4MHNfRUZWZVZpbE80ZFdTaXpXcUdMWGIzMnBPTnZwb0NSMHc1SVhZbVNwSHkyQWZ2MHBzNGRSYk5qUzI1RmhvX0Q1dzctRnJLcEN1dzZ2anVCdUFwYXZnVTZyNFFac2cweXVIRlFFczJ2QktYU3dRRDFxV1NDbEdDNHQ0SQ?oc=5"
     },
     {
-      "id": "xauusd-7",
+      "id": "xauusd-9",
       "source": "KITCO",
       "title": "Gold prices surging higher as U.S. economy loses 23k jobs in July",
       "excerpt": "Gold prices surging higher as U.S. economy loses 23k jobs in July&nbsp;&nbsp;KITCO",
@@ -14490,28 +14506,12 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTzZ3YkJ5QUw5YVNNcld1OE9KcVlRWkpSRVdGWHMtbXFpeWpXSEU3TkVNclVvUmJ3c3IwUmpPMU9Gdl9feHdzbmFaVEI1Z2VmMWh1enJrNFIyVHJGWE9zclppUmwtTjRQWWpLckRVNHFVOXU5dEI1NnhpSHV2UzZ3Q0x3eERPR1ZhNE9RRDBqV2F3ZEs4NkpVRGpLa0g3UWNsNDQ1QktR?oc=5"
     },
     {
-      "id": "xauusd-8",
+      "id": "xauusd-10",
       "source": "KITCO",
       "title": "Gold, silver rally as yields fall after surprise jobs loss - Kitco AM Report",
       "excerpt": "Gold, silver rally as yields fall after surprise jobs loss - Kitco AM Report&nbsp;&nbsp;KITCO",
       "timestamp": "2026-08-07T14:06:23+00:00",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzgzaHNDX3RJT2piOUI2WjdiWXg1bmh1b2FDcTJlUkZuWmRjajA5U0t2Y1lMMXpJemNvdW1ELVFpMi1JakJVWFNaaGp4V3Z0VVZRNUtVQ2JuaHVBa0pvRHpDOVVHcVRUZHRzSHUzVVF1SGdKVkxoQi1YNFU5RktfYWlOT2FaMjg5TUVXaWdJb1NkRWRMZ193M3lvNTNreTN1N1d0WUpoa0JjU2hVd2NOdHF1aHAxYVk?oc=5"
-    },
-    {
-      "id": "xauusd-9",
-      "source": "Crux Investor",
-      "title": "Gold Rallies Despite Markets Pricing a September Fed Hike, With Payrolls Set to Test the Move - Article",
-      "excerpt": "Gold Rallies Despite Markets Pricing a September Fed Hike, With Payrolls Set to Test the Move - Article&nbsp;&nbsp;Crux Investor",
-      "timestamp": "2026-08-07T13:25:18+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM2xUSG9BS1BRNnN4eDl5aHZ0QThYUjE2WEFFSzE1UldCWkwyYWxYRk5UQXJURmtDRWFKWkd4NnZHSlNHVFVLQi1SRzBrSV93cGE0dVNyS1lLMG54V3BLeTlaLUFja3htZFhfdGQ0bTZaYy15Q2o3cGc2Wlg2NXZ6UjNFaWh0elVHcTRjX2pZYjhWX2Q5eW1KOVlnX3dZeXp2SXBmZXpZbFlYWHd2VXBZN2p3ZUVNdV95M19jaE5BVmVFZUdxdUE?oc=5"
-    },
-    {
-      "id": "xauusd-10",
-      "source": "FXEmpire",
-      "title": "Gold News: NFP Decides if Gold Targets the 200-Day MA or Retests the 50-Day",
-      "excerpt": "Gold News: NFP Decides if Gold Targets the 200-Day MA or Retests the 50-Day&nbsp;&nbsp;FXEmpire",
-      "timestamp": "2026-08-07T11:46:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2pWRDk0VjlOUExKcHp1QmhRY1RxZTZLQTB3S3NSeVRIQUpXMVZ6b2hmTzA1bG40blJiT1pBT3JyVVUxTndrNlc4cjEwTE13ZU1zWDhQOXVkWFM1cW92OEVmQ3dFRXgzTzNPNGQzVUlFTjdOT1hMVDdHaXhPUm9EbkVpSWlIcXZhTHl4TmkzdzFGa3d1dFBHNzN2VHhvR2UyZHdJb1l3YXNzaVZLbFExTkFmaXlzazJCODRfMHZLYXc5Rkk?oc=5"
     }
   ],
   "WTI/USD": [
@@ -14599,6 +14599,14 @@
   "SPX": [
     {
       "id": "spx-1",
+      "source": "Investor's Business Daily",
+      "title": "What To Do As Bulls Take Charge; Buffett's Berkshire Beats",
+      "excerpt": "What To Do As Bulls Take Charge; Buffett's Berkshire Beats&nbsp;&nbsp;Investor's Business Daily",
+      "timestamp": "2026-08-08T12:47:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUk1TGt3SGVRbFVCa2R3cFBJVFFBdHZfTXBiSDE0SlgxS01CX2tWWV9iTUlmOWF4OWd1NzRKLTRYTHgxSUVEUGl1Vmw0OVROUTgwNjhSVVcybmJoVkc5b1IwUDN5Nm5TUEh0RHQyb2RwbjFLcHZTZlU3cGpCUFdwWEgyWXFlNWFaRUtac1hQWWFuTlZVZFdteTY2eHpsOG5IUkFkQk05SFNUajFFakpQVTJKekZ5dw?oc=5"
+    },
+    {
+      "id": "spx-2",
       "source": "Seeking Alpha",
       "title": "S&P 500 Snapshot: Index Wraps Up Best Week Since April With Record Close",
       "excerpt": "S&P 500 Snapshot: Index Wraps Up Best Week Since April With Record Close&nbsp;&nbsp;Seeking Alpha",
@@ -14606,7 +14614,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmtIWlRELXR3S1RVelprdWh0cFdTbWFZNFVoM3NnNGE3ZXpKQ092ZkxtODMzQnB5a2dBNF9zdUFzQ3hPRFcyOFdobkpKMTB5Y1N1c25pQ3hIQS1UY0VDQlJGbXpWWmJ6dEszRk8zNUpvYzZNczE1TWtMUWdIWTRFaUkzY1lqMm1vOVR6OXd6Q2FSR1dCTlRFdmotNGZlaVdIUFVpdkpaYzlmdEhxVVVvRXZ3?oc=5"
     },
     {
-      "id": "spx-2",
+      "id": "spx-3",
       "source": "Seeking Alpha",
       "title": "Stock market inches up after weak payrolls report (SPX:)",
       "excerpt": "Stock market inches up after weak payrolls report (SPX:)&nbsp;&nbsp;Seeking Alpha",
@@ -14614,7 +14622,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSXdJYVV5VUVuZ2VmYTVxRUYtVkczd1NZbUNsQlRHMm1jUXYwTmw3SWJXYzFUdWpnWGRNYVpXNUVQWFczSndxay00eW02RmpwOEV4N3Vzakc5c1VBRUhRVDdpN0lXNktyQldUamtfYjlLMDgweE1BS1RnVkFrbDhQZF9pa0RVeUh4?oc=5"
     },
     {
-      "id": "spx-3",
+      "id": "spx-4",
       "source": "Benzinga",
       "title": "Stock Market Today: Dow, S&P 500 Futures Gain Even as July Nonfarm Payrolls Unexpectedly Contract—Atlassi",
       "excerpt": "Stock Market Today: Dow, S&P 500 Futures Gain Even as July Nonfarm Payrolls Unexpectedly Contract—Atlassi&nbsp;&nbsp;Benzinga",
@@ -14622,7 +14630,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOVA3VUFiT3dlb2NWVXRQN3paeXpnbVJzeUlzWVh2Wk9Mc1pQLUpEQldDVDJramJFSURwNXZzY2dMb01rdGdWU1VLM0ZlYmdtYXFRcnluU2kwUnFSa1dxd0Rrb1VObU10cnVuVUl5US1BWGdJRUtKdlljcTJxd2N3Vl9YUG9zWWJxVWhTbndIV3k3OUhIbGlzYnZjbjJRNlVpT1lYa2NRaEtUZE1iWXNmZzFJNG50cUVWR3EyU3VqaElVQjJpQWN4YWJ2QlN5OEpMb0dqZHFJZ2E4MGtmbzktUjhhUmFyM1ZUNjdXalpMdTE3djFLSWYzSVVBZjktd0R1aHI3azk4WGd5Zw?oc=5"
     },
     {
-      "id": "spx-4",
+      "id": "spx-5",
       "source": "The Motley Fool",
       "title": "The S&P 500 Index Just Did Something for Only the 3rd Time in the Past 30 Years. Here's What History Says Comes Next.",
       "excerpt": "The S&P 500 Index Just Did Something for Only the 3rd Time in the Past 30 Years. Here's What History Says Comes Next.&nbsp;&nbsp;The Motley Fool",
@@ -14630,7 +14638,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcTFwcnZhMW1yM1RkYXluRW9wYjdxYjloY0liU25tcU9xbUlUeGM3bGZZd3c4T0xqU0RlWmhYRXFYaUo1NVhPSjFuOGpjdk02dXpWbV9CR1dqaFphZ3p6aWpBVUREdkd4QzV6eXpnSWJuV1JXT3FqdnlibmVhT2wtQ041aFBfZS13djAyRDRYY2hHM3hEakl6ZQ?oc=5"
     },
     {
-      "id": "spx-5",
+      "id": "spx-6",
       "source": "Business Insider",
       "title": "This Famed Stock-Market Bubble Indicator Is Broken",
       "excerpt": "This Famed Stock-Market Bubble Indicator Is Broken&nbsp;&nbsp;Business Insider",
@@ -14638,7 +14646,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFh2LUJKVlBDVUhCZWxZSUJnUHRzcmpVbXZRUnE2clZrVEVYTm1KZTU1cVBOaTBobGgzam1ITUU5VmFjSVY1QmN6VTAzMWNpRmlGZGI2NXk4VERvRGpjSEJvZXRUSk1lNV9pVHE4SDRWT0ExSVRIUEVCdUhwLU5ibWZZazNHNTZMdFhLc1RJVkl6Rjl3SHdXR2FUbDdqTEdhRG5KbF9hWXVZZE5V?oc=5"
     },
     {
-      "id": "spx-6",
+      "id": "spx-7",
       "source": "Benzinga",
       "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
       "excerpt": "Stock Market: Will S&P 500 Open Up or Down Today?&nbsp;&nbsp;Benzinga",
@@ -14646,7 +14654,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmFUU1lPb3lBMEhBRWxtUkEyc1VMYUtMZV9KejFPSTRGM1B0TVpBLXVTcE5hUXBJNjBXRVRMcC1pbXo5R3lMWDZ0dnBpQ1lSZ1djVmdEWDJ2d1Nfbk9RVG9rR1I2aWNfMDlIeHlhZDMtZERRLV9xcU9lQ0U2b1ZYU2Y5YUIxRzdLZEQ1Ujl5WUV2TWFuRXU1WjVvQUh6dnlDbzhoWnpSRHVPT3NhVFhpU0dERWRSS0JRc3MtVnZuX0lqSE52eVpubEN4dUFhN2VkazE3TExn?oc=5"
     },
     {
-      "id": "spx-7",
+      "id": "spx-8",
       "source": "Seeking Alpha",
       "title": "Stock market mixed as investors await earnings and monitor Middle East development (SP500:)",
       "excerpt": "Stock market mixed as investors await earnings and monitor Middle East development (SP500:)&nbsp;&nbsp;Seeking Alpha",
@@ -14654,7 +14662,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXRSZnpnZUlvOVJKVzZxNHQ2ZTlDaHVyS1F2Q3NaU0VFNlpkMEdOakJEQjU1NmhtbWxERXl0c2psUzVCU3RQNmh1WU5GNERvaGNNS2RNbTF1VDQ3c20xcUlRU0ZNa25sblVHZWNYcWg0Ml9DaXhsQjNhMmFVNDJ5cXpTdEhoOW5w?oc=5"
     },
     {
-      "id": "spx-8",
+      "id": "spx-9",
       "source": "inc.com",
       "title": "The Dow Just Hit a Record High. The Boring Part of the Market Is Quietly Catching Tech",
       "excerpt": "The Dow Just Hit a Record High. The Boring Part of the Market Is Quietly Catching Tech&nbsp;&nbsp;inc.com",
@@ -14662,20 +14670,12 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMEJOREdLRGNzLVpXTHd4UHJCX1JsV2dBRzR2M2NtWFhtS042b19OZi1FaDBWVGVJbFd2U0dxWVRTcmNTNGo0MndvaU1GMC1nLUxaOHNmZGpVLWJ0SjM1a1UwLWNfY2ItUlN1LWRERU81Ml9ZTVJNS1kyQWFnbElqak9mQUdRWjIwQkdtZWVTc1hvcnhPSTZsWEhMcmVWOTZGMGVCTzJkQ2pSUQ?oc=5"
     },
     {
-      "id": "spx-9",
+      "id": "spx-10",
       "source": "Benzinga",
       "title": "Stock Market Today: Dow Futures Gain, Nasdaq 100 Slips as Hormuz Deal Talks Progress—SpaceX, SanDisk, App",
       "excerpt": "Stock Market Today: Dow Futures Gain, Nasdaq 100 Slips as Hormuz Deal Talks Progress—SpaceX, SanDisk, App&nbsp;&nbsp;Benzinga",
       "timestamp": "2026-08-06T09:19:46+00:00",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNktfeUd5WFY4TXhPSzlSd08zMm0tSWlIcTFvZWV4S0QtUkJWZ05kZXFwOHByTmt5M05jS0JXRUYyMmV3bVYzT1Y4M1Z6R2F2RUZqLW1GYU5pQmZrNTYybV9aVGN4TjB6bGpvc09mRThKUEJ5Qy1LZFNhRFJGTlJFME1sYXpXRUdsNWNnbjBkNmR1WHJYWlpELVZWZ0UtaVFEYXYtdlFyX0xDalE0ZjNFYm14WnFVODN6NTQ1Qjd2NlJaZkJUa1M2THpSUVBONEw2ZUFvU21LODF1VW8wRE52dW4tdk9QcVNwNEJuWXFrYUhVRDQzcjJXY2l2ODRnMThGcEE?oc=5"
-    },
-    {
-      "id": "spx-10",
-      "source": "Benzinga",
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "excerpt": "Stock Market: Will S&P 500 Open Up or Down Today?&nbsp;&nbsp;Benzinga",
-      "timestamp": "2026-08-06T08:30:56+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDd5azE0eW9qWjIwWEllSGNRQjgzZ2hIcF9qMWNZNEY3QkpiZXlrSXZGYVZ6WEIxQWZwSVNUWTF5X1d1eXJYX29vbnhMd29qZ0YxMk5tdHJodUw3MkVHeUF1TTVTdG9rcjhXYWYxTThnTGw4Ri1rMzBZSFJqR2hpbWJrNGFhNHgwT2M2d19PcmtaLWlmd0FKMDRpQkgyUEVhd0dxbHFnWDVPQTRKNGtoM3Jkal9YUy1pbzQ4S0FpOWluNk55eFNFQWQ4bUhkcHZv?oc=5"
     }
   ],
   "IXIC": [
@@ -14763,6 +14763,14 @@
   "BTC/USD": [
     {
       "id": "btcusd-1",
+      "source": "coingape.com",
+      "title": "Crypto Market Update August 8: BTC Price Tests $65K, MSTR Stock Tops $100, and PI Leads Altcoins",
+      "excerpt": "Crypto Market Update August 8: BTC Price Tests $65K, MSTR Stock Tops $100, and PI Leads Altcoins&nbsp;&nbsp;coingape.com",
+      "timestamp": "2026-08-08T12:30:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSXZrdms5MlZ0Q2pOdzljLVVnZ0g2OVV6QkRUV1dnUHBxS3I4bjNKT0pNNVhQVFliTlcwc3JYVmZNZjNKREQ2QWNENTQxRVdaYURzcUpwREV5dV9NN1QwUXl3clRzYV9YUWVkRFpBZUI2UEZKbm16dTNhamMzM1NjVE9qZklrYXhXM2FoRjc2d0hoUXZUU2tOaGZfWEk2eExvYXNzVVdsZEhYaFE0ZUwxUnI3aXc0R0tOdV9WS1B3?oc=5"
+    },
+    {
+      "id": "btcusd-2",
       "source": "AltcoinBuzz",
       "title": "Bitcoin, Ethereum and XRP price outlook after CLARITY Act vote delay",
       "excerpt": "Bitcoin, Ethereum and XRP price outlook after CLARITY Act vote delay&nbsp;&nbsp;AltcoinBuzz",
@@ -14770,7 +14778,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0pLVHdfTHFISHJ1UUg1SllDZDJNUHFJazZubjZPX09ZRlA0TF90WGotTnp3QUw0MG5hWE5kaEdLamlWcnVfMzRqWnZTOXpMcE9WemNlak5xYTRTRWhQbW5RSkFvcTQ1UGJZWkI1OHM4elJwdmVyUlRfdUh2MGo5VDdGN0VRZw?oc=5"
     },
     {
-      "id": "btcusd-2",
+      "id": "btcusd-3",
       "source": "Coinpedia",
       "title": "Crypto Price Prediction: Can Bitcoin & Ethereum Reach $67,000 & $2,200 This Week?",
       "excerpt": "Crypto Price Prediction: Can Bitcoin & Ethereum Reach $67,000 & $2,200 This Week?&nbsp;&nbsp;Coinpedia",
@@ -14778,7 +14786,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0VRWWlfcWdJX1pFTGRmSHh1RkhsTmhldmx4ZTlta3pFOHBoeUNyT3N0R0NpdlluODZJQWJ1bGhSVzhxT3VabktNNWNWMXFBNzJkbHhkcHhGY3hFTXBtVVZHdDVLX1lJTmhNbUtUN0tzdF9pbWc4LW42eE12NHY2NUJCUzY1MVV6UmdfRXp5Q1djU1plN3UzaExzRWpkUF9HdzIwelFyWU9mVHNFakHSAbMBQVVfeXFMUHY0eFptaTd6M0Z3THJQQ3FiT0hzZVk2RjRGbUhwMTRGUFRaVGEwY0lyaGdvTmZmeXBXMjFLeDRfNkJiclY4YVdXS25mUDNZQ2l2TUk4YnUxTTBpZWF6RXd1NGE0YlVVUmwyZC12eE1LWUYzZlAwSXBLeVA2RlNBUU9Yc0didU5VVkc1bEJGYU5XVm5UZndQUHBvNWxpcXRBVzk4bUdwdFMyb1NmUWdjMU1adW8?oc=5"
     },
     {
-      "id": "btcusd-3",
+      "id": "btcusd-4",
       "source": "equiti.com",
       "title": "CLARITY Act Explained: What It Means for Bitcoin, Crypto Regulation and Markets",
       "excerpt": "CLARITY Act Explained: What It Means for Bitcoin, Crypto Regulation and Markets&nbsp;&nbsp;equiti.com",
@@ -14786,7 +14794,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVjZXeHJ4UDFFb2pfdi0zNUpaWGJGdElsaVdfTEIwVHVycUpwcXdxeWYzOWZtQURDZGFWUDJmNmItWkx3eGVRZ19Dc3VER3ZOMHVLcGhYQUJ1ZzYtNFJ0RmRlczhoWkxrdGxTWkMzNzMwbG9sa2JSblR5UzZycmJlbV9lQ0tfc1gzYU5wRng1a09EeDViVWZ5eUZvX05RSXlsZWhyeE45c2liYi1qOTdZdFZUclo3U0p5V1ZLWkpkWnY4RklpR3Q2YkVzWk9RREVTRW5nbFZfZjdtSmJNSzh6al9kcVNuMnhfVUtDZTFna0prdzJ5c08wa0tFbXY5R0FmeFE?oc=5"
     },
     {
-      "id": "btcusd-4",
+      "id": "btcusd-5",
       "source": "thestreet.com",
       "title": "Bitcoin price today: August 7, 2026",
       "excerpt": "Bitcoin price today: August 7, 2026&nbsp;&nbsp;thestreet.com",
@@ -14794,7 +14802,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQblJwU0RSUjhheEhTZHh0ZVBIUDhiQXlCam1GSnV3LWJnTXJUQUpmY2hsMVdJRWhUYkRQZ0Z5SVhDV2poS01FME5qa2M3OXkxckRHZ0d5b3dXWDNVLUd4X3JzMnJOQWRSdUhXSHoxLXJwS3JYSEl0QVV4OWY3MXdRUVpR?oc=5"
     },
     {
-      "id": "btcusd-5",
+      "id": "btcusd-6",
       "source": "Cointribune",
       "title": "Bitcoin's Next Rally May Depend On One Vote In Washington",
       "excerpt": "Bitcoin's Next Rally May Depend On One Vote In Washington&nbsp;&nbsp;Cointribune",
@@ -14802,7 +14810,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWldQM0FYVWVKRjM4VmtraVB2OUNWMEhfdU5saUt4b1JFbjhlS3BEaUlRcHlSdUVUbVhjT2w4NHlzT3lHNEg1a1FhTlFVOXF0N1Z0NW5xZ3RJY0FtbUFzcGh6eXZ4ZGRaUG95TWwwM0dWaXI4VnlSNnFXd1ZvaGpQeGVhSU5tNWg5MUcw?oc=5"
     },
     {
-      "id": "btcusd-6",
+      "id": "btcusd-7",
       "source": "CryptoRank",
       "title": "Gold vs Bitcoin Price Prediction: Recovery Gains Traction After Unexpected NFP Decline",
       "excerpt": "Gold vs Bitcoin Price Prediction: Recovery Gains Traction After Unexpected NFP Decline&nbsp;&nbsp;CryptoRank",
@@ -14810,7 +14818,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWZsWmpxTEZmNzFYai1VNUJrd3RiVUR6dEFtaGVTb2hoZnFkYmJoUXZqdDM2c0ZLX0gtXzhFWENiMGJVbzVEcjFseloyVENQT2hVUlV5N2FjbE82S01NZE9zWlU2MlUtTnJBWjllOTBQY0NtVm84dFVHRkFaLURGSzlyT0czM2xJa3RF?oc=5"
     },
     {
-      "id": "btcusd-7",
+      "id": "btcusd-8",
       "source": "Modern Diplomacy",
       "title": "Senate Shelves Crypto Market-Structure Bill, But Wall Street Keeps Buying Bitcoin",
       "excerpt": "Senate Shelves Crypto Market-Structure Bill, But Wall Street Keeps Buying Bitcoin&nbsp;&nbsp;Modern Diplomacy",
@@ -14818,7 +14826,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMTJUcHFHLUVEYzhaaXlkNW1JNzM1Q0F3NUg3T2loSVNBUjJpR2p0Vm9HTmdMOUk0eDlZR0ZocHhJS3NfQmFHa0JzVGx1QnlSand4Y0s0ZHQwR3FyN1dVc29PYnFIM2N5bkpWX3Eta1RiZW1UNUhGOUhEM2o1MVBZWExGazJpQzZHOEZJ?oc=5"
     },
     {
-      "id": "btcusd-8",
+      "id": "btcusd-9",
       "source": "altcoinbuzz.io",
       "title": "Crypto market update: Cardano surges, XRP falls as ETF inflows near $1B",
       "excerpt": "Crypto market update: Cardano surges, XRP falls as ETF inflows near $1B&nbsp;&nbsp;altcoinbuzz.io",
@@ -14826,20 +14834,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiT2I3U1o2c3dseDBMcllNMEg1eWhUQWsyOHFzcnJBTVFBNWtDQjh1ZS1uUGNaRk9JX3ZrVkZ1dGtUWUtMYlRrUUJROXh3TUxCSktKQmFDZ2M3NlpoQ2VpQzNSQXJKQ1U?oc=5"
     },
     {
-      "id": "btcusd-9",
+      "id": "btcusd-10",
       "source": "AltcoinBuzz",
       "title": "XRP and Bitcoin whales are accumulating - is the crypto bear market ending?",
       "excerpt": "XRP and Bitcoin whales are accumulating - is the crypto bear market ending?&nbsp;&nbsp;AltcoinBuzz",
       "timestamp": "2026-08-07T15:19:43+00:00",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KUHlZdDJtUDdOcWZYaXlMREtNNWxoX1FtMXppQ2VvLUtDMF9VWDQyLWtOaDlvOXVocWkzclFMYVkwc1lLMFJvZkotYmNiVUo0QVBGWjJUVmZja3FmUHJ1cEpWb2dXRzFfb0FMTzY2Y2YyemJtZFE2bVd3?oc=5"
-    },
-    {
-      "id": "btcusd-10",
-      "source": "thestreet.com",
-      "title": "XRP Price Today: August 7, 2026",
-      "excerpt": "XRP Price Today: August 7, 2026&nbsp;&nbsp;thestreet.com",
-      "timestamp": "2026-08-07T14:55:17+00:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05anZaSm9nT0tZTVVTWWl3bU9qRDh2US1WbXhNa1JDVGRYWG8zc1FoNUUzbHdueWNRdWFrcUpUd0pITTN5aVlMX1VyTFh6cE5SQ0o3ak1ndXJzRlhFQWJEUV9VYkg0UjFNNnZyVTFsTlZTSVRpODE3RFBtTQ?oc=5"
     }
   ],
   "EUR/USD": [
