@@ -248,6 +248,14 @@
   "Canada": [
     {
       "id": "canada-1",
+      "source": "Toronto Star",
+      "title": "Althia Raj: Mark Carney’s Building Canada Act is a threat to the rule of law, and here’s a good example",
+      "excerpt": "Althia Raj: Mark Carney’s Building Canada Act is a threat to the rule of law, and here’s a good example&nbsp;&nbsp;Toronto Star",
+      "timestamp": "2026-08-08T11:03:33+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOWlzeGJmUEp2c0E3Zng3WWVxb2YwNWtnOVNDLUc2b3VRdmZGM2tieWRJUjVnaWU5b3laTWFzUU15OWxNbkhXOTVXQVoyREdabjZVWlJwbXN1cDh1Zkx5ckhpN1llWGlTNnZjcmd5MDlkNVRFNW1Ua3E3TWUydktNX0RydV9aMndEQWw2T3B6YkRXcmdNVFpuUndpSVp3czNQTXV6SS16Z3hMU3RrU1FvNjJEczRTeWdhbm5JaHo3RlhUQnlfNUZBeENaRmgxT2JFSS1HNlRTOGEwUlhPRTRFY09CenBITDRQMHZKcEV2THU3cDdHNnl1czJiMTI1ZlpwTDJXaUtsZ1NsTnFKMWdMRktkRE1fZENU?oc=5"
+    },
+    {
+      "id": "canada-2",
       "source": "Canadian Affairs",
       "title": "Canada adds 75,000 jobs in July as economy adjusts to Trump tariffs",
       "excerpt": "Canada adds 75,000 jobs in July as economy adjusts to Trump tariffs&nbsp;&nbsp;Canadian Affairs",
@@ -255,7 +263,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHNsbV9SVkloV2VIakVSWGppZDg3ZFNxVnNMMnJXUTFVOFU4ZUlVbFdOSkU1cHRYWlF4ZTdpV3poNHF1YXM3TkVaMEZhNjRfcDFfMU96SjB0S1hFVWRsYWtOMy1QN1dxWmc0UjlsNG1DZ3l2TUpPLVkxdkI0VThVa3Boa3hUaGFLTTAzUjU2aGxiejBjV3d2QlNDOHduemoyVGNGLTVkU1A?oc=5"
     },
     {
-      "id": "canada-2",
+      "id": "canada-3",
       "source": "CBC",
       "title": "Canada prepared to halt booze bans, meet other U.S. demands in exchange for tariff relief: sources",
       "excerpt": "Canada prepared to halt booze bans, meet other U.S. demands in exchange for tariff relief: sources&nbsp;&nbsp;CBC",
@@ -263,7 +271,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMllBV29OUWpQWDl5TkY1UkI1WFFtTG1rb2hVa2F4QzBTVE9vTDBJTVlTbnRSRXowcnBPS3dLWFZxdlJidW1BeHpfQzdjVTlCUGtYLWtWOEh1RHFPbUppRHpzX2FmZXRUZlYxVGtkeG1mNGdYOUZsWS1kUDNIRG1vVWpjdGE3NS1ZdEZr?oc=5"
     },
     {
-      "id": "canada-3",
+      "id": "canada-4",
       "source": "Financial Post",
       "title": "Canada's economy gains 75,000 new jobs, driving down unemployment rate",
       "excerpt": "Canada's economy gains 75,000 new jobs, driving down unemployment rate&nbsp;&nbsp;Financial Post",
@@ -271,7 +279,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0pXQ2Y0Z2N0bEhrLTE0azJiNHQyX1FtSXB2SG1EUWhRSGdicmpXUXdtTl8xall4ZmNtR0dkTy1kUHRNYWlvWDVNc3c3TzF2bmR3WElZOEZpZTRQemgzT1RSNjBtVTZYTmZFa2UyUFRTclZLRWgtZUtzOTBMc0JNMFR3?oc=5"
     },
     {
-      "id": "canada-4",
+      "id": "canada-5",
       "source": "Macau Business",
       "title": "Canada adds 75,000 jobs in July as economy adjusts to Trump tariffs",
       "excerpt": "Canada adds 75,000 jobs in July as economy adjusts to Trump tariffs&nbsp;&nbsp;Macau Business",
@@ -279,7 +287,7 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDB2MU11LUhpYU5YLTg2TFFvWGFfVEFqQmY5MGNTU2dWLV82emxDMDdKMUJfR0VReE44b1N6Z1hDTlFiTE1BamVVaDR4WVBXN1Q4UEdxdThtdm9qQlliNTJaOHp2V3ItcUhmYXB5S0tmZ3pacHA1Q1RNLVEtYzl0QmVwRFdCN1JCSXRSQVAtQi1LNnpZM1hKYTdRWQ?oc=5"
     },
     {
-      "id": "canada-5",
+      "id": "canada-6",
       "source": "WTVB",
       "title": "Canada posts monster jobs gain in July, unemployment rate hits two-year low",
       "excerpt": "Canada posts monster jobs gain in July, unemployment rate hits two-year low&nbsp;&nbsp;WTVB",
@@ -287,7 +295,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYU9hdnlHaFd2eDlZVEoteGlRdkkzVEVaSVNOZU80bHZVSUtFRzFnMGdwNlpKQkZLc19GQmZFT1RUYTVlWHBtcXRqOEIwTWFlZ3hpMTFlSzRpTUtkcGZLQ0VVOHYtSXk5MEVwcE1iWVViaXlMSW44U3hhZWlaVlREaWlpR0c2UGlRUFdFWGNMVHZELW5jalNSTVlwRHJDQzU5bHZwMGRNeVY?oc=5"
     },
     {
-      "id": "canada-6",
+      "id": "canada-7",
       "source": "BNN Bloomberg",
       "title": "‘Not yet strong’: Canada adds surprise 75,000 jobs in July but recovery still ongoing",
       "excerpt": "‘Not yet strong’: Canada adds surprise 75,000 jobs in July but recovery still ongoing&nbsp;&nbsp;BNN Bloomberg",
@@ -295,7 +303,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHlVLW1EOHptRFc4TDJteEtmend2b294VzJLekd4TXk2Z08xMVdISEhiU2pzWXEyVjl4Zmw5N0dOWllnLU1ZU2RiWi1PamlvWTBVLUY3NWM0bUkwak5lc3hRdWprTXdNTWt6TVNKMkVkaURYXzBWRHV3akFhZF9LOEJFdWVaYWgzUV9FYUFBUkdkRXEzRE9uc3JNSk1QTU5HUUREaWRFaktfSThLWnhuTHNHbUtrSElIM2dTYU5R?oc=5"
     },
     {
-      "id": "canada-7",
+      "id": "canada-8",
       "source": "WSJ",
       "title": "Canada Unemployment Rate Falls to 2-Year Low of 6.4% in July",
       "excerpt": "Canada Unemployment Rate Falls to 2-Year Low of 6.4% in July&nbsp;&nbsp;WSJ",
@@ -303,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1VILWxTMC1LeklKQzRCbmpleVRYejZaa3phcF9icjNCdXVJaE1fa1lJNl9ETUhDTl9WTVFLX05zZVAtRGNEaXBFWWpDTUhuNUtROFNMUkNIRVprc01yanJ0cGVya2tTUl8wWF9TcjBuaUhma2tGY1VKV2FidXd5T01kcUVOOW9UM1VSWGNnXzI3Q0tycXVieTdmd1p1by1SVGhv?oc=5"
     },
     {
-      "id": "canada-8",
+      "id": "canada-9",
       "source": "Bangladesh Sangbad Sangstha (BSS)",
       "title": "Canada adds 75,000 jobs in July as economy adjusts to Trump tariffs",
       "excerpt": "Canada adds 75,000 jobs in July as economy adjusts to Trump tariffs&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)",
@@ -311,20 +319,12 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lQkQ2T1dSemI5TURQM21uUlYtR2NSU3owdTRCQlVWdDNuRVZIQU05RHlqYldIRVRVSWQ2TUU2M25pLWlJTzRqQUp4MU9KT2NSd3BtN3Jmbw?oc=5"
     },
     {
-      "id": "canada-9",
+      "id": "canada-10",
       "source": "Reuters",
       "title": "Canada posts monster jobs gain in July, unemployment rate hits two-year low",
       "excerpt": "Canada posts monster jobs gain in July, unemployment rate hits two-year low&nbsp;&nbsp;Reuters",
       "timestamp": "2026-08-07T14:47:23+00:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcTc1RmRBNndlSmtfUjI1ZzcwaXpHSFdTRGFmbXpiNEN5blJzMHNSNHE3Um42TUprRW9sMHBFcFVDMHpVd2JhU1NrN1o1NU9vU3JDZU1WUEtPcnQtYkxFVGo2TjUzLXRJOWY5dHFLWndKYWtmYkJQV2g0U1RDN2l2TGhoZUZyTzJHTER0NERiNDRQVWdDRzlDUng2cWs2M3lyVEZ3M1N4WEE1WEU5SDJGYm5udk5iZEVFUWlSLWhSOA?oc=5"
-    },
-    {
-      "id": "canada-10",
-      "source": "CBC",
-      "title": "Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years",
-      "excerpt": "Canada adds 75,000 new jobs in July, unemployment rate lowest in 2 years&nbsp;&nbsp;CBC",
-      "timestamp": "2026-08-07T13:03:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SbUtJTTdiS05wSm5NNXlkMzZRUDlPYW55Q3lrRHdmM044R29IOEIwaFp2QWJSZ3dnMzRCQlF0dVZVcmZNN0p5OEcwekktanBPaVZvd1oySmdtWXd6M25qVTc3OWc4Q2JCR01abHBTWTc1Zw?oc=5"
     }
   ],
   "United States of America": [
@@ -1560,6 +1560,14 @@
   "Bahamas": [
     {
       "id": "bahamas-1",
+      "source": "Revelio Labs",
+      "title": "Central Bank of Bahamas Number of Employees 2026 | Employee Count & Headcount Data",
+      "excerpt": "Central Bank of Bahamas Number of Employees 2026 | Employee Count & Headcount Data&nbsp;&nbsp;Revelio Labs",
+      "timestamp": "2026-07-29T03:54:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTSXlNUl9mc1JVSzgtTWdsVWUzbFVqNTFMenNiZjFDS3hnVmtPYnhsWk0wVFJHY2I0WUNHV3ZINUNQRk56SnlES0hPTWdXZ1c5Ny0yTlBKVS16YTB6bHl2QVZyV3hwdVN6VGRJb1E1ZmlLVGNaZWNYOHZaWQ?oc=5"
+    },
+    {
+      "id": "bahamas-2",
       "source": "Encyclopedia Britannica",
       "title": "The Bahamas - Tourism, Fishing, Banking",
       "excerpt": "The Bahamas - Tourism, Fishing, Banking&nbsp;&nbsp;Encyclopedia Britannica",
@@ -1567,7 +1575,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zRlUzNE16V240b25GQlBwT1VxbFFZbUVSOS11VXllVFh3a0dCLXN6aFVQNVlQSjNkb2RVbWs3NEZUYnRoVmxjeHVrcFBnaTVPZHh6N0ZyQ0kzc0pQOXRDV2ln?oc=5"
     },
     {
-      "id": "bahamas-2",
+      "id": "bahamas-3",
       "source": "Tribune242",
       "title": "Defense uses Golding’s warning to Bahamas on campaign finance reform",
       "excerpt": "Defense uses Golding’s warning to Bahamas on campaign finance reform&nbsp;&nbsp;Tribune242",
@@ -1575,7 +1583,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUF1TXpZdzhOcFQxeXJKMk1vYkJoSjRNcXZ5QVJYc0JYZzdBUVlLYnNUUjB4dTVPODh4bzFPRW40Vzl5NjRrcWktVVZHRnhaSUk3a0pRNmJVMlIzWVd6ZnZuWWEwYzByOVNJc0xDQ2hEV3FqVVhEQ1pEc1BrLUhkNi05b3R3cTlhZjVCa19hZnRmRGFhbC1jYkttaG1PMXRiNDVFVml5cC1ZZ2ZoYnJ0ODdR?oc=5"
     },
     {
-      "id": "bahamas-3",
+      "id": "bahamas-4",
       "source": "Travel And Tour World",
       "title": "Bahamas Cruise Tourism Surges as Nassau Cruise Port Welcomes More than Thirty Thousand Passengers in Record-Breaking Day, Strengthening Caribbean Cruise Growth Outlook",
       "excerpt": "Bahamas Cruise Tourism Surges as Nassau Cruise Port Welcomes More than Thirty Thousand Passengers in Record-Breaking Day, Strengthening Caribbean Cruise Growth Outlook&nbsp;&nbsp;Travel And Tour World",
@@ -1583,7 +1591,7 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKMW4wMVA2cDZScnZOT2VwM1VEMWJNbWZOZHFHQ054TlhpZTVnRndVQ1BxUXE4XzFqMnZiMkt5U1JVNjdxU20yZHJuNWNNYW1Ub3o2cDBfSzVjTUN1cV9OdjZWYUVjeTA4cHdTUHZB?oc=5"
     },
     {
-      "id": "bahamas-4",
+      "id": "bahamas-5",
       "source": "Bahamas Latest News",
       "title": "Central Bank warns public against four entities falsely claiming authorization to conduct financial services in The Bahamas",
       "excerpt": "Central Bank warns public against four entities falsely claiming authorization to conduct financial services in The Bahamas&nbsp;&nbsp;Bahamas Latest News",
@@ -1591,7 +1599,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjhuZXJfTTBPeHBPNy1lM0xhZTJJNUR3N1Y3bVdrSXJUZFdCZHdzSE10T2RkX1l0SDgwMWZLZjc5T20zZlZ0dzBHR3RuWkhDWnY4cVdQRU5NZi1LSURyUlpBUXlDbG5zN0hzZWZ5T1RGVEdCMmE2QXFtQzk2QzdJWUNwdXBTelBSbVpQWERJR2ROMHJELWtyYjQzT2h6amZUZ01wbGZEVHRtbnNTNnlnZTk1Vmw3UGpkVXRSUXdMNmpKU211QjJnY2hsTF9WMlcyZm4tQmF4eDlkaUE?oc=5"
     },
     {
-      "id": "bahamas-5",
+      "id": "bahamas-6",
       "source": "Biometric Update",
       "title": "Bahamas advances digital identity strategy with maritime and border initiatives",
       "excerpt": "Bahamas advances digital identity strategy with maritime and border initiatives&nbsp;&nbsp;Biometric Update",
@@ -1599,7 +1607,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX3NQRWl4NXl4OVlYVGFBaUlxTmZfUXExNDY2dDVGcHN0OWN6cTdSUUU2TEpGTGxIak9WTEF5VGdVbnljVlk3ODljb00xbk03UWZxNWo3dFZIQWdSLWl2ek04SkRZRjNibG9WTkw4cUJ1UU1WMTgyRXU1TzVEMUdkMmZJVXhzYWtfei1NU3p5bVdIMXZocVRHSGZjaHU0blBDaXNTUXFyRHU4YTM3NVFyaU1mVVVvS19jdXc?oc=5"
     },
     {
-      "id": "bahamas-6",
+      "id": "bahamas-7",
       "source": "Solicitors Journal",
       "title": "Lyons v Bridging Finance: High Court upholds bankruptcy order against Bahamas-domiciled property investor",
       "excerpt": "Lyons v Bridging Finance: High Court upholds bankruptcy order against Bahamas-domiciled property investor&nbsp;&nbsp;Solicitors Journal",
@@ -1607,7 +1615,7 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNTZuTG02UUk3VF9oSEZtM1pQRFJ1UnRKTkl2eEVqa1FleGJjcGpXTEl1RlVKT25SZzJPQ0M1RFdvSlBzaERNRUQzRDB4TzZuZDFqakhROWkxeFlNcXpSLU9hYy03MmdaTWZlb3VtN2dEbkhoZzNQU21sWm1QemthWWR5eWUtX01DbXROSElESDNmNTc2MDluTFRiZWJNVGJtbDhwV205RFppMFpaQ3pwU2tpMHprdXAtSm43ZkhFdzRDc193RV93Y0oyWVg1d3RoZ1pJRUhPc3p0RDQ0SFRyUTN0SDlXSG1YUHhVelFPVHJaRTRz?oc=5"
     },
     {
-      "id": "bahamas-7",
+      "id": "bahamas-8",
       "source": "Solicitors Journal",
       "title": "Lyons v Bridging Finance: High Court upholds bankruptcy order against Bahamas-domiciled property investor",
       "excerpt": "Lyons v Bridging Finance: High Court upholds bankruptcy order against Bahamas-domiciled property investor&nbsp;&nbsp;Solicitors Journal",
@@ -1615,7 +1623,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZXhGcHVFQmhxdHlIUGFleTAzMTVnTHhLZ243ajAwVE5PbGVLb3JSTjZLeGJlOVFVVV9qb09GWjY1RU0xOFl2ODZkRWE0SVNybm1uQUU4Q29HbXU0cVhaLXVpZG1zZ2JiSTZnczN0Zlg0MEY5VW43Y1E0dEc3WlhiYXhHOXVtM0g5X2h4cnprQWF4dTJabGtheG1HQkljN1BqNlRCZFpnYzdzc2U0VjJjZTdld2VraWpmaFpMbXhzLW5DZWMyQ25GaDdXdXZUUWIzNXFya01Wem9MSExVRzFIMjhn?oc=5"
     },
     {
-      "id": "bahamas-8",
+      "id": "bahamas-9",
       "source": "Solicitors Journal",
       "title": "Lyons v Bridging Finance: High Court upholds bankruptcy order against Bahamas-domiciled property investor",
       "excerpt": "Lyons v Bridging Finance: High Court upholds bankruptcy order against Bahamas-domiciled property investor&nbsp;&nbsp;Solicitors Journal",
@@ -1623,20 +1631,12 @@
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPenBReDVZcUJTNWk3XzJFcXRYLW9hVjVFX2xoa3R5d09wbWJkQ0xBenBXV2RaSDl4MnlLMjk2Y3h1WEJXelBYQVoxTTRwd01PNmJJQjlNT3Q4TUZ5WWwwU3NheFFxY1FhVnZKdkl5YlFzLVoyeVE2WkMtMXoyWXVQVmlQeDFvcURTVWpEV0xVaklUeGt5YkVlUTducjR4N3pzMkI0My1xekU1cWpNcTZwVzlsQkRpeVNKeVBWTmJZeXVsd25TbXgxY1hyVWVPTWo4a1dYSmJMMjgxMC1xTVR5NzVBcUdUZzdlZVNyT25PZXpsOU9vWkZJcGVfNUFBOVpIaFE?oc=5"
     },
     {
-      "id": "bahamas-9",
+      "id": "bahamas-10",
       "source": "Green Finance LAC",
       "title": "IDB Invest supports financing for small businesses in The Bahamas",
       "excerpt": "IDB Invest supports financing for small businesses in The Bahamas&nbsp;&nbsp;Green Finance LAC",
       "timestamp": "2026-05-27T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVk1xWEM2cHViUzlHWE1zTEc4UEg2TmxLR3l4ZGF5UEhUcmRFTFJzOVZoUlJVdE9XWjZ4SVFuTk94X0JKNGVPNFRva2dHR0pOSUhqRjFOY2RpOG1QS3czVWFCOXp4RnYtRHZSNXpCVVdicWJESGQ3WnM3VHlaY194NzdxZlhoTmNIcnVhY01JcjFhOU16bXFmM19NaW9qTnVqRGlhbEhkMTUzQTZ3bUE?oc=5"
-    },
-    {
-      "id": "bahamas-10",
-      "source": "Tribune242",
-      "title": "‘Phenomenal’ job creation if economy expanded 3.8%",
-      "excerpt": "‘Phenomenal’ job creation if economy expanded 3.8%&nbsp;&nbsp;Tribune242",
-      "timestamp": "2026-05-26T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVGk4ZWJKYzFJbUV4QlRJblA5SGlCcURTbjVZdW5Tb0wtaTN1S3ViSjVLWjNtU2szTFM1QzNLZWFpVW9janoxc0JqVG9MMGJBMnR5cGw1bTRuYzdVVGhJQ0tsNWs5Yk04NWo5eXFfZ1U4YkRPdnhONml6VThSZ2tlNDVJU3REbTJiRjFRM2d4QjlfdFVGQlE?oc=5"
     }
   ],
   "Falkland Is.": [
@@ -2339,6 +2339,14 @@
     },
     {
       "id": "brazil-6",
+      "source": "The Economist",
+      "title": "Amid foreign interference, Brazil’s election kicks off with a whimper",
+      "excerpt": "Amid foreign interference, Brazil’s election kicks off with a whimper&nbsp;&nbsp;The Economist",
+      "timestamp": "2026-08-06T13:00:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYTZHRWQzOVZBQW5UOWduV3oxbUo3c3JneU9OTGw2cXVtUGR6Sm54d0VrNFp2TWx1ZjBwUzFySFkyeGRZd3BTb2EzUkJhT0RIUXFWYUNQODN4SXZXU2R5dlBHcjdodV9JM2ZydXhURUUzN2J1QUE1ZnhJUFRVeV8xeURyLWdBZmNRLUNNVUlwU2tldFdpWC1COEowaDdONkhhWFFFVF9jd2gzd3Q0UWRqY1paSjVHZkot?oc=5"
+    },
+    {
+      "id": "brazil-7",
       "source": "Bloomberg.com",
       "title": "Brazil Central Bank Cuts Interest Rate to 14% After Inflation Cooled",
       "excerpt": "Brazil Central Bank Cuts Interest Rate to 14% After Inflation Cooled&nbsp;&nbsp;Bloomberg.com",
@@ -2346,7 +2354,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXBydHB6RHFIelhNeTUtUVN5RnFtcXJXVlZFSU54RTdpd3BnaFduUzB5Z0c3cG5RNFp1U1pOa1EtV3h1aXAxR3hZbkE4c1g0cGY1SHVsQnVPWkdpUmZJeTdmVTFlWE1Pbi10NHRVMjV0WTJUalk1VVc5VkVvYUEtQ0gwS2JfOE1pVE9RWDFyVGVYRC1jc3hYbU1rYkRidw?oc=5"
     },
     {
-      "id": "brazil-7",
+      "id": "brazil-8",
       "source": "Valor International",
       "title": "Brazil’s Central Bank cuts Selic rate to 14%, leaves next steps open",
       "excerpt": "Brazil’s Central Bank cuts Selic rate to 14%, leaves next steps open&nbsp;&nbsp;Valor International",
@@ -2354,7 +2362,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaUJLU2E1bnlST2lYT2tWcG13ZEo3NDBKV1JtS0pwYlNtbnJ0bXM3N3NGSnFEVEI5Y18wSGc4cDJfdFc2Q1Q4NTgwWDd0V2psS0Y3TUJEbXZ4ZnRyWFNTRzVoTFFpbzhlREhvTk5nbmloOUpVLUlqSDcza0wwcm1KVVJRaEVCdzA5YUhoY21WYXFKMTM3OHZ0WWlaVHA1R0t1aENlNlRRcXJNTF9vTUFqS09DdlBzNDE4WjMyREdKN2lIQlN0bm1wU1R1ajE5RGdyZ1pVaVZB0gHkAUFVX3lxTE1Hc1gxc0pzenFUZ1BfMm1DamV5TUpZcjU5a2dGSFhXdjZBYkZqSFpSbnphdWtuelFITDhfX010UFozVWM4RVIwSEZPNTQ2X0JaV1hkN21LS25tNmozUHEwaFE5RnE0bW85eFNGZGxuTDRrN0xxVHk2eDhubDJXbnFVWlFBMnBiNXltQzJ2NHFfVllDT0hQS1JiYlJBTVgwVV9iNGJBSTh3NXpTM0luc0RGUmhiUFJIcFhvNnkxdHQxMk1TckhUMG9neFlURWJycTFfcWJGSk9DUHlLbU0zX2JMczg2bA?oc=5"
     },
     {
-      "id": "brazil-8",
+      "id": "brazil-9",
       "source": "Reuters",
       "title": "Brazil cuts rates by 25 bps again, September rate cut in play",
       "excerpt": "Brazil cuts rates by 25 bps again, September rate cut in play&nbsp;&nbsp;Reuters",
@@ -2362,20 +2370,12 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcU5ZelBrN3dWTm4xVGk0ZzVIV1lhZVM3aHl1aGdseDFlb2NVSXY1YXZvQ1QwVHZwYVV1Z093MXc1Y2ZZdlY4WjhtZjFTWTFiWUhkamlKSHI0dDNUazNBOWFzTUVFT19IR1RpWWd3V0R1VGFxT29NcmNCaloydkUtVUZXNURKMG4zVjJiX213TGVKOEthbGxHV3dLekp2ZFBBWlpEOVlxYWxLVW11T2txYmE4bC1xZw?oc=5"
     },
     {
-      "id": "brazil-9",
+      "id": "brazil-10",
       "source": "Finimize",
       "title": "Brazil’s Central Bank Cut Rates Again, But Kept It Data-Dependent",
       "excerpt": "Brazil’s Central Bank Cut Rates Again, But Kept It Data-Dependent&nbsp;&nbsp;Finimize",
       "timestamp": "2026-08-05T22:08:13+00:00",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcElkdHpaNWdMeHRlc2pteTZSeUF4RDYtd2VuVHlSV2l5S1UwSnFnaXhDOU1ZUWRsclpLMTRmNENPT2t3emdFdmtzSGZVYjd5NXlMamRGbUZGMEhMMTBEV2lBSkNSRUd3alp0UFpMazlGZElsckx2bk53aEFhQkZBSXFKYURTcld5YmVrQzZMcHdVbGdlZHYw?oc=5"
-    },
-    {
-      "id": "brazil-10",
-      "source": "WKZO",
-      "title": "Brazil central bank cuts rates by 25 bps at fourth straight meeting",
-      "excerpt": "Brazil central bank cuts rates by 25 bps at fourth straight meeting&nbsp;&nbsp;WKZO",
-      "timestamp": "2026-08-05T22:07:12+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFM1WlE2cnBEU2FlcnViVHBRRm8tMU1YOVZYdnBtVmFmTjNQZndXbHEzU0dxRE5GVUhJZVl2NXN3b2dWSDlRekt1WWF0OWN2MnZSMzVtcFI3U185RHBnNkkycXRkTG1weWNSVkktbUNLWWgxQXVWekF6b3BPWUJob1pySUJpRTBjSm05b3l0S0JaVlJyektaUVEzMnk?oc=5"
     }
   ],
   "Bolivia": [
@@ -3775,10 +3775,10 @@
   "Cuba": [
     {
       "id": "cuba-1",
-      "source": "Axios",
+      "source": "axios.com",
       "title": "\"No escape:\" Inside Rubio's Cuba pressure campaign",
-      "excerpt": "\"No escape:\" Inside Rubio's Cuba pressure campaign&nbsp;&nbsp;Axios",
-      "timestamp": "2026-08-08T00:49:08+00:00",
+      "excerpt": "\"No escape:\" Inside Rubio's Cuba pressure campaign&nbsp;&nbsp;axios.com",
+      "timestamp": "2026-08-08T02:00:36+00:00",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EMkRZRU1WcVVxX0pOMi1SOVc4MXBUOWc2ajUzOWFkNUFSQ3VfTXU2OVVTZnMzNmhuSVF5YnNQV05pY1lPZzJKUXlwWmpLWldhOTFCSzlZdlUtOUFlWm5ZdVFyU1FxM081ZjVIQU5XUS1Wd2JWbHc?oc=5"
     },
     {
@@ -7104,13 +7104,21 @@
     {
       "id": "iraq-7",
       "source": "The Jerusalem Post",
+      "title": "Iraq salary delays may fuel extreme protests as oil crisis strains Baghdad",
+      "excerpt": "Iraq salary delays may fuel extreme protests as oil crisis strains Baghdad&nbsp;&nbsp;The Jerusalem Post",
+      "timestamp": "2026-08-06T14:57:33+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uSTU3VXBTd1R3VVdzZnVrX0p3YldNaGpnUVRZaVB2WG5PMzZSR21QdG1HY0ZiRVNERVhjNkxPQi1FWFlsUk1iRVRvZm93czRSSXZGUmUwYV90Sm1G?oc=5"
+    },
+    {
+      "id": "iraq-8",
+      "source": "The Jerusalem Post",
       "title": "Iraq struggles to pay public salaries as Strait of Hormuz crisis deepens",
       "excerpt": "Iraq struggles to pay public salaries as Strait of Hormuz crisis deepens&nbsp;&nbsp;The Jerusalem Post",
       "timestamp": "2026-08-05T16:15:04+00:00",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ON2Q2cS1wa01pMVlGMlNEOFBTdUZfaUdhSG1ZX2UxZHFDQm4yY2Mwbl9VdG1laEZ5MXcwandhTjFhQmpnaHZfNEpuQzRGcGJNdkZYQmlUbmdRQ29NX3RwSFpUSkFZTHlrMHc?oc=5"
     },
     {
-      "id": "iraq-8",
+      "id": "iraq-9",
       "source": "english.globalarabnetwork.com",
       "title": "Iran’s Reliability Questioned Amid Iraq’s Economic Stability Concerns",
       "excerpt": "Iran’s Reliability Questioned Amid Iraq’s Economic Stability Concerns&nbsp;&nbsp;english.globalarabnetwork.com",
@@ -7118,20 +7126,12 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOemtTUHpiWTZjN3dVVzJQY0JaS0xQZHhyemJBV2c0cW5GZkFCRW9acTBpWVlENVBJWDhpUm0zak54QmZMMnVPdDlxN0NiYjRuZFdpLUNwR1RfejB0YTRLcHlObERpbHpvWDVDbGJBOTVVcnlscnBhMzNNSThlVVhaV1l6S1Z6dE40SGJnclhGMkNOSWR2YW45S2U1OE9pb3oxcjFXRHZCSTNueVVrakhWWEFtV3VRdHQwekNpVWF3?oc=5"
     },
     {
-      "id": "iraq-9",
+      "id": "iraq-10",
       "source": "شفق نيوز",
       "title": "Iraq's issued currency hits $86.3B in May - Shafaq News | Latest breaking news in Iraq and the world",
       "excerpt": "Iraq's issued currency hits $86.3B in May - Shafaq News | Latest breaking news in Iraq and the world&nbsp;&nbsp;شفق نيوز",
       "timestamp": "2026-08-04T19:51:51+00:00",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84UzdqeGhBOWxReEVQb1RVR2ZUMEVlZDl1ellIRXhhNGQ5ZFdOQXVNaUtkd004TGFTbTF5cWd1eVlnZE5RZ0RUbzRDOXJHb0Q1ZEtOSnIwWFoyZFRsMlpNU2pfaGJSUklTNTlrSG1pZ3lPTkY0LWhTR09n?oc=5"
-    },
-    {
-      "id": "iraq-10",
-      "source": "تسنیم",
-      "title": "FM Hails Best-Ever Iran-Iraq Relations",
-      "excerpt": "FM Hails Best-Ever Iran-Iraq Relations&nbsp;&nbsp;تسنیم",
-      "timestamp": "2026-08-04T08:20:15+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVDZCYXUzTEtXRkFneEZWb3dQSUV1S3NZUE9CVG5EeHlXQnhmdjk0M2lyMDVmUUd6THpUY192ZFIyUnJSMWp1eXF5RjMzcm01V05hZDJ1RkFZX3ktd0dCZzZXdmJiSFppUGZnUXhZZm1FdjM1bk5Rb3hnV3FaYjN2TjNfV0NxYk9ZSG11R2t0OXdyZDdoZkHSAZsBQVVfeXFMUDhUOUxJUHNZd1ptcS1jQTEzLTdGQnBoMnJKTnZvbFBhNDJjZFpCVnY1UDFuY2dzNkdJRVV2cnMyNzV1MXZVcEVCejJ3S0xCdXhRVUNQSUc1QTBmeU1udXFPemtUTWp4R3hKQ25JUDZvbzJKbjVNR3FIWWZYdlMxV0V4cUxfcUtYWkZieDVaNV8wdzhxbzBfMkVaOG8?oc=5"
     }
   ],
   "Oman": [
@@ -8206,7 +8206,7 @@
       "source": "The Rising Nepal",
       "title": "Taxpayer incentive gift: Bumper prize of Rs 1 million announced",
       "excerpt": "Taxpayer incentive gift: Bumper prize of Rs 1 million announced&nbsp;&nbsp;The Rising Nepal",
-      "timestamp": "2026-08-08T10:21:50+00:00",
+      "timestamp": "2026-08-08T16:27:38+00:00",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0ySkF4WS1QVjdfUEdNMUVPczBIcVpWVFladHVXVHl6Q19OU3U3LVJWanVuR2kwdzNFdllWbkVlbUUwM044eHg5SXB2ZmxRa3NO?oc=5"
     },
     {
@@ -8286,13 +8286,21 @@
     {
       "id": "pakistan-1",
       "source": "Al Jazeera",
+      "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
+      "excerpt": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?&nbsp;&nbsp;Al Jazeera",
+      "timestamp": "2026-08-08T16:55:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMzZhY0Z1VVFyay1CcEtJZUlKTV81aFFNUW1iTlBCUThRcGF3VXhfZ2k1TzhodkF5NENIQzd4VXBwYmlhR1VEX1hWWGtUMy1oNnpHYTYyYkxhS29aeWlvVktTa2xjYXI2c2NiYkh3SDQ3ZDRjVWtXSUk2RW02WFJwbWJxTzcxMHpJZlVQZUFkZjRsUnE5UUw0MElNNXJodDcxMFHSAacBQVVfeXFMTzFDUlh1T3V5T0pTVFhFcThMYzg0SGplRFA3cXRlX1ZmU25iUXRaWWZwSS1zVjQya1pBRVVTMjBCaU14STVJRUdTNk15VXhsZVVmWTRVcmQtMlVJYnFRWGU1eHNkS2ZMeDRyYi01SmdfVW1KR0NibmVTRFZWZGtQU3NZUkFjcEhVdWVNeGxRLVRwZ2ZKVGx0OFVDVklQLUFLWm1tekU5RUU?oc=5"
+    },
+    {
+      "id": "pakistan-2",
+      "source": "Al Jazeera",
       "title": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
       "excerpt": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom&nbsp;&nbsp;Al Jazeera",
       "timestamp": "2026-08-08T13:50:05+00:00",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdy1HZGEtU0x3MkxkNEFha2lYSmdxWFV1RldMRjNwSmhYYTI4R3pFbXRqR1hNb2wxVl9kbEdOXzZWZ0hrOThZSElvN1p6OGhPcFlaQ3Y5dmRRR2pSRkdUMnlYOFNmTE9yUHNHRTBNTTgwX09YNGpVSFltMTF2T3F1dnZjSVBGWDd0MEluQ1kwUFRVVDVOaHJwY3VMV0I4OHpPYTdmdk9YZmQzQjNER2fSAbMBQVVfeXFMTjcwS1laaURYRkF3WlRuTjhmRG9GYUpVMDdNLXpaSHBtRWpqUHJ6UkJuOFp2T2VkenlLT0lFQ1JDemhzNGJ4Q3RBWDJqNWRkTzJ1RmxIQ2t6eFB6V2o3MkhCX2c2RDNjSjduRFpWV3g3LVEwcGhDVEpKNzZ2OEVHbzBIX3k3and0R0xnWEdGT0xoRllvSFlrSlA3ZlpSZlk3SV9jSFQ5dVd0MEsxdXpTdk52NWc?oc=5"
     },
     {
-      "id": "pakistan-2",
+      "id": "pakistan-3",
       "source": "TVP World",
       "title": "Saudi Arabia, Turkey and Pakistan sign mutual-defense pact as doubts grow over US security guarantees",
       "excerpt": "Saudi Arabia, Turkey and Pakistan sign mutual-defense pact as doubts grow over US security guarantees&nbsp;&nbsp;TVP World",
@@ -8300,7 +8308,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMlZKbEw2T2Q4ZkNHTXlFOHh1X1RKVUF5SkxaR1ZLa2JhMGgyN3hQVjF0Wm0xalhxRUFEOGc2UGlCVU13MnA2cUxtZzFPUVU0Z3lxRGplWHpic3p4enFkclBVaWI1Ri1vSERXTW5xVnN2anNzNUpoQmt6UWRtU29QVmJrUDFIRmRMaHhN?oc=5"
     },
     {
-      "id": "pakistan-3",
+      "id": "pakistan-4",
       "source": "politicstoday.org",
       "title": "Türkiye, Saudi Arabia, and Pakistan to Sign Joint Defense Pact",
       "excerpt": "Türkiye, Saudi Arabia, and Pakistan to Sign Joint Defense Pact&nbsp;&nbsp;politicstoday.org",
@@ -8308,7 +8316,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUVwMFIxVlJUTGZrZDFqU3RTM2dXODYwdEpjMF9zS1o3R09QVHN6U3V5bXpjd3N6NlFvS0lSSEtLamZIdFRrQkU1OW9ieVJYRVBBZmc1NmYtV0xaT2FtYWk4OEFjaFBoZ1g3YjFfZDFacXQwNENoSVgzbkN4NmZ2UG5YeGdNbldNVzI2SF9wYjY?oc=5"
     },
     {
-      "id": "pakistan-4",
+      "id": "pakistan-5",
       "source": "NBC News",
       "title": "Pakistan restricts foreign media from reporting outside 3 major cities",
       "excerpt": "Pakistan restricts foreign media from reporting outside 3 major cities&nbsp;&nbsp;NBC News",
@@ -8316,7 +8324,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGFzcG12VEQ1ZGtuNFRmeThSQkZaUnk0UXRtZ3E0ZXJOUTRHOWtaemVyY29KQU1obnhlaV9rSkJ0bzBhQUJlQUdVWjhON1pWWlJWY3RsNmxqYURpd2o5M3g3QzZkT3NmYk9hWDBteS1NN21RakJWRzczbmd2QUZvVE9CTXFKb0dreS1jUXlEaUhpUFZSckN0NVZ5SlBiUkpZWkRiNU5n?oc=5"
     },
     {
-      "id": "pakistan-5",
+      "id": "pakistan-6",
       "source": "The Friday Times",
       "title": "Squeezing The Compliant, Exempting The Smuggler: The Reality Of Pakistan’s Untaxed Economy",
       "excerpt": "Squeezing The Compliant, Exempting The Smuggler: The Reality Of Pakistan’s Untaxed Economy&nbsp;&nbsp;The Friday Times",
@@ -8324,7 +8332,7 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa202eHphSG85UXUyZVZFTDZzOGVOUFl2ZmhIWE5kS1dnRmIyYmdHQVliTmZlQXZ2N19pU1lsU29HdUFWTjJ3eGQ5MjBsaGY3LTVaV0VzRkZhRDBpSXRMRWJSb2JacnQ2VEFHVEk3WUJCQ1gyUU5lWUZGcnJGaFp6YzZwTWREeUhLOE5rRXV2Mm1MRnJVTHRtX2tpaFZ4bG11NDUwel9XbFlwejNDV2x6RVc2ZUlPcWc?oc=5"
     },
     {
-      "id": "pakistan-6",
+      "id": "pakistan-7",
       "source": "Balochistan Pulse",
       "title": "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan",
       "excerpt": "US Ready to Finance Another Reko Diq-Sized Mining Project in Pakistan&nbsp;&nbsp;Balochistan Pulse",
@@ -8332,7 +8340,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmI1Z1ZBX2JZNExaWmI5NlQzMGJDNUsyTTdROHN5Zjd5bV9ZWkJSeDZrM1hzYXdlblJXV1h4em9iNXU5ODNzeHhVZGptYXQxUGptZWxLMW9WOEVjMVJxUmV1VHdnUHM2elpHdl94U2pDRmtWV0hkbEZLRFNBeUowRE5Na0VBa250bmxUSUVoRGVmMEh4dmZzZ9IBmAFBVV95cUxQQmI1Z1ZBX2JZNExaWmI5NlQzMGJDNUsyTTdROHN5Zjd5bV9ZWkJSeDZrM1hzYXdlblJXV1h4em9iNXU5ODNzeHhVZGptYXQxUGptZWxLMW9WOEVjMVJxUmV1VHdnUHM2elpHdl94U2pDRmtWV0hkbEZLRFNBeUowRE5Na0VBa250bmxUSUVoRGVmMEh4dmZzZw?oc=5"
     },
     {
-      "id": "pakistan-7",
+      "id": "pakistan-8",
       "source": "Al Majalla",
       "title": "Pakistan’s Red Sea calculus and the end of strategic ambiguity",
       "excerpt": "Pakistan’s Red Sea calculus and the end of strategic ambiguity&nbsp;&nbsp;Al Majalla",
@@ -8340,7 +8348,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaGhaTDBibjB2WUlQVFRrX3VYck5aZTlYVDVhMFhvaGNhMnJOaUZ4OVlfZUxYVVY1emtXRENBNWFtcXVZM2NRU2xGVFBSY29RNkVOSFNldzlpUHlIa2YwTVh0SHQ3clFRUzlhUkd5NVBnYjhBQUlnS0ZybkxDOFIxeVZvVUQxSHhxekZSTlVDTDdtYnQ4NFc4Njg0c2VMeGJacTQ5SXItZExRUms?oc=5"
     },
     {
-      "id": "pakistan-8",
+      "id": "pakistan-9",
       "source": "Armenpress",
       "title": "Pakistan sees prospects for expanded cooperation with Armenia",
       "excerpt": "Pakistan sees prospects for expanded cooperation with Armenia&nbsp;&nbsp;Armenpress",
@@ -8348,20 +8356,12 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9naUE2ZElsS2cwY0FfVjJpZFhZNjhSb3Q1Uk03bVhEU1hrNW1IaldLNUJvc3g2VlUyRVZ0WXRtWEJsbDhBenJVV2Q4Uk9TaC04M3fSAVdBVV95cUxPMlFfNlk0X1BSZkZkRkcxWGEwVlFkSmt6elFXTjVlYUhiZUViRW5CZ1MyOTAzWndnLW9YRUppcjRMNFRaemt2am1UOXFrcHBYdUxxTlA1OU0?oc=5"
     },
     {
-      "id": "pakistan-9",
+      "id": "pakistan-10",
       "source": "Dawn",
       "title": "US firms look to Pakistan for critical mineral supplies",
       "excerpt": "US firms look to Pakistan for critical mineral supplies&nbsp;&nbsp;Dawn",
       "timestamp": "2026-08-06T02:34:18+00:00",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aNU5UV0VnN05ZMFlyTVkwUDhkeWt3ZnA3eTF1anN2aU1PX1hZLVQtLXpmWTdnOGdLTGhqckNwN2YySnJXenR1T9IBTkFVX3lxTE5sckI0bVlYSG1TUF8za21TeWRpbTVWQ05wOHc1NHNpaDVqV1BoTUxqTmlTc2xjanZBbHBBeDg5RWhoT0dyR19yN3A0SWozQQ?oc=5"
-    },
-    {
-      "id": "pakistan-10",
-      "source": "WION",
-      "title": "Pakistan's economy running on lifelines",
-      "excerpt": "Pakistan's economy running on lifelines&nbsp;&nbsp;WION",
-      "timestamp": "2026-08-05T05:31:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFlBTUFuYlFGVlpTTWh0Ukl1WHc0dWw0cHhGOTJ1TG1uMXZ6N2lFT3pEakF3dG5wanFfV0JxWXAtYXoxb05BbjBzNzVrcU52d1Z5ZkJ0WXJLRnVBMnA1U0ZZd2Y2V2ZSbUJidWRHNE12R1Z6VXNOOU5MeC1pT01UU2FoTE1lUGZyZmRvc9IBkgFBVV95cUxNTWlHdkVaS2Q4b0pVT0NsU1NqSk1fdUhpTGZ2dHBOcE4wRENGdmxRd3hQV3VOcURYUWRuOU5tOEhQUVNsN1Y3X042dlNnUnlpbWc3THpNWU5JNXhqVnJGTGlxWmNXQy1ld1dlUHNqMUxPTTBwWGhHckNpZ3Etd18tb1NIdElJdXZmdDFZQ1lCYmtPZw?oc=5"
     }
   ],
   "Afghanistan": [
@@ -8695,10 +8695,10 @@
   "Iran": [
     {
       "id": "iran-1",
-      "source": "eaworldview.com",
+      "source": "EA WorldView",
       "title": "US War on Iran, Day 163: Trump’s Top General Seeks “Off Ramp”",
-      "excerpt": "US War on Iran, Day 163: Trump’s Top General Seeks “Off Ramp”&nbsp;&nbsp;eaworldview.com",
-      "timestamp": "2026-08-08T15:56:15+00:00",
+      "excerpt": "US War on Iran, Day 163: Trump’s Top General Seeks “Off Ramp”&nbsp;&nbsp;EA WorldView",
+      "timestamp": "2026-08-08T16:01:50+00:00",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzZpd0JSVnV5MWplZ2lEWUpQSG1NWF9aUzA5RklPRGoyMHVkQlV5NWVvd1poUjFLZlpfSzZMajlQM2NwN0Y4c2RkUXlueExEWDRicVBJMlZHUTZmQ1RzZnZNZU9NYnlUZ25GYlVPbUhnQ0Y5ZlVLQ09kSUQ2cVU3dHBSS0I0Vk9uc3gtdw?oc=5"
     },
     {
@@ -8957,6 +8957,14 @@
     },
     {
       "id": "sweden-3",
+      "source": "The Local Sweden",
+      "title": "Inside Sweden: Is Swedish politics at risk of losing its greatest strength?",
+      "excerpt": "Inside Sweden: Is Swedish politics at risk of losing its greatest strength?&nbsp;&nbsp;The Local Sweden",
+      "timestamp": "2026-08-08T10:07:37+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxObmUyQmJxeDdrbTloaVMxakNmTXlCVVRyU0wwY05ITjNpaXZaZWZjUFJzRURPLVZRdkJNNVhwUjlENTRQajB4MFlaeXp5WlZyRTlHZm1Fa0dTa2VKd29Ec0ZsZGJQcEcteUVWNlRPbDdTN1ZNTWVKZGFTRUg3OVhZbGY1MkE1N1VJaDNUczBodlN0Mmd1a29hTHhOOEc2bkdKMDBjUmxFemVleWZkMUpvejJDWk01amlqdXhHS1lMTGdPUG9kSE9mSW5kcm9kSk5haUp6VWI4VDVZTWZ1dFU0VTF5ZmRYbks2LV9hSk81MENfTHZNNE43SlpXajhrRE1ESkRtNm10RVZSU3pQeWw4SFBaczI4U3dRNDU0MC1KQm12YmJIbkExSVpQUXYtMWlpV0hucGdBbTg4Zkw0blRjbDVteDdBdjRiVG1Ta083VTN0Rk5oTjgxbHBjWVZfLUNuZC1jTW5VbXdEdEJGWVdLcmZUaFBDc2NQVWpjR3ljcXZfNTQyZHlueVpKTHFKZHNoUkw4VTdHWWFtSEFfcm8xSVhGcklFSVhDemNHeGt2Yw?oc=5"
+    },
+    {
+      "id": "sweden-4",
       "source": "TVP World",
       "title": "Sweden aims to seize Russian-owned properties near military sites",
       "excerpt": "Sweden aims to seize Russian-owned properties near military sites&nbsp;&nbsp;TVP World",
@@ -8964,7 +8972,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWlJRWmRlaUpfb3l6WXQtdjk5d05tWjNOeV9xY0NmNVRkNW0xcHVtTGs5M0VPeHFldFVwMENZb2htcUgzaGExQVNXUDVfV2lzRzZYQkh4NVcyZG5HWU5ucU93S2pRUDdsUUVBTHNDMVNBdlB5d0FjMmRQLUl5VDlFNUphN3pJYVh6aWpQcmg2TDlfbWItSlpyd2t2cWwxbjg?oc=5"
     },
     {
-      "id": "sweden-4",
+      "id": "sweden-5",
       "source": "CryptoRank",
       "title": "Sweden Manufacturing PMI Slips to 55.8 in July, Signaling Slower but Steady Expansion",
       "excerpt": "Sweden Manufacturing PMI Slips to 55.8 in July, Signaling Slower but Steady Expansion&nbsp;&nbsp;CryptoRank",
@@ -8972,7 +8980,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53NURJWkxVWVpQWlFvZ3VQaFdFOU9FZmhfZUpEYkNpR29DNVRmeDN6NFltcUJBSmFXeTMxMEJ1bmxqMXNpYXZDaENTcHdFU2YzcFo3ejRoVFV0aG5TbW9yemZYcXNXVmdIRUN6eHNsdEZDVGw0MTNXbFF4SXc?oc=5"
     },
     {
-      "id": "sweden-5",
+      "id": "sweden-6",
       "source": "Devdiscourse",
       "title": "Sweden's Shift: The Rise of the Sweden Democrats",
       "excerpt": "Sweden's Shift: The Rise of the Sweden Democrats&nbsp;&nbsp;Devdiscourse",
@@ -8980,7 +8988,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcldoSGlKN0NYNFhWNzU1ZUFfX19YR29oLVRDRzNTZm42WXRZRG1SdkNMbV80anpRcTJmU2ZmbXY3RXAxNV9ZR3BwMU9XcHIzT3AwWnhIbG5Pb0V0LVBCUk5hX1pQY0tuTzAyM0tXYjZ6dEZqYUZCZXQtMkhyTFVERkNNQVNQNzlOS195MTI5eWlhbE9QbmdHaURfWjl2bUIyLVHSAacBQVVfeXFMTXBuenNfYVpJM0lMbE5tUnc3OGc4R1UxN18taDFpU0RvUDBCYWNKdVFFNFZyRm9hRUUwT2UxMmVkd0xmckptTUpVcmJBZk1ZOENjRmRqcVZNeDZtODc5R0ZxZmhmRDlmS0wyRDhlMV9lV19naGk1aHU3ckhvd3VYbE5vTlg3Q2ZiVW9XT0hiYXNEejZWeElYbTRIY1JwanJTYjVsTk1qWEE?oc=5"
     },
     {
-      "id": "sweden-6",
+      "id": "sweden-7",
       "source": "Monocle",
       "title": "Politics Briefing",
       "excerpt": "Politics Briefing&nbsp;&nbsp;Monocle",
@@ -8988,7 +8996,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUEk4TjVmdndtQUNuTGQtQmllUGR4YkQ4Nk5oczRIV05panp2eU14VDFRaTI1Nmh6Nm9LUnFSaVVJQ254LUxfM2NjZ0tIQTQxVzV1MnBvM3ZnMWFjSi1xblNQS0JkdVVQOGoydzJ0OEM5ekpYY1g3RjJxeXk2VHFIVkVqUVlWSkJTZGFSYmREa1hQa19RX3E0?oc=5"
     },
     {
-      "id": "sweden-7",
+      "id": "sweden-8",
       "source": "Finance Colombia",
       "title": "Sweden Renews Its Commitment to Colombia With a New Cooperation Strategy Through 2031",
       "excerpt": "Sweden Renews Its Commitment to Colombia With a New Cooperation Strategy Through 2031&nbsp;&nbsp;Finance Colombia",
@@ -8996,7 +9004,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFBYeFc5UjFoUzBuQTlCY3dzRFNNQVNLSWZPREE4bjRnaGV0SGhiejJPOUFGdjN0WW9qWFJ0bUhfeGs0Tm85NnZwNXVDaWUzcUNQQ1FWc3JPekNxZzRXclppc1NvWFVqaXcxeWxGYklZanYtWXVFRTJBMDRHZ3Z2YmFWOUhrdngxdGdxMDBuaTVpRnpnWVdsZjA2OXVVbmVJNkFabWNsQm1Ebm5pSUlPWTNBRHpHUmNrTVE?oc=5"
     },
     {
-      "id": "sweden-8",
+      "id": "sweden-9",
       "source": "Statista",
       "title": "Monthly central bank policy rate in Sweden 1950-2026",
       "excerpt": "Monthly central bank policy rate in Sweden 1950-2026&nbsp;&nbsp;Statista",
@@ -9004,20 +9012,12 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVzNHVXhiMFktZjcwN1VadjFjYnVNdDFPMGgyUktEcHhiUWJiOHRIa3B0QTdURG5oN3B3ZUlhdVltTm9jeXVEbFFKTklyUFJGeHR4OTd1anA4aXpVZzlIZGp6VGxYNTBkbW1XbVdoc2NxRzR2OHVMc05iSXppQS1VQU9XejhHczY5aDFJRA?oc=5"
     },
     {
-      "id": "sweden-9",
-      "source": "The Local Sweden",
-      "title": "Politics in Sweden: Will overseas Swedes decide the 2026 election?",
-      "excerpt": "Politics in Sweden: Will overseas Swedes decide the 2026 election?&nbsp;&nbsp;The Local Sweden",
-      "timestamp": "2026-07-07T13:21:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQUEQ4N3NoMEotMkFlYmF6Q2RPN3BpT3NGNzQydlhPMnVUcUhGUW56WWx0RWxIMTBCSndOVFA1UG1RaFhnOEdrTzh3REs4VWpDaUFOZHNmVnRibW1YcjNtN1FiN2otOUp1VlpXdGtGVXBJZXczYTRUTDZ3MmR4RXBFRk9faGRlQUJGSzJhZGRsUEE3S2hjUlNvbTh1eElpSENTc3Z4RmdHdksybGZvc3RiX1RjMW5HLUQxZkxBZ1hBc3drdExNRVpGZndaODlQRWJoSjU3TEEyb1NOMDBPbklxY3FmU1luM3JhbkprbjNjajhINEt0aUhSNC1NMF81elpQSGVsOVUwdU5PUGFWSmJhVFMtRzFsTEhhUllRUFpCd3FNam16a0JDamlPd3E1NFZUQWlGZUFtUzJiMWhjSkYzMGtZdGtSNW9paGxTbDZGRS1DeXFOZHRjYkJpQWl5XzhHY3J2end0dWxnMWFaWE81ZmdzZVdFZ0JuRmpoclkzbFBwakVEQllKdnZSRDZJRGZIRm1MUXR2VjBmTThpdExhQzM5OA?oc=5"
-    },
-    {
       "id": "sweden-10",
       "source": "The Local Sweden",
       "title": "Politics in Sweden: Will overseas Swedes decide the 2026 election?",
       "excerpt": "Politics in Sweden: Will overseas Swedes decide the 2026 election?&nbsp;&nbsp;The Local Sweden",
       "timestamp": "2026-07-07T13:21:45+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNeHNVcVFROHZYVTNiZkNXZmdmWXFLVzlQVEpnclRXTzJxajVYNFE2ejRSMTF5alhnX1BreDBWOWI4bHNuZGg4V1dBOHR6MUFkbWRtR3VHam1mLUl4Z25mVUdMVWNoV2duSldsSUZPSWNkR2EwQ1MzZ2NteTc2LVpTZE4yTkpwTVMyeGZpcmpFWTYyYVVraGUzUHhVVGhGVVROSnZWelVGRmhCTFhZQ0hDWWN1RHMyV3VYZ2M0QjFpTDNra2lHY0tIYUhfTHdLNE1EUzRMWjR2dUxQVzB0MTRZQ1k2ZkxhajctWVl5bi11VkwtZmY3ZjllaVBsQlJqUGxhWXZONU9sekRaLTJSZ3R6NlFXM3hyWXNmbEFBZF9tSXVoS2taT3gxaHI0Sll4cl9lRkxSV3RtNVBRaUw4MUotTnl3N29LOUFnZkl2SmJDeUd2Z25hTUg1YWliaG9PM3dQLWsyb1FteEEyb2UxTEhwdXJmcXJUZWdkT0x1VkE4aGQyc1hqSy11ZGdtck1uVG9WY2o3YU5MN25JZ3QxbFZLV01Dbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQUEQ4N3NoMEotMkFlYmF6Q2RPN3BpT3NGNzQydlhPMnVUcUhGUW56WWx0RWxIMTBCSndOVFA1UG1RaFhnOEdrTzh3REs4VWpDaUFOZHNmVnRibW1YcjNtN1FiN2otOUp1VlpXdGtGVXBJZXczYTRUTDZ3MmR4RXBFRk9faGRlQUJGSzJhZGRsUEE3S2hjUlNvbTh1eElpSENTc3Z4RmdHdksybGZvc3RiX1RjMW5HLUQxZkxBZ1hBc3drdExNRVpGZndaODlQRWJoSjU3TEEyb1NOMDBPbklxY3FmU1luM3JhbkprbjNjajhINEt0aUhSNC1NMF81elpQSGVsOVUwdU5PUGFWSmJhVFMtRzFsTEhhUllRUFpCd3FNam16a0JDamlPd3E1NFZUQWlGZUFtUzJiMWhjSkYzMGtZdGtSNW9paGxTbDZGRS1DeXFOZHRjYkJpQWl5XzhHY3J2end0dWxnMWFaWE81ZmdzZVdFZ0JuRmpoclkzbFBwakVEQllKdnZSRDZJRGZIRm1MUXR2VjBmTThpdExhQzM5OA?oc=5"
     }
   ],
   "Belarus": [
@@ -9359,6 +9359,14 @@
     },
     {
       "id": "hungary-2",
+      "source": "tvpworld.com",
+      "title": "Orbán-sacked former supreme court judge to be Hungary’s next president",
+      "excerpt": "Orbán-sacked former supreme court judge to be Hungary’s next president&nbsp;&nbsp;tvpworld.com",
+      "timestamp": "2026-08-08T13:45:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWFBmejNzLUVKZ3lXcVhEUTN0X2JWMVFTaG9wRVJWMGN1Mkw4MHgxeHZXOGhDdGpRb0toZnNoSVo4ckJXaWQ5dXRXYzdGdm9mQzJKbHAteGpNQ1RLLXNPcHpFNjRRaC1sUnBmRkFZNlk2RUNtbWxnWE8wYUhSa3lxTkMzVzhaNGEyb29WNTlJemphSzV3a1E?oc=5"
+    },
+    {
+      "id": "hungary-3",
       "source": "marketscreener.com",
       "title": "CEE ECONOMY-Hungary's annual inflation falls to 1.2%, lowest in a decade",
       "excerpt": "CEE ECONOMY-Hungary's annual inflation falls to 1.2%, lowest in a decade&nbsp;&nbsp;marketscreener.com",
@@ -9366,7 +9374,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHowcXg3MHdMMGRJNjJ3YnN0UnRPNEc0NzlSb0h0LU16LTNZdFdyTzNXcnl3VWJEV0JMWDdsX0psQlhnWTlCVnFuUkdSZ1piYmlNdUdKWFBDaWJNWGQ3ajVuZ0xyNzVhNExWN3RCYmJ4Y3JYbHNVMEVramNmY09ERVctVzdxSXZHUnoyXy1SMWZZOExvOFlHanhyblIxOGZTYUEtVE9mQnh2XzR3RVpuVWN0Z09Malg2LXFnSFdpSno?oc=5"
     },
     {
-      "id": "hungary-3",
+      "id": "hungary-4",
       "source": "ING Think",
       "title": "Hungarian economy takes a summer breather",
       "excerpt": "Hungarian economy takes a summer breather&nbsp;&nbsp;ING Think",
@@ -9374,7 +9382,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XaXVDa05ZemxyVGRONDZxdlRfRmd4SFNoaHZpLUY5RW10VkJYMGhfMWE5Y0NvQzdIQVEtbFVpRGtja29QRTV0S3E1aDhUcUlzdlBpQjhMOGl0cFRmTVJpakU5dGJ3ZGdtb3p5b1p4cWhFOFIxM3U3cHZyWQ?oc=5"
     },
     {
-      "id": "hungary-4",
+      "id": "hungary-5",
       "source": "euractiv.com",
       "title": "VOLTAGE: Danube drought questions Hungary’s energy habits",
       "excerpt": "VOLTAGE: Danube drought questions Hungary’s energy habits&nbsp;&nbsp;euractiv.com",
@@ -9382,7 +9390,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXk4N3JKT3FMVGNVc0lzT3QyTE85ZU9QOW4yaHBjR3dnaC1icHlSNVFvLVNMQTc3eTBwN3lndC1JWEEySDFldF9KcTgwN1ozY0VOM1ZtOUNiNTFKTXR3M2xWb2d3azAza2ZyRnlZRmdqRTV1OHN4S2VmNklsV29ZbXl5NllPbGtoRV85bTltdw?oc=5"
     },
     {
-      "id": "hungary-5",
+      "id": "hungary-6",
       "source": "euractiv.com",
       "title": "Hungary avoids nuclear shutdown by 'millimetres' as Danube rises",
       "excerpt": "Hungary avoids nuclear shutdown by 'millimetres' as Danube rises&nbsp;&nbsp;euractiv.com",
@@ -9390,7 +9398,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHN6ZFBJS0pMRDF0SV9ONHZ4R3RsVmY0RXNkTUR6SENIeVh2bUdZbkxsRUxJeVJnTklUWFlmUlVXQmprNnBIREFLbGhFVWFDdm51TW1qN280dU5iTDZJOHFkWWZNUTRyR1htYnhJcGVZTzI2YlB2azBJdnNxOWtTdk1jUUZKUHRkMmdmdzdsampQaGRubV8xdA?oc=5"
     },
     {
-      "id": "hungary-6",
+      "id": "hungary-7",
       "source": "euractiv.com",
       "title": "Hungary PM announces closure of nuclear plant due to heatwave",
       "excerpt": "Hungary PM announces closure of nuclear plant due to heatwave&nbsp;&nbsp;euractiv.com",
@@ -9398,7 +9406,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWpLaWJtaXp2YVkxdkJTVlVFQy1TUWtrUm1neGVKZXNTYzQ2OWZLeVdOUXlaUXE5dGY0ZGlYdlE4RWFUMDU3SnM1cUU2aUlzR1FnRGtRaWI2R2pVZG5rUDEtYkxNdG8zQ1RHamFlblZsTGNNV0FTcjJqa2VCaWpsUnNDUnN6TXc2YzZJNFNfTXJVRE8xMFFJ?oc=5"
     },
     {
-      "id": "hungary-7",
+      "id": "hungary-8",
       "source": "euractiv.com",
       "title": "Hungary leans on EU grid after nuclear plant shutdown",
       "excerpt": "Hungary leans on EU grid after nuclear plant shutdown&nbsp;&nbsp;euractiv.com",
@@ -9406,7 +9414,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFctbjdCR3RSNE1RNFJvUUs3YjdNUVJqWTZ1NlVaM2VkQzVUUF9uTExJeHNpaTZFdXRmU21pZ1d2QVVxQ0xLMTk1Y0Z1ZFAwV2JwQzh4OUJkeHJwZHgwTFlacnZaYWtKM3JfaXlPVnd0aHhFTGZKTlFReWtKbkM0YnhqQUJWMUFwTWgwTw?oc=5"
     },
     {
-      "id": "hungary-8",
+      "id": "hungary-9",
       "source": "Luxembourg Times",
       "title": "Hungary stops sole nuclear plant in test for economy and Magyar",
       "excerpt": "Hungary stops sole nuclear plant in test for economy and Magyar&nbsp;&nbsp;Luxembourg Times",
@@ -9414,20 +9422,12 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTWV0ZzFpTlhLdC1Bdmplb2JteGE1MmpLTG8tU0w3QVJ1OWtKNUc4N3lDS19hYWREZG5rVl9UVjdHNWJ2OVdneW9Wb2dqM0ZPMTVPVXZIZUd6MWtFZ2d4MXNBdnlPbl96Um9lbHExRlM3TXZSX3NOcHdsTUU5LTdSMjZ3?oc=5"
     },
     {
-      "id": "hungary-9",
+      "id": "hungary-10",
       "source": "Bloomberg.com",
       "title": "Hungary Heads to Nuclear Shutdown in Test for Economy and Magyar",
       "excerpt": "Hungary Heads to Nuclear Shutdown in Test for Economy and Magyar&nbsp;&nbsp;Bloomberg.com",
       "timestamp": "2026-08-02T06:36:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2NJVGlyWGRyZFBGLWdPUjRtcUYwdlR5U09qREFkRGItNzh6YlFaSzZxdk1zRWRCVTV6MjhpS2M4ZHNsRzEyTkRyS2IxbENIV3J5S3hYLWFzSTNpeWdQajNOZEV2d3lkaGdJbkFEQnBnSTVZSUJpZ0s4OVIxWmNFWm1jTlpUUXhhYjBEQ193WmRFSm0wcjUxRk9HUS16X0JwSUUxdldFLVJFbVN2Z3N3WDNWUmdWUQ?oc=5"
-    },
-    {
-      "id": "hungary-10",
-      "source": "TVP World",
-      "title": "Hungary faces shutdown of only nuclear plant",
-      "excerpt": "Hungary faces shutdown of only nuclear plant&nbsp;&nbsp;TVP World",
-      "timestamp": "2026-08-01T11:27:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3FLVmdZV3VwRExyNFlVTzE0SmlWMERmZW1URVRiV2dRVGl6dDhZYXVWOXEyVHYtNjhQM1RkWm5mQkZqWTlRaFNKOXhYYm8wSG9pZWpBdi1pWVhWLU1ueEtwaEdUVGJuV2lDNDd1NmRaUG9HT1hodlpkWUFlNEFPRHpXOVJIazBSYXNHTnJDWDdIUG5EdUhSU29LUjUzXzViV2c?oc=5"
     }
   ],
   "Moldova": [
@@ -14795,6 +14795,14 @@
     },
     {
       "id": "btcusd-5",
+      "source": "Forbes",
+      "title": "Bitcoin ‘9/11’—Urgent New Warning Issued As Wave Of ‘Critical’ Exploits Hits Price",
+      "excerpt": "Bitcoin ‘9/11’—Urgent New Warning Issued As Wave Of ‘Critical’ Exploits Hits Price&nbsp;&nbsp;Forbes",
+      "timestamp": "2026-08-08T08:19:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVU5wRUhScXc4MFFKbFE0WXJyckRkRzYxY0RPbnM0aE5tclQ3T3JoMDV1S0hlTlJ4d04wY01QMTNUb0VEUGRudVlRVXl5YTlaT01FOGVsMV9zUThVUmY1bEhTcEU2Q1dLbFVwU0hlV3l4dWhMcDhNTmNnZVVldEFUaHYySnJubkozQ2xNVnJMWE5wZXp0R0xjSmM5SE1GbW1zOFY0SkRkR29YTHNmTXBORFMzN0treTA5clpzdUw3WmRpeThPcEpjSURpZFVIN3RIaXlOci03TXIwZFlfYnBzdk15bm1FbkVuWVNoa2Y2NzlYdkU?oc=5"
+    },
+    {
+      "id": "btcusd-6",
       "source": "Coinpedia",
       "title": "Crypto Price Prediction: Can Bitcoin & Ethereum Reach $67,000 & $2,200 This Week?",
       "excerpt": "Crypto Price Prediction: Can Bitcoin & Ethereum Reach $67,000 & $2,200 This Week?&nbsp;&nbsp;Coinpedia",
@@ -14802,7 +14810,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0VRWWlfcWdJX1pFTGRmSHh1RkhsTmhldmx4ZTlta3pFOHBoeUNyT3N0R0NpdlluODZJQWJ1bGhSVzhxT3VabktNNWNWMXFBNzJkbHhkcHhGY3hFTXBtVVZHdDVLX1lJTmhNbUtUN0tzdF9pbWc4LW42eE12NHY2NUJCUzY1MVV6UmdfRXp5Q1djU1plN3UzaExzRWpkUF9HdzIwelFyWU9mVHNFakHSAbMBQVVfeXFMUHY0eFptaTd6M0Z3THJQQ3FiT0hzZVk2RjRGbUhwMTRGUFRaVGEwY0lyaGdvTmZmeXBXMjFLeDRfNkJiclY4YVdXS25mUDNZQ2l2TUk4YnUxTTBpZWF6RXd1NGE0YlVVUmwyZC12eE1LWUYzZlAwSXBLeVA2RlNBUU9Yc0didU5VVkc1bEJGYU5XVm5UZndQUHBvNWxpcXRBVzk4bUdwdFMyb1NmUWdjMU1adW8?oc=5"
     },
     {
-      "id": "btcusd-6",
+      "id": "btcusd-7",
       "source": "equiti.com",
       "title": "CLARITY Act Explained: What It Means for Bitcoin, Crypto Regulation and Markets",
       "excerpt": "CLARITY Act Explained: What It Means for Bitcoin, Crypto Regulation and Markets&nbsp;&nbsp;equiti.com",
@@ -14810,7 +14818,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVjZXeHJ4UDFFb2pfdi0zNUpaWGJGdElsaVdfTEIwVHVycUpwcXdxeWYzOWZtQURDZGFWUDJmNmItWkx3eGVRZ19Dc3VER3ZOMHVLcGhYQUJ1ZzYtNFJ0RmRlczhoWkxrdGxTWkMzNzMwbG9sa2JSblR5UzZycmJlbV9lQ0tfc1gzYU5wRng1a09EeDViVWZ5eUZvX05RSXlsZWhyeE45c2liYi1qOTdZdFZUclo3U0p5V1ZLWkpkWnY4RklpR3Q2YkVzWk9RREVTRW5nbFZfZjdtSmJNSzh6al9kcVNuMnhfVUtDZTFna0prdzJ5c08wa0tFbXY5R0FmeFE?oc=5"
     },
     {
-      "id": "btcusd-7",
+      "id": "btcusd-8",
       "source": "thestreet.com",
       "title": "Bitcoin price today: August 7, 2026",
       "excerpt": "Bitcoin price today: August 7, 2026&nbsp;&nbsp;thestreet.com",
@@ -14818,7 +14826,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQblJwU0RSUjhheEhTZHh0ZVBIUDhiQXlCam1GSnV3LWJnTXJUQUpmY2hsMVdJRWhUYkRQZ0Z5SVhDV2poS01FME5qa2M3OXkxckRHZ0d5b3dXWDNVLUd4X3JzMnJOQWRSdUhXSHoxLXJwS3JYSEl0QVV4OWY3MXdRUVpR?oc=5"
     },
     {
-      "id": "btcusd-8",
+      "id": "btcusd-9",
       "source": "Cointribune",
       "title": "Bitcoin's Next Rally May Depend On One Vote In Washington",
       "excerpt": "Bitcoin's Next Rally May Depend On One Vote In Washington&nbsp;&nbsp;Cointribune",
@@ -14826,20 +14834,12 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWldQM0FYVWVKRjM4VmtraVB2OUNWMEhfdU5saUt4b1JFbjhlS3BEaUlRcHlSdUVUbVhjT2w4NHlzT3lHNEg1a1FhTlFVOXF0N1Z0NW5xZ3RJY0FtbUFzcGh6eXZ4ZGRaUG95TWwwM0dWaXI4VnlSNnFXd1ZvaGpQeGVhSU5tNWg5MUcw?oc=5"
     },
     {
-      "id": "btcusd-9",
+      "id": "btcusd-10",
       "source": "CryptoRank",
       "title": "Gold vs Bitcoin Price Prediction: Recovery Gains Traction After Unexpected NFP Decline",
       "excerpt": "Gold vs Bitcoin Price Prediction: Recovery Gains Traction After Unexpected NFP Decline&nbsp;&nbsp;CryptoRank",
       "timestamp": "2026-08-07T18:56:01+00:00",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWZsWmpxTEZmNzFYai1VNUJrd3RiVUR6dEFtaGVTb2hoZnFkYmJoUXZqdDM2c0ZLX0gtXzhFWENiMGJVbzVEcjFseloyVENQT2hVUlV5N2FjbE82S01NZE9zWlU2MlUtTnJBWjllOTBQY0NtVm84dFVHRkFaLURGSzlyT0czM2xJa3RF?oc=5"
-    },
-    {
-      "id": "btcusd-10",
-      "source": "Modern Diplomacy",
-      "title": "Senate Shelves Crypto Market-Structure Bill, But Wall Street Keeps Buying Bitcoin",
-      "excerpt": "Senate Shelves Crypto Market-Structure Bill, But Wall Street Keeps Buying Bitcoin&nbsp;&nbsp;Modern Diplomacy",
-      "timestamp": "2026-08-07T18:41:31+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMTJUcHFHLUVEYzhaaXlkNW1JNzM1Q0F3NUg3T2loSVNBUjJpR2p0Vm9HTmdMOUk0eDlZR0ZocHhJS3NfQmFHa0JzVGx1QnlSand4Y0s0ZHQwR3FyN1dVc29PYnFIM2N5bkpWX3Eta1RiZW1UNUhGOUhEM2o1MVBZWExGazJpQzZHOEZJ?oc=5"
     }
   ],
   "EUR/USD": [
