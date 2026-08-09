@@ -7055,6 +7055,14 @@
   "Iraq": [
     {
       "id": "iraq-1",
+      "source": "Kurdistan24",
+      "title": "Former Iraq Finance Minister Taif Sami Summoned by Court",
+      "excerpt": "Former Iraq Finance Minister Taif Sami Summoned by Court&nbsp;&nbsp;Kurdistan24",
+      "timestamp": "2026-08-09T19:23:25+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbkRfNVNpRUVJTTVLMnM3eUgxNjBwOXNYXy1uU0Y2ODN6TTl2UkpxTEE5MDlINmpadXpuR3drR2JLc003eEVHN1U1VGZYNmJSTkdmMVpTejJ3Q1RRRmlmdWpKRjVnc2Q5cWJudkNUT0tzdWM2YUhmUDRhT2tTQ1h0aVJwci0tc1FndFVnTHAtcXBwR2Vacl8zU3RFVFpMeVpLNmc?oc=5"
+    },
+    {
+      "id": "iraq-2",
       "source": "Iraqi News",
       "title": "Iraq steps up digital transformation of banking and customs",
       "excerpt": "Iraq steps up digital transformation of banking and customs&nbsp;&nbsp;Iraqi News",
@@ -7062,20 +7070,12 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLWttWlJCckswN0R4VFFaREVfd2JJLXdjXzQ0ZVdibjlyX2NYeTNvQnZ3N0hXb3J0QlotZkFwNFRYSWR2TWtxcGJXSWpETjFUSFhIUWNRaUxNTEgyWjNkQlVJYWh2dEk5dGZ2OTJ1cThGeXc2ZnNPTGhWNjFSU3hwczVTWEZWWFF4RU5jeVlSYnVybmR1Qnc?oc=5"
     },
     {
-      "id": "iraq-2",
+      "id": "iraq-3",
       "source": "Iraqi News",
       "title": "Former Iraq finance minister Taif Sami summoned in widening corruption probe",
       "excerpt": "Former Iraq finance minister Taif Sami summoned in widening corruption probe&nbsp;&nbsp;Iraqi News",
       "timestamp": "2026-08-09T17:59:32+00:00",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT2V5UUs4VFJPNHBrTkhHaWhvWGk4TURQcnprZThlcl9aUGRLZEF5U3F6UU1iaXJnYUxnMm5BYXliVFBkLXhkUjVXanpNc0UwZ2lXR0RBMWptNHBDWVNHUjM0N09OaWtIQ1hvZ3UweGxKUjIyYzJ6LVphdmxUeXBuS0F4TTBpWkRJOE96bDdYS24tejNXUklGZ0RvcVNmc0tPUmZYWkM2YmtieElM?oc=5"
-    },
-    {
-      "id": "iraq-3",
-      "source": "Kurdistan24",
-      "title": "Former Iraq Finance Minister Taif Sami Summoned by Court",
-      "excerpt": "Former Iraq Finance Minister Taif Sami Summoned by Court&nbsp;&nbsp;Kurdistan24",
-      "timestamp": "2026-08-09T16:24:19+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbkRfNVNpRUVJTTVLMnM3eUgxNjBwOXNYXy1uU0Y2ODN6TTl2UkpxTEE5MDlINmpadXpuR3drR2JLc003eEVHN1U1VGZYNmJSTkdmMVpTejJ3Q1RRRmlmdWpKRjVnc2Q5cWJudkNUT0tzdWM2YUhmUDRhT2tTQ1h0aVJwci0tc1FndFVnTHAtcXBwR2Vacl8zU3RFVFpMeVpLNmc?oc=5"
     },
     {
       "id": "iraq-4",
@@ -8703,6 +8703,14 @@
     },
     {
       "id": "iran-2",
+      "source": "The Independent",
+      "title": "Trump foe vows he’s ‘prepared to support a bad deal’ to end war in Iran",
+      "excerpt": "Trump foe vows he’s ‘prepared to support a bad deal’ to end war in Iran&nbsp;&nbsp;The Independent",
+      "timestamp": "2026-08-09T17:39:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3hEeWN1SmdOUG12TmU3MlBOVzlveTV4NkZRdTNOMEQ2V2k4VVQ1bFdhRThITGVabGZjd1F4RG1EbFZLRnVkYU1hRmZmdUFNV3NvRUdMUjVvM1g2NkJ4RnFzOTF6SXhuLXoxYUNyT2lOZENuaVpCOHpHLXJRendyU0Q0cnE5TG9GRWRoN3BQOC1lTGozZjFRVUNrV3FJOFh0SjRwbXdXN1VTVktmX0dR?oc=5"
+    },
+    {
+      "id": "iran-3",
       "source": "Al Jazeera",
       "title": "‘The wealthy poor’: Soaring food prices hurt Iranian families",
       "excerpt": "‘The wealthy poor’: Soaring food prices hurt Iranian families&nbsp;&nbsp;Al Jazeera",
@@ -8710,7 +8718,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYUVjMWNVb0hQdm85TTB4VURsbVRJem05RUxWaktwNGR5dklzWkJfclJONDVuSTY0ZG81QWk4X2xaTE5VSm1wU2lVY1hEOENLaHFRVmtOeEFfdFpXekNYa2dJbXA5MElFeUJQa3BfNllVSWZEc2c2VzV5M1BTN3RSR2lfOGhVZEFNZ0ZMcHllX3Z5dnFJaW1pRWtQWUVMb3FPTGNsZ9IBqgFBVV95cUxNaDdVR0t6am5uVUVRc2NZSjRtWllDdHZWWThsNU1BYW9UcGYwc2wycHBmMnhSNE5mYV9FbG1ldnpkdzJKN2RvTHk3cEduN3NzSDFYN0tFNlptR0dzREFwRC1MbUxpaFpnRFFNY3BnUmg4d3liWG5OUENkT2pmSWpRQmRqSy1sRlp6VW9pdl9OWW9jYnBwZ2ZXcnFtaGZ1bDlIUU9fOFc1MFAwUQ?oc=5"
     },
     {
-      "id": "iran-3",
+      "id": "iran-4",
       "source": "Fortune",
       "title": "Iranian officials worry the US blockade will cause an economic collapse and seek sanctions relief",
       "excerpt": "Iranian officials worry the US blockade will cause an economic collapse and seek sanctions relief&nbsp;&nbsp;Fortune",
@@ -8718,7 +8726,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOEt4djBYanhfMnpmVkwzZUZ4YlNieHloTnJQcWRxdUJqM3M1bDNScUYxUl8zNjVfX1dHRTM3RmptMFFWVmdXSTdvcERRZ3Z1SmY2UlRsMXVON3FYZk5KX0ZER0VyNU9XdlBuUkcwVzNYNWZNUnVnSGhwajNEaWFYUUg2b3BFb3RPcXdHZDcwdk5uMFBLcndPa211VUo?oc=5"
     },
     {
-      "id": "iran-4",
+      "id": "iran-5",
       "source": "The New York Times",
       "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
       "excerpt": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.&nbsp;&nbsp;The New York Times",
@@ -8726,7 +8734,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDRyVjBzeURLWk9yNUJXWUdCTHp1LS1KZGxUWGxKWm14TThoTVduQ1o3NnAteFg2SExBY2V1ZUdXbzRCMUw2THdscGJ4dWdWOFdBVU5KLUF2eFQ0TlhWLUpENVYxbjJOaTVLZGtJMjBBZjVvVTNSZ3JoZDl2cTJacTkzZVdWX2RJaWtLVkN4a1JDSGEza1Nn?oc=5"
     },
     {
-      "id": "iran-5",
+      "id": "iran-6",
       "source": "latimes.com",
       "title": "Iran believes time is on its side in the war with the U.S. But its strategy carries great risks",
       "excerpt": "Iran believes time is on its side in the war with the U.S. But its strategy carries great risks&nbsp;&nbsp;latimes.com",
@@ -8734,7 +8742,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWWcxcUJFRkY0WmV0b2xQa2VuVkZHMHpneTVYOXBMVHFDOHZmN2d5ajBBNmhra04zbDJCM2twZFZSZ3hLbnMzZWVGLWpkNGlySVdtXzZJLTRodTVnQ1VIcHdHVzdXekZzeTNoTkRpRnEza0pfZk53dHlfTTJjS2R0cGtrRXVYUHNFbWlFOGg1bkNlXy1LdlVnZzlHZGNSVW5FWVE3NlBieWlVb1Y2dDNtR2tzQ1lZZk56T3c?oc=5"
     },
     {
-      "id": "iran-6",
+      "id": "iran-7",
       "source": "EA WorldView",
       "title": "US War on Iran, Day 163: Trump’s Top General Seeks “Off Ramp”",
       "excerpt": "US War on Iran, Day 163: Trump’s Top General Seeks “Off Ramp”&nbsp;&nbsp;EA WorldView",
@@ -8742,7 +8750,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzZpd0JSVnV5MWplZ2lEWUpQSG1NWF9aUzA5RklPRGoyMHVkQlV5NWVvd1poUjFLZlpfSzZMajlQM2NwN0Y4c2RkUXlueExEWDRicVBJMlZHUTZmQ1RzZnZNZU9NYnlUZ25GYlVPbUhnQ0Y5ZlVLQ09kSUQ2cVU3dHBSS0I0Vk9uc3gtdw?oc=5"
     },
     {
-      "id": "iran-7",
+      "id": "iran-8",
       "source": "bostonglobe.com",
       "title": "Iran’s leaders think they have Trump cornered, but their strategy carries great risks",
       "excerpt": "Iran’s leaders think they have Trump cornered, but their strategy carries great risks&nbsp;&nbsp;bostonglobe.com",
@@ -8750,7 +8758,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjFnTEZhWXY1dktpSnNEaDRkWlRhbDAwUUxlTmFRY2xkeVhINEFLR1p3M2FaYXhpeDhQRWdOeWJwV3VGVUdhbDRTZ0JtdmtBSVlzV1RqTDdzWDNPUXRmd0ExYjU2TnhCNWxTX21DVEhJeVAzdTQwUlVsd1hobXpDMlJXRl82QnJpNWg5cUNhMXM1Zw?oc=5"
     },
     {
-      "id": "iran-8",
+      "id": "iran-9",
       "source": "The Washington Post",
       "title": "Tracking Trump: Iran and Oman near Hormuz deal; court upholds order stopping Trump’s ballroom; economy lost 23,000 jobs; and more",
       "excerpt": "Tracking Trump: Iran and Oman near Hormuz deal; court upholds order stopping Trump’s ballroom; economy lost 23,000 jobs; and more&nbsp;&nbsp;The Washington Post",
@@ -8758,20 +8766,12 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVjFvMHdKYWRPaU4xUHJEc3huQlVKRGFIU01fNkI1Znh3QjhCek1lRnllenloZ2d3eFlKRlAtMFRjQ3kzaFVfOVJ2SXRacGJfVVpoa0RCVE1sdXZXWFk4dWpvRG11TjQwTzhwZFJ1Rjl2cC1JZ3R1cHNRamFZeWRHbVFPVUFfdGFrSWtCdVU2VjdNRWE0QU5FOE9FUV9KZFpEVkxfR283SUR5eGZuOTRkNDBKb2pVQkJ5b3JFckd4OF9qaU9aZkstY2lIWHFwaEg5UjIzZE1kaUhZeWFOQlRpOE5Wd0lqRUdNZXpOSENQY3R5ZV9lZW9GTzI4Y1lTU1lpTFF3LQ?oc=5"
     },
     {
-      "id": "iran-9",
+      "id": "iran-10",
       "source": "EA WorldView",
       "title": "A Legitimate Regime In Iran? The Politics of the Supreme Leader’s Funeral",
       "excerpt": "A Legitimate Regime In Iran? The Politics of the Supreme Leader’s Funeral&nbsp;&nbsp;EA WorldView",
       "timestamp": "2026-08-07T23:01:54+00:00",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55c2JyenVoYTByWERvZElJaDBzLVc0RUdYbW80SllxZVdQa1pVbVl6cno2VUZTYXViemFYSlhjS1h0LXY2cHpJNm0xM01rY2RXQVJlaUt0dDlIWERibmtiMDdURkZsbGdPa2U2MlRzaG14UQ?oc=5"
-    },
-    {
-      "id": "iran-10",
-      "source": "CBS News",
-      "title": "U.S. targets Iran's banking system, companies with new sanctions",
-      "excerpt": "U.S. targets Iran's banking system, companies with new sanctions&nbsp;&nbsp;CBS News",
-      "timestamp": "2026-08-07T22:51:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVWtwNGVMaEZpOFF0ZGNHUENmelBXa1d0d3BaYzFJeWx6T3dGQlozOWl0aDFYZm94QUdUVkpKUXhnN0pjLUZwWkhhLS1RVHFXNWMxMlpXbWY3TmZ5NlpMS3NqYjc5enYtc05MemV0RDc3MzlYY1NrUnZSbno5M0xLNHBsX0I?oc=5"
     }
   ],
   "Syria": [
@@ -9761,6 +9761,14 @@
   "Estonia": [
     {
       "id": "estonia-1",
+      "source": "Latvian Public Media",
+      "title": "Foreign Affairs Committees of Estonia, Latvia, Lithuania and Türkiye meet in Tallinn / Article",
+      "excerpt": "Foreign Affairs Committees of Estonia, Latvia, Lithuania and Türkiye meet in Tallinn / Article&nbsp;&nbsp;Latvian Public Media",
+      "timestamp": "2026-08-08T18:31:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNDIwZFVfVDBjRzY1MHhibUlBVjlxamMxR0w4R1B4c0RwZnp0b2pfT2ZJamdKQkhfanp2UDYwdy1vaGZhWTZKNTFaTktURE5hT0xaNmpvUHdfSWtVdlNVMlYxcUtrT3Z0c25LaW5Hd0JMVHk5dXo2RzgyNGM0eWNsb0xVd3hMeExpeU1HQXpsbEEwT2tRUW1KM3RQRGZITEozZUdJV01Oamxoc2JUbUtfZUtYeHhJaVFCaVpzRlFHZGlPNU5Id0lTWTc0ZXpMbldSbmMtNzJUSldHQktrT2pEcE53?oc=5"
+    },
+    {
+      "id": "estonia-2",
       "source": "trend.az",
       "title": "Azerbaijan appoints new ambassador to Estonia",
       "excerpt": "Azerbaijan appoints new ambassador to Estonia&nbsp;&nbsp;trend.az",
@@ -9768,7 +9776,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nbVNJbkFzY1phS2FPUjB5ZHZsakJxbjBsRlI1bDRoRUhMS2JvR1FvOWhTakJ3SXhCNkx5UGNuQmxrVXp1ZUJKNWp2T2NTN214VVNmeHQ1c3lCd2x6Q3cwcS1hZw?oc=5"
     },
     {
-      "id": "estonia-2",
+      "id": "estonia-3",
       "source": "Armenpress",
       "title": "Estonia’s FM congratulates Mirzoyan on reappointment as Armenia’s foreign minister",
       "excerpt": "Estonia’s FM congratulates Mirzoyan on reappointment as Armenia’s foreign minister&nbsp;&nbsp;Armenpress",
@@ -9776,7 +9784,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84RkEySlVoX2hlVFdXQjZDdVNHXy1jX3hJRGZVcW90QXVCdkN6dlFZRkhPYzBLUHc3LXBvaXV3S3BDZW1XSHd4VGFQODY0YWZkSGfSAVdBVV95cUxQNzI4ODFiS3RQLXlmaExrM3NnbXUzSG1SU04xM0dIR1BsbTlkZG1tY1lESTBHMTJyR2Z6T3VsWWdWZUNkS1hDdXVTallOVFhoeVlQbEtYNm8?oc=5"
     },
     {
-      "id": "estonia-3",
+      "id": "estonia-4",
       "source": "Azərtac",
       "title": "Azerbaijani FM meets with Estonian ambassador",
       "excerpt": "Azerbaijani FM meets with Estonian ambassador&nbsp;&nbsp;Azərtac",
@@ -9784,7 +9792,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWDZ1T3dQaUJDMU95Q3BHRDlGYmVGZnRSbE4zYUNMSWZncW83MU9sZGlyYnRpdlB4bGt5QWtuN2ZGcUpYbDZQellBd2JMZFZtOExjVG1qRG9jRmRyak9RYXZSZm5NOVJPN2xOSW1SU1Q2QndPZVI2WlpPNVUyclUtM2hGMzU3S1Nk?oc=5"
     },
     {
-      "id": "estonia-4",
+      "id": "estonia-5",
       "source": "eng.lsm.lv",
       "title": "Estonia frustrated by Latvia's dithering on Rail Baltica / Article",
       "excerpt": "Estonia frustrated by Latvia's dithering on Rail Baltica / Article&nbsp;&nbsp;eng.lsm.lv",
@@ -9792,7 +9800,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV2NWZjc5WFA4VlBWaXdXd2pySXJzVUxiLWk4UXhGZ1lYUzBCczdpblBKTFZWajd4YU9CWWg3RUxfeTlIbXhneFRrMk9CaFdRSHh5YmNlRHo2WWxwblBPTTZiM3h4b2FrQmo3YmViS3JoaF9TOEY1WnQ4ZUZiVWZ1U2R5LUJtSUpXVGFiNmhzZkdPQTcwYklQOTFWMkdUak5mRDdhUWdlQ0htamlSXzRMeWcyZTB6V1JkQ0xNTA?oc=5"
     },
     {
-      "id": "estonia-5",
+      "id": "estonia-6",
       "source": "ANSA",
       "title": "Turkey deploys five F-16s in Estonia for NATO mission",
       "excerpt": "Turkey deploys five F-16s in Estonia for NATO mission&nbsp;&nbsp;ANSA",
@@ -9800,7 +9808,7 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTXg2d2x4d3dnNmd6RldVWmhIR0hLTmlldFlKTkZXN1lrcHJqSXNIZE1lTndCTEZ2Q002YnVVbERUVDdRUGN2ZGFFcjJlNFUyR3J0YXVRSlBmdXBZX0dZMXhFbWx5amhFMGd6cFZIZC16azRqSW9mTXlWbUtQZFVkT09GYjRLNjY3d0YzcUd3eVpTYnNYZUpGVURuMWs2ZFZaQ1cyb29WZ2NJbmpyMGh1TG5tTjNpbGtqMFB3cFBTNVVTYWhCSlMxUTFVTm9VRGg2aWlkVWVmcVdlb1o1U183cGRTYm9FX09tT1RiekhRMTNJVmRLQ0pZc9IB_gFBVV95cUxPeUNBX3VYOXB3cWwzekRMYzJsek1JanV2OF8yOFlodXZJWElybUpqZGlDZ3ZFSWFSZlRqc2g5XzNGR3pmejMybXhybk9mc1UxSVJqRlhfQWVyWFZVRFVEeTRHVUFyX0hjbTJUdmwwZ2dXRE9vQjgyTGYxNlBKUnBlb3lyeU8yNWVZT0M1em1zUlZfREM4V2JLNVo3VWwxWEpxc1VMV1k4YmNvdC1zdXFaMHVzdEw5aU5qTU5Jc3ZLOTFxQWpiUXF5b21FdEloSjl5dnVVYXRLYVpHQW81LWVEalBlNE95bm8zTDJhM2RwRWlmakFZYkhJbzZkR1hBdw?oc=5"
     },
     {
-      "id": "estonia-6",
+      "id": "estonia-7",
       "source": "ERR",
       "title": "Bank of Estonia expert: Russia's economy is approaching stagnation",
       "excerpt": "Bank of Estonia expert: Russia's economy is approaching stagnation&nbsp;&nbsp;ERR",
@@ -9808,7 +9816,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdi1VaHdUZnZNdUpqaEtTV2dhVEVOSi1sZ3BjekMwZ3RNODExMS1DbUx1N2lBa3lyTW9zaDY3TVFlbi1BT1NQMnVVdWZxR1h2c0YyWEJuUTJzS2ZGWllvT0JNQkFKRy0yTGNPb0N1QXI5TjdGQl80VEtwNGs0STUtLXQ1NU8tSG5MTUVLTUtnZHl0ZUxEV1h6N25SLVI?oc=5"
     },
     {
-      "id": "estonia-7",
+      "id": "estonia-8",
       "source": "New Eastern Europe",
       "title": "“Transformed into memories” – How Estonia’s Setos are navigating a modernizing world, and geopolitics",
       "excerpt": "“Transformed into memories” – How Estonia’s Setos are navigating a modernizing world, and geopolitics&nbsp;&nbsp;New Eastern Europe",
@@ -9816,7 +9824,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZXUwX1RVeHRyNi1tenJXZTVyQVFHYXh4TzhsRXlZSmNhSVdPeExHYV9XQzEzUjZqdGoyNWZEanVzMEhJQ2JsdUtqTWQyNDhuRjRYR05idVg3b1JHUzlDOHlwYmdqX2JSTXNDU0dFdUZialhrbFBjbEhVajBYcl9sc3Y2OHlNbllQbHNKcHVENl9xVXRkdHA4U2p5TFotLUFRTS1FNmxqTkFURk5BVHBVSlQwWjY0WkoyUVUyckRRdE81SGxNSm9raEZpSUpMZ1Vo?oc=5"
     },
     {
-      "id": "estonia-8",
+      "id": "estonia-9",
       "source": "LSM",
       "title": "Russia doubles rail freight tariffs for Latvia, Estonia, Finland / Article",
       "excerpt": "Russia doubles rail freight tariffs for Latvia, Estonia, Finland / Article&nbsp;&nbsp;LSM",
@@ -9824,20 +9832,12 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTDE0eGJxaUZfdFZER0tJZDI2NlVwUWxGMVE1VUFkU3JKaGFNV21lMVNGc0tPYXFqMEd0aWIzakM0VXBLRDY2ZkUtTVF5aGJucFJhUmJLRW94dVIyNldrZ1VpVlNxV3J1QXhwVzY4MEdZTllsd0IzbU5aa2RUVUNZZFI3VFNqWnV1OUxMV29mRmx6NmVkZ0dqbEtnbVp3WDN5V2ppVGlwMW81aTdjNjROUGJ3ZncxeHFjVDQ5aVYwSC1UUlpjVnc?oc=5"
     },
     {
-      "id": "estonia-9",
+      "id": "estonia-10",
       "source": "The Baltic Times",
       "title": "Estonia's quiet presidential race could shake up politics",
       "excerpt": "Estonia's quiet presidential race could shake up politics&nbsp;&nbsp;The Baltic Times",
       "timestamp": "2026-07-20T12:08:07+00:00",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXpxSnU0RVpZcGJPeEtpSWIzTGZRd3ZaZ2pDVnZfdWVFb2ppNzhhdGdFaERhbTFWNmhPbERmdkNQaFlaT1JVazNHT2FfMlM3TUw3bi1ENW1GckJiN0h5eTItWGZaVTJZQ0xmdU5uc2ViZ21QTVd0RGJkUHVZM1J2VnNudERsTXJyV01SRlRwMA?oc=5"
-    },
-    {
-      "id": "estonia-10",
-      "source": "Fibre2Fashion",
-      "title": "India, Estonia strengthen digital economy partnership",
-      "excerpt": "India, Estonia strengthen digital economy partnership&nbsp;&nbsp;Fibre2Fashion",
-      "timestamp": "2026-07-20T07:47:03+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcXZqMGZtMkNTRDZxOHFRWUVDQVItbzI5MEJleHlRMHBxckpQWmpSbWNJRnNTV3hrRG4wVS1WcTFKWDRpeEMtRGM4bTJfZ2FlRjJsbWFkNjUtTEFYdEZ0YVN3ckdVa1hOOVRRejhIZUJ5eVRaUjNYdVFiYURqUGVrN0xBNVROODJvLTBjRXVGZk9xWmJQNEhzMUN0YkVHOThyWmI4VG5zNnVjWEFJQ1NfRmRxYXFiVFlNVkt2Qm5tblo?oc=5"
     }
   ],
   "Germany": [
@@ -14573,6 +14573,14 @@
     },
     {
       "id": "wtiusd-8",
+      "source": "Forbes",
+      "title": "Oil Prices Retreat As Demand Signals Weigh On Markets",
+      "excerpt": "Oil Prices Retreat As Demand Signals Weigh On Markets&nbsp;&nbsp;Forbes",
+      "timestamp": "2026-08-07T12:48:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zbGdnNE5iUG5XWGtzTjBLVkppRGlTVFBna0pZZld3RVFpa2drNlROOW5QLXdqODFGdFY2ZU1Md1NFcDRVcFJmNC0wNGFvSTVhQm4tVzZhbmtxSDhnYUtpNUV4bVNaUDN5a2c?oc=5"
+    },
+    {
+      "id": "wtiusd-9",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "title": "Oil Prices Tumble as Traders Price In a Strait of Hormuz Breakthrough",
       "excerpt": "Oil Prices Tumble as Traders Price In a Strait of Hormuz Breakthrough&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
@@ -14580,20 +14588,12 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1p6X2J1czlGLUNkN0pYQl92d0tqa0hFR0VBdVZKc0IzcFlmMlR2aEQ5WnJGVU81dVZQTTVpNEhPdUkzdklVOXlWZXBxblYyMnJzYzNHSmc1MnlsbXVPbV9jMUJxYjNpWE11Rk5tc05Gdl9jMjVySUxPUUtwWVg5enI0Rjk5WG9icUR1U295LTQyeWs2MXg3cXVrWTJpY2FhOEpEWGhrdEJYaUdRcmJUR25MVUlST1ZN0gG-AUFVX3lxTE1rZXg5OGcyaWhab0FwdnBaT05SOHk3ZlNxS2MyTmhVMkF0QVVJTDItNjVweUtGd1Vtek1QRUJseFdpeUQwYTVlbHFXR2NBNUQyUjZad0pxR05laHdEWUJ2YXNPcTgySVhsZ2VqdHp3Y21DOUVtNTNmU2puWWJhaFlfNGRrNmFhTXg2VGlmX2kyX0RDaFdkY2pzcnFFVmkxcTQyMDh4Y1RyajVqZWdQNmFLMndGeXlVbHpqRUVzeUE?oc=5"
     },
     {
-      "id": "wtiusd-9",
+      "id": "wtiusd-10",
       "source": "Fortune",
       "title": "Current price of oil as of August 7, 2026",
       "excerpt": "Current price of oil as of August 7, 2026&nbsp;&nbsp;Fortune",
       "timestamp": "2026-08-07T09:22:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9teXkydUFkUVVQNTdIRmo4aWxuS1pSZkg1MlhXNjNTLXVjZHY1NldjeVUtdDYyMTYxa1BicUZ3U0VxbzB5dm1xb2Vtb3Z6QUlYQVNGVDVsMUFVR2gyQzVvTnp3?oc=5"
-    },
-    {
-      "id": "wtiusd-10",
-      "source": "WRNJ Radio",
-      "title": "National average gas price falls to $4.06 as crude oil prices ease, AAA says",
-      "excerpt": "National average gas price falls to $4.06 as crude oil prices ease, AAA says&nbsp;&nbsp;WRNJ Radio",
-      "timestamp": "2026-08-07T08:46:06+00:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbkEtdlp2bnp3dFo5bzdrTlZFbDlTdXd6OHVpQjJjSThlakt6QW9BNERHMjJReGxQRjFYcXVTTGhkanRjUFBJUG54OTVqSkxDTkZQY0VZbXBYdlV2Ykk1MUpLNzJZal9XUGFjNDg2SlVFeC1YeEpGZFpMQlZOWEpKOEJCQ2VEY1hvUTYwUDUxRkdrcG5GdW9LYU01OTdIQQ?oc=5"
     }
   ],
   "SPX": [
