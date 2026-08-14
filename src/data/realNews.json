@@ -248,10 +248,10 @@
   "Canada": [
     {
       "id": "canada-1",
-      "source": "CBC",
-      "title": "Canada, U.S. trade officials meeting again for talks ahead of looming tariff deadline",
-      "excerpt": "Canada, U.S. trade officials meeting again for talks ahead of looming tariff deadline&nbsp;&nbsp;CBC",
-      "timestamp": "2026-08-13T20:43:15+00:00",
+      "source": "cbc.ca",
+      "title": "Carney, Trump to be given 'options' following latest trade talks, says U.S. rep",
+      "excerpt": "Carney, Trump to be given 'options' following latest trade talks, says U.S. rep&nbsp;&nbsp;cbc.ca",
+      "timestamp": "2026-08-13T22:58:38+00:00",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbEdMbXFFdVM4MEZ1MDZqMTk1bVIxMjJQZmV1VlNVWm01UXNEWlZpQ1htRVhudHJEc3VfdDhldW5Gc0VUVTBJVENmUjdlY1pBRnNhQW1ha0c1ZUJSUWhLa3dHUm9UUFhudlppV3JSWDR6OHE4OG9NZ1lLSnE5M0thVUZyX3dpMlpJVjBYcHZRREZBM0hRdDBFLUJIcW44ODBQd2pSQTU2ZjdZYVZoZVE?oc=5"
     },
     {
@@ -494,6 +494,14 @@
   "Uzbekistan": [
     {
       "id": "uzbekist-1",
+      "source": "trend.az",
+      "title": "Uzbekistan's tourism set to account for 6.1% of economy in 2026 - WTTC",
+      "excerpt": "Uzbekistan's tourism set to account for 6.1% of economy in 2026 - WTTC&nbsp;&nbsp;trend.az",
+      "timestamp": "2026-08-13T23:13:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fbURTS0Vvb3VHYUdKQ052bzVPZUo4X04wdUFkNXNsRzc5WllRT0xvY2xKNGtzWFZhb1hGWlB6dnJRWndRcThuS1Q4TFZaNTYtNXJCSkRXM1RhNjQ1YW9v?oc=5"
+    },
+    {
+      "id": "uzbekist-2",
       "source": "Kursiv Media Узбекистан",
       "title": "Uzbek household debt tops $19bn as Central Bank sounds alarm",
       "excerpt": "Uzbek household debt tops $19bn as Central Bank sounds alarm&nbsp;&nbsp;Kursiv Media Узбекистан",
@@ -501,7 +509,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjZGbGVqOE9wWGpsNXJWQUdIR2pPYTV6M1Q5cjExRVZKYVVfVndFcUVTSHJFNDc2d1JzYmVzZDJLRXZIaFhOMDlSV05QOElPX2FHX3FiRXNPUko2STB5eFQwY095eFZTTWo4WkpMNy0wdmZiWkZnd25xU1h3T08yUzk2QnBvRVRX?oc=5"
     },
     {
-      "id": "uzbekist-2",
+      "id": "uzbekist-3",
       "source": "trend.az",
       "title": "Uzbekistan’s gold-driven economy gets boost from bullion rally",
       "excerpt": "Uzbekistan’s gold-driven economy gets boost from bullion rally&nbsp;&nbsp;trend.az",
@@ -509,7 +517,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYYzMtLWtocFJyZDA2OFNwQkNqdUY0V3RISjdnNDNod2pVUnNJTktGZGRvb2Vvby16bm5VUW1Uakt0VkdzSWRqeFF4UG83YTFfVi0wSFE1UTdtY19CMTZN?oc=5"
     },
     {
-      "id": "uzbekist-3",
+      "id": "uzbekist-4",
       "source": "UzDaily.uz",
       "title": "Uzbekistan Central Bank Warns of Rising Household Debt",
       "excerpt": "Uzbekistan Central Bank Warns of Rising Household Debt&nbsp;&nbsp;UzDaily.uz",
@@ -517,7 +525,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmY3S1NRMnRqdjd1TVpfVHJiVWpsWlhNUmNWamIzWUU1UGdVUkdqRnpVOE5oZVFKeWhQQmZFOFdjLXZ0NlJhSnNVMnpGOVF0YXpJc0FlTkgxT0k3RmxHemRMX0gyYjhpM1ZndmFGcndCc19LSTh0Zm1pZlB4Q0ZkVzFaUDlRYmh3?oc=5"
     },
     {
-      "id": "uzbekist-4",
+      "id": "uzbekist-5",
       "source": "trend.az",
       "title": "Uzbekistan Central Bank cuts securities portfolio by $1.1 billion",
       "excerpt": "Uzbekistan Central Bank cuts securities portfolio by $1.1 billion&nbsp;&nbsp;trend.az",
@@ -525,7 +533,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NRU9WcHVVLUoydmI4V3RUalB2S2RjR0h4TWZmWWNhbmpHalJmMmttallIaWZuMzYzMndXRVdoVk1PWkVYT2lvdk55Z0hGSkJhWnJvak4ybUd6MVhMdHQ4?oc=5"
     },
     {
-      "id": "uzbekist-5",
+      "id": "uzbekist-6",
       "source": "Dunyo.info",
       "title": "Investments in the economy of Uzbekistan approached UZS 340 Trillion in the first half of the year",
       "excerpt": "Investments in the economy of Uzbekistan approached UZS 340 Trillion in the first half of the year&nbsp;&nbsp;Dunyo.info",
@@ -533,7 +541,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYjVCOWZOaEdCZ0xnTHBrakhJQjNSWmVURmRCN0RHcTZjT1pKZUlEWmwyUEVkUXBEdS1XV2FZM3dlRnczZno0bWd5bW5JaVMzZk5iblVtNTVVT3hFN1RxdjR5T3VzSE5RY29HdEx1dF9XOVU1VHFrZ3N4Y0Fhdm1Zd1pLcF9yTEpCVjJWOWo2NGVtWUZoUllySDQ0MGNRbVB0MldoOUxn?oc=5"
     },
     {
-      "id": "uzbekist-6",
+      "id": "uzbekist-7",
       "source": "Dunyo.info",
       "title": "Investments in the economy of Uzbekistan approached UZS 340 Trillion in the first half of the year",
       "excerpt": "Investments in the economy of Uzbekistan approached UZS 340 Trillion in the first half of the year&nbsp;&nbsp;Dunyo.info",
@@ -541,7 +549,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjlVSFAtbThHNDVmM21XV2o1ajljMS1TRDhadnVCcmRIRF9xUVlTUjljcTJRY3RPcFo5UWhHOXBrS3VkVmxXWGx3eFZaQWM3UE8zZ3U2MnVrVnZVejUwTUpySGR4bWlkZjI5WGJnV0R3ZWlEYXhlRmtBTGJZVExfdGdmVDBzY3BCNGN4Z1VaX0ZOMjlhaGN5d1NWUDFLUTA?oc=5"
     },
     {
-      "id": "uzbekist-7",
+      "id": "uzbekist-8",
       "source": "UzDaily.uz",
       "title": "Uzbekistan Central Bank Tightens Data Rules for Nonbank Lenders",
       "excerpt": "Uzbekistan Central Bank Tightens Data Rules for Nonbank Lenders&nbsp;&nbsp;UzDaily.uz",
@@ -549,7 +557,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2t0b0s0cmNpeFN6WTJ4azFNXzZKOTdVNnd4R2hDVUR5VTJ3VEVPR09JSHlONzhaT083Y2ZLcjZFbmU0ZmhpS19kamMtQkNCQWYwb0diMHVJeHNiTHFpMVlXTkdxZF9jelJnVnlDdXNiVGpMMTh2MWRnQmY4RG9sUUZqT0l4UER6QllTQ0MtMEc4VVRk?oc=5"
     },
     {
-      "id": "uzbekist-8",
+      "id": "uzbekist-9",
       "source": "trend.az",
       "title": "Uzbekistan, IMF discuss measures to strengthen fiscal transparency",
       "excerpt": "Uzbekistan, IMF discuss measures to strengthen fiscal transparency&nbsp;&nbsp;trend.az",
@@ -557,20 +565,12 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rbVZJdU9OYXVhNGhTWlFsLTVZSTdvZWptbHo2dGl6T3NQR1lhQWprcndUQlZVSHNVZUZDUWN0N0RjdUFKY0ppRXF4ajNtUjB0aGZ4MDlaUkZJNDA0VTlV?oc=5"
     },
     {
-      "id": "uzbekist-9",
-      "source": "IntelliNews",
-      "title": "Uzbekistan’s economy may be overheating, warns central bank",
-      "excerpt": "Uzbekistan’s economy may be overheating, warns central bank&nbsp;&nbsp;IntelliNews",
-      "timestamp": "2026-08-09T22:28:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVBFcHZ1Q1RualVwazlxUDMzQjM1X2wtdVZWOWlSZ2x0bGxJX2dkQlZsdEl6WVF2ZkxwQnVMNDJ0RnNzSV80M2VsWUF4cE55UTVvNjlRalpuZ3dPVGc0Y2JoN1FCNFBoeC1wcXRfQzNyT25FWHZKZVlFamJxVjdyUWlKeHBGelhOSmxGNm83ZGE1NlBHWEUxRVRaWmJFSm8yYUV3VzRiaUhuazkyQUxKZGNn?oc=5"
-    },
-    {
       "id": "uzbekist-10",
       "source": "IntelliNews",
       "title": "Uzbekistan’s economy may be overheating, warns central bank",
       "excerpt": "Uzbekistan’s economy may be overheating, warns central bank&nbsp;&nbsp;IntelliNews",
       "timestamp": "2026-08-09T22:28:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXppNDA2SF9URHhvSVdXNkJqSTEtYUpnMHJvQ2hhTXctaXRoRnVad0dtUXN6cXV4QnBheUt2VXRGOVBZRF9ISGtBclcxdEY2czZjc3o3a1BpLXhzam9fdWFvMmVsRnpwZFhSUEtwcmNETG1TamhIOG5rbGRlQkJLX3p1S1ZDNUpETlY4NlJmZW9IQ2VZcWh6dGJR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVBFcHZ1Q1RualVwazlxUDMzQjM1X2wtdVZWOWlSZ2x0bGxJX2dkQlZsdEl6WVF2ZkxwQnVMNDJ0RnNzSV80M2VsWUF4cE55UTVvNjlRalpuZ3dPVGc0Y2JoN1FCNFBoeC1wcXRfQzNyT25FWHZKZVlFamJxVjdyUWlKeHBGelhOSmxGNm83ZGE1NlBHWEUxRVRaWmJFSm8yYUV3VzRiaUhuazkyQUxKZGNn?oc=5"
     }
   ],
   "Papua New Guinea": [
@@ -1478,6 +1478,14 @@
   "Russia": [
     {
       "id": "russia-1",
+      "source": "CryptoRank",
+      "title": "Russia’s Central Bank Reserves Rise to $740B, Signaling Economic Resilience",
+      "excerpt": "Russia’s Central Bank Reserves Rise to $740B, Signaling Economic Resilience&nbsp;&nbsp;CryptoRank",
+      "timestamp": "2026-08-13T23:25:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3oxMHMtV0ttWTlNd2VBemxvQ2FyOVZfdnZLR09aVjRDUG5FTENoOWRzU19PMnQyZkVFV1dmN3FPekc5UVkxSlFBVENKZlNud2oyWXBOQ3Ywck1WOFpyYndTYlFQdThyU1hUOU9MREh3aGJoRUFzbG5Ea2Ztd0hEb3otNjNvRV8wQVo2akZKYw?oc=5"
+    },
+    {
+      "id": "russia-2",
       "source": "Al Jazeera",
       "title": "Is Russia’s economy cracking despite the Iran war windfall?",
       "excerpt": "Is Russia’s economy cracking despite the Iran war windfall?&nbsp;&nbsp;Al Jazeera",
@@ -1485,7 +1493,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbEtnWUhLTW1ZRFhGUi1pa3hvaFI1R09kQ2VjR3NiTGhuNHVRdXF6SFpXaFNTZWpUNGpJVTRyaDNJTlAxX3hfX2U3eGNLSlU3bW1meW9nY3VWejVnb2h3Ukx2emFSWFBCaVNsV1hwNjJzWkY4akJVWUVUUnM1QW1KMTdMT0k1RHNub2FGVXZoUkxfYVVvUWNYcjVoaDhiMFFSNkhDNlQyVGk4TjdhNlRsNEhsRnBQRThhNmJWSE9R0gG-AUFVX3lxTE1sS2dZSEtNbVlEWEZSLWlreG9oUjVHT2RDZWNHc2JMaG40dVF1cXpIWldoU1NlalQ0aklVNHJoM0lOUDFfeF9fZTd4Y0tKVTdtbWZ5b2djdVZ6NWdvaHdSTHZ6YVJYUEJpU2xXWHA2MnNaRjhqQlVZRVRSczVBbUoxN0xPSTVEc25vYUZVdmhSTF9hVW9RY1hyNWhoOGIwUVI2SEM2VDJUaThON2E2VGw0SGxGcFBFOGE2YlZIT1E?oc=5"
     },
     {
-      "id": "russia-2",
+      "id": "russia-3",
       "source": "IntelliNews",
       "title": "Russia's economy rebounds 1.3% in the second quarter but budget strains deepen",
       "excerpt": "Russia's economy rebounds 1.3% in the second quarter but budget strains deepen&nbsp;&nbsp;IntelliNews",
@@ -1493,7 +1501,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQXRYUlVMLTQ4aWJ6cGwtZ3czRktweG9VcDZNVFJqYnRQcndUVVUxR3RNZ2UySzMtQTl0UE9hUVltbERfcDROUmxTN2FoQ0FRbmVKZkdoeVFiOVNHejdJQVJJdTd2cmkwSnJyNDVjUE1XZjdKSzlocUhXQ3VLYlFjNTNSYUk1eDMxODFpTjhleTZsc0U2UHZqZXhyclF5Nk9zYk8zT0VISE9zdTA1ZEVQb21ZYTFCR0JhbjR1Y2VlWTdmRmM?oc=5"
     },
     {
-      "id": "russia-3",
+      "id": "russia-4",
       "source": "IntelliNews",
       "title": "Russia's economy rebounds 1.3% in the second quarter but budget strains deepen",
       "excerpt": "Russia's economy rebounds 1.3% in the second quarter but budget strains deepen&nbsp;&nbsp;IntelliNews",
@@ -1501,7 +1509,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlpKWHFzNEt0bGNXczZDNndMOFpQUWlNUDVSVW1XajRrZE9hdlRGdjFDQzl0RHdITEl2UG5yVHRjT21lMXFhOVM3NHVTQ1dEd19BMjY3TFFBSUNhdEhrazBwNXowdlI2bnVXNnU4YlNwSEZwYlZva1UwUmI3amM5ajNWN2JmNjFOV01QQVdBZUdCdWRBVFEtdFd4SWFCYzI3OTlQMXBBY253TUhMRm1qc2JjQQ?oc=5"
     },
     {
-      "id": "russia-4",
+      "id": "russia-5",
       "source": "IntelliNews",
       "title": "Russia's economy rebounds 1.3% in the second quarter but budget strains deepen",
       "excerpt": "Russia's economy rebounds 1.3% in the second quarter but budget strains deepen&nbsp;&nbsp;IntelliNews",
@@ -1509,7 +1517,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaWVWOU9tTWNkbkliS3RLT3VoMUJ6ZDVsRG9zUi1ibDltWTlaZTF6d3ZuNU4tYTEyV2RWR0NWc0lqbi1XOUQ3MTNXUUc2eVBVUVR3QjFHaDhqSG85a1gwemkwckJ6V1F0Mmg2dkxEaDZwU1VFYjMtalVzeE0tQkx4X1AzVnBkaDd5WjdRRUhaLUhwR2dCVnVaRVR5bV9zVXotZjB4c2tuOUdFTG5vWUJ3Z1NqSG9RaVhhVDkxUklYOVQ2b3FBOXhV?oc=5"
     },
     {
-      "id": "russia-5",
+      "id": "russia-6",
       "source": "Українські Національні Новини (УНН)",
       "title": "Russia's economy continues to weaken, with production, domestic demand and investment declining in July — the Foreign Intelligence Service of Ukraine",
       "excerpt": "Russia's economy continues to weaken, with production, domestic demand and investment declining in July — the Foreign Intelligence Service of Ukraine&nbsp;&nbsp;Українські Національні Новини (УНН)",
@@ -1517,7 +1525,7 @@
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNU3NFOXRUbk9CVWRrTkFGZ0ZDbk5QcUVObmV3U1JNa1Y3elhuOERLRE5PVUFTQURoeUowc1pzX1NldDBJR1paY05oSDZ5ck81MkpfaU56UTVOTlZ2M29PbFFvSHE2UGd0b2FvTWgzWWJSQkV0dGR0UG56bnBpZHJhVTFYTzR2THBvZG1fSnVmZFRvLWdtQTluUWhPY0xfNUFKazhRRzFrZHVjN3VRZDU1OGR1c1hOOFQzVWhSYUNqZE9VS0ZJRVRiM0Z5cHV1OHdXQUxYZXNuQk40MWpqYjdVR044Q3lacFJaY0hhbHdhRzBJUnRWczRIY0hic9IB-gFBVV95cUxPMEhYNmVxd2wxNHhtYXAyejc5TVFQQndoMktvSXdUeGhPTWZPZVgybmhia1cyUkE4TUlJZ1lfdURSUDZKMlRsTkpvRUJEZTBnQlRpVWRzaTFUckY1MnU1OFY1bm8tOFlGTGwwVG1ra2NYT3FXdWFURF9tci1UWUpIOTB3c0RUMU1nQ2ktV3I5NG83X05uSUJIS3RtZ3kwNEpXT3hBMHZScUd2Tk9nX2RKa0s2VnB5U0c1X1JhYncwdUV3QlI2TUs5YW5BajlYN2dmMEF3TWdJOG55WnpRUUxrcllsVnEyY0JHTXZaNE96MVpfdDZLUWZJYXp3?oc=5"
     },
     {
-      "id": "russia-6",
+      "id": "russia-7",
       "source": "AzerNews",
       "title": "Russia after Ukraine war: why won’t economy enter recession?",
       "excerpt": "Russia after Ukraine war: why won’t economy enter recession?&nbsp;&nbsp;AzerNews",
@@ -1525,7 +1533,7 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvQkxPLTNISTdBQldLYnBobk9lZkZwalRLWGVOYllTUTBON0NDREJyNjdwOERnSWhxRVFMLUdQVFpEMXNKekRoaWJiQVJqSWlTV1YzRi1Vbw?oc=5"
     },
     {
-      "id": "russia-7",
+      "id": "russia-8",
       "source": "Meduza — Новости",
       "title": "Russia’s GDP grew 1.3% in the second quarter of 2026, beating Central Bank and government forecasts",
       "excerpt": "Russia’s GDP grew 1.3% in the second quarter of 2026, beating Central Bank and government forecasts&nbsp;&nbsp;Meduza — Новости",
@@ -1533,7 +1541,7 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObU1lbzFCaFFBWTllV2VLUU5JTEtjdnJsbGZQb2ZvLXhIZ0gyX0RNMWQ0Y09kZzB2V0RzVms4OTZ4ZF9PYjBjQnViZjRSOW9xNXZScDVtTnhyQVRtRC1yWTRnQTRRaWZwR29JcUlyTElVa2c4RFZYT0xGMG95VW5sTjYySEFWd05DaWN4UHAwUmk2ZndWcTVOVWZpWVZTWE1zTFRVcjRHQkowcndzWllZQXJFVnhudDNtelUwS1RrUVV6dlRnLXU0RjRtZGdBNUXSAdQBQVVfeXFMTm91cGhWWjNJU3FPdmFDX3Z1ZWVuUlo2a041OFlFLWhLdFRMM21HbWZfTVViUVdiZ0o5eFNrN0s5dTJ0aXZveG02NlNRd2c5aDVrRnlCdzgtWUd6dmVvN1pYM0h0Ynd5NHA1TnJIdURyX195UDBKSFN4bm5xYk5kRkxUeC14Um1OX2ZiOU0wMU1NLVE0TFM0M19KUDl2ZjVDTTlXZzlhUnlQRk1qeHFzdGt6LWdwYUdYQUI0UXVzXzVDaW5xVktSSlFqcmtfYXpyMXNRa2Q?oc=5"
     },
     {
-      "id": "russia-8",
+      "id": "russia-9",
       "source": "france24.com",
       "title": "Russian economy rebounds in second quarter despite Ukrainian strikes",
       "excerpt": "Russian economy rebounds in second quarter despite Ukrainian strikes&nbsp;&nbsp;france24.com",
@@ -1541,20 +1549,12 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOW1TYlFEejcxeUV2LTZlYUVRVGdnVW1fR0xUa1dXYUZOU0RTN0RQeGgyUXU4WENpQ1lmV1NNM2pqM282UTRFMHJwaWNuYktyX0RxVjRKaUlWbVI5OEo3MmVsTllXLTgtSE5lUWcza3RaSmRvbTVrUGNYd1RQeW1wakRRV1kwZmtDY3RVbWFZcWowR2FZNWJtUlFKUTVZUE5WSDBzSHE0YWdmMHNVdlRsNHNtZnNDQQ?oc=5"
     },
     {
-      "id": "russia-9",
+      "id": "russia-10",
       "source": "Al Jazeera",
       "title": "Is Russia’s economy cracking despite the Iran war windfall?",
       "excerpt": "Is Russia’s economy cracking despite the Iran war windfall?&nbsp;&nbsp;Al Jazeera",
       "timestamp": "2026-08-12T15:52:15+00:00",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2ZqWUdMVUhBakNGWkZrVlViSWJzMFRsbjcxeVZabEc5UmxQZTk2VVNpR2piU2YwUW1iSEZac1VrVkxiOE9PRTVtbFd6SC1oTjBzSGJfS1o0TDlydXBScXA0c25vSFltLUstVDUwak1wVTFIbjRNeFctOXUyZ0taRk9EbGVERGhqckFNNnRJNG81cUJEMHpsYnpiNXZyeENEcWpiZVhWSVNNUDZpOGlfUE5Fb1g5SE020gG-AUFVX3lxTE04UjM4bFYwYUhhcDlfbHYwSUlDbDRqV2xWeVc0ampIdnRzNHNNUjdCLTZkei1BZHgxLW5VNlJIWlYtWlM0UjBmbVNoNW4xMHd0QmJJSXJOdFkzVUU4TElqYWU5dHY4X2hUNXNaaU94MTdTYkdYTk9HM1V3dHFVZVhoM1FiUk9aTkNNTnREV3JjdXJEV1NFc3U0NmQwaGZsemNJXzFsTE13OFh5ZGlTa1FvdDVZMnY0MUdLbThadWc?oc=5"
-    },
-    {
-      "id": "russia-10",
-      "source": "TVP World",
-      "title": "Zelenskyy: Russia may launch mass mobilization after elections",
-      "excerpt": "Zelenskyy: Russia may launch mass mobilization after elections&nbsp;&nbsp;TVP World",
-      "timestamp": "2026-08-12T13:06:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZEVqQ2JzdzNOODAwS0g0SkdUeXhud1J1VklVRnYyR1U0VnBucTFteXRBbjBqaGxtVTFuazVaNnpCUGdQc3Z4MGxMZmZrdXF0U0ZnY19YS0hZclZWbnBWWHBXcjhjMGhtT3NqTUVCcGVtMnppWDVjSTl5N0hKdGVqRW0yRVd6WENTTnpZaGg3Q1JMbTBQUGZoenJVTUl5Z29v?oc=5"
     }
   ],
   "Bahamas": [
@@ -2463,6 +2463,14 @@
   "Peru": [
     {
       "id": "peru-1",
+      "source": "TradingView",
+      "title": "Peru central bank holds key rate at 4.25%",
+      "excerpt": "Peru central bank holds key rate at 4.25%&nbsp;&nbsp;TradingView",
+      "timestamp": "2026-08-13T23:02:59+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYVFDVDRPanJqNGVTRkZjVWFyaGNnZHEtMVZFNnNkU1BDRVFJc1lPNW1hcDlZM3c5SDdON0FBcjhyOTZWWnFnYkwwSXpIaVVyMEpLc0VwV1dYNWlHb0FKaGd5N094RFdmeFRQdUtGblBmenA5dXlmdEYwTjdjT1lCUklmV3VKVGVkWThvSlZDSkpHdTRBN3hocTJXX3J5R0ltaWlFa3gxRXo3aDMyd2ZV?oc=5"
+    },
+    {
+      "id": "peru-2",
       "source": "Investing.com India",
       "title": "Peru’s central bank sees no need to raise interest rates By Investing.com",
       "excerpt": "Peru’s central bank sees no need to raise interest rates By Investing.com&nbsp;&nbsp;Investing.com India",
@@ -2470,7 +2478,7 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1NwSUtYanRmRHhaWVFyWm13T2RfVVJEbi1rQnlWLVJHQWJWY185M0dXVy1nbkhqNW5sT1RMS2FhYkxlc3JnZm9pVDdXQWtRU3hvdVdQb0xnWjc1VDRpNzFIV1NabXp0S01CdTcxYzM0RlRRSGd4X1hEMFZOUmNsWW03Nk1COXJrall3VzhFU1hObTloOUViZG9BWVZxTjJLTjdaMzRnSGZwUS1uUWVaMng2R0ZGWnc?oc=5"
     },
     {
-      "id": "peru-2",
+      "id": "peru-3",
       "source": "TradingView",
       "title": "Peru central bank sees inflation shock as temporary, no need for rate hike",
       "excerpt": "Peru central bank sees inflation shock as temporary, no need for rate hike&nbsp;&nbsp;TradingView",
@@ -2478,7 +2486,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFVRYWFqcldFRU9KTHBYU1pTWDdSQ1BhLURLSGtwZHo1eENSRkJNVGtsZTlDUlktdF9PNm5KRW1KdHhuZ1JLTVIwWkw4Slc2Vm5Vd0w5QmlQbHl6WWgyNm5aelY0MHUwYTROMC1OZnoySFdYTTE1VTlyM0hZTi1WeTk4UmVQbjdJQlZxaU5Ub210UFZqVXlYSmhiNDVvN2dqQ0VfUWY2Ulo3bWY2cHFDLTk0Q3ZQbzc5YTFfRWxwSlY5Ml91YmxLZkktb2Y0NzFqNzl2VWE4UzlUVDA?oc=5"
     },
     {
-      "id": "peru-3",
+      "id": "peru-4",
       "source": "Agencia Andina",
       "title": "BCR: Banks and economic analysts raise Peru's growth forecasts for 2026 | News | ANDINA - Peru News Agency",
       "excerpt": "BCR: Banks and economic analysts raise Peru's growth forecasts for 2026 | News | ANDINA - Peru News Agency&nbsp;&nbsp;Agencia Andina",
@@ -2486,7 +2494,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTBFanlrd0IyT0VXTEF5R0dFRE1zMFB5anlxVldNQ3k0SU05Wml3dG14cjg4UnhkVmNsN0lQUzJ2NVNLa1llUUFKMFRtcUhnVFlZTzZTaGtsY05OaUQ2cVFwTTNUTkhnWGFpRUxYOTN6TEk3anRJekp4VDNIWVM2NjlnQjVCV2V1VTBGRGUyQVFEWEtkZW90X1JsR2Rha2lBTEhsYW1Ic0l5NVJHWGhRU2xnanBhUQ?oc=5"
     },
     {
-      "id": "peru-4",
+      "id": "peru-5",
       "source": "Agencia Andina",
       "title": "Why does Peru remain attractive to investors? | News | ANDINA - Peru News Agency",
       "excerpt": "Why does Peru remain attractive to investors? | News | ANDINA - Peru News Agency&nbsp;&nbsp;Agencia Andina",
@@ -2494,7 +2502,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYzFFdzlsRm5HUlgyZk5HTHB0MTdBN2REYmRpME9EZ1YwZ1o2N05OZ0ZQUEQxQXVHTmMwREhNNEtGNW1nek1US0NReGpVbGtDU0dNWGh4aDlXR0w3R2dOanRpQXVxdExZbEdycER5R2hKRVo5ZVlJbExGSkNhSThGeFRhTmZ5YWY4ZmFqNTZOVVVFQWRW?oc=5"
     },
     {
-      "id": "peru-5",
+      "id": "peru-6",
       "source": "Agencia Andina",
       "title": "Why does Peru remain attractive to investors? | News | ANDINA - Peru News Agency",
       "excerpt": "Why does Peru remain attractive to investors? | News | ANDINA - Peru News Agency&nbsp;&nbsp;Agencia Andina",
@@ -2502,7 +2510,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0ZZMHk3WldFVVRaRHdfVGRyM3IxdVRhaTYySEYzNVk3MWtFOEhpenhISlpRVG9VSGxwb0lGVW9aOWkwZlRFdzNBSWVFZkNiQ3pVb0NGS0dsMTM5Ty01UkdnbjFFN3VmVmhsUFpUSTZpb0NfbTZZU2I4TUx5OGNPRUVYY0JKdmVhQkM4WW5aYXZSdHpn?oc=5"
     },
     {
-      "id": "peru-6",
+      "id": "peru-7",
       "source": "Demócrata",
       "title": "The Minister of Economy of Peru sees a growth of up to 4% this year despite El Niño.",
       "excerpt": "The Minister of Economy of Peru sees a growth of up to 4% this year despite El Niño.&nbsp;&nbsp;Demócrata",
@@ -2510,7 +2518,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVjgzaDBBZlpBMVFwSFFRcHh1c3JnTG15bkJRVG52X1Z2Wnh1WHUxYVZnT0FEV09JOFpUeGU0WTBVNFpNT1U3NGhOWFcwOHM4dnZUOHFTSmhaTzJVbU1UVlVOMENqSXVwMmZnekhUVFM1RTJOZWNPb3VsUF9rdVlKWEM2WTQ2TGJ6QU83RV9HTXlTZDVCcllzTVNIdmVRX0w4VktmZFBmUHNYbVFxWExhVUpvMEZ4eXhLQWtj0gHAAUFVX3lxTE1uTmp1ZUJBZmVwOWZ4RWVNTHc0eXpoVDRmcGRsV1JqS1E5T2s1X3dpakdlRFhTZFhWWFRJQWszV2VYS3ktWE82bXczeS1hM21zeGxuSGZwMUg3NVpEVVlhVk8yLWhMWTBlMkluQWZnbXNZQjhTQW5CZi1QZXZjVEQ2SDlyNFhJZ1J3cGtubnlFMC1pSGs4U0xpMjFwRjlNYTJ3czFPWDRLdFo2Yi1RdG5xUVFQR25tTnpxLW1WYi1KNQ?oc=5"
     },
     {
-      "id": "peru-7",
+      "id": "peru-8",
       "source": "TradingView",
       "title": "Peru economy to grow 3.5% in 2026 despite El Niño, minister says",
       "excerpt": "Peru economy to grow 3.5% in 2026 despite El Niño, minister says&nbsp;&nbsp;TradingView",
@@ -2518,7 +2526,7 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY2Nqb1h6UkExZ0JhdHFpQklsa0pxbHlEcW4wZkpPb21EUWJWWFEzQWZaNjlYV0VyNndWVHdsZTBvYklzaUlzWTZEQkNuS3ZkQTBRMmFDVXB5V00xWG4xWGpsU1o2M29RVXQ1ZEtPTENNVXYzeDNjYjJWLTZ6elV6ZHBjdlZVTHF5TzZrcmFSSDNZSVFza2EzWGRpdjZma190bHREMnFaSTFWZUdjUDBIRlJUc2xTemxDa2pSTmdnLWxHVU9nUElET2RUX2U?oc=5"
     },
     {
-      "id": "peru-8",
+      "id": "peru-9",
       "source": "Devdiscourse",
       "title": "Peru Aims Higher: Economic Growth in the Face of El Niño",
       "excerpt": "Peru Aims Higher: Economic Growth in the Face of El Niño&nbsp;&nbsp;Devdiscourse",
@@ -2526,20 +2534,12 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXdDOUhOSEROUk5PbEhyVGQ4T1NZaURkUS0xeVpvUzdoRG9qekJOMlJuSjVDME5BY3dYaVBNbk94TUJZWmpDN3lzWW1EWWFzUXRENWFGR0VFdjk1VFZpV0Exel9ucGlvbUdSdkFRbWIteU9ib3d2T0RPQ0Y3STViZk0za1JTTWhldWRCSlhSTElNSE5kMXgxd0xGRmNGQkUyM2ppVW5OeEY1bGNCYnBuMWNR0gGyAUFVX3lxTE5Nd0M5SE5IRE5STk9sSHJUZDhPU1lpRGRRLTF5Wm9TN2hEb2p6Qk4yUm5KNUMwTkFjd1hpUE1uT3hNQllaakM3eXNZbURZYXNRdEQ1YUZHRUV2OTVUVmlXQTF6X25waW9tR1J2QVFtYi15T2Jvd3ZPRE9DRjdJNWJmTTNrUlNNaGV1ZEJKWFJMSU1ITmQxeDF3TEZGY0ZCRTIzamlVbk54RjVsY0JicG4xY1E?oc=5"
     },
     {
-      "id": "peru-9",
+      "id": "peru-10",
       "source": "Latin Times",
       "title": "What Keiko Fujimori's wage hike could mean for Peru",
       "excerpt": "What Keiko Fujimori's wage hike could mean for Peru&nbsp;&nbsp;Latin Times",
       "timestamp": "2026-08-04T15:00:19+00:00",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmJzODBEam9PTzNlb0NxWFQ0SWtHS2NqcTRYMU5XOXhxZm54THI2U3JxbUFrb2puMEZTclpodG9sQ0FuMnl2X09rTjhuZDFLZi1MYmVMc0EzdGhjNjNLU0FneWhyc1hKVEVDSDJjbW5jSFdfYUVJaDJrc0xMd20tRWZwZDFUb2M?oc=5"
-    },
-    {
-      "id": "peru-10",
-      "source": "AS/COA",
-      "title": "Peru: Who's Who in Keiko Fujimori's Cabinet?",
-      "excerpt": "Peru: Who's Who in Keiko Fujimori's Cabinet?&nbsp;&nbsp;AS/COA",
-      "timestamp": "2026-08-03T12:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WaHNZNEVQUXpCTm1Zc0FKVlFQdDhPQlRQc1d4c0FpcTlRYU41amR5UlJ4UDUyMHRIdmtHd1pJT2llcXVrYUJ3MGlTa3M3VjVZbUY2WjhEWTB6Q052czlRSFlEWkEzWDVSVTFqeHY2Skg2RERUOVJyQw?oc=5"
     }
   ],
   "Colombia": [
@@ -3760,7 +3760,7 @@
       "source": "Jamaica Observer",
       "title": "Foreign earnings benefit the economy through imports",
       "excerpt": "Foreign earnings benefit the economy through imports&nbsp;&nbsp;Jamaica Observer",
-      "timestamp": "2026-07-31T05:06:17+00:00",
+      "timestamp": "2026-07-31T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdHpzc0RjeTJtS2VJY21xeGg0V1h4aU56NFFKNW1KWFdRVVA3dHUyYXBWNzk3S2dZZFlJZURHZlg4OGFCbjA5dDdRLW0zc0lianlCQWZKdU5aSVFJWEd6S2FpV2NMbFlsTTFsUUxSa1ZTUVJxQWhFWnJOQm5tcy1DVUxUYVI0Ymk4WTVSRQ?oc=5"
     },
     {
@@ -8039,6 +8039,14 @@
   "Bangladesh": [
     {
       "id": "banglade-1",
+      "source": "Times Higher Education",
+      "title": "‘Dirty politics’ dividing Bangladesh’s top universities",
+      "excerpt": "‘Dirty politics’ dividing Bangladesh’s top universities&nbsp;&nbsp;Times Higher Education",
+      "timestamp": "2026-08-13T23:01:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFRmdW5UWm5QdElfelRxdFRBTFpIQmx2eWgxR3JYMklfY2djZkY4Zm55WEF1Vmh2bndmWlZjaUh0QVZPaWJpN2Mwb2VoM2J3S0dxNXFhWU9hckZzbDd2WTZxTEF2YWxUaEx3ZWQ2c0xvSGl4QUZhaEJvdW05WG9nV3BqS3dOV1RubUpWSDRaZmNBRXlTdGpidUlR?oc=5"
+    },
+    {
+      "id": "banglade-2",
       "source": "Newsonair",
       "title": "Fitch Ratings revises Bangladesh economic outlook to ‘Negative’ citing rising risks linked to Middle East conflict",
       "excerpt": "Fitch Ratings revises Bangladesh economic outlook to ‘Negative’ citing rising risks linked to Middle East conflict&nbsp;&nbsp;Newsonair",
@@ -8046,7 +8054,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbElxbWJQbzNwLWp1SEN1UDZVa0Rfc3V0Q19GelQtQjZtTlBRaUVFc2F4QW4za3prRlVRbWRzanN0NFMxMGZUcHNzeVlaV0RmbHRYTVpZTmlRRzBDTGtES0dDV2t2dGMtU25XYUNGU0NROWNCUk1NcXk0aHZhcmhJQThrNjVFdFVJOWVUd0szLW56WnNqRkxNYnk0eFVlRkVXOEd6aVJ5UXI0Y0hMUW9WNTZNUjIzUUh5cU9UYVJnRmtVQVhNcnVJUnp0M1BvRG1DWEprSw?oc=5"
     },
     {
-      "id": "banglade-2",
+      "id": "banglade-3",
       "source": "tbsnews.net",
       "title": "Bangladesh's shadow economy is too big to ignore",
       "excerpt": "Bangladesh's shadow economy is too big to ignore&nbsp;&nbsp;tbsnews.net",
@@ -8054,7 +8062,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZzFaWjBndWk2RVhIWXBlU1cxRjdpZm5mR2Z6ekQ5WFBMZ1lHbnNGbDRQMlFkSHlOSy1YX2dack9zRWY4ZWlWWVQ2ajk4VGttUG5KX3ZRck03SVBqbEc2R2d3UFFYbXZvNVJVMDM0N2k1U1gxcl9lWFNrMG0xd0x0U0otalRoSHBhUFHSAY8BQVVfeXFMUDAyR2swZmNtcC1DbkpaclgtNzlXN1o3amctUko3ZVdoTjRYMWw0eG5NZ2lROGR2WDBiU0hIZElzdXllMXB0OFlqLTh3cU4tOWVaV2lzLWNMSnEwUXJDcjVvNEhmWWNpVUNYOHU1SG9UNl9WeFZJOFA5clFINGZyM3gtZEh0Z0ktdHpyX09jM00?oc=5"
     },
     {
-      "id": "banglade-3",
+      "id": "banglade-4",
       "source": "The Climate Watch",
       "title": "Bangladesh climate finance lab develops 35 GCF funding concepts",
       "excerpt": "Bangladesh climate finance lab develops 35 GCF funding concepts&nbsp;&nbsp;The Climate Watch",
@@ -8062,7 +8070,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2FZd1c0ZDEycU1WbUt2by1hTmt3VzFOZVVfa1BtWDdyUFZpa3BhV21Udk05bEQ3Vlh3VjNvYkhVZVpJZGFpZEFTN21zaWFuQk9fd25Eelk4R2xlZlMzZW1zbFp3cWZadXZSNlUxYlBsc3FTRVVIZ0w5SzllSGlUUTJvZ2hZdEJqTVB5dHBybXJwTjVBUTBv?oc=5"
     },
     {
-      "id": "banglade-4",
+      "id": "banglade-5",
       "source": "newsonair.gov.in",
       "title": "Bangladesh external debt rises to 78 billion dollars, Finance Minister informs Parliament",
       "excerpt": "Bangladesh external debt rises to 78 billion dollars, Finance Minister informs Parliament&nbsp;&nbsp;newsonair.gov.in",
@@ -8070,7 +8078,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUtvcDZDNWtkcnFtNFNfOW9CUUxPY1hrUGNlaFZTV3hfZmNBa28yNkxUMjl4YjNDTHFhZVFYdFFIek9xZkZfRkNUYmM5UHo3OGxTTExOUFZtUGJuOUE0ekJzRDl2QW9OT1FyaXB2Yl9xck9ZdDAyQ3BQNllRaXNXY2lVb2xEUEhwS0g2XzREOTM5NldBMHlxRVBDWDhzN3FMemJIdHMyS1loZk01ZlpCUThYdW0?oc=5"
     },
     {
-      "id": "banglade-5",
+      "id": "banglade-6",
       "source": "dailyasianage.com",
       "title": "'Closer US business ties can boost economy'",
       "excerpt": "'Closer US business ties can boost economy'&nbsp;&nbsp;dailyasianage.com",
@@ -8078,7 +8086,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkJOWXQ1aTRwXzBxYTVRYXdOelBHdC1Ibmg4cHdzZm5UaUQxSm9TTlhrclZURnJZWG1KZk9wSmt2VW9Zd2t6Y1NEOVJocmJFZ1lyR01yVEh6SVNCSEtSbEVFV2JDbVlrcVJvd2pKUndQRTlfbG9ua3M5UTdzcG01dmZ1NUNUQQ?oc=5"
     },
     {
-      "id": "banglade-6",
+      "id": "banglade-7",
       "source": "The Business Standard",
       "title": "Bangladesh seeks alternative financing to address $421b SDG funding gap: FinMin",
       "excerpt": "Bangladesh seeks alternative financing to address $421b SDG funding gap: FinMin&nbsp;&nbsp;The Business Standard",
@@ -8086,7 +8094,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcGdtZGNHTU8tTU40V0xGUUczVEFkZUVDSFgyV1puVGh3Yy1qSWt1YzVOZ2haWExCS0RsaWw4dTN4SGxMYnM5MS13X1FlUEFJMi1DZk1vVk9EaXVablB3bzJIVXVhUmU5S29fQW9lVzhQTFdTTllnZldnY0lSSUtNRWRzT3dDYkxNOGZ4X0ctVERHLUJqMkd1S012Qlc1LVZLQ2Q4cmtvelJxS3A2cFpHVXpWaDjSAboBQVVfeXFMT0VMOXBhbGg4cEYzaWF0cVc1azFUR0IwY3FHckEtVHdZNmdTWUJKd3VNRC1IZ0tQYUVpUzY2b3IzN2p4UG5FOUM3R3FDaE1yMW1PN09BdUkyWk9KanQ2cXVuVndqeWxRdFNYNjRpcHdYenVMNkxTZTZyakNreng2cjBZczZ4V3hLbFRjb244WHk0NXc4THJuaUpkeXBhekVRYXlYQW1OT2RxWVpLWU9fYnlYVlNNcjVLYlFR?oc=5"
     },
     {
-      "id": "banglade-7",
+      "id": "banglade-8",
       "source": "Bangladesh Sangbad Sangstha (BSS)",
       "title": "Closer US business ties can boost Bangladesh economy: Kobir",
       "excerpt": "Closer US business ties can boost Bangladesh economy: Kobir&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)",
@@ -8094,7 +8102,7 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zaHFxblpmR3R2c2FYaWFnS3QwR18yYkpCRkJTV0pndTJzdFBsdENEVjh6alV3QS03b1MzQWxVYWFTRkg1YnFwMi16STBKaUF5c29n?oc=5"
     },
     {
-      "id": "banglade-8",
+      "id": "banglade-9",
       "source": "The Daily Star",
       "title": "Bangladesh Business Growth July 2026 | Business activity rose in July: PMI",
       "excerpt": "Bangladesh Business Growth July 2026 | Business activity rose in July: PMI&nbsp;&nbsp;The Daily Star",
@@ -8102,20 +8110,12 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmNGaHNpY29ieHRaVFljb01CbG5URjFkYkxiOXpBX201OFY3S3VCRHBZMVltdzVXM1RIU2ZTYnBUdllVQ05id2h1Ym8tMmRhaEhpV3lLM1l3VTVGMEo4eWZDMmdRY0xWQnpCYUE1eDZMTW94MWk4eVNDS01meHlJTlluLUFpdXJzWUZtdTlvVEhkdGhl?oc=5"
     },
     {
-      "id": "banglade-9",
+      "id": "banglade-10",
       "source": "Bangladesh Sangbad Sangstha (BSS)",
       "title": "Govt. won’t allow misinformation in statistics: Finance Minister",
       "excerpt": "Govt. won’t allow misinformation in statistics: Finance Minister&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)",
       "timestamp": "2026-08-12T11:44:26+00:00",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02dmpjRVMwUEprQ1lQOE5uWW5lVG5mWHJBWF9ZSjZwRVJTQlhocXFZQjljQXhHQ082WnRObmZPNEk3c09qeC12YXZIZnNVWi1LSDdz?oc=5"
-    },
-    {
-      "id": "banglade-10",
-      "source": "thedailystar.net",
-      "title": "Bangladesh pushes for EU trade deal, RCEP entry",
-      "excerpt": "Bangladesh pushes for EU trade deal, RCEP entry&nbsp;&nbsp;thedailystar.net",
-      "timestamp": "2026-08-12T10:57:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUdmZGxyTVhiWXEzb3B0bjY0NlRwQkNHbV9HbUZWeENseFYwRTFSeXNFRV9nUzh1QUxIcmxQR29OWjE2U3oxU01OQVlsSi00UWV6WXhUTTJjaHh5bGpiXzZONlhYM004WFZwT2FDNmVXT0psdjBJM3RLR0NXYm9VOE5ZbzhpNVU1X2pUZ25hSDZyRG5INjVzWWk3VkhBWWJkMS1R?oc=5"
     }
   ],
   "Bhutan": [
@@ -9846,7 +9846,7 @@
       "source": "kpmg.com",
       "title": "Economic Key Facts Germany",
       "excerpt": "Economic Key Facts Germany&nbsp;&nbsp;kpmg.com",
-      "timestamp": "2026-08-13T16:20:59+00:00",
+      "timestamp": "2026-08-13T17:33:52+00:00",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVRIQXpYazFRal95NkxfdEtWUFpVZ0syajdGMjhZZmppUWU3emlna2M4NnZ5RXBaa2g5SUtGUWs0Ull1WnhLSXlMOS1zNG9zV1JCVXVRTVZiZnprWjA0elRvbXVQOTZpYlhZeG5ONWNjUnM4MDJFOUJMQjNUVk80cw?oc=5"
     },
     {
@@ -11073,6 +11073,22 @@
   "New Zealand": [
     {
       "id": "newzeala-1",
+      "source": "Finimize",
+      "title": "New Zealand’s Central Bank Sticks With Mortgage Deposit Rules",
+      "excerpt": "New Zealand’s Central Bank Sticks With Mortgage Deposit Rules&nbsp;&nbsp;Finimize",
+      "timestamp": "2026-08-13T23:37:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX2lBdWcwM2xGMDFsTnVNMDdCSUJYbGdxSXRpclYxengwbjFQRl9zM0tJNUlROFBPWGcwSFJ4UXRvUGNvUnZMc01KWllFRXNUZkpSQkxlX2s3VGZiNHNUV01IbENVNVZkNVUzQzZzY255R19FczZIZUVGbnhkME9QN1VxdGJuSFYteGszTXdJc2dRckU?oc=5"
+    },
+    {
+      "id": "newzeala-2",
+      "source": "TradingView",
+      "title": "New Zealand's central bank to maintain current home lending rules",
+      "excerpt": "New Zealand's central bank to maintain current home lending rules&nbsp;&nbsp;TradingView",
+      "timestamp": "2026-08-13T23:02:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQVlDVTV4d1d2RVNqOWItNkFnQ2NhV2oyV2xFQ3M1UEkxaUxXVmduaWhsSGw4OFZWekFVSzZCTXFib255elNCUlZCa0lHTGRDX0JrR2htc3NPSkFjMGNHU2FaRHRpeXEzUy1aZDQyRi1MVTVQNzd0WFMtUVZPOVpQQ2pmUVRPWUdfb29FMnRjRzJacjNjb3VqamdtWWZLdkZwRXY1NWd5TVkyR3VwRVR4bkk0andoUldqY09jcjNSZXd3ZzU4cThaOWY0dHc4cWY3?oc=5"
+    },
+    {
+      "id": "newzeala-3",
       "source": "vietnamnews.vn",
       "title": "Việt Nam, New Zealand leaders witness exchange of cooperation documents",
       "excerpt": "Việt Nam, New Zealand leaders witness exchange of cooperation documents&nbsp;&nbsp;vietnamnews.vn",
@@ -11080,7 +11096,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0hUOUI1cWJySGNzaFRKbkJqTVVOUzNBMUN5N1ZlbVpBSzZjeXZvLVUwRnloQVlDejN5dUZDS3Jld1Nna1gzdkR1LXlBV292emNJckdPN2JMN0VqZVh1ZlUxWEU1UGIweERoNDlFTGF1YVBDLVR5dGNCd3JmT1VaWHlETVZJNzlpT2U4dVIxdll1OGpRenBzY1RCbDlhWjZmTW84UllsdG5iNl9mREZfVzU0YVR3eHdrMU5NMA?oc=5"
     },
     {
-      "id": "newzeala-2",
+      "id": "newzeala-4",
       "source": "FXStreet",
       "title": "New Zealand Dollar slips as Iran tensions, domestic politics weigh",
       "excerpt": "New Zealand Dollar slips as Iran tensions, domestic politics weigh&nbsp;&nbsp;FXStreet",
@@ -11088,7 +11104,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMm8zb1h3T3ZHTGhaaTFLMmJlNlNIQ1ZlSURMWlMtRzFwRTVONUJwaXdaQVAycjh0RVFzXzBRTDBnLWtnNWkxcGUyaFR6TEQtaVBOdjh6Y1pXS0lKU1VPOERRQmZTNDlaSmhmRE5lN3FuQmhxT3RpYi1DcDJSbmplNDVjbjVfMVBlMnp3bUpvNE50MVlQTUlRVHJvM2NIZGJCdUlBcGx3RzZENVdKd1F4VU5ERGpMbTdfOWMyUTBB?oc=5"
     },
     {
-      "id": "newzeala-3",
+      "id": "newzeala-5",
       "source": "The Killeen Daily Herald",
       "title": "Luxon survives another leadership vote months before New Zealand's election",
       "excerpt": "Luxon survives another leadership vote months before New Zealand's election&nbsp;&nbsp;The Killeen Daily Herald",
@@ -11096,7 +11112,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNTBKZGp5WkI2R18xWUJ4eGU4UmR5Y3kxVFdVNk9wZ0ZMOFNiUDZydEZpYzIwblBCd3E2OWFyTWdrNU55cmxKWVJhZk9mNUZ1NW04T1J1T1VtZUgyQmR4YjJTZGtENGQ5TFNTMXdrQzMwVUNSMTMzREpvaDhjWGtiS2s5QmhQRHIwSUpodmVZb1BUZmgySEx1ZUpSMlJMNFNFQVBFYXQ0V3RRV1ZpeTVvNm10cHNPOHhyRnpHQ0lWVXk4N0RIcmZHQ0pTVm9aSnZTQW50U3JVaFV5aVdJQmk1NGtPWkJUVnZldW4w?oc=5"
     },
     {
-      "id": "newzeala-4",
+      "id": "newzeala-6",
       "source": "News-Press NOW",
       "title": "Luxon survives another leadership vote months before New Zealand's election",
       "excerpt": "Luxon survives another leadership vote months before New Zealand's election&nbsp;&nbsp;News-Press NOW",
@@ -11104,7 +11120,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRlVLeVBUWElyazRzOG8wWWk2cGdDSTN4S21VUFZqbV80T2FTVDN4cW9pTVpzU2lmQy1NQnhuZVNEazN5RWR0cXpTcXllSVdzRXd2cWdDTHkycWlsaFlOam1fM1FSVmlPMUE5a1ZYSnkteWRUWUZCZzNMYUQ5Z2l6YUsybGdleVJKLUpBakc2TWhiYnZXclA3OEpiWjBYazR6NWlQYy1OQ2VkaHJIcURCSzRWVDMtTEJmaEhUTTJiM0xXa3M5M3ZocV9ZR0lzTXNvaS1Yakl2R0U0NnJESHdVZk05SHQ3bG1aSm9ic3RPSk5nRnVSRW5Bc2g1T2hSLV9LQml1QVo1LWdkb1c0YXc?oc=5"
     },
     {
-      "id": "newzeala-5",
+      "id": "newzeala-7",
       "source": "KMVU FOX 26 Medford",
       "title": "New Zealand PM survives leadership challenge months from election",
       "excerpt": "New Zealand PM survives leadership challenge months from election&nbsp;&nbsp;KMVU FOX 26 Medford",
@@ -11112,7 +11128,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObmhaU2tHQVBQcGpqaFhna3RJQ1gxQ2RMd01TSm9TU2NBTFhJaVdhZkE2NkptTXdjaWVEY2NYSnpoYlp5QTBfbUJ2RlBSc2JscGRkOGFBUTFjZE1GdXNXN3lFVE1QR0g1R01RNXgyOE5uTVZvTGM1aXBHbkFfMGlueVZjd0VINzRZal9qNXZLdmtVZW1BWTdMOUdOM3J0UEZjS0NRWGlsN0JQNGg0T0RJcjJiclk1aDcyV1R3bUhwMEg4SDJmLVh4RkJ5LUs2Rmt5SXVJNHNpVGt1M1BSSTQ4c2hmajlCUGNfcmtQQ0VHRQ?oc=5"
     },
     {
-      "id": "newzeala-6",
+      "id": "newzeala-8",
       "source": "Global Banking & Finance Review",
       "title": "New Zealand National Party Faces Leadership Crisis Before Election",
       "excerpt": "New Zealand National Party Faces Leadership Crisis Before Election&nbsp;&nbsp;Global Banking & Finance Review",
@@ -11120,7 +11136,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3VHcnMwUGY1UnJFMWt3dXhxQzFMYndQa2VNZTVqRGQ5TDRjanYyZW4tWlN1enhtcUgxcEE4VW50dTkwa1N6b19ud3EyRUcydWcxcHF3ZmNseldSbmhiR0tHRTdlM1Z4STFrNUNGMjR4SUJlYkYzQldvYXRwY1RWdEh3Qi1UYmw1SWZCQjJXRVJNYVhnUEEyVGZpY3h3Zk0?oc=5"
     },
     {
-      "id": "newzeala-7",
+      "id": "newzeala-9",
       "source": "Idaho State Journal",
       "title": "New Zealand Politics",
       "excerpt": "New Zealand Politics&nbsp;&nbsp;Idaho State Journal",
@@ -11128,28 +11144,12 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSFFPeWs0dWpDb1BOdXB3SDd6YlpLd04zd0RUSF9zUWV2UVZJSXVtRmxjZ2s5Y1pIM2R5TkJmNFk4SnpfeGF0NnlYZVBydG5TYkxuSGpGYVZUZ2pkYV9INFlZZ2hEV1ZVcWZFNDUzUFRoby1TUFE3LVZkbGlGTVBHRUQxTEJaQ2RQOE9ZNkl6WnctNTdobHhVOXBaTjRJR24tYWxQd0NINWNuVHYtV255T2Zxbw?oc=5"
     },
     {
-      "id": "newzeala-8",
+      "id": "newzeala-10",
       "source": "GazetteXtra",
       "title": "New Zealand Politics",
       "excerpt": "New Zealand Politics&nbsp;&nbsp;GazetteXtra",
       "timestamp": "2026-08-12T05:32:17+00:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdXQxbk81c0prYlV6V1ZLa28yMkQxNmotbEk2ZkNaYWt6OUh4RWtLOW1Va3ZEekhjLW5ZN3RIT1pLUF9wUmw5YjhmMWNBVEdWOGQzM2ZuRVJkWHhTdHh1RW1HRmlSMFVoQVhvTC1vY0ZZSVIyVHhtYUtTNXBnTXoyQ3VuNmNhWlhtMTZVVnNXRUdRalYtX0Z3RjI5em51NkNINVY3STBTc05iUGtkd1BXUDhfd3g?oc=5"
-    },
-    {
-      "id": "newzeala-9",
-      "source": "The Herald Journal",
-      "title": "New Zealand Politics",
-      "excerpt": "New Zealand Politics&nbsp;&nbsp;The Herald Journal",
-      "timestamp": "2026-08-12T05:32:17+00:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeklodmNTbTZDTmpDd0tIN1BxV24yaExBSklJWVJaM0Y3aTVRcmJJTVk2cHBudmRXcXA2UmJvT1dVZ21ldW9WTlJIdmdWQjYzenEzTVR5VUhzbExLY0YzRFZWMGozZGRma29lSm5vcW51S1FqNk0tY2tJV0RGNXIyNnZvdWd3UjBsYjFYeUFPa3h5R3RWYnlSU3VfajRUQQ?oc=5"
-    },
-    {
-      "id": "newzeala-10",
-      "source": "dailyrecordnews.com",
-      "title": "New Zealand Politics",
-      "excerpt": "New Zealand Politics&nbsp;&nbsp;dailyrecordnews.com",
-      "timestamp": "2026-08-12T05:32:17+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUkl4WmNYU3duZnI4cUJNT3NrSFlyUlhtWlVuVFZoOWNHQVRIODQwRzhvRGdRblB6RmJ3OUstQ2dmMk01WlVPWjZOQmVXYWNEdTBnSUQ3X05wUU1zS2xWd2loRTBaRjc4ODFwRGdOeDFvNXBIU2N5QjRjcTZpMkRaR1A4WTlJN2w2THgyYzBzNkdCTy1kaFdvcHFELVRaak5vMWg1aFhzWnRqRE9hQ0k3bS1mNjFQYlVFZnRvaTZXRQ?oc=5"
     }
   ],
   "Australia": [
@@ -11483,6 +11483,14 @@
   "Italy": [
     {
       "id": "italy-1",
+      "source": "Bloomberg.com",
+      "title": "Italy Insists Spain Border Checks About Security, Not Politics",
+      "excerpt": "Italy Insists Spain Border Checks About Security, Not Politics&nbsp;&nbsp;Bloomberg.com",
+      "timestamp": "2026-08-13T13:54:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEZuT1FBbEczc3NMN2NGQUZhRUpVNkpuaDZ1WndOS19ZdUQ5QlYzZjBnMWtxTV8xekIxTXZWUHpTRENDc3JwSHYxMFljdGpVbVR3M0dOa1BkY3EzZkhVOElGbmlGQTlIczV2ZEFaQVIzc1JwY2JPbGFjX0JicnpQUmNjOWthWmU4S3ZkenBGQnV2U0c1dXBmWlY0TzJFZWl4UUQ4YkRQUVhvUkxBOGRmTGV3?oc=5"
+    },
+    {
+      "id": "italy-2",
       "source": "Female First",
       "title": "Climate change is threatening Italy's cheese economy",
       "excerpt": "Climate change is threatening Italy's cheese economy&nbsp;&nbsp;Female First",
@@ -11490,7 +11498,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdThIWUhrd3RKRmx5VzZnMkFOZDlKbzZ0SHJwd2x5MEFNRFY2MUg0MmRvTXE2bjdZZEpPblJYOGtYTUUyOXh3RnRIaXp6cEFFRzhzT0tiQ1BqZHdFOGVCVEY2ZG83bUdTejVFTGg5OS02ZzFlejhRak0zdV9DTU9OVXBSTFg4dlg5TkNFbFp0UEtMVnVidG1HcFhYT0xUMk9X?oc=5"
     },
     {
-      "id": "italy-2",
+      "id": "italy-3",
       "source": "Goshen News",
       "title": "Italy Meloni Fashion Meets Politics",
       "excerpt": "Italy Meloni Fashion Meets Politics&nbsp;&nbsp;Goshen News",
@@ -11498,7 +11506,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTEZzVTZhSFZlcGZZV294dzZPSFlkYk1UYW0zVEU2dlRkR000R1lUSkxQWXl6M245OXZiQkx0dmNWRXB0OXZmSHB6dDR5QXJLR2J2ZWZwdDdvbHJvYWZmYXpGMkIyUW0yYTZCQ1V2X0lDcV9JUXFIWTlVeHFYdmRKdHljc3FzWFVaa29pMkhfUW5FZ051S2dCamR6ZVZEVkdDZ1AxS3FWZFhvc01MYUQ2Smh5bC1MWkotRjRiQWFiMjFXbDlFREJWWA?oc=5"
     },
     {
-      "id": "italy-3",
+      "id": "italy-4",
       "source": "The Herald Journal",
       "title": "Italy Meloni Fashion Meets Politics",
       "excerpt": "Italy Meloni Fashion Meets Politics&nbsp;&nbsp;The Herald Journal",
@@ -11506,7 +11514,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVpxUzFLamNYNzhpemJmeHExUmdEM1B2Zl9aS2dVTkR3RDlUa3JCNFJkWDRNTWsybElrVUN1eFlscEllc2ZYbTUzRE5rZUxxWmpVRmZjN1Z4RktMQWdXc08ybllRQ1k2R1NYRHVXYVZfZ2JJVURPMDdUeF8zaVlZVU4wN1pteUlsT2pOeV9HWUdaWE9xcGhJMUk4Vjk5dVQ3SFBtMk1zLXlIUi1ZR1BCcTVB?oc=5"
     },
     {
-      "id": "italy-4",
+      "id": "italy-5",
       "source": "GazetteXtra",
       "title": "Italy Meloni Fashion Meets Politics",
       "excerpt": "Italy Meloni Fashion Meets Politics&nbsp;&nbsp;GazetteXtra",
@@ -11514,7 +11522,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVm9XQ3ktczZSc1BBNmR2US10cGVtTXl3TlFpOWFtS1R6WWlhNmVlS2lyb2NrQ29oZ1NFM3Y0bUZrdVh3X0tEQ2lnb0I1UmtzWEthc2xjTmhPZlFxRjY2MTNPN3ZXcjUwUlBYNVU3dkpuOXZVZzlNUFZBbHF0SFNTb1ctSDFFSkRjTFd1WWdDSU9icll3VUlCdkJKdkQ4aUltZGhrbjVkOUtXVnEtbDNrWlVfcG1BU3JmbDBDak9VMDliOTVXZ2xHag?oc=5"
     },
     {
-      "id": "italy-5",
+      "id": "italy-6",
       "source": "Idaho State Journal",
       "title": "Italy Meloni Fashion Meets Politics",
       "excerpt": "Italy Meloni Fashion Meets Politics&nbsp;&nbsp;Idaho State Journal",
@@ -11522,7 +11530,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTHpTSzFRNlhIUHE5UUc2SUIzeXhkSExnQlVzNUQ1S09fRHJCRTZQY2JnNnI2clg1Nml0cElaRjlzMUtQRWx0ZTBmVlZFdmJQZHVpd1VOSEFXN3NReEQ0NXFZa1JfUjhFbEROdkFXQzRpZHRuNG9VU2lqbVNBTHo4QUlVdXdQejJiVFlGano0dmZWQTBRdElnLUxEVnlOSHJzbkpDMFFkVE9DRUttTUVtdEZ2SmN6eDVwTElRVXhmaWtzVVdoYjhr?oc=5"
     },
     {
-      "id": "italy-6",
+      "id": "italy-7",
       "source": "Toronto Sun",
       "title": "Summer heat threatens Italy's billion-dollar cheese economy",
       "excerpt": "Summer heat threatens Italy's billion-dollar cheese economy&nbsp;&nbsp;Toronto Sun",
@@ -11530,7 +11538,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUVNLNmxzSXpKdWp4WTF0QkdvNVBNNEJSSUUyU21RSkRJekktU0xObWxzTXYxcWZZeDIxckdyWXJ1WHYyc1hIcExqTjNqWDVQQTVLa2N2NXE2SmVRVlJMYy1VN0tDNnBodVFYZXcxbDZOYVNQR1V5UjU3cjRRMU5iUml2OA?oc=5"
     },
     {
-      "id": "italy-7",
+      "id": "italy-8",
       "source": "euractiv.com",
       "title": "‘Italy exploited Ceuta crisis for electoral gains,’ says Spanish foreign minister",
       "excerpt": "‘Italy exploited Ceuta crisis for electoral gains,’ says Spanish foreign minister&nbsp;&nbsp;euractiv.com",
@@ -11538,7 +11546,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRWtPeTJfN1NDQzZldXktbEFqNlJuM3ZkYzNHa2psR1VCWFlnRV9INHB0NDBVVjFaMnBKSEctM3dwSVc0UklTUjgyYnM4dW1iT2hndmJ6RlcwaGJoYkdwMnZUQ2phY0NRUXZxNVNySXlUUERFQ3ByWk44YzQ0RnBSTnR3REtzbnd0dkJhdnhPXzZLRG5pYkh6QVVCdnRMdlBvNko4ZDhzcUlqbjExNlE?oc=5"
     },
     {
-      "id": "italy-8",
+      "id": "italy-9",
       "source": "KMVU FOX 26 Medford",
       "title": "'Dreams disappear' as Gaza students await evacuation to Italy",
       "excerpt": "'Dreams disappear' as Gaza students await evacuation to Italy&nbsp;&nbsp;KMVU FOX 26 Medford",
@@ -11546,20 +11554,12 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaG5qZ0JwaUlldk5IVzlBVWNxQ3pOdjczdE8xU19fQngzd2ZsNlk4LUhuSEE2b09lVEFxdFV4LU9aTGtDTm1IY3NjQzZLR3RySDdCNHdoU0VqaEprT0wzZUZCQXdBYmJxTEk0YnBpdE45b0JyelpXZVVVYzZQMERUM0VzTXBBUU5FdU8zYmlGMGpVV0pyZmlSNzVHWXoxOEdYbU14bVA0WjQ0b24tV2ItVkZCSVREM3RmTTZTTW9meURIcXF0TXdxMk1pV3A0Y1BjMFhWRUNmeTkwbWtxWWJwQVRZZ2lEWms?oc=5"
     },
     {
-      "id": "italy-9",
+      "id": "italy-10",
       "source": "Forex Factory",
       "title": "Italy’s $4.7 billion cheese economy is feeling the heat as climate change threatens its cheese banks that hold Parmigiano wheels as loan collateral",
       "excerpt": "Italy’s $4.7 billion cheese economy is feeling the heat as climate change threatens its cheese banks that hold Parmigiano wheels as loan collateral&nbsp;&nbsp;Forex Factory",
       "timestamp": "2026-08-10T22:22:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMzZTOGhHU05sSmdPcTYwS1hmUmtMeEdTN2ZQUFJjZ2tybXhSZVNBQlZmWEdJcFFaUlRYOFdfU3o0bWVrT3pOVGVqMGUzYUxKNzJ4azNubXJxMXI2S3VBWDZhODNHWVpFQU9TNVQ2Z3JGbV9jMnJOYU9TemphcGpIRFZpZEI3R2t1UDdON0dyQW1paVHSAZgBQVVfeXFMTVlrZnJuVXFuc0p1OURobDJjbnRGZzZtdWVvWGtvV254LTdDcXNqM1ZBM1ZKQV9WNUplQmdiampMVzhoRzdOLUJiWjFZQWstRzFNakZ1RjBuQ2RqODdTc2xrNHRZbHZNU0JFcmY3Sk5ta0lGTHVjQ3V3NHJ6NWp4aV9LWGJPTXA5MzRLVlJhdXVXSUVlczJjb1E?oc=5"
-    },
-    {
-      "id": "italy-10",
-      "source": "Fortune",
-      "title": "Climate change is threatening Italy's cheese banks that hold Parmigiano wheels as loan collateral",
-      "excerpt": "Climate change is threatening Italy's cheese banks that hold Parmigiano wheels as loan collateral&nbsp;&nbsp;Fortune",
-      "timestamp": "2026-08-10T21:08:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbHBJVWpHMG12ZEpoUXVvOHpyTTFfdEl0QUg3ZVpMU29aYkxQY002cDhkZ2xDazE0WTRRNUdGNFZGSWtYWW9CU09qS0ZORjZaNTg3S1F3N2JSb2laTGtjY1gxX0ZqWlJGSVViOTIzRlhiUGYxeWRoRVhzR0FMYTh6SHFHZXhpamE3bkd5WHpaM1A?oc=5"
     }
   ],
   "Denmark": [
