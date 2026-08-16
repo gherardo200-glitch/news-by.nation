@@ -1068,6 +1068,14 @@
   "Kenya": [
     {
       "id": "kenya-1",
+      "source": "Daily Nation",
+      "title": "ODM-UDA pact reshapes politics",
+      "excerpt": "ODM-UDA pact reshapes politics&nbsp;&nbsp;Daily Nation",
+      "timestamp": "2026-08-15T21:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzRwVGhjY2xUM0dwOVdMM0NFOWJIZEh5djRXSmlNTlQzTlVralR1Q05CcWc5Wmw3Wl9Ob3Y0d2s3U3RkWVhza1hQMXRwWmNWWURHTEZJd0dHU0YxcWlaUC1PXzdETGdLQzZ6al9kRDlzcEwyMk1lZFJWME1uTHFoa1BraUg2bnl3cUtRVDFjb3FnUQ?oc=5"
+    },
+    {
+      "id": "kenya-2",
       "source": "Business News Nigeria",
       "title": "AFRICA FINANCE IN BRIEF: Kenya, Uganda and Namibia hold rates this week",
       "excerpt": "AFRICA FINANCE IN BRIEF: Kenya, Uganda and Namibia hold rates this week&nbsp;&nbsp;Business News Nigeria",
@@ -1075,7 +1083,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQamNmVE1SS0dVQnNkRTJ2VVZRSTBiYUNXZFRyQ2Q3MThyU2FlWlAzcnZFR29XT0ltTFBfYTdOYXRoYlpHME1SdjdsWGp3Si13VjBteHpVMWVpcFhyZjg1Uzl4Q3gwYjN2V2d5QkxVWHEtQnp4M2lWSlY4S1p3TzF5TXZyeGNRWER5NVZRV21ZVTY3bjd3X1Mxa0V0Z0loNFBxODdSMGFMTlRmTVkt?oc=5"
     },
     {
-      "id": "kenya-2",
+      "id": "kenya-3",
       "source": "Reuters",
       "title": "Kenya eyes debut Chinese bond market issuance this fiscal year",
       "excerpt": "Kenya eyes debut Chinese bond market issuance this fiscal year&nbsp;&nbsp;Reuters",
@@ -1083,7 +1091,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHVjUzFreXZiaC1yWFVGVVF1a2xnN3hSNWVXTVFoU2NKazlWdW5CbFdNMGxMWGRXTDlJREtRMTBHSWZGd0dLVm1VaE0yZUVlbDBUcDdsMjdjd0VXRmpDc0Iwb0VmbDhMcUc1Wm01Y05YY01yTXJua1A2ZHBPNEJnRkJRd0VOTHM4RXlRQnNiUXZvUUhCcGg0c0U2cklFREJMQzd1UjlWdi1HOFZMaEdTblhCVmcwSTZJNmNZ?oc=5"
     },
     {
-      "id": "kenya-3",
+      "id": "kenya-4",
       "source": "Vellum Kenya",
       "title": "Beyond 2030: Rising Above Politics to Deliver Vision 2060",
       "excerpt": "Beyond 2030: Rising Above Politics to Deliver Vision 2060&nbsp;&nbsp;Vellum Kenya",
@@ -1091,7 +1099,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0prZ3U3TzBzakY4MXdIZFBUUGRCSjlWOWZVZ0lxekxNUzY1TFZWRmhuU2Z0dGZqWExoZnlrZTI0ZUtzZGxmMlV0OTZqaGJ6ZDBhVFB3WEpKa1VpamJ2emxtRnc3LXM1bWNBUGNENTZQbVR5VjZsUF83dmZ5VERpRXJsanI?oc=5"
     },
     {
-      "id": "kenya-4",
+      "id": "kenya-5",
       "source": "Bloomberg.com",
       "title": "Kenya Eyes Eurobond, Debt Swaps in $5.4 Billion Financing Plan",
       "excerpt": "Kenya Eyes Eurobond, Debt Swaps in $5.4 Billion Financing Plan&nbsp;&nbsp;Bloomberg.com",
@@ -1099,7 +1107,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGdUcFZ1VmlhNzUweUd6S1lBdEFwNUtBeW8zQzFvendUNFU1bTdza19fU3MzVS1lR2VENFZ5eVNZMTBVS2l4aXBTVUhEcEw2ZS1wZTlQRm14d3lSb2k1cHNBTzY3ekc3THFQOTNubmk5S3EzV1QzZlMyYWMtNzNOSEJ1MG9CMi1KYlZmQUNtdThUaGtZMVNOVlJCZWF3MVBJdGN6WjBKVHlEenVIcFJaUw?oc=5"
     },
     {
-      "id": "kenya-5",
+      "id": "kenya-6",
       "source": "TradingView",
       "title": "Kenya plans to issue Eurobonds, Samurai bonds in 2026/27, finance ministry says",
       "excerpt": "Kenya plans to issue Eurobonds, Samurai bonds in 2026/27, finance ministry says&nbsp;&nbsp;TradingView",
@@ -1107,7 +1115,7 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb0laZjhoakpUcjlFTFdrbUlyaWlIOWdfbTRtcl9HR2dpa3JoSW9jbUFiNUtLRm9NcEcyQ2VKY2pFSjlnSW1CX1owM1lMSlFvZlpSVDNKckFDdnBHZl93QUJSUnduUV9Da1VibGFrQWEyc0RzazhtY2Q4alh2SnJCa3oxQXVvd3dId0tsbE5tVmVDSWM4eE9NOVRJSlNfaVNIblU4QUtseWE1d3pKMEhfZzdFRFpvRXBVdlJ2T090SGFCT05GQlhaRHlnMFgtb0UxRURYdFRKLTJBYTZnUkVkQw?oc=5"
     },
     {
-      "id": "kenya-6",
+      "id": "kenya-7",
       "source": "theelephant.info",
       "title": "Ol Kalau and the Business of Blood: Naming Kenya’s Political Economy of Violence",
       "excerpt": "Ol Kalau and the Business of Blood: Naming Kenya’s Political Economy of Violence&nbsp;&nbsp;theelephant.info",
@@ -1115,7 +1123,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNalhtNzZJZlRrMFVhSUVLN0FhUmpjdThMS1RMLThXMnJOOXA0Y1I0X3dPVENlNTZKX2hOSHZ1dmhaQVVFVWlyTjJNbTgzQnhnV0pPNlpsek45aXRsbF9BaXV5NjcyRUFyUHY0UU0wQVJFdFZRbXpJeE9HVU1NSTJ0V2ZQNWkyT0pwa2RfajhGZE9ZaHp3NUdtenJ4amFwdmZUazBaMEVvVVk3S2Q0Rl9QMEZB?oc=5"
     },
     {
-      "id": "kenya-7",
+      "id": "kenya-8",
       "source": "Citizen Digital",
       "title": "Kenya calls for coordinated green skills strategy to drive Africa's green economy",
       "excerpt": "Kenya calls for coordinated green skills strategy to drive Africa's green economy&nbsp;&nbsp;Citizen Digital",
@@ -1123,7 +1131,7 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTRaZkRrNTVlME1jZS1WSzMxVmt2ejhjVTR3Sm40SWppdTFJNVNtWW1DVUJtcU5HTkFob1hxdHBHRG1NOFdXSThqTzJfR3hwem1LS080X1VUSVVDNmpuM2dmRkw4Z0QtMXVsdEMzSVJYSENKQlR5cTVhenJnVS0xd3pkZHZOS2RzTnRpekZiRWJBeFo1NVM5OEhrVTdtUUFfMXFQZU5kdTM0WGNCQU1jdFVSak9CdTBhWE12Sw?oc=5"
     },
     {
-      "id": "kenya-8",
+      "id": "kenya-9",
       "source": "businessdailyafrica.com",
       "title": "Kenya must sustain 10pc annual income growth to reach high-income status by 2060",
       "excerpt": "Kenya must sustain 10pc annual income growth to reach high-income status by 2060&nbsp;&nbsp;businessdailyafrica.com",
@@ -1131,20 +1139,12 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUpNX1ZSU2U2dVBXX1hJakl3QkdpT000S1BVQThxNkwtQXdJQ3VIU2RzYTJVNGl3SkUzMElQTFdndTcwVW1NN1JYRjVfRlNMdGx6UDM3VEh4dFJzRUU1TVNWellVdDB1ekVnSUtNSFNwQlhNZ2w2TzVWOTJpeVk1cXhjZkpyTHFYM09fQ0xBYl9icHBaeUR5Z3RlakhuUFhTOHZKN25mNjVkNFlfUHdBM1k4bEs?oc=5"
     },
     {
-      "id": "kenya-9",
+      "id": "kenya-10",
       "source": "Daily Nation",
       "title": "More Mt Kenya leaders flee UDA",
       "excerpt": "More Mt Kenya leaders flee UDA&nbsp;&nbsp;Daily Nation",
       "timestamp": "2026-08-13T03:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNmQxRFBCa1NJREdwdmdUTmhqVjBOaGRMVzE1a2JfTTIwRERlY1VzTmZmaU5Mb1lQNDhmUWxVWXJIOFc4QWlIeHpqRUFNZlNKZ0FGRFZYNkFMM09fa1JDWFN1YlpDYVRWQTdHekhicVVRYjNCNlZrbUtocnlmSU9rUmRYWWN6RHc?oc=5"
-    },
-    {
-      "id": "kenya-10",
-      "source": "CNBC Africa",
-      "title": "Kenya central bank holds key rate, growth forecasts unchanged",
-      "excerpt": "Kenya central bank holds key rate, growth forecasts unchanged&nbsp;&nbsp;CNBC Africa",
-      "timestamp": "2026-08-12T15:54:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3BjY0w0bUFFVmNxODVHVmpsdEV3X1lxV3FNVmVrQ25uRTRDVHJqMnBuOTN1NTJnRFp5dVVnNmZTaXZ1bFQtV3NTWUFJLTBuQVZKVldVRFZyeUtNbTJMRGkxdE4zM09sZXhDNTZOc216eVBTVDBzVEZzLTdBaTdXV2xLd083alhhUEp3ZFhiV1BPWWdXQ1Nn?oc=5"
     }
   ],
   "Sudan": [
@@ -7383,6 +7383,14 @@
   "Thailand": [
     {
       "id": "thailand-1",
+      "source": "Nation Thailand",
+      "title": "Tracing Thailand’s 34 years of VAT cuts through 23 royal decrees",
+      "excerpt": "Tracing Thailand’s 34 years of VAT cuts through 23 royal decrees&nbsp;&nbsp;Nation Thailand",
+      "timestamp": "2026-08-16T00:49:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Va2dvNHZmbDYzcklXcVZvSFNMRV9uZ2JFbXRMSlhVVU5YZWFyWlU5RWJzaDNrc0oweGtkUUg3cUZVNWJWWFVMeGRDYnhfY2t1c2FRZm0wSHNGSTdMajMycWFEeHBrT0U?oc=5"
+    },
+    {
+      "id": "thailand-2",
       "source": "Bangkok Post",
       "title": "AI boom drives Thailand's digital economy as exports surge",
       "excerpt": "AI boom drives Thailand's digital economy as exports surge&nbsp;&nbsp;Bangkok Post",
@@ -7390,7 +7398,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQnF5ZUxYUEkwc1V4VzBsSmlOWHpXMDQ0TFNPN1VWYUhvcVBGUEhLVnpNcGs0eUdEQ2FuNFhsaXdOX19idXJpVXdWRzhVSHF2NXNUbXI4TnFlYUlnNk9tYjV4NVVJalNfN1U4Q0lhZDNMMGo0d21XZm5vaWNqeXlwUTljUUVpd0tlUC05RUpQYkw1OEhxdEdtaGRhNHRNdHd0amFhTm9raUlNRnF5UUIw?oc=5"
     },
     {
-      "id": "thailand-2",
+      "id": "thailand-3",
       "source": "The Manila Times",
       "title": "GTH-Asia and Thailand's 19 Degrees Resort Sign Strategic Hospitality Partnership to Boost Thailand's Tourism and Economy",
       "excerpt": "GTH-Asia and Thailand's 19 Degrees Resort Sign Strategic Hospitality Partnership to Boost Thailand's Tourism and Economy&nbsp;&nbsp;The Manila Times",
@@ -7398,7 +7406,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNc3BpOGdNX1pqMDlkeDhFeEtVc0c0aEJXTzhRcDE3UzJrNjJua2pQWThxejZ3NF9FMk5yWHY4b1MwR3RoWUd6cUdZTlUyWWIweFh5aUxXQWowbnFrM1M3dVBmNlppRHNQRVFxaFpOUFhNZWV3RXNRR3VhVHFVQ1EzaUxzT1oyRk9lY3AzNG9PRi1xYTRwT0VhYTFXbWJjUnd4NU9JV2tnVkkzbmUwaVJBX081Z2otRTk4V0o4VThTS2RHQkJNTkNhSkpMdHJiMGdwbVJtRFVIUEoySzZTam9qNXBkQnJvVmpyaG1VZm1RaG4xamV1R0lFR1lWSGMyTk9LNkI2M01yWnBfMnFlMlNYc3ZXWlVKbmNu0gGeAkFVX3lxTE9GNHdZSEkyNV9YR1JjbWhuckR3QWV1LUFDTXdpakFRdk5GV2t3c2VnRGFqbnNfXzZPa3V0YXA1U3p0UXRhSGREWldTTm5LUXoxRVl1Mkp2dG55VU9BcUNzbGJseUotU2FsM2lPN3N2ZEpzdVBvaVpwajVkR1NVTEFiWFBWRjF2cDdvWE1iV0dMSFFYVUJGR2RTRVFETWdvd2ZFMW5jY1dwNFliY1FsTUs3UGpwNkVUbF9ISktuQUJ2aUVRUUNGV0xGcWpoaTV4c0tnRm9MS1poWHc1QXlzYmlKcGVjaFphYnEwaEF6Z1VmbzB3RXU5U0g4Y1JLdFpyNXhVdVZhZEhKZkFIQzhhVWdGZ01kdXd3dzdwTnpYWEE?oc=5"
     },
     {
-      "id": "thailand-3",
+      "id": "thailand-4",
       "source": "businesstoday.com.my",
       "title": "Thailand’s Economy Set To Slam The Brakes As Weak Spending Bites",
       "excerpt": "Thailand’s Economy Set To Slam The Brakes As Weak Spending Bites&nbsp;&nbsp;businesstoday.com.my",
@@ -7406,7 +7414,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDd2Uk5tSlNpWUd3VzhqTEl2WVV4RUc1TXRWanNPNm5JbmU3Rk82TG5EWmVNYmg5V1lhMDA1SHU1SEtORlJubEU3OGJnbmstYkM0Z2FzS3Flbm8tOW5YT3dXOGlIdmZiOHNaRHd2MldRV1VXc2hDUHZuVjhqNi04Mml6MV8wT3dNLWxDNEd5Q0JnWEVIZ2tJaHplQ3dod28zamNvLWhSc190Ym4w?oc=5"
     },
     {
-      "id": "thailand-4",
+      "id": "thailand-5",
       "source": "Reuters",
       "title": "Thailand's second-quarter growth seen slowing sharply as weak consumption weighs",
       "excerpt": "Thailand's second-quarter growth seen slowing sharply as weak consumption weighs&nbsp;&nbsp;Reuters",
@@ -7414,7 +7422,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNanZIal9remh2VVdZZm5XWlVPazM5SExTaWdWUkJPRjliZU1pc0QteDZ5NVlwRVhYU25makhobG5hN1VSclFDUkV2YmRVbzMxNzhHZ1JDczZwN0Z0MDdHQ1poV0JDNDBBZW9TYXdUSC10YWpydzdLeXNkakRYb0dPbXRycVBuVFNvOG56aXRqWExkeUlqOHdnNDVlSE5ncUtrV2IwQ1BmQkx5NVVFYjJrUllQWFZwU01YeXJ1dFoyamdzV2R4dmc1VkJfOA?oc=5"
     },
     {
-      "id": "thailand-5",
+      "id": "thailand-6",
       "source": "Thailand Business News",
       "title": "Thailand Update: Major Highlights in Politics, Economy, Tourism, and Society",
       "excerpt": "Thailand Update: Major Highlights in Politics, Economy, Tourism, and Society&nbsp;&nbsp;Thailand Business News",
@@ -7422,7 +7430,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcW90YzhrNXhtSFZDQTVoNlhac2U0Z3NXSk0zTzRucXF2SzlPNWJpM3RIa05wZXZYdXZJdXBXUERLVXY2elZoWE1ZdmNCMlRVTV9UM0g4NFVrdlJ0dVBycmx3dGxJdUg3dXRkdE9CeVhqY2R5eERHYmltMkJmOEp5LVZWSXlza2NJZkVnSkp6X1psWmRkc2ZvX2ZBTUlZdEtjWVU4WE9ieVdrX01HS20tZWJlNzd2WUQyVlhXZE9ZY3Z6Rzg?oc=5"
     },
     {
-      "id": "thailand-6",
+      "id": "thailand-7",
       "source": "Nation Thailand",
       "title": "Thailand Targets Top 20 Global Ranking in 12-Year High-Income Push",
       "excerpt": "Thailand Targets Top 20 Global Ranking in 12-Year High-Income Push&nbsp;&nbsp;Nation Thailand",
@@ -7430,7 +7438,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxYnNOS1pTanRIYVpYdzA5bDl4NVZGQXVrUVE3UzdVZVFKbHB6ajQ4dTM3ODhjTHdSY1U1eEx5RjIzYlNuUFpYeFhPVUIzbXNLNWIzZmpPSktFaVBZNTh4anBwazR2UTg?oc=5"
     },
     {
-      "id": "thailand-7",
+      "id": "thailand-8",
       "source": "SME & Entrepreneurship Magazine",
       "title": "Thailand’s Economy Sees Lowest Baht Value in 5 Months",
       "excerpt": "Thailand’s Economy Sees Lowest Baht Value in 5 Months&nbsp;&nbsp;SME & Entrepreneurship Magazine",
@@ -7438,7 +7446,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42V0w2UmFValZtT19SaV9nLTVxUmN2QzBKbFZaZm1CYnJCV1lCZXVXTXotdWtXcGhUOVNJWjB5MVg0QUlUTmhtSWJuN0t4TldydnlIWGFpSFhQSUNQYW9QQkxFckNGY0xfZDdtbWpiSVkzaEhmRjhIb1pR?oc=5"
     },
     {
-      "id": "thailand-8",
+      "id": "thailand-9",
       "source": "nationthailand.com",
       "title": "Thailand’s Digital GDP to Hit 5.7tn Baht as AI Exports Surge",
       "excerpt": "Thailand’s Digital GDP to Hit 5.7tn Baht as AI Exports Surge&nbsp;&nbsp;nationthailand.com",
@@ -7446,20 +7454,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kbnJ1Tzc1ZmtzMWNXUExYUFRFc1JOZlpyWnF3VFpoMVZVbFdLRVMyM01LWUluMF82ajNMTm02aFBtbDF6Nkh6MGpXcmxtN29OYUtvOGZBaF9PMlh2UHdXS3h5b0RFbzQ?oc=5"
     },
     {
-      "id": "thailand-9",
+      "id": "thailand-10",
       "source": "The Star",
       "title": "Thailand seeks ways to narrow China trade deficit",
       "excerpt": "Thailand seeks ways to narrow China trade deficit&nbsp;&nbsp;The Star",
       "timestamp": "2026-08-11T21:02:33+00:00",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV3I2clVIdFJsX3RicTZ1R1R3WEJZMUEwZ1YwcE81TG1hZW1LU1B5Zk00ZmVoRTRBVEhEakczY2VBY0c1b3V6amVVMTdJWmxvdWcwVkpZYVYzRWVYc2ozTElzbkJndWt2OHo0aDM5TE9LUjI4cXpObnM5QnVUUTZwX2N6TzcwMXZGSmYyTkpTRGh0MUE5OE5UYm5GcVo2SFdfMjBjQlh0aTIzYnFVb2RV?oc=5"
-    },
-    {
-      "id": "thailand-10",
-      "source": "Nation Thailand",
-      "title": "Bank of Thailand warns of uncertain second-half outlook",
-      "excerpt": "Bank of Thailand warns of uncertain second-half outlook&nbsp;&nbsp;Nation Thailand",
-      "timestamp": "2026-08-11T06:18:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mVFZqNlBJSzdyc2lJSUVpTkJmQWtDaGlGMVlubElzZHg1NUQydGFsd19WbUhXT01ZNHFzRHJQenE4YnFLZ3VnQi1MRHJPWHV6UFByaDY3U0VnNmNNX2ZKcUg5OTJ5NjA?oc=5"
     }
   ],
   "Laos": [
@@ -8206,11 +8206,19 @@
       "source": "The Kathmandu Post",
       "title": "Opinion | Why Nepal’s economy will need more than a two-thirds majority",
       "excerpt": "Opinion | Why Nepal’s economy will need more than a two-thirds majority&nbsp;&nbsp;The Kathmandu Post",
+      "timestamp": "2026-08-16T01:36:36+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX2I0azJmeGgzeTJLSnZNbjhxa1htcC1WbnZUVG45UmR5ZTJhUWhZaE00MEg5aTZmUmZEYTdzQ09EOXQ4eHZmQzM4em9HNXZzV3NWNEhvSHRyY2c5QUxGeWxMMThqaFNZUHJhNGZSaVpQbGgxa3pka25KS2ZSQWxWRnVqWFpXWDVsNXJXc2d4c0hzZGJLb0ZISU0yZ1NodWVyYnNDaXVadw?oc=5"
+    },
+    {
+      "id": "nepal-2",
+      "source": "The Kathmandu Post",
+      "title": "Opinion | Why Nepal’s economy will need more than a two-thirds majority",
+      "excerpt": "Opinion | Why Nepal’s economy will need more than a two-thirds majority&nbsp;&nbsp;The Kathmandu Post",
       "timestamp": "2026-08-16T00:54:43+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcDRkS3hzRm1QOFp6a21VaHZia01KQWhCNnh2blVsbzROM1JxSWJyM2JRZ0hrOUNxNG1DRWJlS1o2eXhlUHpCSmZxNF8xQlhEQTV1UTd2OWpqWFJJWG12QmhUVGNiXzdrdHVPM0Y1TThhbm5QUlNpRGlaTHUzLXQxLUxWQUlBT0J3RGRSQTBod2JRWUJOdFJnVjJlV1phcmx4V3JOWXdBemdLQQ?oc=5"
     },
     {
-      "id": "nepal-2",
+      "id": "nepal-3",
       "source": "myRepublica",
       "title": "FinMin Dr Swarnim Wagle urges NRNs to invest in Nepal with confidence",
       "excerpt": "FinMin Dr Swarnim Wagle urges NRNs to invest in Nepal with confidence&nbsp;&nbsp;myRepublica",
@@ -8218,7 +8226,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcGNFZ2RJcThIOS1sZXEtQTczVUVPLW0yUkJaTlpvVjg5SnpVZC1tY0NJLS01U0VCaG11ejJBRVhJalI2TEttVkgwNlhLYXpSb0E5ZDJvWDA2eFk2clRZYnRrT1h0aFgwSnlTMk1VWG55YUVPT2dZeWsxaG02cjlremoyLU90VVNlaF9Zc1hFZllWWGxpUi1WbkNUNUtwZ0pOemJ2MFBGQUpaZEVZNzFxOUJSU3VZdW5KWkdlRFpIRjRzdw?oc=5"
     },
     {
-      "id": "nepal-3",
+      "id": "nepal-4",
       "source": "The Rising Nepal",
       "title": "Finance Minister urges overseas to invest confidently in Nepal",
       "excerpt": "Finance Minister urges overseas to invest confidently in Nepal&nbsp;&nbsp;The Rising Nepal",
@@ -8226,7 +8234,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zdE5NZzVkZkc2N1d6dzIyMGw1ZjU5bmdlWVp5eV82TlpTV0E1bFBYMU56amZJZnFYdzJnZEYtVlQ5MG5RbEJ3SkV5ZVF5YVU3?oc=5"
     },
     {
-      "id": "nepal-4",
+      "id": "nepal-5",
       "source": "Ratopati",
       "title": "Finance Minister Urges Diaspora to Invest in Nepal",
       "excerpt": "Finance Minister Urges Diaspora to Invest in Nepal&nbsp;&nbsp;Ratopati",
@@ -8234,7 +8242,7 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWEdHZUhUc1FLdkpCUnhfd25Qb0Z3LXVVZFB0MlA5WHA4a3lxcDhWV1F4a19VanFjV3h3bUJBaGRpOEFydE1YYVlnVV9naFJ6VmtUaTBCa1Q4VWRzdUtJRnRael9qcGF6NzRqUEFtUDhTTUFOYlpHRFVYWXhKaE9YXzh0bHlyWmVOUGF2VG1JVkFORlZ2UG5pX0d0WlZ3UnFyQ3VjRF9WYWJSaTZRQmtzSlY3eDVpcDlkXzI4SERB?oc=5"
     },
     {
-      "id": "nepal-5",
+      "id": "nepal-6",
       "source": "ABC NEWS NEPAL",
       "title": "Nepal’s BFIN Institute Hosts International Conference on Future of Finance",
       "excerpt": "Nepal’s BFIN Institute Hosts International Conference on Future of Finance&nbsp;&nbsp;ABC NEWS NEPAL",
@@ -8242,7 +8250,7 @@
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxQUZ4Qk1lUFlGbUlpaXk4NjFHbEpQSjY0RElWSEpnaWJqOEdPSVVYSDR1SHJNcTNBai1iV3JsMFZZQmFXdUVz?oc=5"
     },
     {
-      "id": "nepal-6",
+      "id": "nepal-7",
       "source": "Ratopati",
       "title": "Nepal Aims for 5 Lakh Digital Economy Jobs by 2035",
       "excerpt": "Nepal Aims for 5 Lakh Digital Economy Jobs by 2035&nbsp;&nbsp;Ratopati",
@@ -8250,7 +8258,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRk11TTIzaWdITTR0RzdJNHBjeFJTMzJfYnhXMWxDTmNGZ01WdmRqNUtpLXNBOVo5TzROTHlpanpoT2pXOVo1bXFMNmNpd0xjdndNVmJseHo1Wm1ORW4wWWlFb0hXeDNldlF6TFN1a0p6NUJuQm1MaDg0T183dmZMYXAxLUZHUlh3UXJfMGxyZDJzWE9nZWxjRXpqWUo4U2FzYVVJS3Q2VEMxdw?oc=5"
     },
     {
-      "id": "nepal-7",
+      "id": "nepal-8",
       "source": "The Rising Nepal",
       "title": "Tourism sector serves as backbone of country economy: Speaker Aryal",
       "excerpt": "Tourism sector serves as backbone of country economy: Speaker Aryal&nbsp;&nbsp;The Rising Nepal",
@@ -8258,7 +8266,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02eDZabC0zeXR0bU11RVltbVYwYlFPdG9Sb2ZxTWZMWE5HOXZDdWFDVUVPRFZONm5XQ3A2ZFQ0QTRONlk5RVJqLVVxczR0Qkt1?oc=5"
     },
     {
-      "id": "nepal-8",
+      "id": "nepal-9",
       "source": "risingnepaldaily.com",
       "title": "Manifestation Of Nepali Economy",
       "excerpt": "Manifestation Of Nepali Economy&nbsp;&nbsp;risingnepaldaily.com",
@@ -8266,20 +8274,12 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBySjRHTDJPcWhZR3dhVVJOY2NjMS1STWxkTjlTd2luS0JxOElCSHlZYldoc2l4VkFiZFBWbWJyNWFrME1ud1RZZnZnN09Kem5E?oc=5"
     },
     {
-      "id": "nepal-9",
+      "id": "nepal-10",
       "source": "Nepalnews.com",
       "title": "Finance Minister Wagle advocates tax expansion to drive self-reliant budget",
       "excerpt": "Finance Minister Wagle advocates tax expansion to drive self-reliant budget&nbsp;&nbsp;Nepalnews.com",
       "timestamp": "2026-08-13T11:59:44+00:00",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNjRfeE1xOUtNYVF6Zk82ZG0ybWVHckFKQ0s0S1dqSmtJcnY5Zk1KYnRGSGlfa0ZWZDhvSjJkYTBHSlNIN1d0cEN4UTA2Q05oYzEtZGtvVnBYU0NBeXBZN1p5M1hBUGZXVTV0cEpKak9BTUxhQ3Q0OGxES1MzWkU3UmlkdE82SnZhNHpaS2tCWUU1TFgzNUtPVk9NdjdrOTk5Y3NJNTV3TUlUMzBIcm9PU0FnTmNQTmo4?oc=5"
-    },
-    {
-      "id": "nepal-10",
-      "source": "Nepalnews.com",
-      "title": "Finance Minister Wagle states govt committed to fulfilling people’s basic needs",
-      "excerpt": "Finance Minister Wagle states govt committed to fulfilling people’s basic needs&nbsp;&nbsp;Nepalnews.com",
-      "timestamp": "2026-08-13T08:01:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGJxWlhsM3EtZHI3dHdyellXeFREb29YX3pKTWlQYnJzZXdkb0RkV0dXR2s1c0FLNTd2cWhaZUhIS1FCNVlfUzFGREZ1T3pBdGQtakFfMm44cTJQOXNIb1VyRVF3NmxXZklOUkVwQjNITm1CSGlKbFJvanUybFlrRm1VZnZpVWRnRVFSOWdFSTYtSFVaU0N0UjVaWGwxdGd6LXRwWnNTQkZpQnlRdHZhV3liRWw2NGV6RDN3eA?oc=5"
     }
   ],
   "Pakistan": [
@@ -8695,6 +8695,14 @@
   "Iran": [
     {
       "id": "iran-1",
+      "source": "cbs19.tv",
+      "title": "Congressman says Iran, economy could impact November | Inside Texas Politics: Aug. 16, 2026",
+      "excerpt": "Congressman says Iran, economy could impact November | Inside Texas Politics: Aug. 16, 2026&nbsp;&nbsp;cbs19.tv",
+      "timestamp": "2026-08-15T22:53:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNREs5UVdsOFBXSjJoUUhubklZWEJuVzBjLXRJWFdVcHNIU3Y5UF9BenJ6dmhGaklvZFEwc0hPNTVpRFItOGc3U3dDUEI0RnB4VjVsVUlUMzAxTUluZWZCRXlNbjA3U0RITWRDTkxnb2E2OHVqSDRPMUEzQ2NXOEM3UVoyaUFLR1g0cHFOZXJ4LTlPenNKUUhna2duT3gzbi1mdTVpcnh4UUVib0FLYWZReDBwTUY5Q2M4RXVPeERZM0pGb3o4V2FMTzVJMU9rVy1wSC1POFV5aUhLTW5BSFJBaHVxdy15cWFPU2Fxd2JWSnZZWXhPc3Fmc1VZVEM2WXp0Uk90ZlZ2RXo1d1lIMVctU2NrZzBYdw?oc=5"
+    },
+    {
+      "id": "iran-2",
       "source": "gCaptain",
       "title": "Hormuz Ship Attacks Mount As US Vows To Cripple Iran Economy",
       "excerpt": "Hormuz Ship Attacks Mount As US Vows To Cripple Iran Economy&nbsp;&nbsp;gCaptain",
@@ -8702,7 +8710,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXY2RlRCLUlzWHBxQnlxZzQ0Ml9lMWJFWjJsUG1pMVpqbEc1dUJ1dVMycmtnenlsVlNja25FcTE5cEw3ZnVLNk1Qem1LQzlBUkVxcV84LUdJTkgxbUViMFdXRVlZV3YyMUd5MXVZTjNQZU15TXhnd3k2VXVMV0lYQnpLNFZPbk80Wnc?oc=5"
     },
     {
-      "id": "iran-2",
+      "id": "iran-3",
       "source": "Fortune",
       "title": "Iran business leader admits U.S. blockade will inflict more economic damage than war",
       "excerpt": "Iran business leader admits U.S. blockade will inflict more economic damage than war&nbsp;&nbsp;Fortune",
@@ -8710,7 +8718,7 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQldiOGpWX2dsSDJjYmxRYWRLclhpYXZiYjduR2czSXIxN1dWY21YNVJGUnc4Tjhub2h6SkFYYjVUYVVhSnBOVVFjNzlUZlpWNkNYYkV2cXA5bmNmLVRPLU90RU4tOVdGZEF2ZGNYTl9Da1R0c0NEQTI0WUNlazhzMHA3OGk5allSeHlOM1gtUmlTUjFVZkd5WGttMA?oc=5"
     },
     {
-      "id": "iran-3",
+      "id": "iran-4",
       "source": "NCRI",
       "title": "Iran’s Fuel Freeze and $127 Billion IOU: Why Economic Failure Is Becoming a Political Crisis - National Council of Resistance of Iran",
       "excerpt": "Iran’s Fuel Freeze and $127 Billion IOU: Why Economic Failure Is Becoming a Political Crisis&nbsp;&nbsp;National Council of Resistance of Iran - NCRI",
@@ -8718,7 +8726,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN2t0bWZXVG43UmtuYWl0dE0za3kwYm9SWjFCRkZVLUp5Y080cDRrZTNRUGRxNlZHWkREU0tOUUtzWGlZRlE4aExUVkhzU0otVDJ0a3Z2N0kxYnZuNkZ0Mlp1dDNFWTI4N0V3TjY1bUZGT0h1M2hTeHhIallNWWdCRGdLNjNtdjB4MUJLMGdKV1FRQWJZVUo5Y1RLaV9SUkcxd1FiZkxNUDJpZXgyVVBITFA2SFFYbkhLNEI2b1U0X3NDWE1CdWJqTmJKOA?oc=5"
     },
     {
-      "id": "iran-4",
+      "id": "iran-5",
       "source": "Bloomberg.com",
       "title": "Hormuz Ship Attacks Mount as US Vows to Cripple Iran’s Economy",
       "excerpt": "Hormuz Ship Attacks Mount as US Vows to Cripple Iran’s Economy&nbsp;&nbsp;Bloomberg.com",
@@ -8726,7 +8734,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFBPekkwR2JXcU1IUkc0aVdPNlo2MTJrNGtrVDBlM1B6djV0RlIzbUgxRTN0bWJJQjRESHdBekEtZHk2RTVhQ3RBT2prQlJreHdYQXd5VVZZQVJ0Nk1BT1NiZjNrb3VyeUR1dGc5NmZZWnpoQVBVQ3pSWlBNb3JSZ2VKY0Y0SFdvRFRZeTl6dGMtb2h1V2Q4cHJOeFB6VGlQSnp1bENJUWxPbkFnNHdNWkplUQ?oc=5"
     },
     {
-      "id": "iran-5",
+      "id": "iran-6",
       "source": "scmp.com",
       "title": "US readies Iran penalties as Trump downplays midterms impact",
       "excerpt": "US readies Iran penalties as Trump downplays midterms impact&nbsp;&nbsp;scmp.com",
@@ -8734,7 +8742,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVFFQzJXeHBlbTcwczhONF93ZnlBSWU5TE9BbEt6S096SElaWTc5b0RPN3VuRGltTkpxNlNUSW9lOW1oU2dLbkFJVFF4WlF6UkZVZEk5MF9KVUw1X0ZJR19qTWhuSDN0c08ydWFCT0dGY3daSkpLbzlma2VEZ2doR2xKZy1uWVBmaVVFQWhaQ3JTS0x3Nk1RV1RCdlpWd3RiazN0S29rTGxRMnFNdmNYRkFzN1ctcEhN0gG4AUFVX3lxTE1FTWFUY1poV1ZPTGNWMGNTQTZZMHRyN3Zpa0lrY1RBSzdld3FrUEhOX2UyLXUzbUhtYlBSaTA5RjhoeVluSFZna1lZLUdSRUVfTnlBWlZNVW9VdTR3LXNwU0ZDR0VlNkNkcnJnMjBOWFZ2SERnbU9leGVSOXlyYUYtRkxhWTBFUWl3U1FGazl2Ty1xbGNlSW92cDgxemw0UjJ2YkhQazBVSTZKa1dQZW44NnRlVTVNZFc?oc=5"
     },
     {
-      "id": "iran-6",
+      "id": "iran-7",
       "source": "Iran International",
       "title": "Sanctions alone cannot topple Iran’s regime, former Treasury official says",
       "excerpt": "Sanctions alone cannot topple Iran’s regime, former Treasury official says&nbsp;&nbsp;Iran International",
@@ -8742,7 +8750,7 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43X1EtTjhJeFNrWjA4bmI5MlVZd3lyNXpxVzRmeGVtdElRdTJXMFpGOFF1OVpGM2I2UGtieXJjVThVWEdfVG1xN0gtclhnaVF2S1E?oc=5"
     },
     {
-      "id": "iran-7",
+      "id": "iran-8",
       "source": "WSJ",
       "title": "The Iran War Is Now About Who Blinks First Under Economic Pressure",
       "excerpt": "The Iran War Is Now About Who Blinks First Under Economic Pressure&nbsp;&nbsp;WSJ",
@@ -8750,7 +8758,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwMF9jbDlPSktPRW1TTjhQTHBUR01HQy1abjFjUGtWYzh6emxmaW5WdkQ2VUhTSnFERmJ2UVdwQWJPMGxudloxRzJSd2NwMzEzMlB0Rm5ESms5ZXBRZEkxQTUzZl9lbjBxY1JkbnJTeWpwbDJvZXZwcTJjTWdQQQ?oc=5"
     },
     {
-      "id": "iran-8",
+      "id": "iran-9",
       "source": "Dakota News Now",
       "title": "Sen. Thune talks Iran War, economy ahead of midterms",
       "excerpt": "Sen. Thune talks Iran War, economy ahead of midterms&nbsp;&nbsp;Dakota News Now",
@@ -8758,20 +8766,12 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRTRKMGNzaGdrUkZrUXhxcVNzMzlHN1BZZnA2bEdXYWVKQkVzV1Y1NXZxa0RNWWMybUc0TE11VmlOUjlYcFY2UXIwUk1sQTB4RGhvdWdZSmlTOEVsNFhKLVBJQjBXQXhyYWxJRnk3WlU1WTNadk9lenA1cGptSzZmYURqMDIyYmxjVmZFUjZHa0I0aTjSAacBQVVfeXFMTllpNERBbnQyT2VLbi1qOUpndDl2eGN0Y01aMXZDSFZvT2VPYmdEQnZ1ZmszOVFraW5HNEVyUHdwaGdsYzhYeHJCTXBDV1Q5R1hmYjRXY01Ha0c3VjNwaFlxNnkzRnM4dklBWUpCTEdOeGR2ZnNQdS1NUlFsbVpTQ0l1c2J2SDZtMUJjYVRyMmJzcHRrUzdpRDVSeFdhdERFMFU3Skg0NEE?oc=5"
     },
     {
-      "id": "iran-9",
+      "id": "iran-10",
       "source": "Bloomberg.com",
       "title": "US Readies Iran Penalties as Trump Downplays Midterms Impact",
       "excerpt": "US Readies Iran Penalties as Trump Downplays Midterms Impact&nbsp;&nbsp;Bloomberg.com",
       "timestamp": "2026-08-14T20:39:37+00:00",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVi01Z0lDR0hQZDl1RUl3eUFya3FsQjFmMmRJT0luTjBlaWItbDhjUDdGLURDQ2lEOHlVajRWZjIzTUNsTmx5OFlLdXJwb2wxazgwUXNuNE5nM0JwMV9wN29LQkt1LVZlalZrOEMxc1d3d3k2RkRCM3d4dFRNM2w1OUFDSlVUbWVNc3VUclBiS1FINzdJekZZekZCWnE1XzdwOEw1enRPcXpjUENlWVZoSQ?oc=5"
-    },
-    {
-      "id": "iran-10",
-      "source": "Military.com",
-      "title": "US Readies Unprecedented ‘Economic Isolation’ Plan for Iran",
-      "excerpt": "US Readies Unprecedented ‘Economic Isolation’ Plan for Iran&nbsp;&nbsp;Military.com",
-      "timestamp": "2026-08-14T15:52:29+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1U4b1VIZGFRc19PX242bVI1VzRzUjFPeDl4M1Y5SklUVHVmM3A5ZXBXYU8wS1dBQ2xsZ1BRUVZCQllSU3BUX29UeXRSTFBqb1NKU2txY29tZ29jaHpHME4xTjVUdHVVRU9KZlhwN29CUVFXYl9nblJ2RkFCRFE4UjBBdTlYenE2X1E?oc=5"
     }
   ],
   "Syria": [
@@ -11409,6 +11409,14 @@
     },
     {
       "id": "taiwan-2",
+      "source": "ET Enterprise AI",
+      "title": "AI boom predicted to drive Taiwan's economy to grow fastest in four decades",
+      "excerpt": "AI boom predicted to drive Taiwan's economy to grow fastest in four decades&nbsp;&nbsp;ET Enterprise AI",
+      "timestamp": "2026-08-15T11:31:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWDhIdVpKNGx6TlBhNFFaU0dsM0dCczFpRVYtYXdfQ2JaNGZsR0s3QTZKSWRfeEdkNmp6c2FhMWx0YmFiZm94Y3BhNFVGbF8yRTU3dzM0LV9ZZlh6MnFJTkZJUE8tR0R6Q1d4VE5mZzFoZmh2VnlFdHZWNWxsR18wczFxdlk4c2ZfUFgweEhXeG9RRUI3V25SVzlfRnhZR19xY0lJUVliTE1mYWlYSlYzUjhFU0c2Mk9ZSGdOWHNZbTVncHVTZ1FNb2xKMDg5OWlBTWpDM0FVRkRFc0JkZ1RremlXQVdHSXfSAecBQVVfeXFMUFg4SHVaSjRsek5QYTRRWlNHbDNHQnMxaUVWLWF3X0NiWjRmbEdLN0E2SklkX3hHZDZqenNhYTFsdGJhYmZveGNwYTRVRmxfMkU1N3czNC1fWWZYejJxSU5GSVBPLUdEekNXeFROZmcxaGZodlZ5RXR2VjVsbEdfMHMxcXZZOHNmX1BYMHhIV3hvUUVCN1duUlc5X0Z4WUdfcWNJSVFZYkxNZmFpWEpWM1I4RVNHNjJPWUhnTlhzWW01Z3B1U2dRTW9sSjA4OTlpQU1qQzNBVUZERXNCZGdUa3ppV0FXR0l3?oc=5"
+    },
+    {
+      "id": "taiwan-3",
       "source": "Al Jazeera",
       "title": "Taiwan passes defence budget after record delay, retains drone funding",
       "excerpt": "Taiwan passes defence budget after record delay, retains drone funding&nbsp;&nbsp;Al Jazeera",
@@ -11416,7 +11424,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3plLUdtWmYtb0I2SFl4VW40VjdpdEpvUkN3VXhiX1BteHJZTzN0QWdSNHBjeWNoeVFCNVJQVnFtcEtfc1VuRzl0YkxteUR4aEg0dzhObDIwTXduWVR5VDI0cWp1cE45YjY4eDhDNnJUVzUtZ0EyMVVjVHhNYi1oMFJBRlNaTkNMUGRyNU8tb1RZb1R6UEw4SWRmT3haUEg3THlLNFZLaURKa29kUklEY01OUdIBuAFBVV95cUxQMndfenNLdmdEdW5rMWc2V1hPUWFWSjdLamNqRjFIX3IzMzQxMWkwQ2dQR2tyZkdQQjdMeGZ4OWo0SkZvVHh1dV9BN1RTUWZkTS1BMnFDOWk3TnZ3Rm1GR0xOWEdIeEpwdzZ4aUUwQmZ0NnNneVVSU29CQXlTeHZHd1pNbGxyajhGOU5DSGc5Njhxd3JvVjdqRWV5WU9TOWhaWlRRTUdvcldaaFpHR2oyeGpBNy03Y1dK?oc=5"
     },
     {
-      "id": "taiwan-3",
+      "id": "taiwan-4",
       "source": "digitimes",
       "title": "Taiwan Gold Card approvals for finance professionals top 1,000",
       "excerpt": "Taiwan Gold Card approvals for finance professionals top 1,000&nbsp;&nbsp;digitimes",
@@ -11424,7 +11432,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGxCbVdLQUU0VTRWZmt6N0E3cDZ0aDNNd2NiYTBsTjl5OEN5dmNuakRpdUgxeTZnR1VpVERjdGZBQ0J2a0hxcFZreHgwSHdhMGZHczBta1BGWXBESTlCYTVCMTJzUXZtZllMTWszR3NBZ0xESWdJZHRCam9IR0pQdG9hY2NIVUR3a0xxb1BPdlBkVTNaWHFuQ240bEVfUEpwbk1qYkpydUt2c1E5QlRPc3dn?oc=5"
     },
     {
-      "id": "taiwan-4",
+      "id": "taiwan-5",
       "source": "whbl.com",
       "title": "AI boom predicted to drive Taiwan’s economy to grow fastest in four decades",
       "excerpt": "AI boom predicted to drive Taiwan’s economy to grow fastest in four decades&nbsp;&nbsp;whbl.com",
@@ -11432,7 +11440,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTF1MTBRWWRBcGI1NkJrRUtGWDJhc0YyajZIX3lRN2s2dUxXSzBERHBSeC1MQ09aUEFmVWJNYmRxUHR5Z05lTlBnN1YxbXFWejVweE5KcDBLeWtkREdSSE1IQzdUQS1obUR1bm9xR1dGVTZXZzM5cWQ3ZlZwenJqc2Rsdks?oc=5"
     },
     {
-      "id": "taiwan-5",
+      "id": "taiwan-6",
       "source": "AsiaOne",
       "title": "AI boom predicted to drive Taiwan's economy to grow fastest in four decades, Asia News",
       "excerpt": "AI boom predicted to drive Taiwan's economy to grow fastest in four decades, Asia News&nbsp;&nbsp;AsiaOne",
@@ -11440,7 +11448,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ2xrV2RvWlpMbl81T1lMM0V3MWdINWkyd2ZUTHZkNzRVSzlRY1BKSElvMWhiblJDb1ZpUi1QWXJwZ0RlWnFGZjFWMDVqd3BCejB6dGFtVzRnNE1qQXU3SU5kc0hOa3NhNGRfRkxLMnZKVWlhOFRPUUJTV2RkYnlRWVdFMDFBcDdDQkVTeVN5NXQzVE5YXzkwQnln?oc=5"
     },
     {
-      "id": "taiwan-6",
+      "id": "taiwan-7",
       "source": "Reuters",
       "title": "AI boom predicted to drive Taiwan's economy to grow fastest in four decades",
       "excerpt": "AI boom predicted to drive Taiwan's economy to grow fastest in four decades&nbsp;&nbsp;Reuters",
@@ -11448,7 +11456,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWG1yOHNRc3V3SjF6c1UwUzVPTDFROWZiQnpQaWJSclV6anBONl95NHoyMTlmaEFkWnFUMks1V1dYVFZ5TzNoYmhJQkN2SHFRVzg1YUpiWVRKNkQtOWlPblh6VjRmdUxpSVZoeWdHRzhDRElodmhiLVRtalFpV3hIcHhfOXoxdnREdUY3eXdKZXk2c2NLMmVzZVoyZWhaZGFRaHc?oc=5"
     },
     {
-      "id": "taiwan-7",
+      "id": "taiwan-8",
       "source": "The Standard (HK)",
       "title": "Taiwan projects 2026 economic growth at fastest in four decades on AI demand",
       "excerpt": "Taiwan projects 2026 economic growth at fastest in four decades on AI demand&nbsp;&nbsp;The Standard (HK)",
@@ -11456,7 +11464,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdjRydmdqNG9qdXJ1WGVZU1lTdk9rNGRFRXpybmxxdnNJazJqMHBTQmgwd2hwNmkxVjRvLUhJeEhJYlVYYk11T0dwbWhRMnRCTlpVVzQwaUFZMVhGaGNjWlV4VDdCZWRSYlJrQ2lwMEZkaDlqcHItQUQwbjdwLVplXzVQb0xwM1ItVG8zcWpfclptOEJ6RjBUT29vdUJlOWJKakVwRVRNVXlvcVJNZVJTUExfOC0wREdpTmtPZnRLSy1nZ0xZbXNoUlBR?oc=5"
     },
     {
-      "id": "taiwan-8",
+      "id": "taiwan-9",
       "source": "TradingView",
       "title": "AI boom predicted to drive Taiwan's economy to grow fastest in four decades",
       "excerpt": "AI boom predicted to drive Taiwan's economy to grow fastest in four decades&nbsp;&nbsp;TradingView",
@@ -11464,20 +11472,12 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ3V3Tk8zenE2Y3VnVFVHd0sxUHpVM25CMGduR0lkZ1JFR1M3TEM2TGs3VWpzcVIxaDdDclRNSXVJRGNPNHQtdDZEb1hJaFRBRHppNlhzdXV2N0ZkcnJZSk5QWHpBclVLNlpFRW04UEZ4dXNvOWlGZUlKc3lZdFZLcmhmSjNaWmVJRU8tVmFyNUdqRXkzMENkM2R3bTlKQVBBM2R2WUtnZ1cxQkR5Nmt1TWw5TUljYm1JVlZ4T2NCbXhRdXhVTmJQTlVlRl9CSUxsRUVGemZPbGlmbnFhY2c?oc=5"
     },
     {
-      "id": "taiwan-9",
+      "id": "taiwan-10",
       "source": "Al Jazeera",
       "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China",
       "excerpt": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China&nbsp;&nbsp;Al Jazeera",
       "timestamp": "2026-08-14T01:46:08+00:00",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcF9xT1FONlVlaGljZFhSaWpCV3N3cWpWdzN6RnJWZHNteHdsTy1JdWd3Y28zUnlIV3dEUlBudGtvVWR1NnZvRldhUlp2RHNCRngwSVlSOEUzX2RzY2RpczJJS2YzSjV5X2JRUHNfak1TZG0zOGZSSUdISDg2SWpJQmlmd0NKWThtQWxXWmZmQjJ1UV8xRE4tTU13SVhSVDJ3OWFQNtIBqgFBVV95cUxNWUxiSU4xOTdGSmREZ2dOWm45dG44UG00UDhHdGpyTDVSS1poSWVoajNRYzJZVDEwVklIc1dOX2xQUzdDRWNLWlJDcEl6M0hOajZaRVV0OWdVRmJWZkNyeFU2d0ZLSTZUdDZWNG05R2d3aE9qUXpmcS1iUXRsanpYTUt0NVpsMk5HMnJCVHZSRW1IUnVDb2VSWHYxVFBmM0FXdTI2VWRRSFF1QQ?oc=5"
-    },
-    {
-      "id": "taiwan-10",
-      "source": "KMVU FOX 26 Medford",
-      "title": "Taiwan says AI agents used in cyberattacks targeting island",
-      "excerpt": "Taiwan says AI agents used in cyberattacks targeting island&nbsp;&nbsp;KMVU FOX 26 Medford",
-      "timestamp": "2026-08-13T07:51:07+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcTQxUGhXNE1PR0Q1OV81TklHYV9ubTFpNU9jM1ZhY3BDVFBORmxQanpPTk5DWkpZN09TcWExT0pyX1VzaXdvSHI2RExBbkpqeGZrT3dQb1ZJLUxyT1VDbnZyeHJKZFBOcXF0TUY0NGM4NExRXzQtMjFva1lKZDdMMTJ6VGhqNHZlNUI0US1KSFpMZ0hGS1B6MEdtMDNZNnBWeVpndGZieUEyM1FwTWt1ek13S3IzUlpaYmt3eW9aT19ndWpCNjI2VndhajB0TExIOXdFSzJZQmtsWXAzTVBieW5uM3d0ckE?oc=5"
     }
   ],
   "Italy": [
@@ -11679,6 +11679,14 @@
     },
     {
       "id": "unitedki-5",
+      "source": "Statista",
+      "title": "Monthly GDP of the UK 2019-2026",
+      "excerpt": "Monthly GDP of the UK 2019-2026&nbsp;&nbsp;Statista",
+      "timestamp": "2026-08-13T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kQ1Fja1kybjBReVUtTzhrV0hveVlkbjc2MS0xdXVsV01falpma2FObm9HOWlBZjRVeExYMlQxbXBPT1JZdXhPS2hRTUM2eW8xTXV3NHJvMHM4MEpMSmk1ZFBsTHIxbTktUjVB?oc=5"
+    },
+    {
+      "id": "unitedki-6",
       "source": "Demócrata",
       "title": "The growth of the British GDP cools to 0.4% in the second quarter",
       "excerpt": "The growth of the British GDP cools to 0.4% in the second quarter&nbsp;&nbsp;Demócrata",
@@ -11686,7 +11694,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWhYSjJ6VHprMU1nYWUzMzVNMEZOdl9BanBndmhSMW1YYVJEczRKem9SNEtESWlyNWVKc0Q3b0daRmNhZEt3UGpEbXdNMnBRcFRTcVl6c1YtbkhNQXp3Z1A0X3FvUVFQNnAzTUJwZ2dJUXpfZGYwanF1cWxVM2hvUC1JcnBoWFV6Vm9VaXcxUU55dDFfX2x6SG90STlrQjViSmpJ0gGoAUFVX3lxTE9JQ3hlRzZKY1kxOVZ3d0txdEZXUzlkdDV6Q3RMQ1lXdFc4RjJ1TjFwdDRYMzBjMHlldDZGY2cxY2VVVmRKVmNRd18xSXdxMWhKQWNMWUNfSFNmM2VXdWR1R1dIMGtCYndaaEtvcHppUW1sZmF6R2g5Y3JVcy1lU24yeXc1YlhlYjlFNWlja3Ixa0IzYmx6ZWdSb2VhZWNUSk5MUXhMOFpQOA?oc=5"
     },
     {
-      "id": "unitedki-6",
+      "id": "unitedki-7",
       "source": "Yahoo Finance Australia",
       "title": "NQGB40LMJPYN interactive stock chart | Nasdaq United Kingdom Consumer stock",
       "excerpt": "NQGB40LMJPYN interactive stock chart | Nasdaq United Kingdom Consumer stock&nbsp;&nbsp;Yahoo Finance Australia",
@@ -11694,7 +11702,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfSVNLV3FzVlM1eWt3Rmd1TURqWGs2Qms0SkIwOWtRNTk0dnNVbmI3Z29iQ0x5MWNnb0ZGZFlWQ08zVWNjbjd6NWQ0TllPc2ZrWEZ5VnJJclZTSkFNSGVV?oc=5"
     },
     {
-      "id": "unitedki-7",
+      "id": "unitedki-8",
       "source": "Yahoo Finance UK",
       "title": "Nasdaq United Kingdom Consumer (^NQGB40LMGBPN) latest stock news and headlines",
       "excerpt": "Nasdaq United Kingdom Consumer (^NQGB40LMGBPN) latest stock news and headlines&nbsp;&nbsp;Yahoo Finance UK",
@@ -11702,7 +11710,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vN1dPb3NXMTdyclc5eEpuSkNDcXlmbU1tYWNjdFFsZm5iM1d2OUNtRGl3c3dhakpvZElYaW1hXy1TUUpKakVTb2FrQTZCU0dyM0JhVWo0eFU5RGZtSlRvSHd0M2ZKazA?oc=5"
     },
     {
-      "id": "unitedki-8",
+      "id": "unitedki-9",
       "source": "Yahoo Finance UK",
       "title": "Nasdaq United Kingdom Health Ca (^NQGB20JPYN) interactive stock chart",
       "excerpt": "Nasdaq United Kingdom Health Ca (^NQGB20JPYN) interactive stock chart&nbsp;&nbsp;Yahoo Finance UK",
@@ -11710,20 +11718,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94Q19LZ3pUTlNTN2hEV2ZQVTNzUzZ0Q1k3dHQ3Tnc3R21odWFKazVaZGdHSWtrQmt4Z0lNa21xLWVfdTh0U29lclBXMmVZaUJ6al9ISm8wQ29xckVvZ3JDVl8wMmIyZw?oc=5"
     },
     {
-      "id": "unitedki-9",
+      "id": "unitedki-10",
       "source": "Encyclopedia Britannica",
       "title": "Kemi Badenoch",
       "excerpt": "Kemi Badenoch&nbsp;&nbsp;Encyclopedia Britannica",
       "timestamp": "2026-08-10T05:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VbmZ5X2czSlJNUkRpVFJjWnBBRTc4VDhyZUhCZmwxTWxscmNNel9SME10VXkyOFl3ZUVhUWkxVnA0cFlzMHNMOGxfSjRkSTB2UGVDWGl4dGIzcjRvNEpv?oc=5"
-    },
-    {
-      "id": "unitedki-10",
-      "source": "Yahoo Finance Singapore",
-      "title": "NQGB4020EURN interactive stock chart | Nasdaq United Kingdom Consumer stock",
-      "excerpt": "NQGB4020EURN interactive stock chart | Nasdaq United Kingdom Consumer stock&nbsp;&nbsp;Yahoo Finance Singapore",
-      "timestamp": "2026-08-09T13:11:36+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vcnhMWmtXRU5NbTI4amRyYkFXUHZRdENtcG9QNDVpU3FRX2JTV3Z1a3BBcHlwS0l1bWVkMFQ3R29qVURKVFJJMXJ4dmZHVnkyTHp4UmRJVE1CU2h0ck5z?oc=5"
     }
   ],
   "Iceland": [
