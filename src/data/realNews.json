@@ -6809,19 +6809,19 @@
   "United Arab Emirates": [
     {
       "id": "unitedar-1",
+      "source": "DW.com",
+      "title": "UAE economy: On the verge of collapse or on way to recovery?",
+      "excerpt": "UAE economy: On the verge of collapse or on way to recovery?&nbsp;&nbsp;DW.com",
+      "timestamp": "2026-08-17T18:34:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbW5fa1BUa3RyMWFvVmxJbG9VdnFXOXpDV1YybFBmZ3ppYld1MTQ0QTFZQzA2UmF3V1JfOVNsVkZtWmItN25jTm1jOG0zUmhTUklzWk1KUDFMN0lIYlNiRFM1eFNIelNHZVBUR2E4VGhEQ0pNcG0zc2lSUjNBSXBLTlRNNXdZS2ZqLXZxd2RvN3Fvb19tS0HSAZYBQVVfeXFMUDVTbm4zcUFCSU1yaVlta3lvazFzdW9EeUozeTI2QTBLcDczdW5VcnBCY1hSblhMM3ZwakpGOTh6LWdaT1hmaVUxS0ZVdkRpaE10VnktRFJDSkh2ZlFPRnplRFhGcm9TR0JRSUY5NGRNdHBLRWQxSWlWMEtZYUtRSkZySnRvVzJTWlExTHZnNkxSMy05eGpB?oc=5"
+    },
+    {
+      "id": "unitedar-2",
       "source": "dw.com",
       "title": "UAE economy: On the verge of collapse or on way to recovery?",
       "excerpt": "UAE economy: On the verge of collapse or on way to recovery?&nbsp;&nbsp;dw.com",
       "timestamp": "2026-08-17T17:53:03+00:00",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNVNubjNxQUJJTXJpWW1reW9rMXN1b0R5SjN5MjZBMEtwNzN1blVycEJjWFJuWEwzdnBqSkY5OHotZ1pPWGZpVTFLRlV2RGloTXRWeS1EUkNKSHZmUU9GemVEWEZyb1NHQlFJRjk0ZE10cEtFZDFJaVYwS1lhS1FKRnJKdG9XMlNaUTFMdmc2TFIzLTl4akHSAZYBQVVfeXFMUDVTbm4zcUFCSU1yaVlta3lvazFzdW9EeUozeTI2QTBLcDczdW5VcnBCY1hSblhMM3ZwakpGOTh6LWdaT1hmaVUxS0ZVdkRpaE10VnktRFJDSkh2ZlFPRnplRFhGcm9TR0JRSUY5NGRNdHBLRWQxSWlWMEtZYUtRSkZySnRvVzJTWlExTHZnNkxSMy05eGpB?oc=5"
-    },
-    {
-      "id": "unitedar-2",
-      "source": "DW.com",
-      "title": "UAE economy: On the verge of collapse or on way to recovery?",
-      "excerpt": "UAE economy: On the verge of collapse or on way to recovery?&nbsp;&nbsp;DW.com",
-      "timestamp": "2026-08-17T17:51:23+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbW5fa1BUa3RyMWFvVmxJbG9VdnFXOXpDV1YybFBmZ3ppYld1MTQ0QTFZQzA2UmF3V1JfOVNsVkZtWmItN25jTm1jOG0zUmhTUklzWk1KUDFMN0lIYlNiRFM1eFNIelNHZVBUR2E4VGhEQ0pNcG0zc2lSUjNBSXBLTlRNNXdZS2ZqLXZxd2RvN3Fvb19tS0HSAZYBQVVfeXFMUDVTbm4zcUFCSU1yaVlta3lvazFzdW9EeUozeTI2QTBLcDczdW5VcnBCY1hSblhMM3ZwakpGOTh6LWdaT1hmaVUxS0ZVdkRpaE10VnktRFJDSkh2ZlFPRnplRFhGcm9TR0JRSUY5NGRNdHBLRWQxSWlWMEtZYUtRSkZySnRvVzJTWlExTHZnNkxSMy05eGpB?oc=5"
     },
     {
       "id": "unitedar-3",
@@ -9843,10 +9843,10 @@
   "Germany": [
     {
       "id": "germany-1",
-      "source": "dw.com",
+      "source": "DW.com",
       "title": "What if Germany's far-right AfD party wins in Saxony-Anhalt?",
-      "excerpt": "What if Germany's far-right AfD party wins in Saxony-Anhalt?&nbsp;&nbsp;dw.com",
-      "timestamp": "2026-08-17T19:35:36+00:00",
+      "excerpt": "What if Germany's far-right AfD party wins in Saxony-Anhalt?&nbsp;&nbsp;DW.com",
+      "timestamp": "2026-08-17T19:35:43+00:00",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3N5aDVOWEJQQjRIMVkyOEVzVmd6c2t5d04xZGt1VlVTdTFtSkxfeUUzdzUyb1lFX3g4QmtxQXl0SXhJbXlHZklDNmg0ZlA5YUFWbVRnaUZFU0N3cE1QQXp2enJObnIwSkZtZUlzU3BSWk95bEJpRDlQRGZ2LU1LVklJM0d1UmN1?oc=5"
     },
     {
@@ -10827,6 +10827,14 @@
   "Ireland": [
     {
       "id": "ireland-1",
+      "source": "irishnews.com",
+      "title": "Northern Ireland’s SME community ‘must remain a central priority’",
+      "excerpt": "Northern Ireland’s SME community ‘must remain a central priority’&nbsp;&nbsp;irishnews.com",
+      "timestamp": "2026-08-17T23:02:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVYybnlNS3NVcXpsaEdSQXdGNkxVbVo1RGk2S1puR1Fvcmd6am1ELVF0RkgyVGIxZXd1RVNRZW1ZajhhX3NnUl9ZTDA1MDFlTHh4UUVBSV9oTUVZaWtYR2hVRERZQXcyc1VCX2g0aUx2QzR6bGdTd21UN05VQWNSWnA0VUF2TkVtWTFGem5uaXpaSWZPY3VEVTA0U3lBRlpPQld3Q3lBaEREWEd2WElJVm54NzhGZUx4anRNd1V4Y1lwY2o5TGwyU1hR?oc=5"
+    },
+    {
+      "id": "ireland-2",
       "source": "The Times",
       "title": "Central Bank of Ireland warns new cash centre may cost a mint",
       "excerpt": "Central Bank of Ireland warns new cash centre may cost a mint&nbsp;&nbsp;The Times",
@@ -10834,7 +10842,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWWNjSHRIM0lXcS0yMW11dENIWFRzbWV5YmtTTzRPQ2pQT2lYcGJnZGNpRkJ1cnB1VlF2V3JGSTBGS2dlNWh2U2VGa2Fnd2k3RWRxaV84UTU3di1NbnpmczVOMDhrbjM4N3VxYk5fYTAtODF3UVE2V3hOR19YLW9kcV9ZQlE4dDdFR2ZvN1BnZ0VwVWNYbXBiSVB2bW5rWGlKVjFMNk9KM3BQeEhXenpZRExpNFBoQnBFcWpJWWlHRFMyMmNnWVlJYzhxRnl0MjNL?oc=5"
     },
     {
-      "id": "ireland-2",
+      "id": "ireland-3",
       "source": "The Irish Times",
       "title": "Thomas Piketty: Ireland’s economic model is damaging to other countries",
       "excerpt": "Thomas Piketty: Ireland’s economic model is damaging to other countries&nbsp;&nbsp;The Irish Times",
@@ -10842,7 +10850,7 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONWFqc2dfSDZ4TUlfMUtrazZ1WnFiREdUcG5YcW1CbnBhZGN1SXlIdWpuSlJlSHZRSDM3YUZ5cTZldUxTNmhiWFJxeW9jelVFcHE2RFlBZUczcWR0VWlSekYtSkRvc2xSRmdvS3QtVlhLUWEzbHlobUczSV9IZlNkTXVBSEhjQ0FzUU5zRm9ycHlhUUlzM2tENXVQd1RIQi1zUUpoLTZHQ2UxV0dIZ1gzR1ZIMlZmR2hVSzFkWmNoMlJMQU4t?oc=5"
     },
     {
-      "id": "ireland-3",
+      "id": "ireland-4",
       "source": "thecurrency.news",
       "title": "One flight, many futures: Norah Patten’s vision for Ireland’s space economy",
       "excerpt": "One flight, many futures: Norah Patten’s vision for Ireland’s space economy&nbsp;&nbsp;thecurrency.news",
@@ -10850,7 +10858,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVNZbFJBcWVPRVVQeHBVY1JDSHZWY3otWXlCWHRlVXJEd3ExMjkwbGJsWVRVTThKLWtNcUd0NnBnMTFuZ1o5QXhPRDlweUtzblppZmtmdnNDeXhETVJuOVhveDJlMVVOQVlVQVgwQklhaHpfVHJyejBTbnVmYWhQeFc3aw?oc=5"
     },
     {
-      "id": "ireland-4",
+      "id": "ireland-5",
       "source": "Irish Examiner",
       "title": "Mick Clifford: Ireland must trust science as US vaccine politics puts children’s health at risk",
       "excerpt": "Mick Clifford: Ireland must trust science as US vaccine politics puts children’s health at risk&nbsp;&nbsp;Irish Examiner",
@@ -10858,7 +10866,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSU21kV2NLdVQ1VWZSazNnZXd5dHAtU0NUYzBLWnZVT01EODNSdUFOTVk2WGpsZ0RTTTV6VHpoS3M3R0d3Rmp3SnN1c2p1cXpJV3N5bVNkS2E2ZnYzcWtnUzB4ZU5wSkVHSWlIUGRXY3JJa1dJdlE?oc=5"
     },
     {
-      "id": "ireland-5",
+      "id": "ireland-6",
       "source": "RTE.ie",
       "title": "New anti-money laundering rules target gambling industry",
       "excerpt": "New anti-money laundering rules target gambling industry&nbsp;&nbsp;RTE.ie",
@@ -10866,7 +10874,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcmNKMDRJd0Y2SWxBbzZrc05iaGQzOVlhZVc4V25ySTdpNVJkdzVGUE9OSTVaV0JNM0kzbTVLbDk3R2JvVWowblFzMVFzcHBBNFlXR2c5SzRwdzQ1YUJrQU95QWRLVlZuQUdiQlU3LVF4c1ZIeV8tRGRRWk5NeUc3ZmJJMnZOUQ?oc=5"
     },
     {
-      "id": "ireland-6",
+      "id": "ireland-7",
       "source": "siliconrepublic.com",
       "title": "9 companies in Ireland recruiting finance professionals right now",
       "excerpt": "9 companies in Ireland recruiting finance professionals right now&nbsp;&nbsp;siliconrepublic.com",
@@ -10874,7 +10882,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmtKQzZzbGhDTDAzbWRTQ2JRNUotVFdrcUQ2SE9rblBMa1NsOWtzUTBRMDBjVTE1UVVxT2dwdmpublY4N1Q0YXNGN0FiTTlCdGZWcW1jRjRoRGJUbUFKanJQNWQ4WkhNLU96b2ZTSWwzNmx6Ml9MMWJFRkR3VkhwczVJN1pGVmpIdlBQeVQ1T09HcUQzZ0RQNFl5OEhZdFRLYm1FWWpvR1NRTWY1RzFHVTJn?oc=5"
     },
     {
-      "id": "ireland-7",
+      "id": "ireland-8",
       "source": "Pinsent Masons",
       "title": "Ireland’s Central Bank enhances transparency and procedural safeguards through new prohibition notice guidance",
       "excerpt": "Ireland’s Central Bank enhances transparency and procedural safeguards through new prohibition notice guidance&nbsp;&nbsp;Pinsent Masons",
@@ -10882,7 +10890,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMUx5RFJkTVRiY3Zwa01KVGVKdjFXTnNlbGczZGItSVVxUlJnTFlkZTNBQ1lIMGMzeHZLQndQSnU1T2haYUVFMUxPNTVHTGtXZUJac3hSUGYyZGtuT0FVRFNmRU4tQ1NvM1ZBdFpYZDc4MTJDOExrNDBvZVJFYkdWVmR4eHdiYmxXaWNYYV8tVQ?oc=5"
     },
     {
-      "id": "ireland-8",
+      "id": "ireland-9",
       "source": "thefintechtimes.com",
       "title": "Ctrl Alt Wins MiFID Authorisation from Central Bank of Ireland",
       "excerpt": "Ctrl Alt Wins MiFID Authorisation from Central Bank of Ireland&nbsp;&nbsp;thefintechtimes.com",
@@ -10890,20 +10898,12 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajZnYUkwTl9WY2ZNdnNrYW9RMGg5ZTg4ako0LUdYeHZRNThRc29kNXBPREFGS2piM1ZtZVlnNG5wZEVHMlBKYnczMld0X2o2ckE1M1F3RDlmX0xwOTFnRXdsMXMtTWMxc2ZQMkZNVW9XRWtTSVBpSlVGWWNHVGd1SU5OQVIyNlVuRk1fYlM1VVFyUmpyYVE?oc=5"
     },
     {
-      "id": "ireland-9",
+      "id": "ireland-10",
       "source": "Mining.com.au",
       "title": "Ireland plans to electrify economy by 2050",
       "excerpt": "Ireland plans to electrify economy by 2050&nbsp;&nbsp;Mining.com.au",
       "timestamp": "2026-08-05T08:59:08+00:00",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxZy13MTFDbENoVnVObnlsSU52dDFUR0pwWE9aZlZZdVNVWlc5eVZUTFUxRjhYZmNPQk1Xc2R1RXVmN05LNF9fZEw2bEdVNjJ3YXFEbnF0X2FpVi1lbXdfU19qUnJyZEdmT2FYczUzYUViTE0?oc=5"
-    },
-    {
-      "id": "ireland-10",
-      "source": "Pinsent Masons",
-      "title": "Central Bank of Ireland raises expectations for delegated governance",
-      "excerpt": "Central Bank of Ireland raises expectations for delegated governance&nbsp;&nbsp;Pinsent Masons",
-      "timestamp": "2026-08-04T11:49:28+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzZNMzM1emE2NVpBMVpXdXF3ZTdiMGdsbE51WWlrQzF0OGM3dnZxckFfMlJPRVJhV2pabTZBRU5oLVhiSmNGMFFFRzlwR29JU3ZoZDJ6aUthSFNMZzRtWUtya3BCNDRfTVRXWDB0TUxjNjMxcFhkV1J6cjRIajdzVG1YMUU4bUdYOWNNM0FJOTd2S0dHYVZyM2lUVEs2cVhXNXhIYlkxaw?oc=5"
     }
   ],
   "New Caledonia": [
@@ -14517,6 +14517,14 @@
   "WTI/USD": [
     {
       "id": "wtiusd-1",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
+      "excerpt": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
+      "timestamp": "2026-08-17T23:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWE1N0hrcWhqelBsY013VWdpdWFjNkhrTmFoeEotTk5pTk1uR2VDbEdmNkJkaVNlbUtKOFc3MkdRTTFfQU54VjY3VUVjN1ViczVsNk1Lc04xckk5MXlUbUhJVUdjRC1GR2pmbjJLSTdlM2d5ZHhOeUw1UVpmYWJRMnEtQzZmb3hqSVNvVFQyWmdobGtRS3dRSWJqMHpTd9IBowFBVV95cUxQcHd4UlljY3dOUS1QQlZhaVAtdkQ1aDB2T1VnYlJlc05QMU51OE9Nak5xX0hpbTJTN0h0RVFiVm1rVVkxbHZ2Um91bzc3UWd2RmtPUVZ3QlkycDY0cFhqdW5pOTdDYmhxZHNmOWxnR1QzVXF1MUo4VEktNWtndl9pT0hpaFhkVjNtd2lTUW8yTWswbHVpOFk3UHB3UHJFQnc3Z0FN?oc=5"
+    },
+    {
+      "id": "wtiusd-2",
       "source": "Investing.com",
       "title": "Crude Oil WTI tests $84.50 resistance: Live setups",
       "excerpt": "Crude Oil WTI tests $84.50 resistance: Live setups&nbsp;&nbsp;Investing.com",
@@ -14524,7 +14532,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREZ4V1RZZXA0MGhEWUhPLTZqZzNLakRkUnhqMnhLWHd0c0lXejhrMWhXRlNWN0lUMGM0WENvMl9FZ2lnckozbDJMU0tvSGdZMjFTUy15VGxpcmIzWWFKZ1Q2RW5POWVSTklWc3d1YmVsRHlrekdSZ0dLVl84X2ZrbEV1WUMwaFpGSzJsRHhRZnMzT2dxc3ZqTy1KYTdjNHVpa3ZhWU1haEw3V3MyeDgwRVliWXk?oc=5"
     },
     {
-      "id": "wtiusd-2",
+      "id": "wtiusd-3",
       "source": "NBC News",
       "title": "Oil jumps past $91 as Trump casts doubt on a new deal with Iran",
       "excerpt": "Oil jumps past $91 as Trump casts doubt on a new deal with Iran&nbsp;&nbsp;NBC News",
@@ -14532,7 +14540,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUlydHRybjBqaUhIeC01Sld1cUpGVEJmbU5MRE9ydEdKVUNfOGQzQm4zN0o3TDZWSi1aaUZHM0tUYnJ1NTlBbk5rdzlQaHIyemtDbkZtdTNhWHVIQm5aRURudXpyTG1id2pFVzdUVW5NX3ZSOUVrUW0zOURoamJUU0xqOVFSWndYc0lsRjNn?oc=5"
     },
     {
-      "id": "wtiusd-3",
+      "id": "wtiusd-4",
       "source": "TradingView",
       "title": "Soybeans rise with crude oil price jump, strong soybean crush",
       "excerpt": "Soybeans rise with crude oil price jump, strong soybean crush&nbsp;&nbsp;TradingView",
@@ -14540,7 +14548,7 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQamx4ckRDN2h6VmwxTWxXdkNPMm00REVVMzU1V1V2TzVmQ0lQSzZmd0dubVdWQ2UtVWxEM0JZNGNrTk1hZElzM1NXMF9VWkxxdnNRVllReDVNRUgwU29XMlJLUzJLQ3J0R0RGeE9TcmZkY0U5Zl9xY3BsejJ3ZVctc2ozNThIbC1kZkhxbjB1blFVaE5IcHlZTmNMRlRhTTRPWlpRNF9RemUzNWdyejZmLXdZVHJlMXVrSWpKbThpLU5uUzA2REYwWFFn?oc=5"
     },
     {
-      "id": "wtiusd-4",
+      "id": "wtiusd-5",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "title": "Chevron Strikes Oil and Gas Offshore Angola in Major Discovery",
       "excerpt": "Chevron Strikes Oil and Gas Offshore Angola in Major Discovery&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
@@ -14548,7 +14556,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkJQcjVpUjRMU3FxY0ZuakRMVXhrT2lXd1dwRVg5UTZ3SXpmSXZqdzc4RWZ0bjhSc3BMRGk2NEdseF9MN2pIUzhEbGNhUHQwenpwY0hJLUR4RFJiVGZVc3pkQkE2R093REFqZXhKQ2tGQzNPX2RkSDA5cEl5a1BtMVdNLV9aemdEYVBlaXdUNWRYRFE3Y0J2UUhWQ3NHMkNGTmstcW5hM0lFYTVuSEVIT0xYcHNIVTFlX1HSAb8BQVVfeXFMTkpRSkthQ1BZN25TMTFNRExOWjRwaTlUM09wejhDdTh5aC1RZ0V2Rm5aZFBJaXUwMnBRWkFPZTR2VzB1MFZPdkw5eS1XV3I3SWE0NjF4SFlBQ0ZyOFd5Y3NPZkU3WVpQV1dseEpOS0pscmtGTTNxYkJRNTZPaG1qZ1F2dnIwUnB0anNzRkpGT2ZwZ3l1Rkc1NG5UN2R5VHJmb1dHN25mOENheWZiWDBleGJHZV9LNHdjdmRxd1NPeUU?oc=5"
     },
     {
-      "id": "wtiusd-5",
+      "id": "wtiusd-6",
       "source": "Seeking Alpha",
       "title": "April World Oil Production Drops Again",
       "excerpt": "April World Oil Production Drops Again&nbsp;&nbsp;Seeking Alpha",
@@ -14556,7 +14564,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaFB2WU9WZ3EzOVF6WFI3cWlNdUpkekxZNWhBc002QlNmeDFMaXJBVzZLQkM1N1RHRmNCU1N3eUhyZmtoZkZoandJbGpQV3Q4eGlJbDNveEVjUTJDQzFSWUZ2TWR3bGRxc18xQ2pmMmJqR05WenFXMDJPLXR1WnhvWkdjRTJfZw?oc=5"
     },
     {
-      "id": "wtiusd-6",
+      "id": "wtiusd-7",
       "source": "Hart Energy",
       "title": "What’s Affecting Oil Prices This Week? (Aug. 17, 2026)",
       "excerpt": "What’s Affecting Oil Prices This Week? (Aug. 17, 2026)&nbsp;&nbsp;Hart Energy",
@@ -14564,7 +14572,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN01sQWpnTDI1bkV5MHFsTmxhUU42ZkN5ZHVJam8xSkE5OTFvTjVqalRQX3lPR0pmVUxrZ2I2REpyYl9jRVg5cXRoRkZHYi0yTEZldHRlbzExNGR4WFR2YUxVTDF6SmNtQ1plTkdDdm9XcnZiVmlwZ0hoSHgtN3VScnpLUlE3eGUydmhNNlZ3UWx3dFh3cXVjTlQteFhHN0t0NVFlanNOeXo?oc=5"
     },
     {
-      "id": "wtiusd-7",
+      "id": "wtiusd-8",
       "source": "Fortune",
       "title": "Current price of oil as of Aug. 17, 2026",
       "excerpt": "Current price of oil as of Aug. 17, 2026&nbsp;&nbsp;Fortune",
@@ -14572,7 +14580,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fSXp3bHBkaFNMQi1VVDJLRnVSZEQ4bkVYaFB4UUhYZjR5S0JLS3lWcm12X0cwZ2NndlpTMG5lLWJZSUpscFVIclBwcFloaGh1ZnZ3VVVib2w2Wld6WkpsaFZB?oc=5"
     },
     {
-      "id": "wtiusd-8",
+      "id": "wtiusd-9",
       "source": "FXEmpire",
       "title": "Crude Oil Forecast – WTI Eyes $93 Bull Flag Target as Brent Threatens $90 Barrier",
       "excerpt": "Crude Oil Forecast – WTI Eyes $93 Bull Flag Target as Brent Threatens $90 Barrier&nbsp;&nbsp;FXEmpire",
@@ -14580,20 +14588,12 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWmRLOFdSZGNLZW5Wa0p2NklyNW53cDQxOEI2QWpDUTVjQXhwZFJ0YTlTT3VSNGYtank4cDZ3SU4ycnhFaFBwbU9VbTRlTUNnbWg3N2FpUkt0alJyc0tBSURDUGN2RWVXMHdmRWNPZ3luQVZLWWI4bS1YTE5TQlZHczdzU0g1bGVCRFRIY3pQb04yRldVd3NzZWVjRFJSX1M0MWdlclNrM1pHenUxRGd5eGJ0QWZTMk9GV0l4bF9xMVowenNIeUd3?oc=5"
     },
     {
-      "id": "wtiusd-9",
+      "id": "wtiusd-10",
       "source": "LiteFinance",
       "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days",
       "excerpt": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days&nbsp;&nbsp;LiteFinance",
       "timestamp": "2026-08-17T13:57:03+00:00",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-    },
-    {
-      "id": "wtiusd-10",
-      "source": "EnergyNow.com",
-      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank",
-      "excerpt": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank&nbsp;&nbsp;EnergyNow.com",
-      "timestamp": "2026-08-17T13:04:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5"
     }
   ],
   "SPX": [
@@ -14631,6 +14631,14 @@
     },
     {
       "id": "spx-5",
+      "source": "CNBC",
+      "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
+      "excerpt": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last&nbsp;&nbsp;CNBC",
+      "timestamp": "2026-08-17T12:19:50+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcnp6dVIwaUtDLUtQcE56Yk9zMU9YQXlCVmxDNU9tZEFsLVJVckE0R0xPYWV5a1ZSTU9fY2FNcU9HZlU0Q20xYlI0MDZJRkQzLTNyYnNtcE82X2F2NEdUUE1COG03RWZIOGJ2a3BOeE4zWmVpQkpOb0p3R1V5bFZXYXJR0gGHAUFVX3lxTFBMcnB4N2lINkxrTkQ2TUtaR2RfMmxSNnhzOFFTWnZrY3dLRzlUeXp0TVlLMFpCZHdjbmx3RkFNUEVYTW9WdHhGZmpYbVV1NENoanlTR2ZkalhlT0RRNTdTd3BaNVFVM0d3VUtheGlsTXYxVl96MXpEZmdEMV9aX2c4MFcyakF2QQ?oc=5"
+    },
+    {
+      "id": "spx-6",
       "source": "Investing.com",
       "title": "Dow Jones, Nasdaq, S&P 500 preview: Earnings stay in focus after record week",
       "excerpt": "Dow Jones, Nasdaq, S&P 500 preview: Earnings stay in focus after record week&nbsp;&nbsp;Investing.com",
@@ -14638,7 +14646,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVNpWEg2N2o5WGJwelhuTDhVUEVmMk1nMGV1TDJfY3l6d3NOWGFoRUc4RWNwN2lfQWxuNVBTVlBkN0tSTmY3Ri1lNGxoY2dyWm5MWVBocl9CZjVBdmNCeEtNN29VR3BDZVhOTjJJMXRFZjhITUpfUkRiSkE5dm9SbEVOVjFZOF9DSy1LaDBzRzJMZEZWME45ZjVBR1VMcG52dmlNNDlyOTlDNTU0WVNsdXBZZ2FHWlpQUnhvV0lWSmpsSWtIWmJZUw?oc=5"
     },
     {
-      "id": "spx-6",
+      "id": "spx-7",
       "source": "AOL.com",
       "title": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
       "excerpt": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings&nbsp;&nbsp;AOL.com",
@@ -14646,7 +14654,7 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lMm9ZREVsT1dSSHZLbGJWdFpCSW5IaXpfdUg2YWppQV9acHY4QVRVZUhqT2stLXMwQjJZVldXcjdVTTUtemVfNlRfQk5hQmVyUVA2RW4yRWFQTFg3WWZhOXhtbDlLUm5BYVJDZTBydkpQRERoNFNF?oc=5"
     },
     {
-      "id": "spx-7",
+      "id": "spx-8",
       "source": "The Globe and Mail",
       "title": "Wall Street Says the Stock Market's Return Will Crush the Long-Term Average in the Next Year",
       "excerpt": "Wall Street Says the Stock Market's Return Will Crush the Long-Term Average in the Next Year&nbsp;&nbsp;The Globe and Mail",
@@ -14654,7 +14662,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZi1jcmxVZmJta0JIamprQk1iQ2RRUzNaUGZEdmxhX3M4NmZIb2d1T0otZHRHclNKLXNmNktOTk13a2ZHUEViY0Z1NDI3Yk1kb2g0NUtjNTA5TU1hTGEza1hfWHp4ckVBbk1JOTY5eEFwdWRkdG1lQThER243RGs0SENBckUyZkE4UFhEYko1ZlNTekZjZEZPTUZQUGlQUlNNZzgzWW1jWWFZRjFzQUhsMjM0VHNvMFYzU1NDYzBlQmxmQTVZZERtbVJMRy15RUlHbmpMMkpwMXFtLTJHV21hSjB5c0l3emx2Zkh2aGEwZmNKLUhidlJfOTZsQlVqMFBtOE1Ya0ZR?oc=5"
     },
     {
-      "id": "spx-8",
+      "id": "spx-9",
       "source": "The Globe and Mail",
       "title": "Wall Street Says the Stock Market's Return Will Crush the Long-Term Average in the Next Year",
       "excerpt": "Wall Street Says the Stock Market's Return Will Crush the Long-Term Average in the Next Year&nbsp;&nbsp;The Globe and Mail",
@@ -14662,38 +14670,30 @@
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNT0VhNXZWN1JzSU5YRXQ4RTE2MWFCQ1pPUWNJdmI5YnB4ZXBidGl1ZWJtUTVybDFfZ0N2c296Y01XeGctdVZiVGN3OXFRckRlbkNGdDFZUEhJb3dCVlpUN3NyU0laYUVkSjlOMjVHdmhGWTNCY2VXaDJRalE1NnBMMmh2NUlSN2s1akc1ZHc5OVFFVTBYUlFGVjRsMmt2dng3bGo3QVFIWDU0am11OWpPeFZGUTloSjdKTGgxN3BOSzhWdlJKNVFmSUV6RV9uOFo4OXZSdGxUcTRxUHdYUndGTjNzaW5DUV82emp4TkVFQ2ZwMzJiQmpUb08tdmZyUUdOWHRfag?oc=5"
     },
     {
-      "id": "spx-9",
+      "id": "spx-10",
       "source": "Yahoo Finance",
       "title": "Wall Street Says the Stock Market's Return Will Crush the Long-Term Average in the Next Year",
       "excerpt": "Wall Street Says the Stock Market's Return Will Crush the Long-Term Average in the Next Year&nbsp;&nbsp;Yahoo Finance",
       "timestamp": "2026-08-17T09:04:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnJmWWtaVjVidWVZZF8tcDcxMUoyQTdmZW51NTBIR2RMa3IyNld0b1JUX2xUcThwZ0hmV3U1dmg4VVJwdGNtQ21CQnVNeTBuQWl5NEJ3Ri1COVlCYjl1c3FoTWwzb3I4R0VqU0FhWmc4RUZ3aTFhOWpiX0JUdG9HZHJiZ1QyU2IzemNScFdocFhENW50RGVSYnlEYw?oc=5"
-    },
-    {
-      "id": "spx-10",
-      "source": "Business Insider",
-      "title": "Here's the bull and bear case for investing in stocks with the market at an all-time high",
-      "excerpt": "Here's the bull and bear case for investing in stocks with the market at an all-time high&nbsp;&nbsp;Business Insider",
-      "timestamp": "2026-08-17T09:01:14+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSGhnX1U0LWpudS1NNGk4c3pqTjJIcUJPc2J0T0FIUE84S3lnQUFPXzlNeGlwZGpBTGtBX3h1SGMtLUVCN3FLYTV3a19neWVaQ2JQX0ZtSkhtT1paMjVmSUJrRUlYV2JobVNHb3NUSFNYdEpJODVNM0UxaWpuaWY2ZWUxMWpwdjRiaGFzMjJKQk1zOGJF?oc=5"
     }
   ],
   "IXIC": [
     {
       "id": "ixic-1",
+      "source": "Reuters",
+      "title": "Wall Street indexes slip as oil prices rise, retail results awaited",
+      "excerpt": "Wall Street indexes slip as oil prices rise, retail results awaited&nbsp;&nbsp;Reuters",
+      "timestamp": "2026-08-17T22:44:27+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5"
+    },
+    {
+      "id": "ixic-2",
       "source": "Benzinga",
       "title": "12 Information Technology Stocks Moving In Monday's After-Market Session",
       "excerpt": "12 Information Technology Stocks Moving In Monday's After-Market Session&nbsp;&nbsp;Benzinga",
       "timestamp": "2026-08-17T21:06:23+00:00",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNk1XM1dwVUJzelBLSmh6QzlPVms4T04yeVBwdUw4VjByTDhOY1JiUk4wTjdyV09acFFOYUlDMGNfZE8zM3NDS0JwcS1vVDRjdWprcnNYTjVWNVlObjBoYkpGdU9WWnFmMFh4N3BDNzdoY2JxeUNGSWFmemxYejMybHhuMEc0MFZrcnQ5TzRrUzR6X3NXYzRqYXZ2OURMQTdwQk5LR3kxblE3XzFSOVM1UW1pUEEwTnZUaTNsS2hCemVHbHlGVUI3ZHpR?oc=5"
-    },
-    {
-      "id": "ixic-2",
-      "source": "Reuters",
-      "title": "Wall Street indexes slip as oil prices rise, retail results awaited",
-      "excerpt": "Wall Street indexes slip as oil prices rise, retail results awaited&nbsp;&nbsp;Reuters",
-      "timestamp": "2026-08-17T20:35:23+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5"
     },
     {
       "id": "ixic-3",
@@ -14721,6 +14721,14 @@
     },
     {
       "id": "ixic-6",
+      "source": "StreetInsider",
+      "title": "Wall St mixed as Middle East tensions eclipse tech strength",
+      "excerpt": "Wall St mixed as Middle East tensions eclipse tech strength&nbsp;&nbsp;StreetInsider",
+      "timestamp": "2026-08-17T13:02:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcTlFOTY1NTVMaE5wdWdnTHBodGJReG5tc0V5czdCRnI4elMyTFZPS3pxWFpxQUJvb2c2NnU2YnZmdDVWLUVmY0YxNWFIWkFTNVFtd0NWWm0tNFdVUXZhYnRSSHZTY2wzZUR6bjVZdWRULW9oblFtc01rU2lyaGdiSUJVSnNSWWxNeEk5NWp5RTNIRWFDcTc3Sm9HODI1Zw?oc=5"
+    },
+    {
+      "id": "ixic-7",
       "source": "whtc.com",
       "title": "S&P 500, Nasdaq futures rise on tech boost",
       "excerpt": "S&P 500, Nasdaq futures rise on tech boost&nbsp;&nbsp;whtc.com",
@@ -14728,7 +14736,7 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PY004YXFHLWVnMERMYlFld3RtY0N0eElxUW5oTXh5dUk0Wkp5RVhveHVJUndraUJWRjVzVXNDRXdxbE5tM1NQMVhuNjk0SWdBcmNyd3pkbU14TDNsRXJUczNHaDhrN3dBM1dHcGhRb2JFUEU5SXhVdw?oc=5"
     },
     {
-      "id": "ixic-7",
+      "id": "ixic-8",
       "source": "marketscreener.com",
       "title": "S&P 500, Nasdaq futures rise on tech boost",
       "excerpt": "S&P 500, Nasdaq futures rise on tech boost&nbsp;&nbsp;marketscreener.com",
@@ -14736,7 +14744,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjYyakVhckF2TS1za0JELV9OVnVzQ0RBaEczb0dkTUxGTnk0Z2I2U21obnd2MVRTekpubjZwTUZnWl9PR21zanZkUmdFX2dFNFZrejdFMEZGMjRSZFN4T2NIdF9vVGVSQ0dzUkk0ZF9VUVllX0xRVzJHRkZ3NjFMc1I0ZVdIQVlGWEJnRVVYZkE2QTdFNVQwRGd3?oc=5"
     },
     {
-      "id": "ixic-8",
+      "id": "ixic-9",
       "source": "Investing.com",
       "title": "Nasdaq futures gain as tech stocks climb By Reuters",
       "excerpt": "Nasdaq futures gain as tech stocks climb By Reuters&nbsp;&nbsp;Investing.com",
@@ -14744,20 +14752,12 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejNUT2YwUHhxdTNsXzlzc3ZES2hxUjhoZDVHbnhObW9objFocEdFd21IakF2c2t0MDZBLVRVdkJqRU5RUmNmX0NVVjlFaF9MdU14anpSczlSbUtIRHRjT0hCeWdyemxLbnNHb2NRdmJEblNNY3hOM1RqNlNvLTd0ZjhVLTUzVTl3REE5am94Ry11OXJkeWpN?oc=5"
     },
     {
-      "id": "ixic-9",
+      "id": "ixic-10",
       "source": "AOL.com",
       "title": "Nasdaq futures gain as tech stocks climb",
       "excerpt": "Nasdaq futures gain as tech stocks climb&nbsp;&nbsp;AOL.com",
       "timestamp": "2026-08-17T11:06:48+00:00",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHFnblJQNW13SFZoT2pJRktIMjdodW1ZMlNPRVJWMDVXVDMyQmJBQnJ0TzQyR1pKRkF1VkJya3ZLVi1DME9fSGpKT1BwX25zY2F3cVhWVjBXbFk2Qjg2RHdlNEZWRTBCLUNCVk9ibkpLei1aRTZqcnBYcXJMTndFYQ?oc=5"
-    },
-    {
-      "id": "ixic-10",
-      "source": "marketscreener.com",
-      "title": "Nasdaq futures gain as tech stocks climb",
-      "excerpt": "Nasdaq futures gain as tech stocks climb&nbsp;&nbsp;marketscreener.com",
-      "timestamp": "2026-08-17T10:49:31+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFdpNnpSUXo2RU9BMkxyd21rd1NFTmVIekZqMUFjeE81NUVKMW9CSEU1LVhVZU41NW42NS1ya0FnNThfeWs0dmRfSVQ2Skl3MGxfX1NaVDRtTDRURzhDVHNtZG5meUd0NnJjOG9RaFo5cTRwQk00YmdGZmU4M2lSMWRsc0tDcW81Q3ZlSE53d3VZYkh1MHQ0VA?oc=5"
     }
   ],
   "BTC/USD": [
