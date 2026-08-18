@@ -2217,6 +2217,14 @@
   "Uruguay": [
     {
       "id": "uruguay-1",
+      "source": "TradingView",
+      "title": "Uruguay Central Bank Holds Interest Rate at 5.75%",
+      "excerpt": "Uruguay Central Bank Holds Interest Rate at 5.75%&nbsp;&nbsp;TradingView",
+      "timestamp": "2026-08-18T20:46:22+00:00",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV19CbG9feHJlaDZVSlAyYnVXcUtLdVE2VURFN3VWeFZlLTRQcG9Vb0pUXzJCQlJMS28tZ2R4Ry13c3RkR0pVY3BFN0RSZnI1WmNqVEdTNzV0dHo5U1VyRi1ZSnVEd2JPbVkyaTBTMFRHNWRDRlZhazcweUpQdzJXWHRpVlRteVltZUh1RW44SEx5eHNmU3hnUXNYYWFwUFAx?oc=5"
+    },
+    {
+      "id": "uruguay-2",
       "source": "MercoPress",
       "title": "Uruguay faces a 12.5% US tariff as its foreign ministry weighs the implications",
       "excerpt": "Uruguay faces a 12.5% US tariff as its foreign ministry weighs the implications&nbsp;&nbsp;MercoPress",
@@ -2224,7 +2232,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWZVMjRwWWp4OVRHcjZaX29lY1dpR0lna3hTRWhWNTlYdXVKQi05OXFNTVJwV1RKeVRDWUJkdDByWERZUlJuR0x2LXdzS1VZSGxHVUxVaXpuekVDeHdhdHRzaVhTZGZmaVJzbnJUYzhhakZOd25GNnFPdjJTejhteXNieFFTZlduTGhoVmJtM2dHTS1EbkVFWVU1ZW5lZzQ3OV8tSzNOVUR1ZzFaeVZLTUN3VDhjdw?oc=5"
     },
     {
-      "id": "uruguay-2",
+      "id": "uruguay-3",
       "source": "Energía Estratégica",
       "title": "Uruguay allocates $U 50 million to finance energy research and innovation projects",
       "excerpt": "Uruguay allocates $U 50 million to finance energy research and innovation projects&nbsp;&nbsp;Energía Estratégica",
@@ -2232,7 +2240,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeTRySUsxOWFRR0dxNGZvMTVTcmZucklmTzYxS25zVUtaMFZKLXh1dmZUb3BzakZSTGI4QUpaZU1VUTd5Q1doeHYxN1QteDNDRXllSXg0UHA5MmM5S09lSXVFVWtnV2FVWkhkcVd2dVRzeGZHYnB1Yl83TG5pZTE5em4wZHV0Zm1TMmdDZWFSaHdob1dscWVNcFR4RG1GakpVbkdGT0Q2UU9hM1I5eE9JTEtuODVzV09kTTZVOFcyN0JPZ1l5TXRLOTEtck9iMnBvSFNnNE13?oc=5"
     },
     {
-      "id": "uruguay-3",
+      "id": "uruguay-4",
       "source": "Intelligence Online",
       "title": "Deep Dive Paraguay, Uruguay Black Cube, business and politics in Latin America",
       "excerpt": "Deep Dive Paraguay, Uruguay Black Cube, business and politics in Latin America&nbsp;&nbsp;Intelligence Online",
@@ -2240,7 +2248,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd0dPcXBjZ0pEV1g5QzJSdFJreFhIQW94bi04NWx2a1NBSktYenFRY24yVU5Oc2JjQUduUGtLX09WXzZfQ1hrWFI4VWJrcnBkeGFXemFOWkUyQWE3MVd5Um9jTFo5NnNHb3FkSmQ4RFZiSU5wTGZOcGk1alJiSTNQMHFqZUFzdmZLcXgzYUMtaXN3cWlwdFRCV0dTSEhTUDFjbDhPNUxoNVBNMW11VUh5VzFQOV9UQkg4Znc?oc=5"
     },
     {
-      "id": "uruguay-4",
+      "id": "uruguay-5",
       "source": "Encyclopedia Britannica",
       "title": "Uruguay - Military Regime, Democracy, Economy",
       "excerpt": "Uruguay - Military Regime, Democracy, Economy&nbsp;&nbsp;Encyclopedia Britannica",
@@ -2248,7 +2256,7 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82WXhFM01LZmFTOW10TjlZTDkxYUM4MElkbGhqSy0xQUhiazlTaUlNdkRhQm9xYlJlbGFZSUowWlRlbnVFMV9DcF9xVjM4d0ZfYURnNzJ6ejBHekF0bGNFeUpGeTJJR0xxM2Z5ag?oc=5"
     },
     {
-      "id": "uruguay-5",
+      "id": "uruguay-6",
       "source": "Investing.com South Africa",
       "title": "Uruguay central bank expects inflation to exceed target temporarily By Investing.com",
       "excerpt": "Uruguay central bank expects inflation to exceed target temporarily By Investing.com&nbsp;&nbsp;Investing.com South Africa",
@@ -2256,7 +2264,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTNlblctSzlVZkdXNVNjeHpfRFBWc2Z0Mm9PUHFjX2duRDdWbEhlZ0RUbVlURXJ3QXI5TVd5REhZeDVPcGh0UHJ1M1BXWTBOSWlDc1pITExNa19GQkZaWU0yY0FvR2N5WWdqTElWdmduMkk0ckQtUjNpTGI1UE5rMU5LOU1KMWF3OUZKYTRIUHJZTGdqX1R3WUMzdmwtYVZERTBNSDM1ejZEa0NrNnVMdVZUMHlEeUVHWVpwWkQ3VGc1YkZRXzgw?oc=5"
     },
     {
-      "id": "uruguay-6",
+      "id": "uruguay-7",
       "source": "Investing.com",
       "title": "Uruguay central bank expects inflation to exceed target temporarily",
       "excerpt": "Uruguay central bank expects inflation to exceed target temporarily&nbsp;&nbsp;Investing.com",
@@ -2264,7 +2272,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV1Z3bl84dS1rSHdvTmN4dzNuZmFyLVBJYmxsU0w3bHZhTjJDM2FOMEtzem5yMElRMVN0NjE4ZmZOcFJyYzM5R1JwZ0xOTmtUTmx0ZGZUWDZZZXg4YUxoRHdlRGZYQVpkTmVveEtPaE15Q3lMUEVYbTBYNWxmdGR5eFJxV25XV1lpelFZNTBOZXVsX3Rnc3d5bGtGWmtvdTlhcTRIR0c4OUdrUHN6c3pPNGEtbHZ2eHFqZ09FdXRmaGJkUQ?oc=5"
     },
     {
-      "id": "uruguay-7",
+      "id": "uruguay-8",
       "source": "Investing.com South Africa",
       "title": "Uruguay central bank expects inflation to exceed target temporarily By Investing.com",
       "excerpt": "Uruguay central bank expects inflation to exceed target temporarily By Investing.com&nbsp;&nbsp;Investing.com South Africa",
@@ -2272,7 +2280,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcTFmaks0UUxPX3BfbDVPZDFyaDM3TXhWZ19oWVhld3l0XzBKbnpiRHhEbnNQaGFCMk9zWHFrdlM0Mm95WHlxWVFMMGlBdl92NDQ5WlZNc1VrX1hmNmt5dG1aTzFiN0FsaldzaWJKRGhJR1hpS1d3Zy1QV1hWdDF5ZDBVWElDbWdhbG5tZXhLb2puRlFyZVFmazRrLTUtSGE5RWUwV0hKUVdmeVVHU2R0YzBCNzlCaWJodE9aNVpFcjJQNkw1YkRldEsxMjJKbGV1VWlMa2VDYw?oc=5"
     },
     {
-      "id": "uruguay-8",
+      "id": "uruguay-9",
       "source": "Investing.com UK",
       "title": "Uruguay central bank expects inflation to exceed target temporarily",
       "excerpt": "Uruguay central bank expects inflation to exceed target temporarily&nbsp;&nbsp;Investing.com UK",
@@ -2280,20 +2288,12 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaWlhMjAzR0VGeUNvc2pNQV9taVoxWjN1OWlyLWwweGctQWZoTlRON2xJTUJyTzVrRThXbFloUzNaQmVRTjQ0d3BlWHVId0tDTzlFb1lVdy1RdGsxS1U1RzdtQWxVdGd4dkJaTERxZVVTTUxPaHZDQ3BXYmI5bE15Y1pvNUcwaVJYQnQtUnF2SXhLV3BwajJ3aTlVSm95SmpsSmYxbFd5THVuWkN6VVpib3pDcS1rOVMtWmhqZERMcTFkSjhnYTFUTnNXVTVwZnB3a3dic1Z1dw?oc=5"
     },
     {
-      "id": "uruguay-9",
+      "id": "uruguay-10",
       "source": "TradingView",
       "title": "Uruguay Holds Key Interest Rate",
       "excerpt": "Uruguay Holds Key Interest Rate&nbsp;&nbsp;TradingView",
       "timestamp": "2026-07-01T20:54:37+00:00",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMks0TkkzaEY4MzJ5X2lsV0gzYUdVMXFxakdKMkg3ZG1UZ0NmOTFBcWd4a2p6WjRLTThzZ1FuWGJyWkRMeHh2dy1ZUjBnN1d2OFZYaUpzWDdfOWVhUzg0d19oSXBWVEVrZzdGcjFuX0lJY18xTlJrWWxYa2FRSm92T1VsM1llS1VveWc?oc=5"
-    },
-    {
-      "id": "uruguay-10",
-      "source": "FocusEconomics",
-      "title": "Central Bank leaves policy rate unchanged in July",
-      "excerpt": "Central Bank leaves policy rate unchanged in July&nbsp;&nbsp;FocusEconomics",
-      "timestamp": "2026-07-01T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVy1Sc0hydGZqTHE1aXJOVnM3NVM3YjE3V2QwcS1BTzFnc0Z4SlI5S0pzWGQ5LTVTSUZpa3l4S0hJZU9WWjYtajUwMERwUnRqaEZ0TlpoVzQxdVIxdVd1U2JDeXo5N0pRREpoR1FZNzhoVEdUaTU3X0tkaVdiSkt4ZEZsSzZpWDFFME1CTHFUNDZhal9ENVFPNmozWnZvNXBSTC0teE9fWGVKUlppRDZGRDNGZmNKMXQwYzcwQnpMdW05Z1RzMml6aXFXN0JnaThKMWlPUGJXUjd1VHhaSjRmZnlDMmRlcDZjNTZlQS1HYXFPdUU?oc=5"
     }
   ],
   "Brazil": [
@@ -2397,6 +2397,14 @@
     },
     {
       "id": "bolivia-3",
+      "source": "TradingView",
+      "title": "Bolivia lawmakers likely force economy minister's removal in setback for President Paz",
+      "excerpt": "Bolivia lawmakers likely force economy minister's removal in setback for President Paz&nbsp;&nbsp;TradingView",
+      "timestamp": "2026-08-18T18:46:37+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZjNiVkRORGNfVWZ6ZzVmbTRTVTBpaTNUa3psazRwVzNGWkhoNE1CTWZkd0FkV0FVcmJSVGF4X0JLaGtfczZQa2ZhcjhMeE4zVzdtRUc5NXdYclpPR296aHp6ek5VcUZQNWVtQjZNVHo1REFoRVdOakJRX19XVkxSWTNWQVY2MmlJTHcwbzFFVVk0ZnQ5YV8zc3dFMGdGNjhkYUUzWjN1RDRCallybmljVjRxeElBcWhHakFBYlRPd1dzOVVlME9qMzA3S2RGalZ5ZUxoQWg2OVJzVFZDUmlzVVFYWGN1a2N4ZFpZXw?oc=5"
+    },
+    {
+      "id": "bolivia-4",
       "source": "Devdiscourse",
       "title": "Argentine Consultant Arrested in Bolivia Amid Shooting Investigation",
       "excerpt": "Argentine Consultant Arrested in Bolivia Amid Shooting Investigation&nbsp;&nbsp;Devdiscourse",
@@ -2404,7 +2412,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWVfbVNpaTBTLWxpaTI2SS1IOHhqVkpkeExxTEhILWZ4dDF1WkdnRjZCdTdDdlhGdmtaS3VMM1E1c1hHdmVwS1lfMmdpVEhYS0RBclFOcGRGejQ0TjB4bndleU1iY0lIZlcxZDJpQUFtSGItNHZIMnprYUsxZVlaX0lYanNUMVZQWEhkSzZnQzRxRU1RSkl1bVBGeHMwUFh0X2lHN1BwTC1CQTBQQ3I4SzV2VDhWTmZPMGhTbkQ3NNIBxAFBVV95cUxPYXU1YUlPd29TVlMxTVpLTHU0WWY2V2ZfXzZiR0xVTmxsTmhmdVBocTNUVnpPdk0xT0JaZi1TVjNkX0d5UXhmNnltNXBzU3VSVVRTSmx2QjRLUDk5RzJET2FjVGM0LVMzNVJUVjhoTThZYXIzWTRPWGE0YlpONHRKR3ZXWUZlOE5JLXM2N0JEM0hObXVLazBtYmtnajhja0RqRmRSRzloUE1tQXNkNEFXNXB1YlFoaUdkYzNyVHhqVFVKRVdk?oc=5"
     },
     {
-      "id": "bolivia-4",
+      "id": "bolivia-5",
       "source": "GIS Reports",
       "title": "President Paz emerges stronger from Bolivia’s blockade crisis",
       "excerpt": "President Paz emerges stronger from Bolivia’s blockade crisis&nbsp;&nbsp;GIS Reports",
@@ -2412,7 +2420,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXVGVOVm9waFcyQUR3Z3VVRURxZVVaRmgzZDNEdFowR1pyUGJHMkJHVzlPdS0yMkRNXzN3ck1NYk4ydzJocXlQWFlGVnpESmdvTllPWWVtUUc2b1FaV3hOcExFRmRXN1E?oc=5"
     },
     {
-      "id": "bolivia-5",
+      "id": "bolivia-6",
       "source": "Briefs Finance",
       "title": "Bolivia Central Bank Steps In to Stabilize Boliviano After 2",
       "excerpt": "Bolivia Central Bank Steps In to Stabilize Boliviano After 2&nbsp;&nbsp;Briefs Finance",
@@ -2420,7 +2428,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDBldVFRX1R0dFdzZ21EMTFjNWR6NkpGc2k5WkloRFI1aU9COW83X1FIZi1CbVBtTG9QUWJWUzFMZndER2JyT2pqOXhGQU5YN3FrZ0dmQ1lFcDR4UnVObllnZm9wel9VS25XQ05yZWI0MlhScHlWUkJzb042Qmxmb2R2eWtUQkt3MWJPMHpRZGRDQQ?oc=5"
     },
     {
-      "id": "bolivia-6",
+      "id": "bolivia-7",
       "source": "Bloomberg.com",
       "title": "Bolivia Central Bank to Buy, Sell Dollars to Stabilize FX Rate",
       "excerpt": "Bolivia Central Bank to Buy, Sell Dollars to Stabilize FX Rate&nbsp;&nbsp;Bloomberg.com",
@@ -2428,7 +2436,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUc3RjVPRVJlTXJPaF81NGM3aWpRcXU0TVRibFZZTlhMZHlwcEdReVVGQXp1TlBTWUhaOFdFNnJzOE00V0ZiVDUwYlhWd0EteDB5SF9OQkdYQUp6SDlfQURhQ3BqYWxRMTRVdWU3bEtYZkhmVzFmaXVUbmlRVnFQMll4UU9QQmFhQk9RYm1UeWxqUVVwWV9YbmVOMFN3S3VHc0ZuVEtycHFiRkVZdzh1UWNR?oc=5"
     },
     {
-      "id": "bolivia-7",
+      "id": "bolivia-8",
       "source": "Reuters",
       "title": "Bolivia and IMF reach $1.9 billion loan agreement, political hurdles remain",
       "excerpt": "Bolivia and IMF reach $1.9 billion loan agreement, political hurdles remain&nbsp;&nbsp;Reuters",
@@ -2436,7 +2444,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVRSLXdlZzFOZGF1QXJPWlVBQ0FrcDBTbHlnRUh1WE5aYi1HcU9NWTAzY3duSnltUjd0SEExSmJIczUzR2VSRTl0R2FQd3ZBTDdpUDhzTnZxbk5FV3c0clZLLU9GNDlnY21LczRwcm8zWlNUMXo1NmdfX1hzeEw2ZGNTTHgtYWFxei1JdXVaYmNGN0xRR2lESDJaNDFoUTRyLWo0UTNR?oc=5"
     },
     {
-      "id": "bolivia-8",
+      "id": "bolivia-9",
       "source": "Mshale",
       "title": "Bolivia Unrest: Road Blockades Cripple Bolivia's Economy | WION Keldon Johnson (VqJFAXhoOx)",
       "excerpt": "Bolivia Unrest: Road Blockades Cripple Bolivia's Economy | WION Keldon Johnson (VqJFAXhoOx)&nbsp;&nbsp;Mshale",
@@ -2444,20 +2452,12 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBianA5TzctX1JtdFBISHpMMWpja2lBNkswOEhwUHFTT1ZvUFFzTHRSakNRTGVscUEwbTVYU2c3akhYMUN5NmpNZWxVYWFXRE5uYjV5cW9WRHU4aGM?oc=5"
     },
     {
-      "id": "bolivia-9",
+      "id": "bolivia-10",
       "source": "Inkstick Media",
       "title": "Trump 2.0 is Backing Bolivia’s Militarized Crackdown on Dissent",
       "excerpt": "Trump 2.0 is Backing Bolivia’s Militarized Crackdown on Dissent&nbsp;&nbsp;Inkstick Media",
       "timestamp": "2026-07-23T09:54:45+00:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZmR1VFh5ekQxNk5qaEVaQTVNdzlod3ctZFpvQ1pHdXBWN2NZVl9DazRZUF9LWWxyU2k1aEd6bTNpR2MxdUZMR1lFNC11M2hqa3BYQUlzMllNNGduSkZuQXJfcmxmekU1NU1TMFFIRG05UmFBOWJoXzlFWG1xTHpmd010WmNQcDJub0cwUlNaMndFT3M?oc=5"
-    },
-    {
-      "id": "bolivia-10",
-      "source": "Reuters",
-      "title": "Bolivia nears $2.5-$2.8 billion IMF financing deal, minister says",
-      "excerpt": "Bolivia nears $2.5-$2.8 billion IMF financing deal, minister says&nbsp;&nbsp;Reuters",
-      "timestamp": "2026-07-22T15:26:24+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEFTZnhOVVVlMHc5ckpGbEJ1VDJCcmR0dGxBVWxqNHAxNERTaUR1VHlFcDlqcXA0MDNvcXpTMGZGNXIwYnlZa3V6bXJ1T0dEVElJeUNmVFpad0ZtUEs4QjRNTTcwSGd1ZkVsdDBsMXBRNEs0YTZnOGNwWDdDTVJXRm9pcWRFdDNUUVcyZ3d3V1AxbmJmR0R2SnVISW10eG1PRXRvZ0hvd0ViRkk?oc=5"
     }
   ],
   "Peru": [
@@ -3857,6 +3857,14 @@
   "Zimbabwe": [
     {
       "id": "zimbabwe-1",
+      "source": "zimlive.com",
+      "title": "Zimbabwean scholar Miles Tendi promoted to full professor at Oxford",
+      "excerpt": "Zimbabwean scholar Miles Tendi promoted to full professor at Oxford&nbsp;&nbsp;zimlive.com",
+      "timestamp": "2026-08-18T08:01:21+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0NoSzgzRndJMlJIcGlOcE8xMXFnOTFEQXNwc2lEQTJwRHV0eWVFVmdxQTJiYUJXVTRMUTRPYml4MVY3MG9BTl9YbHJUUWR5cGxjZ0x0TmNVMEdVVlVUaXZydWRGS1k1VDhwRElZOUdVOGpST2RkQXZ2NUJrVzQzcUVPX2FMM0RCUURseXU3amJfS3dOVnVv?oc=5"
+    },
+    {
+      "id": "zimbabwe-2",
       "source": "The Africa Report",
       "title": "Zimbabwe: How Rautenbach is elbowing the Kelly family out of a Zambezi Valley safari camp",
       "excerpt": "Zimbabwe: How Rautenbach is elbowing the Kelly family out of a Zambezi Valley safari camp&nbsp;&nbsp;The Africa Report",
@@ -3864,7 +3872,7 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnplTXphUUM2NWljWlhSaUR5MHloX0pKOG5fcDk0ZG4zbmxidkRiT3EyMjZpbS1qNHpFMmJHZHFibGhncHBNOHF1czVtdnRtaEVyYmItOGRMLUEwS0kwaEpCV1pxS2Rjd1hweFNWQV9Jcjd6RGxUYnZOTk9zcS1lUWZVenZYT1VRUFV3ZGJ5T1NweWJVVTZsNC1WVWRKT2oySFRoT1lMTUhyRkxrMHdKVlRybFBiTGNTeExmUHVzT2dFcmg5NzlF?oc=5"
     },
     {
-      "id": "zimbabwe-2",
+      "id": "zimbabwe-3",
       "source": "businesstech.co.za",
       "title": "South African giant makes big move in Zimbabwe",
       "excerpt": "South African giant makes big move in Zimbabwe&nbsp;&nbsp;businesstech.co.za",
@@ -3872,7 +3880,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZTdLWWxrNHRYNGRsS1FuX19xWUFrOFRlRGEyc0tlRnBhWVVTU0g3TF9Yc0VJWm84RldlZGpUMTlhZTVnUXdmSnJ3V0c3Tkd5N1pXRTBlUzFNbmtCN2ZONFc1Szl2SmhZV21BbDF2dEp3ejk2dXA1aEJ0RTRtWC1zT2F1ZW9wNlZoNk5Vc21LUjJ2YXE1Rk9NWm9n?oc=5"
     },
     {
-      "id": "zimbabwe-3",
+      "id": "zimbabwe-4",
       "source": "Encyclopedia Britannica",
       "title": "Zimbabwe - Economy, Mining, Agriculture",
       "excerpt": "Zimbabwe - Economy, Mining, Agriculture&nbsp;&nbsp;Encyclopedia Britannica",
@@ -3880,7 +3888,7 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIUU1IR3AtTnpyLU5ycnhWVTFCbzJmVnd1N1U4R2RzU0lsWUNmYWRRbWJMWVBuQy1XdWE5Sjc4U1ZoNVgwWVdZV09FcGpRSTI1b2diaW9jTnItTlRvTVE?oc=5"
     },
     {
-      "id": "zimbabwe-4",
+      "id": "zimbabwe-5",
       "source": "NewZimbabwe.com",
       "title": "From seed to cooking oil, Zimbabwe builds new rural economy",
       "excerpt": "From seed to cooking oil, Zimbabwe builds new rural economy&nbsp;&nbsp;NewZimbabwe.com",
@@ -3888,7 +3896,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUFIUjEzSzdSOWhRYWZlOUdNN1E1SVptVERrUEYyaW5OUDJyU0RVODFvMVFpZVpwMEhlY25zeEVCMlFRY2xlSkxyQWN0S2txQl8ta21uckZOUXY2cjhCeDlSXzhzRDJUYW8yZXBTcFhLeXQtbHFvODFMb3FYbWZ1VFZVX2I4QW00alNzMFhpRks?oc=5"
     },
     {
-      "id": "zimbabwe-5",
+      "id": "zimbabwe-6",
       "source": "Bloomberg.com",
       "title": "Zimbabwe Split Over Wealthy Incursion Into Politics Under Mnangagwa",
       "excerpt": "Zimbabwe Split Over Wealthy Incursion Into Politics Under Mnangagwa&nbsp;&nbsp;Bloomberg.com",
@@ -3896,7 +3904,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT3RxWDZISHJSd0hRVmoyUVVucHJwZG1ZR2s1b2ZEdHR2cFJNbl85WTBENGEwNnh0dXQ1YmdBRVZaX3dXa0M4X3FIM19pM3VYZ0xucFk3X2M2SW9xT2p0Ukdpb3JnbnhKSEdGYnlWcnp0RjMtYlhZTHN0WXdpcTBPVWpLWlFWUTRjWHF3bnQtc2x2bzM4Yng5Qld1eWJ1dWxxVV9XcDhJYWx0aDItS3BOZHJqTVZSbVFvb1E?oc=5"
     },
     {
-      "id": "zimbabwe-6",
+      "id": "zimbabwe-7",
       "source": "businessday.ng",
       "title": "Zimbabwe’s $17.5m wedding highlights new elite as economy struggles",
       "excerpt": "Zimbabwe’s $17.5m wedding highlights new elite as economy struggles&nbsp;&nbsp;businessday.ng",
@@ -3904,7 +3912,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlJKWjFOS3dvUW9XbEZoenpiMUNJV2NqbTdCbWRlM1ZCbGwtUl83Rkt0Y1VWeEUwWUstYzlRV0R5U0FvbkYza0VzME9YN0Q2eThudXprRmtka1dsOGp1Zkx4Sk54WFZBTzlrM0xacE1xWjFtLTduemN4YllPcjdRcG5EemxrQ0xhRjNpMERfS0J6YnRKbDUtQkJLNzgtSnU3TE9hZDV4dw?oc=5"
     },
     {
-      "id": "zimbabwe-7",
+      "id": "zimbabwe-8",
       "source": "tvbrics.com",
       "title": "Zimbabwe records first US$1 billion monthly export earnings",
       "excerpt": "Zimbabwe records first US$1 billion monthly export earnings&nbsp;&nbsp;tvbrics.com",
@@ -3912,7 +3920,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTklzbVNGem9LbWtlcW4yU0huR3FzcFBqYmNjS05feHBCand3YlVhRzhBSFVVWURVUUpORlpubmpFXy1rRmVkclQtdFJ3TjJmSWhKbXh3RHNQdkxJQUlnN2VaejZnZzBCSGZKbGVJNFdKR0pIcmJ6bDlfejljZElra2pKaU1Ob1JBdjhKaVBkV3BGZw?oc=5"
     },
     {
-      "id": "zimbabwe-8",
+      "id": "zimbabwe-9",
       "source": "Bloomberg.com",
       "title": "Zimbabwe Split Over Wealthy Incursion Into Politics Under Mnangagwa",
       "excerpt": "Zimbabwe Split Over Wealthy Incursion Into Politics Under Mnangagwa&nbsp;&nbsp;Bloomberg.com",
@@ -3920,20 +3928,12 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ0NXQ01hTTM4NzNvX3hxWFJxdV9SOENncjlzbDg3X3FKUVNSZGhrWWs4QmpwVzY0dEhIdkdYMXFMWTliZE8zS2MtV3hhZlAxVk1oWUE4QWlZTnl3QlJjekRORzQ0QmY2MFNMMkhGMTBtbDRmUlF1eTRoNDgxdDdsemlaRTR0S2N5YTM5eUhQU3BmaHV1VGR2SVBzSjRVV1JRNUdUYXVPQ3BGUGlOMktqZGtwU0VBMzlkME1PdEJ6aVdkblE4UHpORW0yUEI5Nl9Uel9HYXVuNEk?oc=5"
     },
     {
-      "id": "zimbabwe-9",
+      "id": "zimbabwe-10",
       "source": "Real Broadcasting Network",
       "title": "From Seed to Cooking Oil, Zimbabwe Builds New Rural Economy",
       "excerpt": "From Seed to Cooking Oil, Zimbabwe Builds New Rural Economy&nbsp;&nbsp;Real Broadcasting Network",
       "timestamp": "2026-08-09T17:48:10+00:00",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORnJzYXdlY09Lb3JtTzd1Rzd4ZmZYZ2hZazdKWDhTc3F2VHU0Z2U2d0F0aDhsMUJmR19jclM5MTVyTVhXRHpLSzFVVFlwR0ZsTndONzNjMjl6M3psUnJTS3ZVY3lsSFk3Tjdxc0J5a3A3cGFCWXVoc3owLUNJVDVjc0RJeFp3SzdnSlRtR3VNNEEwc3RoMExEME1n?oc=5"
-    },
-    {
-      "id": "zimbabwe-10",
-      "source": "Monocle",
-      "title": "End of the Road? Politics in Zimbabwe and South Africa",
-      "excerpt": "End of the Road? Politics in Zimbabwe and South Africa&nbsp;&nbsp;Monocle",
-      "timestamp": "2026-08-07T13:40:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03UUh5NU0zMHRic1pFSXBMTk9GSUNlYzIzaXEzYVpXVWZHVXlLWlZBd3VnaEhWWGtndmtmUmZJRmp0QmZrLVRkZ1JXMGlrMWJqQ3NxaUpWS2xHODNRcFZxN2F1clVuWF93V3BxZmxDeEs3T2Zl?oc=5"
     }
   ],
   "Botswana": [
@@ -7957,6 +7957,14 @@
   "India": [
     {
       "id": "india-1",
+      "source": "CBC",
+      "title": "Another duty to warn letter casts doubt on Carney's rapprochement with India",
+      "excerpt": "Another duty to warn letter casts doubt on Carney's rapprochement with India&nbsp;&nbsp;CBC",
+      "timestamp": "2026-08-18T20:39:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pVFFwZ1ZTOXZhNWtPcV96Q1EzeXBiRVUxRTh2dnMydDFTUkh3Y18yRHpMMC1MVG5yenhCMnhTVzNyX3E2LW5FbE0wRXJzOXFWU3k0ajh1XzI0Rmtaa2FZclhTMmFoUjFlQkpJbldtWGJqMVFJaENibFd4ZWNkYm8?oc=5"
+    },
+    {
+      "id": "india-2",
       "source": "TradingView",
       "title": "Home First Finance Company India To Consider Issuance Of NCDs Up To 1.50 Billion Rupees",
       "excerpt": "Home First Finance Company India To Consider Issuance Of NCDs Up To 1.50 Billion Rupees&nbsp;&nbsp;TradingView",
@@ -7964,7 +7972,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZVVXZWxnamhUOWVBMmo1WVNCMHNHcUJ2dVc0emk4U0pXczhmNl9xcXc3RDk0U1FBc29rYWF0SHRKTEhuUkV6dHdndXJqSEhKUXhZMy1hcWlKTWdFOFlKQnZ5RHZkaVJMYzVzMG1laC1tbm1NcGV6YldBSEp6VzU3YmpFeE9MWi1EZEtXRndsdkZfdkkwbjRSQ1E2UVU4a3ZfMjZKS2RHVXdjMUN2OGlITTJSU2d0NUhjdzJfX3R4UXJ0MzdDc21TWXBhalczelVtOVFmQUlCaEdDMDZZWDA3OUQ5YXgyODhIYnhSS2xB?oc=5"
     },
     {
-      "id": "india-2",
+      "id": "india-3",
       "source": "Global Trade Review (GTR)",
       "title": "India Factoring launches subsidiary in Gift City",
       "excerpt": "India Factoring launches subsidiary in Gift City&nbsp;&nbsp;Global Trade Review (GTR)",
@@ -7972,7 +7980,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX1V3eG5pSmw1SmY5TlZxMmo2ZjhtVUxoYXpDOWlRN19pWGE1Z0hlek8wUlB5cmU4eC1YNjlyUWRPdWRJSWlMN2JNWDhLaHZ5QXF6X2FiR1lrdWlPTWphMVhablhhd3dWMXd5djJhNUNwU1UwRmNuaVRvb2NqSlZmVklUbmw4WmxENkNNdA?oc=5"
     },
     {
-      "id": "india-3",
+      "id": "india-4",
       "source": "Global Security Review",
       "title": "When Japan’s Hedging Meets Türkiye’s Identity Politics: India Feels the Strain",
       "excerpt": "When Japan’s Hedging Meets Türkiye’s Identity Politics: India Feels the Strain&nbsp;&nbsp;Global Security Review",
@@ -7980,7 +7988,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMHpRbUxRc2tTNEFoZWg2dXVrMWc5a2hRV1o4SlZici1iY0s5LUN2blE3Z3pIME5jLUdhaTRlZzZLNjZHNGVDZnRFbk80UlVQSms3bV9lRnJULXc1S2FFNWdpR09hQTVmQW9PSGM3WDZBdUVmeGFPRDVHdkJucEJKRUROaERwSXRPLWhsaTNjWjhGWGlQNXpvT3hCSzdiZVhjUW5yY1M2MV8yWHNYNGc?oc=5"
     },
     {
-      "id": "india-4",
+      "id": "india-5",
       "source": "TradingView",
       "title": "India's central bank intervenes across markets to steady rupee as oil, US yields climb",
       "excerpt": "India's central bank intervenes across markets to steady rupee as oil, US yields climb&nbsp;&nbsp;TradingView",
@@ -7988,7 +7996,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUWdHdlVhRHBQQ0V4OVZDQy0ya2R0dHUwTm9Xd2FxU01rN1lvYlFQZjUwYWZzb19McXBDcDJsSmk1WmxlQ0FQQVRnRVV4ZDF0N19GNFROeU9DQjJnRklEX0d3TXZmV1JwSG9xcTkwMW1MTW9KTGxMSG5haDdkWURZd3gtZ2g2UGt1Q1VHZUNWQlVlYWg5SUhWWnhCWHRFX1pZRmlLZ1NZVUwzTUkyQm1sNmZPTlBERkxBMzFrX01zMHZ0emhBVXVFWThuQmVZY1JHeXJvNWJsUm5lcnZDQm9KN1EwZS1GODVyN3R3?oc=5"
     },
     {
-      "id": "india-5",
+      "id": "india-6",
       "source": "Reuters",
       "title": "Indian central bank keeps up interventions to cushion rupee from oil strain, traders say",
       "excerpt": "Indian central bank keeps up interventions to cushion rupee from oil strain, traders say&nbsp;&nbsp;Reuters",
@@ -7996,7 +8004,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUGRyNFAzZHBfcVhCWFktdlE4OXBSN05SSEY1XzFxUWpEMzcxU3h5TTBtXzZkUEtXSFE0YU01ckZZV04yaHdsdTNIVGoyX2w0UUs4MllJRVQzeGhaVjlmcEZKcTN6SmtZR05UdEpDckNQbFF2NkpTY2dyZFo2NVVZU2cyRFNWNlctbmZVUVVZOTRKbkVBUmY2WnR2M1hxMjhoTGxicWxNd2tsLTZTYnV4NmhxcXFXMDdURTZtclFQelRNTnc2TGc?oc=5"
     },
     {
-      "id": "india-6",
+      "id": "india-7",
       "source": "The Jakarta Post",
       "title": "Connecting India and ASEAN's digital economy agreement",
       "excerpt": "Connecting India and ASEAN's digital economy agreement&nbsp;&nbsp;The Jakarta Post",
@@ -8004,7 +8012,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUVVKYzM1Nk12MEszZ0xvZjRqMlptcllFNHplOVo0YnlvanhsZmlUdkVoZnVodmRqZ0JpdmszTFd5bXZKSk9jUm1IZzlMNVdGaUs4UDRLT0tySHVBZE1oRFhaMjhndFhmZ3lHaDhLcXAyak81eVNfTk5wY2lkSnhhQjBFekh6VU1tYjhWQ0NJcFJSX2JoQWxyeGtKRkJWYUduOWdCdlp3?oc=5"
     },
     {
-      "id": "india-7",
+      "id": "india-8",
       "source": "Finimize",
       "title": "India’s Central Bank Move Pushed Yields Up And Stocks Down",
       "excerpt": "India’s Central Bank Move Pushed Yields Up And Stocks Down&nbsp;&nbsp;Finimize",
@@ -8012,7 +8020,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlA1Yy14UG9UOEwwbFViMDJTaDVGbDhJZDNjWDZjaE00ZE9EMWtXTUQteUNCRXV4ZjNUZGRYTWg5dzB4S3JJTm1GcEV1clM2VHZ6NVlzWldVSjZ1eXpMZ3dEOUpULXhtSlNKQk1LVHUxeEF3RTNUYU44eWFmNnhwdV91YW1Fd1g2bzBTcFNDNA?oc=5"
     },
     {
-      "id": "india-8",
+      "id": "india-9",
       "source": "Retail Banker International",
       "title": "India to announce banking reforms committee soon, says finance minister",
       "excerpt": "India to announce banking reforms committee soon, says finance minister&nbsp;&nbsp;Retail Banker International",
@@ -8020,20 +8028,12 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUmh1TGFjMVUteDdCdGpJVWFtTlhoSnUzVU1vaTkwdWhJaldVS3RhaWZNeVpITlp2dTlsWURsemVFVlh4M3JWQkp4R2RyWDg0bzVCY2pzeXp4ZEZhcTlmUnRubm1DQ0hhX1FIdHZlMmFESEk1clp4S0NEOXV4WGVlQXA1Z1pQZw?oc=5"
     },
     {
-      "id": "india-9",
+      "id": "india-10",
       "source": "Al Jazeera",
       "title": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
       "excerpt": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?&nbsp;&nbsp;Al Jazeera",
       "timestamp": "2026-08-17T09:05:33+00:00",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ1k2cERiUTRxOFFzRzNmdTdVX2kzcVh3RlFSN3BuRm5UOVJDRDROWlZ0bWNzYW1RVmp1TklTQnJma1BGOXAwVE5odWxNMms0VXMzRVoyZ3MwQ19PZFl1MFhRc003ZlI0Zy1YZXpaYlh4M09Dd2Z6c1NtbWlLVTFJMEJ6cFJYamJfT0JULWVDdXZkc1BGWjRTLW9LVzlQVi1JaVRJazdkaTNWWlVMcmfSAbMBQVVfeXFMUHEtN2htWmRtNGNiTFhvcGRwRkM2UHFabG9IT080bjh6cEJjbDJqNEJLSGxrR19PRERZUmdwWlM2Q0tWeWxaZURzQjVVV2ZEbXRTLVNQSGhfX25uV0ZzSWVpekdqdEJTanBiRzMwUDg3UERHUi1zR2NpdkhUczRoVG1XLVRqR3phdTZUbGlTTV9TRW8zdDN2c04weUIycGlpcUtrUW4wTkdBblZab1c0el90MDA?oc=5"
-    },
-    {
-      "id": "india-10",
-      "source": "Reuters",
-      "title": "Indian central bank likely steps in to defend rupee, traders say",
-      "excerpt": "Indian central bank likely steps in to defend rupee, traders say&nbsp;&nbsp;Reuters",
-      "timestamp": "2026-08-17T03:50:33+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ010dFJUYlJkLTY2TUltNTN1LVkyZ29ieHpISnpmdVNqdjV1aDRLS0dWTUhzYm1BcS1aSURkckctY0g1dW91WEktR3M4VU80Y0cwZDV4cGNIOHpZbDVjNlB6ZHYzZDVyMXN6QUpqejN1SGtNb0dnWE5wV29ZUVZJbWxvQnBBVVZORGhkM2xmTjBTRkM4YmtzMlU1cnh6clVtOGJ3aS1UUF8?oc=5"
     }
   ],
   "Bangladesh": [
@@ -11073,6 +11073,22 @@
   "New Zealand": [
     {
       "id": "newzeala-1",
+      "source": "bloomberg.com",
+      "title": "Banker Talent Raid Sparks Big Shakeup in Tiny New Zealand Market",
+      "excerpt": "Banker Talent Raid Sparks Big Shakeup in Tiny New Zealand Market&nbsp;&nbsp;bloomberg.com",
+      "timestamp": "2026-08-18T21:10:58+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcTlyZTl0MlQ2UkdjRUpKd0E0R3ZsUnJNT3VjX00yNUtSRFZ2Wi1vMDN2a3p2VExOSEFYMUx2N0U5MXdkd0o1Vnd4YU5VM1k3Y3dlNGhGY2VpV25TX2E3eDJnRDRZMHg5VkZyZ3BIWjdRa1BrTzlqSk56OUd5Q2kzUnJxWlhQb050Q2RZZU90QV9wTGJTYVNyOWdiWHFRVjI4U1FSSlRQTVR5UnZQbWpjaDdhbmNTRGtUZDdyS1pxVHRtUQ?oc=5"
+    },
+    {
+      "id": "newzeala-2",
+      "source": "TradingView",
+      "title": "New Zealand central bank says it has taken steps to boost banking competition",
+      "excerpt": "New Zealand central bank says it has taken steps to boost banking competition&nbsp;&nbsp;TradingView",
+      "timestamp": "2026-08-18T20:52:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMmZTcmpfal8tU1dwdHNwc0lWX3pDQWN2VVdyaGp3VWU4NUFFVTRQSkpkdnlDZllaa3pBS3Nadk1Ob1pNakFDXzc2NkxydEd6V2Q5M3hvczNQQTNKaFNNaElLcEJiSUhrZFFrZGRvcV9tczFyX1FLN0NDbFFlVWt6UWd4Tm9vZmFwamJUR2t6VnJCMTJTZDZQVDZPM3kyVlFuZnZ5eFE5RnR3elUwcTA5a1F5RjlyTUtxT3hYTm4ybEVYNUFoYUI0NGJ4V2hfVlo0WmR5S21KMTIySk1tSkNmeA?oc=5"
+    },
+    {
+      "id": "newzeala-3",
       "source": "South China Morning Post",
       "title": "Cook Islands PM re-elected despite row with New Zealand over China ties",
       "excerpt": "Cook Islands PM re-elected despite row with New Zealand over China ties&nbsp;&nbsp;South China Morning Post",
@@ -11080,7 +11096,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbFBhQnNlbVZXa1QwdVpndkdKYllOT3RqZlVUVkplYTl3RmdhYUh0Y1RqbU1HZVZCdkFMX2RYYW1teThSMk9vcnROUEdPcG10VU1uT3pWeUlLUXBjNXh1dXN5XzA3M3lEbEhlOThrbVdlV0oxcF9vTFhZWkQxVEVvU3dIX2ozdWhVX2U0RUJDMmRIZ1hMdGJRcGswbXd1TldzMl9Qb3l3bExpWUJEVF8xbVdyQjEzTTU4bEV1R09OVdIBvwFBVV95cUxPY1IzRHBCWEVxbkRLMHFvM0k3dEc4bWdNQ0hYWXFTOS1ZdFFxRFFKbGVhR1JPM3hMaDdIeEM4QmxwWmJsb3VfQXdUUlBLU1Q0Zl9FZkpVTXVsNVlyMVJoSDdxWFppWjlzZEpYOUlBSi1xWlNvZ2diOENtRDQyMGNtVXJHVnkwLUt2Zm1KeFhHZ21tN0J1YUZJM1Q5Zi1GSzRjS1dMOTh2TldfV0c0RVpycWp5SzdPUGtpd2ZrekJ3NA?oc=5"
     },
     {
-      "id": "newzeala-2",
+      "id": "newzeala-4",
       "source": "Yahoo Finance Australia",
       "title": "New Zealand Shares Rise; Vector Fiscal 2026 Earnings, Revenue Up",
       "excerpt": "New Zealand Shares Rise; Vector Fiscal 2026 Earnings, Revenue Up&nbsp;&nbsp;Yahoo Finance Australia",
@@ -11088,7 +11104,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNmJ5M3NvdXk3VVdaVUhiQmRvWThtZ3k0UUg2Z1Q5SFZQTXo4eGJiRldwTFg4WWVsZTZyZHItZEoxUWN3akZSaHRhaW5BMjdQZkFxUjY2X2Z0ckt5OS13TUxGU3ZPZFpWY3FYYVN0Y2REYTNRZDk5MUtpcXdhSnNYZmpnRFVOWTl4YXc?oc=5"
     },
     {
-      "id": "newzeala-3",
+      "id": "newzeala-5",
       "source": "CryptoRank",
       "title": "New Zealand Dollar Weakens Below 0.5900 as China’s Economic Slowdown Weighs",
       "excerpt": "New Zealand Dollar Weakens Below 0.5900 as China’s Economic Slowdown Weighs&nbsp;&nbsp;CryptoRank",
@@ -11096,7 +11112,7 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NUlBEczduZXZzcXpYNkZvSHBqcGotSTVDdW5qY2pWenNZa2VVdDdPcUpoSFdDRmx5WHkzME8yVHUzd2FxdEhkYnJQdXQwRk5RbVc5YmJaaVpEcHJaT1FCVnVFZWJDUlpOUzhWZGxCbGEwSGpkT3pHeg?oc=5"
     },
     {
-      "id": "newzeala-4",
+      "id": "newzeala-6",
       "source": "Mitrade",
       "title": "New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July",
       "excerpt": "New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July&nbsp;&nbsp;Mitrade",
@@ -11104,7 +11120,7 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnVyQWVpeG9XR1E5WnVlU3YteEZUbzd4bnI5SWROclZDa1VBVkJvclBBTWtBc0R2dmVfRXgtZy0ybk0tZHZkNTFfMEs3ZW1pRG5QQTROeXEtSGlsYzFtWWxROXZUSzk0enJLa1ZMd3Ruc3lLY0lOM0Q0dl8wN2pnRERXNA?oc=5"
     },
     {
-      "id": "newzeala-5",
+      "id": "newzeala-7",
       "source": "FXStreet",
       "title": "New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July",
       "excerpt": "New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July&nbsp;&nbsp;FXStreet",
@@ -11112,7 +11128,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnhLQmNfVmNQdF8wdHItNlRDVXN1ZWlIQ1Bsd3hSSXJRNE9OQzZzdFF6S2NlNXg4dmlPTEUxaThiZHA2cEJ2T2pSTlF2ekJqT3RMdmpDNVE2Z25BYi05b1EtZmY5aFlkQktFSmh6dFdGaG5MVzlIclQ5QjR5eE1TZkxqOU9ISWF1UGxMajhUNExqMWNhQmlqZDBiSmlGQmgzRUk0NW9KcC13ZTEtOHVfMWhHWkRFOWdL?oc=5"
     },
     {
-      "id": "newzeala-6",
+      "id": "newzeala-8",
       "source": "Forex Factory",
       "title": "New Zealand Economic Update: August 2026",
       "excerpt": "New Zealand Economic Update: August 2026&nbsp;&nbsp;Forex Factory",
@@ -11120,7 +11136,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3M5THh6cmM5M29sQnZ0X1J3Zkw1eDRHeXVXa01wY3dXT21DT1NCS29CaE5JeHVtYlJTcG1ST2w4NGpLamdnTGgwa2xkR2dRVUQ3VThKSHhCeThTT2RNSHVBV0NmR2tNcUwyenZka0d2U2phbV9HSTFYNEVmNjhaR1UzckJQS0lB0gGOAUFVX3lxTE9rQWRLRU0xWjVBRW55cGtfekI4S2U1YWlLam12QUN4dEk3U3hDWjBhLTY3OVBOMG1PUnJTdWFLbTBSSS1XQ1NXZWN5MDVaT191M0JtU0RSS2xnZ3NWUEpSOW1kemk3UDlKZXJ6anhhNmhpMDRDbjJxS193bHJWODNyZzFKMUgzX2lDX1dPZ3c?oc=5"
     },
     {
-      "id": "newzeala-7",
+      "id": "newzeala-9",
       "source": "ABC News & Headlines – Australian Broadcasting Corporation",
       "title": "What happens if property prices drop 20pc? Ask New Zealand or Canada",
       "excerpt": "What happens if property prices drop 20pc? Ask New Zealand or Canada&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
@@ -11128,33 +11144,25 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNenhEU05GN0loTmoxTWUxQ0lnMUVDYW5FTEwzQ3hSV0dQdDJYNDRJVGc1dlNDOXhPTkpUTXNJdXhYdzl2WEpPVmp6enR0QnBWQmZ2YUJ3MjhtcmVGeEl4SmplcHJJbndGUEZKTzIyOG5EYUplbkpuaTdpTi03X3NjazhVcVJPamthUE51czdmajJ2SXZ0WkN1c0xUWEFBMGxuVTEyVmgySVBzbVlsdm45Zw?oc=5"
     },
     {
-      "id": "newzeala-8",
+      "id": "newzeala-10",
       "source": "Fuel Cells Works",
       "title": "New Zealand Unveils NZ$30m Funding Package to Accelerate Hydrogen Infrastructure",
       "excerpt": "New Zealand Unveils NZ$30m Funding Package to Accelerate Hydrogen Infrastructure&nbsp;&nbsp;Fuel Cells Works",
       "timestamp": "2026-08-17T13:53:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTQ4elExN3c4M2V2VzdKWk9YZmJLcnBiVFRSazlNSVN1ek1Jdm1iS283bXRVSHZVRjc0WkozWlJyY0FRQk5DVS1ucWdZNHR3Q0VDU3U2WEpjanRKT0ZtQU9aQmpodEE2ZlktLTFneGxLcTRqSS1JVzU1M3MtelFZLTlIODVUMDF0WUhYaGFiOG9abkptMzYtTU8tb0FoZmtWbWItOGpiR0FfU1IxZWtMYWdObmhBWlhqQkRJeVBuNUI?oc=5"
-    },
-    {
-      "id": "newzeala-9",
-      "source": "fuelcellsworks.com",
-      "title": "New Zealand Unveils NZ$30m Funding Package to Accelerate Hydrogen Infrastructure",
-      "excerpt": "New Zealand Unveils NZ$30m Funding Package to Accelerate Hydrogen Infrastructure&nbsp;&nbsp;fuelcellsworks.com",
-      "timestamp": "2026-08-17T13:53:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa1poM0NsZU84ODhMMXNac1gwQ3hNQ3VOcGo0Zk1FMFNUSjZpUEthajBMWFVwQVppcWhpSmZvRW5QMTJtMm92UkcwT1gzaGxGdjNTRVdsVnVQQ2VsbWlsenB5RElLUnV3Q2lTQVhpd1BRMmNQZENTODFUX0cxZWg4OXlSZDEwMFBpUjZGSkc2ZzdmTHZoUm9iMnFJU0tuV25xYWRlNzVRTVlsWDQ5TmNDeHNCREVaV3dvdzBKTG10M2M1dThPSGN4bzZfXzl4WG1J?oc=5"
-    },
-    {
-      "id": "newzeala-10",
-      "source": "gasworld",
-      "title": "New Zealand unveils NZ $30m hydrogen infrastructure funding package",
-      "excerpt": "New Zealand unveils NZ $30m hydrogen infrastructure funding package&nbsp;&nbsp;gasworld",
-      "timestamp": "2026-08-17T08:43:49+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeVR6T3pRNS0wMkI0b19oY25fc1RRVXlZOTBWM0dzcTNBRnRXWkRmbUwzQy1USHczd25ycmRHd2NzZEVNY25VLXQ5N1Y1U1pBMFN0UlZ5ZTkwTDhTdDNPS0hVNnZlY25ISnItZXJ0THNDaGxJZHFKTmxobk5LUDhmR1RJODZ2cjZrTG1jTGpzQTJQWXRXaFpYVWEtNHV5cHJ3NEdEM19SQ0pISGRjNUpWU2ZTbWo?oc=5"
     }
   ],
   "Australia": [
     {
       "id": "australi-1",
+      "source": "The Japan Times",
+      "title": "Japan and Australia tout progress on high-energy laser and missile range tests",
+      "excerpt": "Japan and Australia tout progress on high-energy laser and missile range tests&nbsp;&nbsp;The Japan Times",
+      "timestamp": "2026-08-18T11:39:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREQ0endkVlNGeVVkZlhxYnExYklkZmF0Y2lKaGZJRVdGRFp1OW5JVjRFUTRLaTg5T0dvMW9kNHAwaVhkcENwY2ZCdC1xcVBYTXZjLXJja2J3YmtTNWxnazNOOE56U2l5bE05ZWlYQjQ5UnBKb0N2blZod005dk8yTVJDRFN4eEdIRjJFUS1EYU9sQ2xzZlE?oc=5"
+    },
+    {
+      "id": "australi-2",
       "source": "UNI Global Union",
       "title": "Finance Sector Union calls on Australia to sanction Myanmar’s Central Bank",
       "excerpt": "Finance Sector Union calls on Australia to sanction Myanmar’s Central Bank&nbsp;&nbsp;UNI Global Union",
@@ -11162,7 +11170,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcVlZNTI0bExBMW91RkJZNlVEZUtjUTlQVWRoSE9pdFpTQk1XZWRjLTN2QXRMTmNDVVhLQmFhdnJMbDRlb0t4amlhTTI3LUN5UXc3VW9JSzh3Y1V4UUVhZU0tMFpMX0RnMklmR3h4OS1qWTkxWlQzZjBDem10TDBqRU10Yk5zOGVObHk1YzUxWFNfWUxYYUd4QWF5YzhVRGFVSE9CcUVQQ1Zxdw?oc=5"
     },
     {
-      "id": "australi-2",
+      "id": "australi-3",
       "source": "finance.biggo.com",
       "title": "OceanaGold to Buy Australia's Ausgold in A$776 Million Deal",
       "excerpt": "OceanaGold to Buy Australia's Ausgold in A$776 Million Deal&nbsp;&nbsp;finance.biggo.com",
@@ -11170,7 +11178,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zeVpFenUxRkVlZ1hMeW9XS1Zwc2NVaDFSQnMtLTlPUE5ZY0c0bkFxaXZ1RmFTLTZTMGVLaFVqRndHWUhvbGJFZ1VKSXFoNGtWS1pWeUIxNW5VNUxtX1E0R1BuRklkYVZNY0xRSy15MFAzTk1LaUE?oc=5"
     },
     {
-      "id": "australi-3",
+      "id": "australi-4",
       "source": "The Spectator Australia",
       "title": "The Census is no place for politics",
       "excerpt": "The Census is no place for politics&nbsp;&nbsp;The Spectator Australia",
@@ -11178,7 +11186,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HUVl6TGNRa05veEJUeng3ZzRQYUdpVXJHZG84dDJnMVZFRzFYcFFmV2ZSbE9yMUlJVE1KTjYxTDEyOENKYUk4OHM4R2J3eXViZ1JsZlNuT1JJWGYwemV3S3ZOSHpuSHB1dHROaWdrZUI2VWN5SEJKVDlCNzlzZw?oc=5"
     },
     {
-      "id": "australi-4",
+      "id": "australi-5",
       "source": "The Diplomatic Insight",
       "title": "Indonesia-Australia in Critical Minerals Politics",
       "excerpt": "Indonesia-Australia in Critical Minerals Politics&nbsp;&nbsp;The Diplomatic Insight",
@@ -11186,7 +11194,7 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUVEbkVlZ0RzRnF3SG1FcWVSbV81eGNtakd4eW9HMkp0RVZNWWJrTDJoQ1pIaFpTWGF1bG5CUHRlcFVfT3VxSkFWbUtwNGlLSWxGbkJOWF9qbW1uaGxhV3lqVnN5SlRrSUd2ZHJsV1hIX3o5NC1qME1MQ3BXa0VybkhTdWE0b1E?oc=5"
     },
     {
-      "id": "australi-5",
+      "id": "australi-6",
       "source": "AFR",
       "title": "The $110m loophole: Australia’s pay-for-access political economy",
       "excerpt": "The $110m loophole: Australia’s pay-for-access political economy&nbsp;&nbsp;AFR",
@@ -11194,7 +11202,7 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVzFtdjhHTTZLd1BCT2ctUjVBZUNjaEVTWlZPLV9hN1I0eERUV2JIcTYza0oxTVpKeXRqb0p1bnJtWnY0YWVTTGZVbHlSSHRfd3BCNDYwbEtTbW5kU1FjODM2TEdoZFVCZ2hka3o0R0tNVWZVSldqZnBkWERiMUI1RGpwd3paWWwyQTBWTFAtaE4zdU5DOUtUcnFIeHQyU0c4ektZY2VrR2pJUTZyb1pVX2d5QTQtdw?oc=5"
     },
     {
-      "id": "australi-6",
+      "id": "australi-7",
       "source": "Inside UNSW",
       "title": "Informing reforms to Australia's political finance system",
       "excerpt": "Informing reforms to Australia's political finance system&nbsp;&nbsp;Inside UNSW",
@@ -11202,7 +11210,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFd1VmFUd3phNzNoTnl1WEk4Sm5ZdFg2dzVtelNTeDlUaklNaGxDa1BDRnVsU2ZQdkQzOTN2VXNLeXVsRU5VMkszcl9GempiUWw1WENHRlNCa201c0ExbzhqN1NxakVwR3hHcWdjbkM5LW9iREpWNWVPTVZYUHd4MTlNWlhLYktKREVrbHN1RTFuQndsZ0dWRlJrNzRLdzlLWnc?oc=5"
     },
     {
-      "id": "australi-7",
+      "id": "australi-8",
       "source": "The Guardian",
       "title": "Delivery drivers will get minimum wage in Australia’s ‘world-first’ deal. Is it fair – and will Uber Eats cost more?",
       "excerpt": "Delivery drivers will get minimum wage in Australia’s ‘world-first’ deal. Is it fair – and will Uber Eats cost more?&nbsp;&nbsp;The Guardian",
@@ -11210,7 +11218,7 @@
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUFlHUFlPdGIzdHpLMDhZUklvRzJER0k3S3FaZ21XanZHczJCQzBONHZnbFV5M2QwVG05QWV1MExMR05ISThqaC1Qa0lzb0J2NV9PSkp4WS1YdHV0S3V2dDNuMy1oTE1wLXhQX0NjUjJ2WkhzVjh5Nk5HUEtiX2J3b3lxZlhudjYtZzBIT1o5Y1NKemZwQ1dESGM1bmtFSTNqaTdmRUM0c0JfZTNPbExXWGVtZUZVLTRNRnJzY0NsMW9KWXNUMHBrWlBoYW1pMmNMWXdwNHhwTjZTWGtwTlF6UTZOVzJBTW1RazhaMjlZYzZIYVZlUGxtZWZ5X2ZsUQ?oc=5"
     },
     {
-      "id": "australi-8",
+      "id": "australi-9",
       "source": "theaccountant-online.com",
       "title": "CPA Australia urges Hong Kong to use Five-Year Plan to shape finance strategy",
       "excerpt": "CPA Australia urges Hong Kong to use Five-Year Plan to shape finance strategy&nbsp;&nbsp;theaccountant-online.com",
@@ -11218,20 +11226,12 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaDhoU1Z0dUNmZERUUTFxNDJRc2l5ZzB6QTJnNHd6YURVUmxOcDdBcmw3bDF6Q0d2UWZ1OGFtdDRuSExKM3JpSTRYV0hTUGNtOWZMWVNSRW5tbVBla2Rsdm9WclpPMzdjcEdBZl9RS1lXQjdBeDI5djVDU3FyWE9pTUhOeTlFbk85cTVTMERUQ3YtMG5Kekx0Vi1xNVhHSE1OVGo2QjlDTUJ1UURGWV9CS3NDZjhuS2hLNXBLVQ?oc=5"
     },
     {
-      "id": "australi-9",
+      "id": "australi-10",
       "source": "The Guardian",
       "title": "Australia has been galvanised by ‘melon-gate’. So what is the luxury fruit at the centre of the PM’s controversy?",
       "excerpt": "Australia has been galvanised by ‘melon-gate’. So what is the luxury fruit at the centre of the PM’s controversy?&nbsp;&nbsp;The Guardian",
       "timestamp": "2026-08-14T01:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMktQRXNnbUlKbVU0dmlrdWpPcFc2Qkc0TVh2VEhmQnV1ME1IbHZFUzZMNzBaTTBjOEJQVXgxZEJBaWVJdGkyVW1HRnBleEMwT0Y2SmJEaWpjMGRYbVExTHAwY2ZoQXk2Y2ZzblNDdEIzbVVsTHg1RXQtcHIzRzZjdW5oRnM2aGI1LWFDaURiU3VwVDRjSjk1SzdJYXJIUUUtZ3JvWC1hNDNaRGd2X0xmWXhR?oc=5"
-    },
-    {
-      "id": "australi-10",
-      "source": "The Nightly",
-      "title": "Inside Albo and Trump’s ‘lengthy’ overnight phone call",
-      "excerpt": "Inside Albo and Trump’s ‘lengthy’ overnight phone call&nbsp;&nbsp;The Nightly",
-      "timestamp": "2026-08-13T21:00:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZmlrT3l1VTE0ZGRMOVhrSVlSdERjUTJDMlVaVDBTT01VY29scmlFWUdnZkdjbTNNOUtTaVZPa19qaXRjXzFhREFKQXlqNl9yUnpMQm5tQXdNSnlQc0t6YTFhMkRWZm1iVDdGVkRxMFNMZWpyUUhMNmRBWGJQRUVwaVFhTVdUWlFYdktBRGthenI3aTN5VmpEUEl3cXo4clhXQlQwMHZMb3FZYkdZUFBIZmVSbmFFSjE3U1BBLUU2bFpjYUFuT1BENERyX0NKdENKQTdzQU1RVTk1OGRXZ1NZUHRlNVV2a1I1MUM5SQ?oc=5"
     }
   ],
   "Sri Lanka": [
@@ -14533,6 +14533,22 @@
     },
     {
       "id": "wtiusd-3",
+      "source": "LiteFinance",
+      "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days",
+      "excerpt": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days&nbsp;&nbsp;LiteFinance",
+      "timestamp": "2026-08-18T18:25:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+    },
+    {
+      "id": "wtiusd-4",
+      "source": "EnergyNow.com",
+      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank",
+      "excerpt": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank&nbsp;&nbsp;EnergyNow.com",
+      "timestamp": "2026-08-18T14:59:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5"
+    },
+    {
+      "id": "wtiusd-5",
       "source": "FXEmpire",
       "title": "Crude Oil Price Forecast – WTI and Brent Chop as Strait of Hormuz Standoff Continues",
       "excerpt": "Crude Oil Price Forecast – WTI and Brent Chop as Strait of Hormuz Standoff Continues&nbsp;&nbsp;FXEmpire",
@@ -14540,7 +14556,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeENiVXFFT0lHZHo4QmlxSmFUMlNaUjExWEw1S0EtaVExZHVQQVVQNUZKZTRLV0NJZlZqWThmYldjR1BQcWJpSWJtM0R6NTlrY3ZvQW9CQ1ROLUd5cV9XcVptZjMxMlBvaU15ck03YTQ4SzZHQ24temFnM3AwVkhoMDFNbXpHVHNUd0ZGbWRaaDZFNnExZnhfdm54RUFCTVFrVEJiaWF0b04zUXVMcGNXQi1VbkpYMTJKdUZlVVhVNXY3X2ZDRzRnNHh3bkQ2UQ?oc=5"
     },
     {
-      "id": "wtiusd-4",
+      "id": "wtiusd-6",
       "source": "Rigzone",
       "title": "Russian Crude Oil Production Enters New Era of Constraint",
       "excerpt": "Russian Crude Oil Production Enters New Era of Constraint&nbsp;&nbsp;Rigzone",
@@ -14548,7 +14564,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHZ1Z2VFRlUxcnduc05QWWYtMHBkeHJXcFZWU09FS2tGalhia2NJZkZ5RS1lR3lJV1g5X2VDMXQ3dlFFeHhMZzRLa2dETmxtc21Ba3JKMHpjakxXRWtjV3FLZVlTNnNxZ2RYZDRFc0NQVm0ySWUxelprcWUzTFJMT2hKcUJVM05JXzY4dDdER2hKRDU1RW1BWGo3M3dmZlRpeUNxLTdSUm9VN20yMFVob0VvbEY?oc=5"
     },
     {
-      "id": "wtiusd-5",
+      "id": "wtiusd-7",
       "source": "AS/COA",
       "title": "In Charts: Latin American Oil Gains Ground in a Disrupted Global Market",
       "excerpt": "In Charts: Latin American Oil Gains Ground in a Disrupted Global Market&nbsp;&nbsp;AS/COA",
@@ -14556,28 +14572,12 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVR5NW9VTmpkcU1xN3RYUXlGY1N2SXVSVklpT0xSRDFLQ3RTbHFMZXV6MzFrQktTak10ZVZ1SHlHNXpJT1l6cWpfejdzT0FjQ0Vta2tYVW91X1dXYk9vME5HdUVBemtTejNTcXBrc0VObTV0MW9WSkJBM1ByQncwTWRMRlNMdXFqRVd0MXE1a09nUVVPMEpTck53?oc=5"
     },
     {
-      "id": "wtiusd-6",
-      "source": "LiteFinance",
-      "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days",
-      "excerpt": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days&nbsp;&nbsp;LiteFinance",
-      "timestamp": "2026-08-18T11:58:13+00:00",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-    },
-    {
-      "id": "wtiusd-7",
+      "id": "wtiusd-8",
       "source": "Rigzone",
       "title": "Will Oil Prices Keep Rising?",
       "excerpt": "Will Oil Prices Keep Rising?&nbsp;&nbsp;Rigzone",
       "timestamp": "2026-08-18T09:41:46+00:00",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVXh0SS11TTB6U0tLWFQ2TmljYkJxb2VmVHdNV1l6NUhMQmtqbkZjdG5WSW5fanhieFdIMHlRbWE5VGRWSC1YYm4teWFnWHdudjlLUll2c1VGVy11YnNhZXpURjRYOXlhMURxWVRrdG5uWGV2alVJdW1KQVdlczhBLVhPSjBfSHBEOG8zaQ?oc=5"
-    },
-    {
-      "id": "wtiusd-8",
-      "source": "EnergyNow.com",
-      "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank",
-      "excerpt": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank&nbsp;&nbsp;EnergyNow.com",
-      "timestamp": "2026-08-18T09:01:32+00:00",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5"
     },
     {
       "id": "wtiusd-9",
@@ -14681,19 +14681,19 @@
   "IXIC": [
     {
       "id": "ixic-1",
+      "source": "reuters.com",
+      "title": "Tech selloff weighs down Wall Street as bond yields climb",
+      "excerpt": "Tech selloff weighs down Wall Street as bond yields climb&nbsp;&nbsp;reuters.com",
+      "timestamp": "2026-08-18T20:48:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5"
+    },
+    {
+      "id": "ixic-2",
       "source": "Kiplinger",
       "title": "Nasdaq Sinks 355 Points as Higher Bond Yields Pressure Tech Stocks: Stock Market Today",
       "excerpt": "Nasdaq Sinks 355 Points as Higher Bond Yields Pressure Tech Stocks: Stock Market Today&nbsp;&nbsp;Kiplinger",
       "timestamp": "2026-08-18T20:09:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOEVxb1EzcXRRNG4xOE1EcXFRaWV3M2g5RGVOb0Jzelg4TE5CTlB1OWliVFIyNmpvU1R4Wmg2a3hzQzVhU01NeTZiMWgzNnJtcWdZdjRJX25XSy1SNHNpUDJWcDUwTDdtdnZVbUtuZVpVUUtWLV9GSU9yT2UwR3oxX3FxNGpwUVYzclVKX2VaM295YUZ5Q1E0NDdzZ25zNkJrUGdFUFUyUzVrOEVpMUpB?oc=5"
-    },
-    {
-      "id": "ixic-2",
-      "source": "Reuters",
-      "title": "Tech selloff pulls Wall Street to two-week lows as bond yields climb",
-      "excerpt": "Tech selloff pulls Wall Street to two-week lows as bond yields climb&nbsp;&nbsp;Reuters",
-      "timestamp": "2026-08-18T18:58:42+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5"
     },
     {
       "id": "ixic-3",
