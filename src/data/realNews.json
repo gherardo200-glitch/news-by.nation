@@ -257,9 +257,9 @@
     {
       "id": "canada-2",
       "source": "CBC",
-      "title": "Trump says he's brokered a 'very good deal' with Canada after pausing 50% tariffs",
-      "excerpt": "Trump says he's brokered a 'very good deal' with Canada after pausing 50% tariffs&nbsp;&nbsp;CBC",
-      "timestamp": "2026-08-19T19:43:43+00:00",
+      "title": "Carney briefing cabinet, premiers on potential trade deal with U.S.",
+      "excerpt": "Carney briefing cabinet, premiers on potential trade deal with U.S.&nbsp;&nbsp;CBC",
+      "timestamp": "2026-08-19T20:03:01+00:00",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15TVJIZ3ROcENBdVFOd3M1YW9meHBYRXVJS3RkeW1zRnZiUmdSekdNYldQZkVnN25OeW4tWUx0a1U4X0RlT3U4TlFiWmV1QVlxWUlobnMyZjh0MV9fZWNjNUtGd3FTSmo1dXdhWEU2eHM1dGJvaUhmNUE5LVA?oc=5"
     },
     {
@@ -330,6 +330,14 @@
   "United States of America": [
     {
       "id": "unitedst-1",
+      "source": "DW.com",
+      "title": "ICC slams US sanctions on court as 'flagrant attack'",
+      "excerpt": "ICC slams US sanctions on court as 'flagrant attack'&nbsp;&nbsp;DW.com",
+      "timestamp": "2026-08-19T21:26:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWtyZnp3dXBYLUJhY29FNGhkSjFMdThReVgyV3A2eFNGTmVjZUo4RVM1bVR4ZUJ5REFZbnRTVk9hdGotMWZrWVdEUzVUUzZ2U2lDNTNBNGh2VDRLUjhKVUxGQ21EX0JJRms2MW95QU1kNFhlbjZBNGhMWGdQRS1lVkVjVWxGZDdwNlpJ0gGLAUFVX3lxTE8wVW9zalNIczRxcC0wVTB0WHpkbG9IRjhxXzQ0d19BLUFxaXZCTE5ua3Jub0FybnFoM25xbHNCWkx0Mk5vU2dtcllXaUtYUkd4OGQ0WFdmVjVDTWw2UDJwNmFZYldoU2VsRl9pQ05jdHV6bkZmUlJFVmpVLXljZC0ybVFhQlNIT1czb2s?oc=5"
+    },
+    {
+      "id": "unitedst-2",
       "source": "Neshoba Democrat",
       "title": "LOWRY/Don't malign the U.S. economy",
       "excerpt": "LOWRY/Don't malign the U.S. economy&nbsp;&nbsp;Neshoba Democrat",
@@ -337,7 +345,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVBBMkxGQk9VQWRuVDJPWHEtRU5iTGVjLUM2NmdzSWhzMFBfeFNWb3Zjb3dPMnA0THpjeG9EazBGOFEtUWtLckQwMnpQWlJ2MUg0OEkxbzBseVFzZ0ZveVZ5aVF6aWRhWDh5ZldIWDQ2aFdVME9STnNVTHlxUks2ZVBZdkxZVnJ5bUNCUzRB?oc=5"
     },
     {
-      "id": "unitedst-2",
+      "id": "unitedst-3",
       "source": "DW.com",
       "title": "Liberia says it's taking in 1,200 third-country US deportees",
       "excerpt": "Liberia says it's taking in 1,200 third-country US deportees&nbsp;&nbsp;DW.com",
@@ -345,7 +353,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczhEa2p2WjQ0RE01M2FmT1ZCREw4bTlIMmJMZm9TcTBoRzNzb0JLZmpvNmVER20yQzAzbGR1b1E1ckRsQlZNRkktQ0VRS3E2QThwRWtKQVZvRm1uSnlEWkwtdE05eDZ6U21fUjJvOEVTazgtTDBoUUozSFZYMXlsdW4xQUZ4cWhrNUZFZk4xS2ZmYzhOWlHSAZYBQVVfeXFMTWNLeGI2dlk5VUprcmZtNjg2Yi04RDdGVE5XWWdzZTBQZnd4RjFfblhIODE0V0h0WktoY2RDb2VNcjBLOFJBRW9qbnpCZkxWZV94aXNtYXRWVFdvNjVzWEpmZnJMT185bTl6NmlVdS1LeFQ1cWprN3B3Y2FqaUF2aW1HSk5WdzZPS3BtdTgxNjhsTjlUMkZ3?oc=5"
     },
     {
-      "id": "unitedst-3",
+      "id": "unitedst-4",
       "source": "dw.com",
       "title": "US, Canada reach deal that pauses 50% tariffs, Trump says",
       "excerpt": "US, Canada reach deal that pauses 50% tariffs, Trump says&nbsp;&nbsp;dw.com",
@@ -353,7 +361,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVEFRQTVRaVJvSGVZZmo3UHNUS1I2S0pISUFRUklUb1BWd0V4OTBmbTgwNk15dk5fRjA0N3g2RFNoSC1icEM1akZRSGJaQkxkWWhUTHBUOWdIMUVlZ2UyRFNfdTNZc0hIcHNvMGsyMktXMDV4ekFibDI2ZmRYQUdCbXh4YlpvRVBTUW1RazhDMWXSAZABQVVfeXFMT1diVmlDSFRDNU1LTlBOUlJDZVVIVUN3b3Fack5wc3p2YXNwRUM1Tk5wUGpRZnhuY05RczlldEZnS19SRGszSGZFQWVfRU5Ibm5pSFZkeWROZWZTQ1VZajZTV3NFRW9ZU05STGpBVWQ4VDg1T1c0VnpMeWszcTNQajhOZ2RIeHczYlJZTEZqRG5j?oc=5"
     },
     {
-      "id": "unitedst-4",
+      "id": "unitedst-5",
       "source": "DW.com",
       "title": "US, Canada agree deal that pauses 50% tariffs, Trump says",
       "excerpt": "US, Canada agree deal that pauses 50% tariffs, Trump says&nbsp;&nbsp;DW.com",
@@ -361,7 +369,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmRDZlptMnhydUFyY3RDRFJZZGEwTHdaOG50b2hTUERmUHUwb3dTUE5WTDJ1amJfUlV4Tmhfc01tVzQ1S21QSzd2WVdYbERFWlZjWno4LVFqSDljVFVNTXN0M2VKdUlBQ1FtTVpMay03X1RrMFNxUHZyMHJRSDgxNFRkQ0UyU25hbmppRXBvQTbSAZABQVVfeXFMTjdLNHdtUTkwd2d0VjFuZjdSTXdBM3lFWkdxSVBXanZFRVo1QnFFZll0U1M5ejIyekw3cVB4UUhSTG1QdEpOM0xRRzVVQ1hlUDFENmRBLXExeGd3RnZPMjg4bFNSVkhnbUlQRGZOTjVjNXp6dHYwWGlLeUZYR0RVTGxreFZfRWNIMkEwTzByMmhI?oc=5"
     },
     {
-      "id": "unitedst-5",
+      "id": "unitedst-6",
       "source": "Las Vegas Review-Journal",
       "title": "RICH LOWRY: Don’t malign the U.S. economy",
       "excerpt": "RICH LOWRY: Don’t malign the U.S. economy&nbsp;&nbsp;Las Vegas Review-Journal",
@@ -369,7 +377,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNek1COWdEZ1VmMHI5SjhwNU1mVFdEWEpxbDBuaHdPZ2VsSml1OXR3UVYyV2hDOGlFa1dKdmM1UFRkeXRGZTk2SmRYLWpTb283VkQyYnU3alV3Q3NJSG1hUDdCb3JmODlSTGEyOHpsRU1YVWxwenNjbzdUaXc5LXlCdTdNSy1uNVhyU3N4TVVR?oc=5"
     },
     {
-      "id": "unitedst-6",
+      "id": "unitedst-7",
       "source": "BBC",
       "title": "Trump says US scaling back joint military operations with South Korea",
       "excerpt": "Trump says US scaling back joint military operations with South Korea&nbsp;&nbsp;BBC",
@@ -377,7 +385,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5"
     },
     {
-      "id": "unitedst-7",
+      "id": "unitedst-8",
       "source": "UBS",
       "title": "Why the foundations supporting markets remain intact",
       "excerpt": "Why the foundations supporting markets remain intact&nbsp;&nbsp;UBS",
@@ -385,7 +393,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1o0bHpGbFA4eUdOVXhPLVhYZzVDZnUwbzNoT2V0alVhUnV6dkV2MmlnUFo0M243TUJZcXNCRzN4SDVmUnphbGM5NjE4RTZLVjd0d3dBT3gxcU1ZNURLbkthcUJsUGc3TGt3SVU3RF9WNk5EM2tQZVQ1SE9KOHNEeUJfcGpUd0FtZFB5Smx3?oc=5"
     },
     {
-      "id": "unitedst-8",
+      "id": "unitedst-9",
       "source": "Sharecast.com",
       "title": "NY Empire State manufacturing index strengthens in August",
       "excerpt": "NY Empire State manufacturing index strengthens in August&nbsp;&nbsp;Sharecast.com",
@@ -393,20 +401,12 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVXd3WXpzNkpkZm5lQkYtUE9SUUpkU1VxZ3BvREd3cWdqZ3M4OVhoSnJZNWRDYlU2UW9JakFBLVJkM244ekpSeVB2ZFUxM2V2eWUyc05XalVqWnZZT2lqekFrcTRjYmtETXZPTG4xOE5BS25mdi1HMThIU1d0RFRwRWpINmxCNXZjbUEzMFhDS3dUQVg0UGk0Q0dUUm9DZGxYOXJWLWNjZERUZ09xWWtYUlhTcDRwZlE4SThabTBWUGJYSVlC?oc=5"
     },
     {
-      "id": "unitedst-9",
+      "id": "unitedst-10",
       "source": "UBS",
       "title": "What is next for commodities?",
       "excerpt": "What is next for commodities?&nbsp;&nbsp;UBS",
       "timestamp": "2026-08-17T07:52:34+00:00",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYll6RUlETGY4LVZGSnhoNTYwVzl1OU1UUjREVVBzd2VaYWwwQ0pnOTdQRG8xR3M5aXZxbkN4TEpScURRaDZUbV8tMFczbThkVXhVM3Q0MXpXRXRVcERJYThRZDd0UE9JUmxFOHZvY3BnWVkyd2FRQk43ZmhfTWgzdHFhZXJwTlM5cDA5ZFZB?oc=5"
-    },
-    {
-      "id": "unitedst-10",
-      "source": "The Washington Post",
-      "title": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
-      "excerpt": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un&nbsp;&nbsp;The Washington Post",
-      "timestamp": "2026-08-17T03:20:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONVFnMzJxbVZfMjMxZnNVREJ0NHMwV3VkY3RDbk9kNXNEYWx6QzJpLXM3T3VnSHl5YjBRemtMN2Q2bEY1TGEtRzk0c0lNSlEyZTN1QWFUc05rZXdkRG40bWZxUHhVYW5xSXROWkVOdm1Xa2c4UVJCUkhKTFF6UDFBWkYydUhzbmJxWXh1a3pRUFZlVmxPdE4zN2pJTWJoSVpIUzNqSGVxbGVCUG8yOWlMeTRWMGFDQVpBSjMxRTBCNE83MnNnYzcyVEpXcjJ4blFz?oc=5"
     }
   ],
   "Kazakhstan": [
@@ -1235,7 +1235,7 @@
       "source": "Dallas News",
       "title": "Dallas finance chair seeks city cost details for Trump's GOP convention",
       "excerpt": "Dallas finance chair seeks city cost details for Trump's GOP convention&nbsp;&nbsp;Dallas News",
-      "timestamp": "2026-08-19T18:38:59+00:00",
+      "timestamp": "2026-08-19T21:10:35+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWc4RnI0UjN4bjNRZkN5SW1lamRnN0FyeTJQTW00SmsyVWM1aV9xVTAxWWlHTWJkSXFZaS1fN2xXQkJlalgzOXdzeXJ3TXZGNEM0VFM5V1BYekdEdk85NmxuaFhCUU11UERGQ2QyVWNoNG1sel90eVlTTTRfVTNBOEFpX2hmMlREa3dyR2Ryb0R4SUU4c3YyY01mZ1JTdm5SYkUxRDdtUl93Zw?oc=5"
     },
     {
@@ -2389,6 +2389,14 @@
     },
     {
       "id": "bolivia-2",
+      "source": "WDEZ",
+      "title": "Bolivia lawmakers likely force economy minister’s removal in setback for President Paz",
+      "excerpt": "Bolivia lawmakers likely force economy minister’s removal in setback for President Paz&nbsp;&nbsp;WDEZ",
+      "timestamp": "2026-08-19T07:12:39+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVJDVDZieVlEbVZpRVlpVm5ZQnNiQ2FqWk5hSlFTOXhoN3RMcU9TZHV2d0IxUjVuc1JSTDd5MXBUT3hjRUgxcUZVdU9LTnJiaW03U0pzT0tTbEV3TzdJSGlreFVoeF9ZU2RoV3JVYTlrN09Fam1xSFdlaF82SzREVVp4T2tnWUhUWGxsUUV3OWpTakVua2JRUnhzdXdhOW4zb2lRSXdkd2ZvdmM?oc=5"
+    },
+    {
+      "id": "bolivia-3",
       "source": "The Star",
       "title": "Bolivia lawmakers likely force economy minister's removal in setback for President Paz",
       "excerpt": "Bolivia lawmakers likely force economy minister's removal in setback for President Paz&nbsp;&nbsp;The Star",
@@ -2396,7 +2404,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNkNScUZrZU9HeE1KOFh2VEs2dWlfYy1NTXVSQW5NMWVsNTI0b2tLMWNJeHFfZ3UyYkM1dXBKYkwtMVlCZ1VmRlN5R0xuQWlzOVpmTzVUVDVZOFNhRzVzbUNtV1h3LWg2NkREckttc3RtRHRERE9RMEd3ajRuc1FZMmU1VWlHWk1waDFqWVZkN1FfNHJaRmxDTE91TGlxclRiZ2JWXzZ2WFpiUVFuUlZyVEtZXy1Qb2ZheF9XR1lKdmJoeTU2WDBJOVFuZ2hrVmY2TXlN?oc=5"
     },
     {
-      "id": "bolivia-3",
+      "id": "bolivia-4",
       "source": "Internazionale",
       "title": "Bolivia lawmakers likely force economy minister’s removal in setback for President Paz",
       "excerpt": "Bolivia lawmakers likely force economy minister’s removal in setback for President Paz&nbsp;&nbsp;Internazionale",
@@ -2404,7 +2412,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeHc0di1BOUVmRm53Qy1ScGxSQ2drakxoVWhBM0FDUk9qQzIzNHpZR1R4UVF5TjVTVGV5MXppT0xmbklsMElIcmNnZjhONlNIelVseDN2dVFITkdkUlVVYWJGaDQyOUYyNkhUSXFXWmx6eFZvWjRiUmYzQUw5SWlabDgyMURORVRtRWxFSmZybHJzQzNhNzBGV2ZHVnM4T0hhVWIyS2VXVU03U1czdG5CLXhQaDdSZ1U4LWZ5dDNxQ3pmZXFOVGRVOFFLa282RjJZaGFWX2FDU1lxbEE?oc=5"
     },
     {
-      "id": "bolivia-4",
+      "id": "bolivia-5",
       "source": "Devdiscourse",
       "title": "Political Turmoil: Bolivia's Economy Minister Faces Dismissal",
       "excerpt": "Political Turmoil: Bolivia's Economy Minister Faces Dismissal&nbsp;&nbsp;Devdiscourse",
@@ -2412,7 +2420,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZW9sRWN1cmdGcThqWjFSb3BvTmlRWUhldXI0dTh4c2dJQlZuNmVvMWpwb0haaEJrMGFoRkM4MTlMbDNJXzlDdS1WRE5DMUNub1dmMjFNd3BHRWNBM0lKMndlT2FTTmVQUENHZ3BId3lqb0VYcEhKaW9FdGJoZGhURDFObG51ZzMwOEcwdWZPWFFNbW1LdktmODVKQzMyd0hreXhSc24xdF9yTXZ0TVNlcVZNYk42ckhS0gG4AUFVX3lxTFBlb2xFY3VyZ0ZxOGpaMVJvcG9OaVFZSGV1cjR1OHhzZ0lCVm42ZW8xanBvSFpoQmswYWhGQzgxOUxsM0lfOUN1LVZETkMxQ25vV2YyMU13cEdFY0EzSUoyd2VPYVNOZVBQQ0dncEh3eWpvRVhwSEppb0V0YmhkaFREMU5sbnVnMzA4RzB1Zk9YUU1tbUt2S2Y4NUpDMzJ3SGt5eFJzbjF0X3JNdnRNU2VxVk1iTjZySFI?oc=5"
     },
     {
-      "id": "bolivia-5",
+      "id": "bolivia-6",
       "source": "Reuters",
       "title": "Bolivia lawmakers likely force economy minister's removal in setback for President Paz",
       "excerpt": "Bolivia lawmakers likely force economy minister's removal in setback for President Paz&nbsp;&nbsp;Reuters",
@@ -2420,7 +2428,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFB5Zk4xMlVhVTNZcjM2bUpIMlBjclhWNGhEUzlWRERmN1VMbUN6SmlONHA5UW9VM0lVbUsxMFdkb3NlcTgwWG9HWTF0VE5UNENka2JCVnFTWUZWWXRqLXRveDRnUnNGeWNoUWJROHY0T3BtTXhFSVJyNWd6dGtGY2owN0IyTm5jSHhwZENFSldYWHhtXy1VckRaMldteWc5Y2xqX2xnYlprSkRXQkRNVkNudTNieDd0QWQ0LVFMZw?oc=5"
     },
     {
-      "id": "bolivia-6",
+      "id": "bolivia-7",
       "source": "WTVB",
       "title": "Bolivia lawmakers likely force economy minister’s removal in setback for President Paz",
       "excerpt": "Bolivia lawmakers likely force economy minister’s removal in setback for President Paz&nbsp;&nbsp;WTVB",
@@ -2428,7 +2436,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNUw5cnB1b2NPWld4Tk5NZXdybERjbzBYeG1oZ0lHUi1FNVJwNTduZGdsOFhPcGVfekgtdEhKY3pmbHk0V19nOFlUUDNFeVF2WG4xTFp4MTV3c1BPazhobmktUjVzTWdGOHBKZE1aSnFaYk9Eam5NMm9UNm0zTlZVZmJjZVJ4OWZab2JiYUJIM3RmVXkzaEs4U1pxdTlqM2VER0NOZUkxSHVKb1BTX1E?oc=5"
     },
     {
-      "id": "bolivia-7",
+      "id": "bolivia-8",
       "source": "SRN News",
       "title": "Bolivia lawmakers force economy minister’s removal in setback for President Paz",
       "excerpt": "Bolivia lawmakers force economy minister’s removal in setback for President Paz&nbsp;&nbsp;SRN News",
@@ -2436,7 +2444,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2RvaDRxdHJsZ1hHVDM5QWhQOFdTRU1KM3E3bG9KMEtzZkhvUHc2dmRNSVFLNEpOV2N3cmdpZDZ1TENhcVFtWW1CajRvMU8xOXV1SUFjT1VVOUw2ZmR2ZUszN1hEeHFKeE1RSmRtTE5CLURzalhhUlZKR00yS3VuM2lkOVNUVW9MMVpUMDdwWUU1eHdEdElGQnk0b2ctamNr?oc=5"
     },
     {
-      "id": "bolivia-8",
+      "id": "bolivia-9",
       "source": "TradingView",
       "title": "Bolivia lawmakers likely force economy minister's removal in setback for President Paz",
       "excerpt": "Bolivia lawmakers likely force economy minister's removal in setback for President Paz&nbsp;&nbsp;TradingView",
@@ -2444,20 +2452,12 @@
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZjNiVkRORGNfVWZ6ZzVmbTRTVTBpaTNUa3psazRwVzNGWkhoNE1CTWZkd0FkV0FVcmJSVGF4X0JLaGtfczZQa2ZhcjhMeE4zVzdtRUc5NXdYclpPR296aHp6ek5VcUZQNWVtQjZNVHo1REFoRVdOakJRX19XVkxSWTNWQVY2MmlJTHcwbzFFVVk0ZnQ5YV8zc3dFMGdGNjhkYUUzWjN1RDRCallybmljVjRxeElBcWhHakFBYlRPd1dzOVVlME9qMzA3S2RGalZ5ZUxoQWg2OVJzVFZDUmlzVVFYWGN1a2N4ZFpZXw?oc=5"
     },
     {
-      "id": "bolivia-9",
+      "id": "bolivia-10",
       "source": "Devdiscourse",
       "title": "Argentine Consultant Arrested in Bolivia Amid Shooting Investigation",
       "excerpt": "Argentine Consultant Arrested in Bolivia Amid Shooting Investigation&nbsp;&nbsp;Devdiscourse",
       "timestamp": "2026-08-18T16:40:50+00:00",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUWVfbVNpaTBTLWxpaTI2SS1IOHhqVkpkeExxTEhILWZ4dDF1WkdnRjZCdTdDdlhGdmtaS3VMM1E1c1hHdmVwS1lfMmdpVEhYS0RBclFOcGRGejQ0TjB4bndleU1iY0lIZlcxZDJpQUFtSGItNHZIMnprYUsxZVlaX0lYanNUMVZQWEhkSzZnQzRxRU1RSkl1bVBGeHMwUFh0X2lHN1BwTC1CQTBQQ3I4SzV2VDhWTmZPMGhTbkQ3NNIBxAFBVV95cUxPYXU1YUlPd29TVlMxTVpLTHU0WWY2V2ZfXzZiR0xVTmxsTmhmdVBocTNUVnpPdk0xT0JaZi1TVjNkX0d5UXhmNnltNXBzU3VSVVRTSmx2QjRLUDk5RzJET2FjVGM0LVMzNVJUVjhoTThZYXIzWTRPWGE0YlpONHRKR3ZXWUZlOE5JLXM2N0JEM0hObXVLazBtYmtnajhja0RqRmRSRzloUE1tQXNkNEFXNXB1YlFoaUdkYzNyVHhqVFVKRVdk?oc=5"
-    },
-    {
-      "id": "bolivia-10",
-      "source": "GIS Reports",
-      "title": "President Paz emerges stronger from Bolivia’s blockade crisis",
-      "excerpt": "President Paz emerges stronger from Bolivia’s blockade crisis&nbsp;&nbsp;GIS Reports",
-      "timestamp": "2026-08-10T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXVGVOVm9waFcyQUR3Z3VVRURxZVVaRmgzZDNEdFowR1pyUGJHMkJHVzlPdS0yMkRNXzN3ck1NYk4ydzJocXlQWFlGVnpESmdvTllPWWVtUUc2b1FaV3hOcExFRmRXN1E?oc=5"
     }
   ],
   "Peru": [
@@ -6153,6 +6153,14 @@
   "Israel": [
     {
       "id": "israel-1",
+      "source": "Haaretz",
+      "title": "Editorial | Stop Smotrich before he dooms the Palestinians and the State of Israel",
+      "excerpt": "Editorial | Stop Smotrich before he dooms the Palestinians and the State of Israel&nbsp;&nbsp;Haaretz",
+      "timestamp": "2026-08-19T21:23:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdExvMV96WWJRUkw0N3FjdjZ4MkJMNWIzaVZLa1F2RnJXTkpJcDB2cWVuQ205MXphczdERmRuQWZkbnVrOUNkOURnV040bnRxcVh0bEdHcEJFYVZvejllX092NFFWS2FtLWdEcTB6M0RWLVp5S01ZS1llVXR5M2pxTGxIWndNY0Vhdks5VWNwblBZalkzZFg2cVo4d3FCZ3AtbTJuUkpyM2Z2a0lkaWdiZnRYaUVJTU5Ubk5pNnlrUVhEeHNlZVdqSlRjcUhfbjUyTGplNnJGNl92ckdpSjVDNWo5U1o1bTB1UkVscDhFdEdMNXQxeTZLQS1sRlQ3VkV5TWhOcWoydTZBa28?oc=5"
+    },
+    {
+      "id": "israel-2",
       "source": "TRT World",
       "title": "From Democrats to Republicans, Israel is losing its grip on US politics",
       "excerpt": "From Democrats to Republicans, Israel is losing its grip on US politics&nbsp;&nbsp;TRT World",
@@ -6160,7 +6168,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHVWx0c2tvYzdSS1hRRS13dk53VzVXSjhNbXo4cm0xTTFTZ0dtTEN3Yy1fVV9oRmpCeU9ZLVNnRm14WXRKRlpfQ1AtY1lNRi1reWdiaFJJOXk?oc=5"
     },
     {
-      "id": "israel-2",
+      "id": "israel-3",
       "source": "The Jerusalem Post",
       "title": "'You're a clown': Ben-Gvir faces verbal assault from residents during visit to northern Israel",
       "excerpt": "'You're a clown': Ben-Gvir faces verbal assault from residents during visit to northern Israel&nbsp;&nbsp;The Jerusalem Post",
@@ -6168,7 +6176,7 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WSnF2eF9GRWktaS1WWWV3aWtOejZQZElYVGxXU3hUOXBrNHpCd3BvY0pDMnFVTWtpdWJkNzViYVZTcVpOai03MjkzdXJtRzJKN3BBeTl5bklhUUotT0g1bUVfSXJibXhjTVJUV1lHMk1ZWVhZdHZwcFNnNA?oc=5"
     },
     {
-      "id": "israel-3",
+      "id": "israel-4",
       "source": "Encyclopedia Britannica",
       "title": "Gadi Eisenkot (Eizenkot) | Party, Son, Israel, Politics, Biography, & Two-State Solution",
       "excerpt": "Gadi Eisenkot (Eizenkot) | Party, Son, Israel, Politics, Biography, & Two-State Solution&nbsp;&nbsp;Encyclopedia Britannica",
@@ -6176,7 +6184,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qb3VwcFlIdnpTdnhlUXRESFB0T0NHMU03RzNqa0RWV0ZSMGNaeEYzd2tXWXY0X3dubkdkQWxsTEU2a0tnQ3BxN1F1R1hZZmNWaVZpLWhvNXdxVjFIVkJF?oc=5"
     },
     {
-      "id": "israel-4",
+      "id": "israel-5",
       "source": "Jewish Telegraphic Agency",
       "title": "California Democratic primary pits AIPAC-backed candidate against progressive Israel critic",
       "excerpt": "California Democratic primary pits AIPAC-backed candidate against progressive Israel critic&nbsp;&nbsp;Jewish Telegraphic Agency",
@@ -6184,7 +6192,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY01nTjNFT3dLRG02eURQUmpFSk8zSHI2SmlmcUkxeGRCdmFUczdFbkVfN1N0djlMNm93ZGw5bGprSFZ2MHJtT1g5U21zYTE3VjBaT0lCRGR3YklNNk92N2pJbXIwaG0wS0RubFF6VHo2MlhPLWpqSS11UHdzRDJIdGkxaFJsajd1OHNoVDJFLUI1VjBqX2Rqa3VYX3ZqZ09kTTREV0tnN3MweV93ME1BbXFWZVZ1LUNrSFowTDVVNWxnQVc3UzBUTWVsNA?oc=5"
     },
     {
-      "id": "israel-5",
+      "id": "israel-6",
       "source": "Al Jazeera",
       "title": "Iran prepares to keep economy alive as US threatens further sanctions",
       "excerpt": "Iran prepares to keep economy alive as US threatens further sanctions&nbsp;&nbsp;Al Jazeera",
@@ -6192,7 +6200,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONndFUnFRV2I3Rm1Wd0h2Y0xyM1pMLW5TZTJ2dFRYMWJXZ0dGMzRDVThLel9tT18yMVpYQjhVYk1YRUlwcXNieW9yUTJDRHprSEcyaE9NdnE3d3pJWEV1NXdISHFCTnZWOTZKaDZaVTlqa0VpRWxKN0dDZXpsSGNULXZwZHJoelJIR0x0UTVXT0hmQmhZcmxtdXZyV05TNEhpbFQzVU9JSDN0LWZRRUZ30gG0AUFVX3lxTE5NMXJ2dnB4SFdoMFEzb19LcjBjU2R0aEtKRTAzWWRNdGNweUtBdDRqek5HSGx6UUhsMHRyQ0pqOEV3ODFGd0FBXzFaNVlLZXdNRkRxNjhZc1Z5ZU9yaGlHSS1DcjVyOXJDSk45eHdHWlBuQTVORTNXcFIyWndGeEZxUzZ4Ti01TS03TGViMjlJTVBuek4zSHRFb0hGeDhrYVU4VG5BSmxSdFVybnpoUHpOeUVtSA?oc=5"
     },
     {
-      "id": "israel-6",
+      "id": "israel-7",
       "source": "Bloomberg.com",
       "title": "Israel’s Central Bank Chief Says Next Rate Decision Is ‘Live’",
       "excerpt": "Israel’s Central Bank Chief Says Next Rate Decision Is ‘Live’&nbsp;&nbsp;Bloomberg.com",
@@ -6200,7 +6208,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHdMVklkTHd2YkNzR012Rm1Oemt4M2NrZ3dMUFdZS0RadW1xSmxpZV9URTBtckZlTWFGVlZwbE1rZVpFTjFWaWtUUGo0VlBka2J4Vlh4WkV2NEJmazRjZElwbDlSdkdITmVlTHNzQTJVOUVSVzFNTVg3MDdTT2JrYzBVaEh5RVR3aXNsTThXbmxuYlB3SlpaZTVhQ3FCc1lReHQ2UGZRdmZDbGZsSVJr?oc=5"
     },
     {
-      "id": "israel-7",
+      "id": "israel-8",
       "source": "The New York Times",
       "title": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
       "excerpt": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy&nbsp;&nbsp;The New York Times",
@@ -6208,7 +6216,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VeFV5NHhTZl9mU29BNWFsNEpReklYb1QtcmVES19ydzJMaUppRXVYZkZ3eEJtc2sycHBGNVlBaXNaSHNNWEVTd0ZGNk02Y0wtYWtKeURNTXZHOEI0MUJ5R1VPZEFZWW52S3Jpa085ZFV0VzQ3Q2JnbmRNTkpscjA?oc=5"
     },
     {
-      "id": "israel-8",
+      "id": "israel-9",
       "source": "Chicago Tribune",
       "title": "Daniel DePetris: Israel can no longer deny the shift in US politics",
       "excerpt": "Daniel DePetris: Israel can no longer deny the shift in US politics&nbsp;&nbsp;Chicago Tribune",
@@ -6216,20 +6224,12 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNlkxampCNGtBZWF3SUVwU0p3aW13ZG5DR2tMYU1RUjlqOUNHc2FEdHllWU1sR25KWWloWk1TUEFvSzh1Y0tJVE5wbVFPVHYyWVNWSk9xSmZrMkMwaWNjTXM2bEVkZFA5QkZzM1c2OFhGdXRROGljQXpFQXNvZTdUTndRajFMNm1oeWJwMXJnQUFvOEI4TE11c2F1MTZ0QkNfX3c?oc=5"
     },
     {
-      "id": "israel-9",
+      "id": "israel-10",
       "source": "Fox News",
       "title": "Socialist insurgency storms Trump’s backyard, with pro-Israel Democrats in crosshairs",
       "excerpt": "Socialist insurgency storms Trump’s backyard, with pro-Israel Democrats in crosshairs&nbsp;&nbsp;Fox News",
       "timestamp": "2026-08-18T09:00:04+00:00",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXFrSWNrcFJ0eVJnV0toa21pb1lmMzF4NE5mNFBPcWU0VHlGVy1BbVVjYXF5TVVKR1RRMzJRRHBndk5uM2x4M1plYnEtdVpFaWoxQlRTSHFnVWN2c3dBR3k5ZzRFc3l0NU5FbUVLcFI4cXNPMG1XNUZGZnFUb1hHWHBZaF8tbHFlQUcyOU14eV9EOEdfYmY1bnYtaTJPdkRXTXVxLW1KVC1WUEZa0gGyAUFVX3lxTE1RcFhDRHlMZjFwRzhUN05tbjlJODVGaXR1VkVTLWVvU01YVkhUWnl2Sll0MU5lQmMzUHN3M2JsSXBUVzk0cWpiR2tmN2dKdHRPMnBzYnNFLXE4SXdsREU5RFo4QW5KeWhyZEFnampxQlNmWUZDbGU3TGhTMzdFekJFcXBtSDMxSTU4cFlMUk40b1N2VFgyN2x5QlJtaG9aN2Y4azVGMmRYS0ZnVmNhSUk5akE?oc=5"
-    },
-    {
-      "id": "israel-10",
-      "source": "The Jerusalem Post",
-      "title": "Smotrich calls on Netanyahu to conquer Gaza under military rule, re-establish settlements",
-      "excerpt": "Smotrich calls on Netanyahu to conquer Gaza under military rule, re-establish settlements&nbsp;&nbsp;The Jerusalem Post",
-      "timestamp": "2026-08-18T08:06:47+00:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBbS1lTExhS01SUTBobnpfTVhVNlBXQ0tRZ3RFQXVTUHdaTE1sekpYN216QTFoWXk2ZXBUVWVUVFkyeTQ5YjdTY1poVldIaXBqRlE3Tl9UMVVJajJYXzIzZUkxSXV5YWhlQlhpLUNxMkl3TlhaTEUxMDI0RQ?oc=5"
     }
   ],
   "Lebanon": [
@@ -12877,6 +12877,14 @@
   "Saudi Arabia": [
     {
       "id": "saudiara-1",
+      "source": "WSJ",
+      "title": "How Saudi Arabia’s Neom Megacity Dream Collapsed",
+      "excerpt": "How Saudi Arabia’s Neom Megacity Dream Collapsed&nbsp;&nbsp;WSJ",
+      "timestamp": "2026-08-19T16:12:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0E4NzdIWnZCNnV5ZERzMVlRX2tya3ZzVmNDU1NQNjdrS2FuNS1SMGhMYTl2S0R6eXVRa1ZJSF85NjRVeVMzQV9ReWU2cmRmSTNqaVdNVWpxOHZsRFNtbU5HbWp4YVVOOEJiLWpVOGo1cXNFa3p2VFJ6ZnFUMEtRVmNUNU0zVHRRWWNKX2dldGxqNHpfdGNROGRn?oc=5"
+    },
+    {
+      "id": "saudiara-2",
       "source": "AzerNews",
       "title": "Saudi Arabia tightens scrutiny of financial transfers to UAE amid growing tensions",
       "excerpt": "Saudi Arabia tightens scrutiny of financial transfers to UAE amid growing tensions&nbsp;&nbsp;AzerNews",
@@ -12884,7 +12892,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SOVFJTXpXdnhQa2RSOGprcVNjcXpaV3NwQ2RMZ2w0enJsekFWbVJyWExUU0hvUlhpMU1LMGdySjRSektoLUZyUXJ6VEJsc2VmR3hIYw?oc=5"
     },
     {
-      "id": "saudiara-2",
+      "id": "saudiara-3",
       "source": "arabnews.pk",
       "title": "Saudi Arabia raises $2.54bn in August sukuk issuance",
       "excerpt": "Saudi Arabia raises $2.54bn in August sukuk issuance&nbsp;&nbsp;arabnews.pk",
@@ -12892,7 +12900,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45b3FQSFVVR3RTX3F6MnBkNjJ2Um9CeVNVbS1abXJ3bzVWT2JSSzQ1amlWaTZkdHhSNk9BQmhzbjl4WFV1enBJdkhxc2tNbEl3QzA1MXZSLWxmNi1MdDBiSXZRcw?oc=5"
     },
     {
-      "id": "saudiara-3",
+      "id": "saudiara-4",
       "source": "Gulf International Forum",
       "title": "The Geopolitics of the U.S.–Saudi Nuclear Deal",
       "excerpt": "The Geopolitics of the U.S.–Saudi Nuclear Deal&nbsp;&nbsp;Gulf International Forum",
@@ -12900,7 +12908,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45SFVEQll1MHZXTWxnamZIYjZubURoRERhcmhXblRRSkZjelZJcDFCazB4Uk1CVkd0ak5PTlN2YlltMDc1a0R3aHdwT3B2SkVPbUdFaXd4bVU1T0ZGcWdXSlRRbjZBX3NlMjRrakFmempkeXM?oc=5"
     },
     {
-      "id": "saudiara-4",
+      "id": "saudiara-5",
       "source": "thecradle.co",
       "title": "Saudi Arabia imposes new restrictions on bank transfers to UAE: Report",
       "excerpt": "Saudi Arabia imposes new restrictions on bank transfers to UAE: Report&nbsp;&nbsp;thecradle.co",
@@ -12908,7 +12916,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3B5VnNxeVJvQmtLcUE2YzJFZUJ1bkdSN0x6WEx1dktpRnJLWEY3aGJXc3BKandKd29ZUEl4R01nTEJ6QnNUR3h2S3hicllJT2lMZFRPTXoyX1YyMjBPY2JMYnBTeVJybFI0UUVuZWJvd1pJRVYyOUp6ZHBiZm1Ha0d4RURUTFltb2VrcDU4dnhVUTRLTU4yMnl3S2I3SEZ1?oc=5"
     },
     {
-      "id": "saudiara-5",
+      "id": "saudiara-6",
       "source": "Sudan Horizon",
       "title": "Saudi Academic Proposes Turning the Red Sea into an Economic Bridge Linking Saudi Arabia and Sudan",
       "excerpt": "Saudi Academic Proposes Turning the Red Sea into an Economic Bridge Linking Saudi Arabia and Sudan&nbsp;&nbsp;Sudan Horizon",
@@ -12916,7 +12924,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQenZBcU1RZUdvTi1sbnZKTzBua3NLS1Bxdi1TYjE5cFJ3eXFnQ2NqdnQxdE1rOTJNS09BNEd5YnZ4QVNpWm9fc0VpZ1J5UkhKMXdyMVhnSk1VYUktRnBNZW5ZZ0U5ZFAyMG14aFZDWWlmanNhb3hoNm44R2U3OUtDVmdFdjNXUklqUWRYWnVwRC1ON1Z0UElONkY2aWVxWVhEOEo0WlhtTVZBb1N5MENiRjd4SU9DaGpOTURjajI4aHNydw?oc=5"
     },
     {
-      "id": "saudiara-6",
+      "id": "saudiara-7",
       "source": "Arab News PK",
       "title": "Aramco, Maaden sign deal to form JV for mineral exploration across 10% of Saudi Arabia",
       "excerpt": "Aramco, Maaden sign deal to form JV for mineral exploration across 10% of Saudi Arabia&nbsp;&nbsp;Arab News PK",
@@ -12924,7 +12932,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pTHVLUDhKM1dZV3pFUHhUVmJ1R3VnT3pzZTlJNWFSQzVYZzAtR2FyMGRHM3p2YkdieXlrWDZKVlRvM2dGUFQ5OHhacGNjS1ZJV2thOE1GNHZTNjBHMllOeVh6dw?oc=5"
     },
     {
-      "id": "saudiara-7",
+      "id": "saudiara-8",
       "source": "Middle East Eye",
       "title": "Saudi Arabia tightens rules on financial transfers to UAE",
       "excerpt": "Saudi Arabia tightens rules on financial transfers to UAE&nbsp;&nbsp;Middle East Eye",
@@ -12932,7 +12940,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNU90UFhJbE1uVU4tSkxJU3NzTXl0LUUyczl5MUEySVJsS2VLSVRJZXZlX2V0UXNIWVF2TjhtTTN2dlN6MXlESl9XSEpDdFE3TUI1TFoyd2YxUldBeEJ6RWdiQXJMV1JvemNaTGlpajYyM3VsUW9GZzJ3QmVFMzhlX0xpWXZqcnRsX3ZqcTFlaw?oc=5"
     },
     {
-      "id": "saudiara-8",
+      "id": "saudiara-9",
       "source": "Moneycontrol.com",
       "title": "Saudi Arabia is scrutinising UAE-bound money transfers: What it means for Gulf ties",
       "excerpt": "Saudi Arabia is scrutinising UAE-bound money transfers: What it means for Gulf ties&nbsp;&nbsp;Moneycontrol.com",
@@ -12940,20 +12948,12 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVHVTQmtTY2Zsd0dabU5qS2RQVkZPc3Bqb3cxV0dSS1hpUUUza0FSUktkQmVlNEZiSFlLMGRHc05sRGZVYnZxWE0tM3dBbllrbkhoQWxKNVZZZVNDcENIYnJ4a2hZZGd0bGVadGphT05WdDluZHJIdGRPYnAzZHBwTHRneExVX2F0WkhhTnNUOXhlNllDQWRmMkYtSTZoV3lVbVlFaVpCSS1sMUYzczYwREpLczdVdUEteWt2U1RjbzYtWV91dk1VU1VwWldMYjUwUVZKdkd30gHbAUFVX3lxTE5ITG9JZ3JHMWdhdzQtT1BNeGxNbDZqcVVPLWNDeEZDS2UwMUNiekhPN0tMbjdEaklzMDVsNm1oYmZ5TDFOaHR5LTliX2gxNkRobnZybnotR0FYc1lfNmQ3WTMtSE9yLXNBa0tJOUpfdmtSS3c2Mm8wUDhabkVYZ0d2NHFTTHRfR3l3Rm50ZUNJUnQxazZmVUtlbmp5Q25WbW1SbktSclozUGRZZTlGSjJJVW1pOWM1OWRsOC1CMGo3cnVOLW1QY1UwQ0pMZGFCTmtvNEIwS3pkY1FPMA?oc=5"
     },
     {
-      "id": "saudiara-9",
+      "id": "saudiara-10",
       "source": "Moneycontrol.com",
       "title": "Saudi Arabia is scrutinising UAE-bound money transfers: What it means for Gulf ties",
       "excerpt": "Saudi Arabia is scrutinising UAE-bound money transfers: What it means for Gulf ties&nbsp;&nbsp;Moneycontrol.com",
       "timestamp": "2026-08-18T11:15:59+00:00",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVHVTQmtTY2Zsd0dabU5qS2RQVkZPc3Bqb3cxV0dSS1hpUUUza0FSUktkQmVlNEZiSFlLMGRHc05sRGZVYnZxWE0tM3dBbllrbkhoQWxKNVZZZVNDcENIYnJ4a2hZZGd0bGVadGphT05WdDluZHJIdGRPYnAzZHBwTHRneExVX2F0WkhhTnNUOXhlNllDQWRmMkYtSTZoV3lVbVlFaVpCSS1sMUYzczYwREpLczdVdUEteWt2U1RjbzYtWV91dk1VU1VwWldMYjUwUVZKdkd3?oc=5"
-    },
-    {
-      "id": "saudiara-10",
-      "source": "SolarQuarter",
-      "title": "Saudi Arabia’s PIF Surges Past $900 Billion Assets as 2025 Profit More Than Doubles",
-      "excerpt": "Saudi Arabia’s PIF Surges Past $900 Billion Assets as 2025 Profit More Than Doubles&nbsp;&nbsp;SolarQuarter",
-      "timestamp": "2026-08-18T11:15:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVS05VXpMSV9yOW1xTTkxdEZFLVQyV0NhYk5iVkRvOUV2N0ExNy1YYl9EcVc0bDRLVE5zMHFLOFpoTlFBdkdGUGpCX0ZrdURJUUpSaFJzOFM3NktBam9sbllPY0JFNEQ0X1RlZ0Ewd1Vja2txUmpqT2FvdFA2T1dBbVBVMG1hSV94Si1FdWxtckdVc2N0bjFqZFBBcUk2TUtnSmtLYnBPN2RDSjFsdEhVYkN5WFd2Mkl3X0E?oc=5"
     }
   ],
   "Antarctica": [
@@ -14557,19 +14557,19 @@
     },
     {
       "id": "wtiusd-6",
+      "source": "Fortune",
+      "title": "Current price of oil as of Aug. 19, 2026",
+      "excerpt": "Current price of oil as of Aug. 19, 2026&nbsp;&nbsp;Fortune",
+      "timestamp": "2026-08-19T13:34:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIYlRWaXFRWVd3STMwYWZ1N1U3eHBlemdwVFhqLUx5ejFoY1ZwU3RLU2hKYWlQQnYzRVpwRkt5RDBQV0JUcHlVQnZCb3VuS19NUzZqcWNyQXBvTFV5S0NRTUdB?oc=5"
+    },
+    {
+      "id": "wtiusd-7",
       "source": "U.S. Energy Information Administration (EIA) (.gov)",
       "title": "Longer wells boost Permian crude oil and natural gas production",
       "excerpt": "Longer wells boost Permian crude oil and natural gas production&nbsp;&nbsp;U.S. Energy Information Administration (EIA) (.gov)",
       "timestamp": "2026-08-19T13:06:14+00:00",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oTEdqbmh0WUhMY1VUWkMtZUlVTG52QlBYTXpab3dNQlpUZkNXUFRxRWdFODh1NzhhWTBHckFpOFpBQVFwRTRqZWV3QkpsM05WblFFRW5wS0NZaGhTWWpHSmNMdw?oc=5"
-    },
-    {
-      "id": "wtiusd-7",
-      "source": "Fortune",
-      "title": "Current price of oil as of August 19, 2026",
-      "excerpt": "Current price of oil as of August 19, 2026&nbsp;&nbsp;Fortune",
-      "timestamp": "2026-08-19T12:04:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIYlRWaXFRWVd3STMwYWZ1N1U3eHBlemdwVFhqLUx5ejFoY1ZwU3RLU2hKYWlQQnYzRVpwRkt5RDBQV0JUcHlVQnZCb3VuS19NUzZqcWNyQXBvTFV5S0NRTUdB?oc=5"
     },
     {
       "id": "wtiusd-8",
@@ -14599,6 +14599,14 @@
   "SPX": [
     {
       "id": "spx-1",
+      "source": "Reuters",
+      "title": "Wall St rises as yields ease, Moderna lifts healthcare stocks",
+      "excerpt": "Wall St rises as yields ease, Moderna lifts healthcare stocks&nbsp;&nbsp;Reuters",
+      "timestamp": "2026-08-19T20:47:59+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5"
+    },
+    {
+      "id": "spx-2",
       "source": "inc.com",
       "title": "Technology Is No Longer the Market's Priciest Sector. The New Leader Is an Old-Economy Group",
       "excerpt": "Technology Is No Longer the Market's Priciest Sector. The New Leader Is an Old-Economy Group&nbsp;&nbsp;inc.com",
@@ -14606,7 +14614,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHcxbmRIakg0VkptNHNhT3Z2UDI3dVdvVGc0VUlGdjJ4a3R2MkZBM2lpVTRvR0VTRldNYTgyNEZibTVPMFBIakRZOUxZbTVfWS16dHlaTUVfZVk1cXFSOFVJMXllclpxSnY3UDVzRnhzZDBILUtPSG8tOENKYVpsdFZ3UjhZVlhpS21ZMXo1U2RTTG5XM081VlY2RnRKZw?oc=5"
     },
     {
-      "id": "spx-2",
+      "id": "spx-3",
       "source": "The Motley Fool",
       "title": "Is Investing in the Total Stock Market a Better Long-Term Move Than Holding S&P 500 Index Funds?",
       "excerpt": "Is Investing in the Total Stock Market a Better Long-Term Move Than Holding S&P 500 Index Funds?&nbsp;&nbsp;The Motley Fool",
@@ -14614,7 +14622,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObV9acTJxbk5IeURmWW5DcXlLYnBCaEZKRlg4NF81a0dRNHQzSTF4UHZ0TDZSaGtqMGdjTFgxMDc5TWJKOF9DVTFxTG56QlBKUUx6NkN4TzNmYVpGOUtpeVhHWi1EWTRxT2NMRmd5RzdzWWpnRjFwelBJUjZLNGdiU3d5ZF9zZC1HNG9kQ054eFR1eGE1RjNodEVlOVBSWkFtNWg4OEFPdngwakR5b3dmSUY1NG5tNkxjaVRUR1pKUUVPdkV1UGNLLThacDVodXpBbXpHQmJ5OXVYdw?oc=5"
     },
     {
-      "id": "spx-3",
+      "id": "spx-4",
       "source": "AOL.com",
       "title": "Is Investing in the Total Stock Market a Better Long-Term Move Than Holding S&P 500 Index Funds?",
       "excerpt": "Is Investing in the Total Stock Market a Better Long-Term Move Than Holding S&P 500 Index Funds?&nbsp;&nbsp;AOL.com",
@@ -14622,7 +14630,7 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmlyMHJESUdiTDBkazFKV1FBTUREbFZlMzRBR3RMRjlsanNyMXBTejVXdjBsbTNXMlFGQkJBYXpRTlRpMEFXbHJPd0FJdm84aDk3djV6eUZEUm1TcUJXMFVzeWY4VGRIMjg4Y1laNXZsRDN3dmdvT25TWEREN3R1MG5NeEtOQQ?oc=5"
     },
     {
-      "id": "spx-4",
+      "id": "spx-5",
       "source": "Yahoo Finance",
       "title": "Is Investing in the Total Stock Market a Better Long-Term Move Than Holding S&P 500 Index Funds?",
       "excerpt": "Is Investing in the Total Stock Market a Better Long-Term Move Than Holding S&P 500 Index Funds?&nbsp;&nbsp;Yahoo Finance",
@@ -14630,7 +14638,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQVliUG5sbWZGTDFMOGIzUl9TT3FvaXdSZTE4Vk5POFFkN1p5eVZCMUxDZ3IzMzZCc0x3elYwLVA3Tm1TRGg0VXRKN3N6OWNjM1ZmX0JQOXdxT18xWTRVLU40TXZzSjQ4dlJqYzJxNzdvWGFSRTNEaEJCNTYxXzNBTzVBUEg4NXdDYXBsUUNIRFVrT0JjTWRFNzAya1E4ODJvX1E?oc=5"
     },
     {
-      "id": "spx-5",
+      "id": "spx-6",
       "source": "Axios",
       "title": "Stock market calm hides the churn underneath",
       "excerpt": "Stock market calm hides the churn underneath&nbsp;&nbsp;Axios",
@@ -14638,7 +14646,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSTd6Vm95Y0RBOGxfLUhlT01QRWx2bktpS2h2eFF4WFY5ZmNCU1JXeWtJcFB4aGtCMXlucVJSQVVlQlF4M0x5RjMwazdpSC1BYm9xTDdULUJOenRmd1lpNHVMY0FFUEFib3E0Zndqbw?oc=5"
     },
     {
-      "id": "spx-6",
+      "id": "spx-7",
       "source": "Morningstar",
       "title": "The Best S&P 500 ETFs to Buy Now",
       "excerpt": "The Best S&P 500 ETFs to Buy Now&nbsp;&nbsp;Morningstar",
@@ -14646,7 +14654,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Lemd0eVpFNWFrcnZFMEhBQ0tnUEJCMEE3VURmby1lNmVxTVpJZ0pCZUx3S1pNWS0zMTEwd0xUQ1JRY0tOMF94VkZTazhUaGtjSE9TN1FBZm5QeTliN2Y5c09hYVNfaVByYlFMYzVLeGpyLW5U?oc=5"
     },
     {
-      "id": "spx-7",
+      "id": "spx-8",
       "source": "TradingView",
       "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
       "excerpt": "Stock Market: Will S&P 500 Open Up or Down Today?&nbsp;&nbsp;TradingView",
@@ -14654,7 +14662,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnhKMWJOSF9tdWZfdi1pNHE1N29fOWduZEVNLW9lQVNOclN2YzZKaE95VkpUTEEwb1NWaTRkTHRSaXcwSlFHTUlzRGZjbTFQRWZrQzhKVEJ1M09BaE96dnRmYzIyS3Z4RFBicDJWbGtqemo5LXNLSnpIaEVESjNKd2ZWUFBDZERaTllaV3Z5T2FBdlh5RW95NGFWbVBOa1RidU1mOWZDZTJyUQ?oc=5"
     },
     {
-      "id": "spx-8",
+      "id": "spx-9",
       "source": "CNBC",
       "title": "Stock futures are little changed after S&P 500 posts third straight losing day: Live updates",
       "excerpt": "Stock futures are little changed after S&P 500 posts third straight losing day: Live updates&nbsp;&nbsp;CNBC",
@@ -14662,20 +14670,12 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52WVUwei1VUlFvc0FwU3lkWlBjY2lHYlNOei1RSnktZVRxQmpYWlFRN25yNS12NE96QlpuM2ZOUWpseURQV0JIcFVHZDRiYjJSb2tTSkJ3Vk5UNEpuNTJLRkFfcEZaZUluNVRXWXFFVHBvUDhSallz0gF8QVVfeXFMTnJZcUR5RmdKSDBwYlQyeXdhN2V6NFJYTVhHMVhZNzBxZFNkeFZ4OWZuMUZKLW83VWtXcWh6MVZpMHNjamVEbThLYzB4SzRIN2E2Ym5Ua2JOMU5vb2x2Y2hYSklqWi0tX210RS1neHZGbnRBY1ZqcHRVblhMTg?oc=5"
     },
     {
-      "id": "spx-9",
+      "id": "spx-10",
       "source": "Reuters",
       "title": "Kalshi files for stock index perpetuals in challenge to traditional exchanges",
       "excerpt": "Kalshi files for stock index perpetuals in challenge to traditional exchanges&nbsp;&nbsp;Reuters",
       "timestamp": "2026-08-18T20:02:35+00:00",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1Z5dF9JeldqYkdfMk8xRWJMTGtXVUFwX05qVW9paEJKRWJtRzdZdF9OemprbFRXc1ROc1M1V1NhaTE3Ujk5OTc0ZlBVd1o4aVNEVHZUU3dCRVNuVUlQcWJaNmM3RTRhUVE2N1NLMHFEc1hzZ3dKN0FIZGxGWE15Y05sMWN2LXdLckpQR3FUM2NpR1BDUzhTMlVGUTVpX1ZoTFpZY3V1aU56LWEycVRxa2FyeUU?oc=5"
-    },
-    {
-      "id": "spx-10",
-      "source": "Investor's Business Daily",
-      "title": "What Does The S&P 500 Earnings Boom Say About The Stock Market?",
-      "excerpt": "What Does The S&P 500 Earnings Boom Say About The Stock Market?&nbsp;&nbsp;Investor's Business Daily",
-      "timestamp": "2026-08-18T17:53:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BSl9iVF93SlRGN1BTTlBiVGFoZ3R0dFJvdTZCQTE3bkhSMUhVWTFtWW9DRk9yWENKZnI1emN5SUdIQjNLdWVzMFd0VExUdG9rcDZMLXdyRjdwVzc1WU14dFdEWHdYR2xkX1VodVVOay1fdw?oc=5"
     }
   ],
   "IXIC": [
@@ -14763,6 +14763,14 @@
   "BTC/USD": [
     {
       "id": "btcusd-1",
+      "source": "Crypto News",
+      "title": "Bitcoin price breaks past $68K as $1B short squeeze hits",
+      "excerpt": "Bitcoin price breaks past $68K as $1B short squeeze hits&nbsp;&nbsp;Crypto News",
+      "timestamp": "2026-08-19T20:29:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDQ2cnB2bW55c3RXQXV1YWpyOWdPTnV3aXRKNEFLQXpKSUJub2ROTzhOYVRHcnppcDJrSE1CR2w5Rkt2eXY4OEFBMEp3OUpUVnQ3UDhUd2dSTEVsSjVNUzdjRV9XaXFfazR0ODZZMkF4MnJ3UTUwLVNYNG9zWktWdw?oc=5"
+    },
+    {
+      "id": "btcusd-2",
       "source": "The Globe and Mail",
       "title": "Why Is Strategy (MSTR) Stock Soaring Today",
       "excerpt": "Why Is Strategy (MSTR) Stock Soaring Today&nbsp;&nbsp;The Globe and Mail",
@@ -14770,7 +14778,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVlabENTT3pLVENIOWpmTEVscTUzV3g3cjU5SUhxX0NhLTcxSkpOMThZREw1eHF4VDVLTW80d1FQa1FyWnc2UWRYUl9TS0dEcUxYTDdidDRyUkJnSm54SUt2eHc4SzhlUUFEYVFWLXg5UEhKd1VqYlNRTF83Ymt0YjdQUU9ZVnZXTFZ4MnBqOXdzSEkwVTE3SlRSelJLbVRqZjJvNmdja0VYa2pMNzFBTmtoM2prS0FJUVpWaVhmeXNlemM?oc=5"
     },
     {
-      "id": "btcusd-2",
+      "id": "btcusd-3",
       "source": "TradingView",
       "title": "Why Is Strategy (MSTR) Stock Soaring Today",
       "excerpt": "Why Is Strategy (MSTR) Stock Soaring Today&nbsp;&nbsp;TradingView",
@@ -14778,7 +14786,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGJkdlp3UXg1ZHEtNTNvY0puck40LXNCZUdoWEozaVVmSU9MeWFSZTZQLXFhWFh6MGhlN2lMZzRpeWdvVms1Nl9YRnZ1MHByT2pVQXhHd1NVamcxOGlkWFNXTFFHdm5CSG5Kbmh0MXkxcmdPRGFXcHVGcEROekVTcTFSNkhSVXpnOXNXZjVZc3pHU3lXMUxwMm1uclZQekVKaGVV?oc=5"
     },
     {
-      "id": "btcusd-3",
+      "id": "btcusd-4",
       "source": "Altcoin Buzz",
       "title": "Crypto Prices Surge: Bitcoin Reclaims $68K as Liquidity Improves",
       "excerpt": "Crypto Prices Surge: Bitcoin Reclaims $68K as Liquidity Improves&nbsp;&nbsp;Altcoin Buzz",
@@ -14786,7 +14794,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WOFlDMWVqNEJ1NVBTX0U0elhES2tlUlJDb1BzdkZ1cWhjRnJMN0cyY3dDYmR3WUxZWTlpSWRpa1FDdTdjdnN2UjYtQnhVVHRiUmJjejBKYnVrNTNQRVJtSHBfWldBZUxGRHlyTkc4MA?oc=5"
     },
     {
-      "id": "btcusd-4",
+      "id": "btcusd-5",
       "source": "eciks.org",
       "title": "XRP price holds near $1 as crypto market stabilizes",
       "excerpt": "XRP price holds near $1 as crypto market stabilizes&nbsp;&nbsp;eciks.org",
@@ -14794,7 +14802,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBckJsNS13YlZLaEx6eTZGclBRbC1qVGtaVU9sUkJ5cktFXzBCX0xUTjJkVGQ2S2dSY2pmeFdlMHotaVZ1eFUxbnV1UkFWY3pHYWVZR0tWc18?oc=5"
     },
     {
-      "id": "btcusd-5",
+      "id": "btcusd-6",
       "source": "Yahoo Finance",
       "title": "Crypto Prices Explode With Surprise Rally: Is the Bull Market Back?",
       "excerpt": "Crypto Prices Explode With Surprise Rally: Is the Bull Market Back?&nbsp;&nbsp;Yahoo Finance",
@@ -14802,7 +14810,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWVVBT3FjY3ZPb2hVal9ZM0lSb1E0RlR6cVVvODFMbVFmeDBZMm1MOHc0RFZYLW9VZ29GNXg2VlJOQmg1NkRNWWdtc0xNcDBaV2llQWVNc1hxQjFYbk9JQmpLSHlnWlplbVRYM2JlSG92d0NhaU0wVWVJVWs5RjdGTlBBZV9oVW9Tekk5Q1ljNnZla2lPVm1YUXlZWm9qVjN5WE9F?oc=5"
     },
     {
-      "id": "btcusd-6",
+      "id": "btcusd-7",
       "source": "BeInCrypto",
       "title": "Crypto Prices Explode With Surprise Rally: Is the Bull Market Back?",
       "excerpt": "Crypto Prices Explode With Surprise Rally: Is the Bull Market Back?&nbsp;&nbsp;BeInCrypto",
@@ -14810,7 +14818,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90Q19vMm1aTG04UUVUd3VoYmtRX3c3WlQwcnV3bUpIM042RUNTMDZQYmdQNFhxUWRwQlFDVGtFRWhfcTdEREtNV1NSRC01UFFSaVNmMTNqb3lPRFJzSXhRLXQyeVFxSnNUTEc1aGt4SmRIQQ?oc=5"
     },
     {
-      "id": "btcusd-7",
+      "id": "btcusd-8",
       "source": "CoinGape",
       "title": "Why are Crypto Prices Surging Today?",
       "excerpt": "Why are Crypto Prices Surging Today?&nbsp;&nbsp;CoinGape",
@@ -14818,7 +14826,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hT25MMUQ4VE50X2tGMUNBT2pRbEd5VVVQajV2aldHalZwWEllREg1cDdEU1Z5LU91ME1XRlVjUEJweDNuUHF1WFRZTnlQUjZoOTMtSlRTUnkwc2lhTUlEVEEzQmxUTi1WTHZpTzVId19lem8?oc=5"
     },
     {
-      "id": "btcusd-8",
+      "id": "btcusd-9",
       "source": "TechStock²",
       "title": "Coinbase Shares Surge 12.7%, Outpacing Bitcoin, on Progress for U.S. Crypto Regulation",
       "excerpt": "Coinbase Shares Surge 12.7%, Outpacing Bitcoin, on Progress for U.S. Crypto Regulation&nbsp;&nbsp;TechStock²",
@@ -14826,20 +14834,12 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEFCVlhlQUJSQkM4TGhUU0pzbnhzblZtNUswOHNld2wzQXUzbFFwWUw2eDcxd05aelRyaXVJUkNBWHBCQlNpaERnMmtJYnBkanVGMEtTQ0FadmUtcTJqY2hncy1WT2hicWdTVDJ2anhuTGJ6M0tVRFBlbmdaYTZneHBnenBUS2RQeHRURS1vSWtEc1VTMWJZbjB3?oc=5"
     },
     {
-      "id": "btcusd-9",
+      "id": "btcusd-10",
       "source": "Decrypt",
       "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
       "excerpt": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour&nbsp;&nbsp;Decrypt",
       "timestamp": "2026-08-19T16:10:04+00:00",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkRvNFgyZjZfNHVJN0p6eWNGM2N6VTY1MkVxX1B2V1FMc1NjSlBpWmMyb0xZb3BqMUFGXzBoTU5EbnhfRV9Idzd3MlBIMXJRRUF6VmRhM0hkRFFwSWJuQ0Y0WGxyN0RfTU9WZjdIc2d1YXR2SGNoX0hIM0FsMTFUTXZn0gGKAUFVX3lxTE1lYlhIUkNmaWtKRHN3a0x5SkRFcW80ZmJrQzcxdzNpaXFfS0tjTFFwenc5QnBJWFlwVnIxcGg3VUJHUDk2ZnlWcmJucFc4VF9wb0ExcDFjU2E2SFExX1Zra0ZXdVQxS3pPaE4zSzNQUS15am9DUGEtd0cwV1VZTEUwOXZDd2Uyb2ZqUQ?oc=5"
-    },
-    {
-      "id": "btcusd-10",
-      "source": "CryptoSlate",
-      "title": "Bitcoin price hits $69,500 because US just doubled Treasury buybacks to crush long-term yields",
-      "excerpt": "Bitcoin price hits $69,500 because US just doubled Treasury buybacks to crush long-term yields&nbsp;&nbsp;CryptoSlate",
-      "timestamp": "2026-08-19T15:37:42+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZUcxYzhLbFVUYWhBaXlUcVQ5ZGNSMVpPOUV2S3dIWWZCcGU1VUsyNFk1eTF4VXNRcnlzaVp4MWhZYzYyT3RJYjRPNmM1MnNBV3RFcmFndnprWkpMSUNXSVBYYjBoV0JuT1lGSENDQ0tuRi1kYmdhczNOMFZLRzByYUZxaWE0eFUtQWJLdUtLaDhQbk9fQjdYR0xWLXJYQm5UUmlqR3M4cG1OMlpfTDJUakJaUlNyNkZ3WUZSXzdGXzVsT0ptbmZ2ZjQtZGIxOVA3d1BsSGZoVjFsdzRkdWQ2ZGlEWms2QQ?oc=5"
     }
   ],
   "EUR/USD": [
