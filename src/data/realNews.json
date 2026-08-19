@@ -248,6 +248,14 @@
   "Canada": [
     {
       "id": "canada-1",
+      "source": "CBC",
+      "title": "Trump says he's brokered a 'very good deal' with Canada after pausing 50% tariffs",
+      "excerpt": "Trump says he's brokered a 'very good deal' with Canada after pausing 50% tariffs&nbsp;&nbsp;CBC",
+      "timestamp": "2026-08-19T16:38:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15TVJIZ3ROcENBdVFOd3M1YW9meHBYRXVJS3RkeW1zRnZiUmdSekdNYldQZkVnN25OeW4tWUx0a1U4X0RlT3U4TlFiWmV1QVlxWUlobnMyZjh0MV9fZWNjNUtGd3FTSmo1dXdhWEU2eHM1dGJvaUhmNUE5LVA?oc=5"
+    },
+    {
+      "id": "canada-2",
       "source": "Toronto Star",
       "title": "Donald Trump delays planned 50% tariffs on Canada, cites trade deal",
       "excerpt": "Donald Trump delays planned 50% tariffs on Canada, cites trade deal&nbsp;&nbsp;Toronto Star",
@@ -255,20 +263,12 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMWJ0eURnOWd2S0JiUldVT25CWkRyVVFCcWZ3MHlDMmxKU09iYjRIekF6VVV0MTZabXFsWWVFa210Y1oyZG02bHdGeXNBQzlPZlFxc3JmdmtWRW9VVUNaODRrcWR1RFctNmFDdEdxWjFCUlczVlRDSFRoMk1iTWdvMmVxc0RVLTVFbWlQT2dmMWd4MkZrZHEyaVdNOHhzRkNlR24tSW9kQkI3eFpYeTBVelFITUFmeTllOVZQcjVQTUdTRG9sMjktQV9ZZTF3dmppS0VuRVhXLVVvNDJIOGlkSU9KaEFEYkstc2xpeUpQeXg1RXNCRGhSS3JlQlpkUTNG?oc=5"
     },
     {
-      "id": "canada-2",
+      "id": "canada-3",
       "source": "The Conversation",
       "title": "Mark Carney’s ‘Canada Strong’ brand may be waning: Why brand politics can be so perilous",
       "excerpt": "Mark Carney’s ‘Canada Strong’ brand may be waning: Why brand politics can be so perilous&nbsp;&nbsp;The Conversation",
       "timestamp": "2026-08-19T15:17:40+00:00",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzVrTjAtaGh1dzlmMmVBR3FCd3RyUFRNNmczVlNtcmFtLUxnR290WnJVUXA4TlZ6RXNYMlZLYmJ5U3pSOVlDeXhvMUtlUmF2THlFUEN3cTJJWVU3M3JoOTZHemNieUJSWUVvblpqVENtblE3bHFSVWpQQWd4bk9wWVBxalVCRlFkRmltZHpjcHNzSnpnREFJVEpUYWx4R1puM2VkLXp3MHVOZkdGRC1FUEhieXFDTTh5d0tR?oc=5"
-    },
-    {
-      "id": "canada-3",
-      "source": "CBC",
-      "title": "Canada, U.S. negotiators meet again after Trump pauses threatened 50% tariffs",
-      "excerpt": "Canada, U.S. negotiators meet again after Trump pauses threatened 50% tariffs&nbsp;&nbsp;CBC",
-      "timestamp": "2026-08-19T15:13:43+00:00",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15TVJIZ3ROcENBdVFOd3M1YW9meHBYRXVJS3RkeW1zRnZiUmdSekdNYldQZkVnN25OeW4tWUx0a1U4X0RlT3U4TlFiWmV1QVlxWUlobnMyZjh0MV9fZWNjNUtGd3FTSmo1dXdhWEU2eHM1dGJvaUhmNUE5LVA?oc=5"
     },
     {
       "id": "canada-4",
@@ -6169,6 +6169,14 @@
     },
     {
       "id": "israel-3",
+      "source": "Encyclopedia Britannica",
+      "title": "Gadi Eisenkot (Eizenkot) | Party, Son, Israel, Politics, Biography, & Two-State Solution",
+      "excerpt": "Gadi Eisenkot (Eizenkot) | Party, Son, Israel, Politics, Biography, & Two-State Solution&nbsp;&nbsp;Encyclopedia Britannica",
+      "timestamp": "2026-08-19T05:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qb3VwcFlIdnpTdnhlUXRESFB0T0NHMU03RzNqa0RWV0ZSMGNaeEYzd2tXWXY0X3dubkdkQWxsTEU2a0tnQ3BxN1F1R1hZZmNWaVZpLWhvNXdxVjFIVkJF?oc=5"
+    },
+    {
+      "id": "israel-4",
       "source": "Jewish Telegraphic Agency",
       "title": "California Democratic primary pits AIPAC-backed candidate against progressive Israel critic",
       "excerpt": "California Democratic primary pits AIPAC-backed candidate against progressive Israel critic&nbsp;&nbsp;Jewish Telegraphic Agency",
@@ -6176,7 +6184,7 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY01nTjNFT3dLRG02eURQUmpFSk8zSHI2SmlmcUkxeGRCdmFUczdFbkVfN1N0djlMNm93ZGw5bGprSFZ2MHJtT1g5U21zYTE3VjBaT0lCRGR3YklNNk92N2pJbXIwaG0wS0RubFF6VHo2MlhPLWpqSS11UHdzRDJIdGkxaFJsajd1OHNoVDJFLUI1VjBqX2Rqa3VYX3ZqZ09kTTREV0tnN3MweV93ME1BbXFWZVZ1LUNrSFowTDVVNWxnQVc3UzBUTWVsNA?oc=5"
     },
     {
-      "id": "israel-4",
+      "id": "israel-5",
       "source": "Al Jazeera",
       "title": "Iran prepares to keep economy alive as US threatens further sanctions",
       "excerpt": "Iran prepares to keep economy alive as US threatens further sanctions&nbsp;&nbsp;Al Jazeera",
@@ -6184,7 +6192,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONndFUnFRV2I3Rm1Wd0h2Y0xyM1pMLW5TZTJ2dFRYMWJXZ0dGMzRDVThLel9tT18yMVpYQjhVYk1YRUlwcXNieW9yUTJDRHprSEcyaE9NdnE3d3pJWEV1NXdISHFCTnZWOTZKaDZaVTlqa0VpRWxKN0dDZXpsSGNULXZwZHJoelJIR0x0UTVXT0hmQmhZcmxtdXZyV05TNEhpbFQzVU9JSDN0LWZRRUZ30gG0AUFVX3lxTE5NMXJ2dnB4SFdoMFEzb19LcjBjU2R0aEtKRTAzWWRNdGNweUtBdDRqek5HSGx6UUhsMHRyQ0pqOEV3ODFGd0FBXzFaNVlLZXdNRkRxNjhZc1Z5ZU9yaGlHSS1DcjVyOXJDSk45eHdHWlBuQTVORTNXcFIyWndGeEZxUzZ4Ti01TS03TGViMjlJTVBuek4zSHRFb0hGeDhrYVU4VG5BSmxSdFVybnpoUHpOeUVtSA?oc=5"
     },
     {
-      "id": "israel-5",
+      "id": "israel-6",
       "source": "Bloomberg.com",
       "title": "Israel’s Central Bank Chief Says Next Rate Decision Is ‘Live’",
       "excerpt": "Israel’s Central Bank Chief Says Next Rate Decision Is ‘Live’&nbsp;&nbsp;Bloomberg.com",
@@ -6192,7 +6200,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSHdMVklkTHd2YkNzR012Rm1Oemt4M2NrZ3dMUFdZS0RadW1xSmxpZV9URTBtckZlTWFGVlZwbE1rZVpFTjFWaWtUUGo0VlBka2J4Vlh4WkV2NEJmazRjZElwbDlSdkdITmVlTHNzQTJVOUVSVzFNTVg3MDdTT2JrYzBVaEh5RVR3aXNsTThXbmxuYlB3SlpaZTVhQ3FCc1lReHQ2UGZRdmZDbGZsSVJr?oc=5"
     },
     {
-      "id": "israel-6",
+      "id": "israel-7",
       "source": "The New York Times",
       "title": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
       "excerpt": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy&nbsp;&nbsp;The New York Times",
@@ -6200,7 +6208,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VeFV5NHhTZl9mU29BNWFsNEpReklYb1QtcmVES19ydzJMaUppRXVYZkZ3eEJtc2sycHBGNVlBaXNaSHNNWEVTd0ZGNk02Y0wtYWtKeURNTXZHOEI0MUJ5R1VPZEFZWW52S3Jpa085ZFV0VzQ3Q2JnbmRNTkpscjA?oc=5"
     },
     {
-      "id": "israel-7",
+      "id": "israel-8",
       "source": "Chicago Tribune",
       "title": "Daniel DePetris: Israel can no longer deny the shift in US politics",
       "excerpt": "Daniel DePetris: Israel can no longer deny the shift in US politics&nbsp;&nbsp;Chicago Tribune",
@@ -6208,7 +6216,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNlkxampCNGtBZWF3SUVwU0p3aW13ZG5DR2tMYU1RUjlqOUNHc2FEdHllWU1sR25KWWloWk1TUEFvSzh1Y0tJVE5wbVFPVHYyWVNWSk9xSmZrMkMwaWNjTXM2bEVkZFA5QkZzM1c2OFhGdXRROGljQXpFQXNvZTdUTndRajFMNm1oeWJwMXJnQUFvOEI4TE11c2F1MTZ0QkNfX3c?oc=5"
     },
     {
-      "id": "israel-8",
+      "id": "israel-9",
       "source": "Fox News",
       "title": "Socialist insurgency storms Trump’s backyard, with pro-Israel Democrats in crosshairs",
       "excerpt": "Socialist insurgency storms Trump’s backyard, with pro-Israel Democrats in crosshairs&nbsp;&nbsp;Fox News",
@@ -6216,20 +6224,12 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTXFrSWNrcFJ0eVJnV0toa21pb1lmMzF4NE5mNFBPcWU0VHlGVy1BbVVjYXF5TVVKR1RRMzJRRHBndk5uM2x4M1plYnEtdVpFaWoxQlRTSHFnVWN2c3dBR3k5ZzRFc3l0NU5FbUVLcFI4cXNPMG1XNUZGZnFUb1hHWHBZaF8tbHFlQUcyOU14eV9EOEdfYmY1bnYtaTJPdkRXTXVxLW1KVC1WUEZa0gGyAUFVX3lxTE1RcFhDRHlMZjFwRzhUN05tbjlJODVGaXR1VkVTLWVvU01YVkhUWnl2Sll0MU5lQmMzUHN3M2JsSXBUVzk0cWpiR2tmN2dKdHRPMnBzYnNFLXE4SXdsREU5RFo4QW5KeWhyZEFnampxQlNmWUZDbGU3TGhTMzdFekJFcXBtSDMxSTU4cFlMUk40b1N2VFgyN2x5QlJtaG9aN2Y4azVGMmRYS0ZnVmNhSUk5akE?oc=5"
     },
     {
-      "id": "israel-9",
+      "id": "israel-10",
       "source": "The Jerusalem Post",
       "title": "Smotrich calls on Netanyahu to conquer Gaza under military rule, re-establish settlements",
       "excerpt": "Smotrich calls on Netanyahu to conquer Gaza under military rule, re-establish settlements&nbsp;&nbsp;The Jerusalem Post",
       "timestamp": "2026-08-18T08:06:47+00:00",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBbS1lTExhS01SUTBobnpfTVhVNlBXQ0tRZ3RFQXVTUHdaTE1sekpYN216QTFoWXk2ZXBUVWVUVFkyeTQ5YjdTY1poVldIaXBqRlE3Tl9UMVVJajJYXzIzZUkxSXV5YWhlQlhpLUNxMkl3TlhaTEUxMDI0RQ?oc=5"
-    },
-    {
-      "id": "israel-10",
-      "source": "hjnews.com",
-      "title": "APTOPIX Israel Politics",
-      "excerpt": "APTOPIX Israel Politics&nbsp;&nbsp;hjnews.com",
-      "timestamp": "2026-08-17T19:01:16+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm5MWXlLSGU4OWFiTERnT0gxcHBYY3FKbndrVV8wRy1fc2tqTzRUZmE0RG90eF9odERkeXFadjBMTEx5NzZ6RHMzdEQzRFF1a2FmdVRDRzN0VjdUcVlEV3pWMmROR1VXNzIwUzdVVHVPT3hBbk1GMGlaSkJmcnBxbTZiaERWTVNONEs3Zi1PN296cDVaa3RxNWlCb2NOd21jeWc?oc=5"
     }
   ],
   "Lebanon": [
@@ -7719,6 +7719,14 @@
     },
     {
       "id": "northkor-2",
+      "source": "Fox News",
+      "title": "Trump says he will meet with North Korea's Kim Jong Un 'later this year'",
+      "excerpt": "Trump says he will meet with North Korea's Kim Jong Un 'later this year'&nbsp;&nbsp;Fox News",
+      "timestamp": "2026-08-19T16:17:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUVleDQ2Y2dRQ2l6MnRZLS0zNllxNUdLbUc1ZlhuSmtHMXlEOHlhQVgxTTFZOWU5aU9GLXBLZkI0dmwtZkFSc0ltbnF0M0hqdWM2d0Q4a2ZLUVNSaHNhelYzTmRhWjJ3S05Hb3VWR19EVGI5aHZEOGFjZlc4aDhqbHUxd0RmZTdjSkZCQlB2VGw?oc=5"
+    },
+    {
+      "id": "northkor-3",
       "source": "USA Today",
       "title": "Trump says he will meet this year with North Korea's Kim Jong Un",
       "excerpt": "Trump says he will meet this year with North Korea's Kim Jong Un&nbsp;&nbsp;USA Today",
@@ -7726,7 +7734,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDhOWlRwTlM4NUliZFFrcF93ZWVlSzVhcXd2eU9oOXRqUFpPSzM2aTNlREtxUkUyaXRxYnVOUVVOU1ljb25abDE1dkVRMFczT0wyWjNORTdqM2oxNjZIVVRXaXg3TFlXRnJ3WmZUZnlCeFRtU1hQVUNQZmR4V1UzNzJ0QU5aNUZQeVVXby1tbjB0QWgwZGFqX1R3cmEzS0ZlMEEtMnpid1NQZw?oc=5"
     },
     {
-      "id": "northkor-3",
+      "id": "northkor-4",
       "source": "Baltimore Sun",
       "title": "North Korea shrugs off Trump’s scaled-back drills with South Korea, saying it changes nothing",
       "excerpt": "North Korea shrugs off Trump’s scaled-back drills with South Korea, saying it changes nothing&nbsp;&nbsp;Baltimore Sun",
@@ -7734,7 +7742,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYlkyOE94a0F0cEM2WlY4M2RPQ1BfeFYtMkNhVFpCeUxyTzBENEtqN1N3TlM3dElQWllXc0ctQmk2WTRBTXpCM0dJTEItSVVWUG02cDZhU2ZYRlhLVEZQQm1TVF9TMkszSjlONHM3cDVtbkxMRk5zejhUcUJudTRPYm0tMkwxYUNsUUE?oc=5"
     },
     {
-      "id": "northkor-4",
+      "id": "northkor-5",
       "source": "Al Jazeera",
       "title": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
       "excerpt": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?&nbsp;&nbsp;Al Jazeera",
@@ -7742,7 +7750,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUVzSk95NHdrclJuQ3dZSmhVcDdJanZNMEV5ZDE3U1FlM0hxbGZzUHVxVmVmVndMYjFGLWUwbFhsbGRPYUozSkJnSjl1MUl4MGNkaHhoa3p2VXFXbndQV2lsZUJHeVJCN2dTQ0Z1b3E1c3d1dmNuWjQ3bExtRkdpelZMT195S2gzRmh5UGRmeHV6U044YVo3ZzZPc0NaRVB2YktUbU9EclRQckdyUGE40gG0AUFVX3lxTE5ac0RxTWVCb01jREdvQmg4cGEwOXJ0NkFVVWNrVG9RSjltVnY2VmZheXNObGJVWHp4eUFWenRpcVBKM1IyUkU2OXprc1BSUUNiR2NicG8yZkdyWkVsT3Z2bDJ0X3RRWW1MMlNHT09FV2dLa0g0dW9CMEN1TkwwU3o3czFocUlHSGdwVjlFUEFsckl5OHFXVHBid0syaFJuZDRFQjczaDJQWE4wMDMtaWwzaWhFSA?oc=5"
     },
     {
-      "id": "northkor-5",
+      "id": "northkor-6",
       "source": "KMVU FOX 26 Medford",
       "title": "More Trump-Kim 'love'? What we know about North Korea",
       "excerpt": "More Trump-Kim 'love'? What we know about North Korea&nbsp;&nbsp;KMVU FOX 26 Medford",
@@ -7750,7 +7758,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcXFDWmxHTFBJd0s3TVl3YmFBTkpsSndMVFlLSUZ2eFFYT2tEd1R5ZXdZS1dxaFA2OFVDODJKWDdMaVl3VlNRb0JvX05TRHFTazFaSkFZWlpIVnlWemZqNHBqd1dmdzY1cUNOcUZGWkF1RUxKaHBrTFlXY1RkM2tsZElLemp6MG5UWWd2ck5OZDZPd1BjRnR4bXFOOWZaWVBmLW1nN0pCVUl0cFhzQUVJdlBIYk5WRUlBLVBLVmpodEU1dnFEOFJzME5jc0pLMXFXZ3dKcWVnOUJsbDg?oc=5"
     },
     {
-      "id": "northkor-6",
+      "id": "northkor-7",
       "source": "The Korea Times",
       "title": "Inter-Korean stocks soar on hopes for renewed US-North Korea talks",
       "excerpt": "Inter-Korean stocks soar on hopes for renewed US-North Korea talks&nbsp;&nbsp;The Korea Times",
@@ -7758,7 +7766,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHFHQzZwaGVGNHdDd0d1UXpoWEkzb21jUkc0Wk1idXVFQ3BDQ0lHVWE4ZzVKOWx2ZGNjelpyamtHd0g5WkpyQ2RHcGZDQmpYY0gzdmcyLTAxRnJfblVLMnpDX2hZeXY4STdVM3RFTjNqdm5JYmtzZVFGNDlXcm9zaTY1ZGZ6NVhqRGNkOVdYLThnSjZnd0ZwTGNpNzJVdVBuMUMwRlVkdGZWekpJem92Tmpn0gG3AUFVX3lxTE81aExRQWhBOHlpRnBWcnEtSFk4bm1VTkJZeEUxX3h0QklDeUJLbUp1SWh6cnpjY1haV05yaXRmVll2X2hhRVVDc1poMFhYZW9LZjN1X3pIbzNBTzVmQVhDMThwanFuLXVVMEtGWmlMWGtBeWswVHNrdEJOMld0YXJYeFpDUl9QSm9WQ3RybXpsbTd3eW93N19mRVdKdXd2QmRkTTdRbFhISlB2UUFUcEtheGxWcmVXTQ?oc=5"
     },
     {
-      "id": "northkor-7",
+      "id": "northkor-8",
       "source": "The Korea Times",
       "title": "Inter-Korean stocks soar on hopes for renewed US-North Korea talks",
       "excerpt": "Inter-Korean stocks soar on hopes for renewed US-North Korea talks&nbsp;&nbsp;The Korea Times",
@@ -7766,7 +7774,7 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWhMUUFoQTh5aUZwVnJxLUhZOG5tVU5CWXhFMV94dEJJQ3lCS21KdUloenJ6Y2NYWldOcml0ZlZZdl9oYUVVQ3NaaDBYWGVvS2YzdV96SG8zQU81ZkFYQzE4cGpxbi11VTBLRlppTFhrQXlrMFRza3RCTjJXdGFyWHhaQ1JfUEpvVkN0cm16bG03d3lvdzdfZkVXSnV3dkJkZE03UWxYSEpQdlFBVHBLYXhsVnJlV03SAbcBQVVfeXFMTzVoTFFBaEE4eWlGcFZycS1IWThubVVOQll4RTFfeHRCSUN5QkttSnVJaHpyemNjWFpXTnJpdGZWWXZfaGFFVUNzWmgwWFhlb0tmM3VfekhvM0FPNWZBWEMxOHBqcW4tdVUwS0ZaaUxYa0F5azBUc2t0Qk4yV3Rhclh4WkNSX1BKb1ZDdHJtemxtN3d5b3c3X2ZFV0p1d3ZCZGRNN1FsWEhKUHZRQVRwS2F4bFZyZVdN?oc=5"
     },
     {
-      "id": "northkor-8",
+      "id": "northkor-9",
       "source": "Colorado Politics",
       "title": "Trump orders Hegseth to ‘substantially reduce’ joint military operations with South Korea",
       "excerpt": "Trump orders Hegseth to ‘substantially reduce’ joint military operations with South Korea&nbsp;&nbsp;Colorado Politics",
@@ -7774,20 +7782,12 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV3dDTnNmRUFXd2dhRTFrVWFGQ2gyWnphUnBEZkZJbVJzcUo5ell0REpHZVpOYUt1SkY3ak95Q3Qyai1fN0hlcHNKQXRqR1J1cWVPeXVGWWM4alk3a3VBRDdOb3NiTVdtRjJuWmFaQVZNU2pRR0cxSEFzZC1xWlZUSWhoSUVYZ3RReV8tdks2Sk1GX1NXdVZQVWRrS0twbk5hUkt6eFZKTDlrVTJXNEJxZlVJeFFmaWdYTUR5Z1JERFc1bFFzcjk4UEhPTXU?oc=5"
     },
     {
-      "id": "northkor-9",
+      "id": "northkor-10",
       "source": "The Washington Post",
       "title": "Trump defends his move to cut back U.S.-South Korea military exercises",
       "excerpt": "Trump defends his move to cut back U.S.-South Korea military exercises&nbsp;&nbsp;The Washington Post",
       "timestamp": "2026-08-18T02:46:35+00:00",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbG5xVUtMZDJhOWFoM1p0WTVXYVVmSTdmSjNEc0pmM3ZqcHdCQ0Z5cHAzMjF6enE0UEY5OU9uNWJ2SzN4ZnVsZXlzMlJyMHVQUVowS05GbFZidVBHN21POUFvR0dmYmFKejBxWjcwaUE4M3NjQlYyTy14ZkdHS2NndXFROUluTUs1SnhaRlhJV3M3dHVYNmRvR0p3X1gxZW5zR0xLNnNmUXRacHVDZ0JsTGRSY2gwcFdM?oc=5"
-    },
-    {
-      "id": "northkor-10",
-      "source": "The New York Times",
-      "title": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un",
-      "excerpt": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un&nbsp;&nbsp;The New York Times",
-      "timestamp": "2026-08-17T23:25:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMG1fMlJhVHBiT1FxMWZnVWdDaXQxZjZORnE1Tl80dDNLX1ZnWDV5bnNRTHU3Rk9GLTFwZFVXNmJwWkYyRmphZkZYeHQ0OC1sVGFJc0ZQZ1NNUGU5alhXOWFUUWFkS0hFN1FnV0I1S0xPTUZ6VFN4Q3VsSjkxbFpWRFM5UGk0NFFSNFJJbVYwRQ?oc=5"
     }
   ],
   "South Korea": [
@@ -8047,6 +8047,14 @@
     },
     {
       "id": "banglade-2",
+      "source": "News On AIR",
+      "title": "Fitch Ratings revises Bangladesh economic outlook to ‘Negative’ citing rising risks linked to Middle East conflict",
+      "excerpt": "Fitch Ratings revises Bangladesh economic outlook to ‘Negative’ citing rising risks linked to Middle East conflict&nbsp;&nbsp;News On AIR",
+      "timestamp": "2026-08-19T08:58:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbElxbWJQbzNwLWp1SEN1UDZVa0Rfc3V0Q19GelQtQjZtTlBRaUVFc2F4QW4za3prRlVRbWRzanN0NFMxMGZUcHNzeVlaV0RmbHRYTVpZTmlRRzBDTGtES0dDV2t2dGMtU25XYUNGU0NROWNCUk1NcXk0aHZhcmhJQThrNjVFdFVJOWVUd0szLW56WnNqRkxNYnk0eFVlRkVXOEd6aVJ5UXI0Y0hMUW9WNTZNUjIzUUh5cU9UYVJnRmtVQVhNcnVJUnp0M1BvRG1DWEprSw?oc=5"
+    },
+    {
+      "id": "banglade-3",
       "source": "Asia News Network",
       "title": "Six months of Bangladesh’s BNP rule: Has the economy turned a corner?",
       "excerpt": "Six months of Bangladesh’s BNP rule: Has the economy turned a corner?&nbsp;&nbsp;Asia News Network",
@@ -8054,7 +8062,7 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSndJWTYyUFZ6bHJoMHVzT3pzMWp6SU9feENYUG14WFBQODluNkw5aENqTUVZaTJicWdiV1pjbzBrR0lqUVdGRWlyVm9mSTdkLTBqZ1cxeERSd184Wi04VzRJZmdWTXFyV19feG1XUVh4VVJxZFhKMEtOQlJYMUdHcTFuSDdSbEJrSV9lSW1vcFRGM1pFX1h3?oc=5"
     },
     {
-      "id": "banglade-3",
+      "id": "banglade-4",
       "source": "Fibre2Fashion",
       "title": "Bangladesh, Netherlands sign MoU on circular economy cooperation",
       "excerpt": "Bangladesh, Netherlands sign MoU on circular economy cooperation&nbsp;&nbsp;Fibre2Fashion",
@@ -8062,7 +8070,7 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRWQ4M3g0WmNpRE54YjFHMXF2TnRlM1lwYjJ5VEJZMkdjOHNvaFFZRUxLeTV0X3RSb29EZ3dJWDZJZDdtdnhidEVXTi1OMjZ3Ml85TGJpY0tFVjV5ZmR4VXFmYkVaelUzbHlnamItTzhHYjk0NTFoQ2tvdjFhdm8tNW5SMEQya2hwQVBoemRyRGtCcUZ0WjNDQnJaTFFkczRZLWJIdVhxcTNrVFZCSmx5RXhSUjZpcVZqQVVldlBNUy1rTXlvcjZwRk9YR3IzM28?oc=5"
     },
     {
-      "id": "banglade-4",
+      "id": "banglade-5",
       "source": "The Daily Star",
       "title": "Bangladesh Economy After 6 Months of BNP Government | Economy shows fragile gains",
       "excerpt": "Bangladesh Economy After 6 Months of BNP Government | Economy shows fragile gains&nbsp;&nbsp;The Daily Star",
@@ -8070,7 +8078,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0ZlRTNpZWhkdXdMVWQ4YlEtbUhwcnp3LTcwWmNlRkx6TDRiaVBRRVkyU3l0N3dNWi1FMlhYVkVXOGJCVFA1T0p4akgyamhLeWZPQmdIQlM5NC1PZW1TaWN0N3JGRVhWZnFCQTM0cC1RRXlfWlMzSGpHN0JVeVlkQlI1ZGZDZTdwZVRCM0lsaw?oc=5"
     },
     {
-      "id": "banglade-5",
+      "id": "banglade-6",
       "source": "The Daily Star",
       "title": "Bangladesh, Qatar to form JWGs on energy and finance",
       "excerpt": "Bangladesh, Qatar to form JWGs on energy and finance&nbsp;&nbsp;The Daily Star",
@@ -8078,20 +8086,12 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdU82MEwwSjd4NFRrYWVUVjdFenlJdWpkVG1VMjhYYWd1VVhFN2l3ZUpyRmwtUUZrelpZcHVpeTA0RjVHS2c3OVN4WmpOdWdkcnVwclh2N3JIVzVpRjNmNndJN2ZPdFRGU3pCZHQ4anAtRzNOWk9iUGV3dVhBMDdIV3BIaGVFMVBBQk1iZ2tXdmtVZXM5Njk3S1VzbDhNR1VfRUs3UUEyM2tFTUNXenRwSzk5MA?oc=5"
     },
     {
-      "id": "banglade-6",
+      "id": "banglade-7",
       "source": "Bangladesh Sangbad Sangstha (BSS)",
       "title": "Bangladesh, Qatar to form energy, finance working groups",
       "excerpt": "Bangladesh, Qatar to form energy, finance working groups&nbsp;&nbsp;Bangladesh Sangbad Sangstha (BSS)",
       "timestamp": "2026-08-18T14:56:30+00:00",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FQ19yY1k4eTlOT0xoQ0tZUXR1bkc0OGd5NjVIMVdCdFJianVjeVl1c0VjV2RfOEwyV0R2X21XdzdfSm1QT3puRUtISkFaS2o1X0RR?oc=5"
-    },
-    {
-      "id": "banglade-7",
-      "source": "News On AIR",
-      "title": "Fitch Ratings revises Bangladesh economic outlook to ‘Negative’ citing rising risks linked to Middle East conflict",
-      "excerpt": "Fitch Ratings revises Bangladesh economic outlook to ‘Negative’ citing rising risks linked to Middle East conflict&nbsp;&nbsp;News On AIR",
-      "timestamp": "2026-08-18T13:01:41+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbElxbWJQbzNwLWp1SEN1UDZVa0Rfc3V0Q19GelQtQjZtTlBRaUVFc2F4QW4za3prRlVRbWRzanN0NFMxMGZUcHNzeVlaV0RmbHRYTVpZTmlRRzBDTGtES0dDV2t2dGMtU25XYUNGU0NROWNCUk1NcXk0aHZhcmhJQThrNjVFdFVJOWVUd0szLW56WnNqRkxNYnk0eFVlRkVXOEd6aVJ5UXI0Y0hMUW9WNTZNUjIzUUh5cU9UYVJnRmtVQVhNcnVJUnp0M1BvRG1DWEprSw?oc=5"
     },
     {
       "id": "banglade-8",
@@ -14517,14 +14517,22 @@
   "WTI/USD": [
     {
       "id": "wtiusd-1",
-      "source": "WSJ",
-      "title": "U.S. Crude Oil Stockpiles Post Weekly Increase",
-      "excerpt": "U.S. Crude Oil Stockpiles Post Weekly Increase&nbsp;&nbsp;WSJ",
-      "timestamp": "2026-08-19T15:27:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNellOakI3TllDQUR1YWkzSk44ZVFYcDVsSjlqUk12UnZZaF96UjNYQU1BZVp6eXF2aXlqSm95TE5tU2VESnZvS0JGMHlOWnViUkE1UmRXTmc4d2t4QURaS3NVdXlyMFliRTNfOGh1WE1ySzRySXBRbUhnVUg5V012c0ZpalhXZGNXMGkwd1dLYThzVlRYMmxtUVhn?oc=5"
+      "source": "FOREX.com",
+      "title": "Crude oil analysis: WTI path of least resistance to upside",
+      "excerpt": "Crude oil analysis: WTI path of least resistance to upside&nbsp;&nbsp;FOREX.com",
+      "timestamp": "2026-08-19T16:36:21+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUlONnlNZld6Yld6T2FtYjVmakhTLVdrTnJkN0hsTlFHM2VuS19tWGZxTHh2SlN0aExWbTg3OTFxZE1NQkJITExzR3FETjM5VWgtSXo4Zm1QS3Y3OHdacEk0a0RLd3ZlNGJndjNMNzZBZUxZb1IxanlRbVJaUGpyRTl2Sm9hNWU4YXRtUnBEVTk4ZTREemQzZFRIMnAtU3ZWOWNUSXlaTQ?oc=5"
     },
     {
       "id": "wtiusd-2",
+      "source": "WSJ",
+      "title": "U.S. Crude Oil Stockpiles Post Weekly Increase",
+      "excerpt": "U.S. Crude Oil Stockpiles Post Weekly Increase&nbsp;&nbsp;WSJ",
+      "timestamp": "2026-08-19T15:29:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNellOakI3TllDQUR1YWkzSk44ZVFYcDVsSjlqUk12UnZZaF96UjNYQU1BZVp6eXF2aXlqSm95TE5tU2VESnZvS0JGMHlOWnViUkE1UmRXTmc4d2t4QURaS3NVdXlyMFliRTNfOGh1WE1ySzRySXBRbUhnVUg5V012c0ZpalhXZGNXMGkwd1dLYThzVlRYMmxtUVhn?oc=5"
+    },
+    {
+      "id": "wtiusd-3",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "title": "EIA Shows Crude Oil Inventories Still Rising",
       "excerpt": "EIA Shows Crude Oil Inventories Still Rising&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
@@ -14532,7 +14540,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPektIMS14WmsyaG5qNS1Vck1aRmNhX1cxbWNJc19pYUgwWUthc2ozTWRPUEdtVzc1YW1yaVl5aEVSQVFtdnlvWmlFLXJSRzA4NGZESWRqdWM4bDRyRHVaeWlUS1pXRjkxZmF4dl9pTDdVaDFXMTktb0VSeGRXZmh2N3U3ZFRLZGtTZ2tKZkMxUVPSAZYBQVVfeXFMTWNFb0FWd05pazdKa2dvZ1ptckJNZEZoVzVVUS13Qm4yS0VvdUlpdkdqWU0tUUtHcGZkQy03SVlNUVpoaUJNcFNQTS1oMm5jTG1jOFpWV0E5LTVZaGZLMThRbGpvSzBWdmJQUW11MHF5VnpBdHA2bHpKN0U5REtLVGVYN1VkOFhMT0dyUkJHeW9feDZtNnd3?oc=5"
     },
     {
-      "id": "wtiusd-3",
+      "id": "wtiusd-4",
       "source": "U.S. Energy Information Administration (EIA) (.gov)",
       "title": "Longer wells boost Permian crude oil and natural gas production",
       "excerpt": "Longer wells boost Permian crude oil and natural gas production&nbsp;&nbsp;U.S. Energy Information Administration (EIA) (.gov)",
@@ -14540,7 +14548,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oTEdqbmh0WUhMY1VUWkMtZUlVTG52QlBYTXpab3dNQlpUZkNXUFRxRWdFODh1NzhhWTBHckFpOFpBQVFwRTRqZWV3QkpsM05WblFFRW5wS0NZaGhTWWpHSmNMdw?oc=5"
     },
     {
-      "id": "wtiusd-4",
+      "id": "wtiusd-5",
       "source": "American Fuel & Petrochemical Manufacturers",
       "title": "What they’re saying: Why fuel prices aren’t moving in lockstep with crude oil",
       "excerpt": "What they’re saying: Why fuel prices aren’t moving in lockstep with crude oil&nbsp;&nbsp;American Fuel & Petrochemical Manufacturers",
@@ -14548,7 +14556,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYkIzRUlNcE9sUlY4T0F2UUM3bWRkckszaXBJdFN1dEpSWm5ORFY3Y2YxOFFQQ195WU9jYUQycF9ITS1HbGNLOEF0MVV6T29JVzZzY2g1UEJ6aW04d1Y0aHNucDFocjRSUldlQkdTSlp3cXl6c2RQX0NnN2ZwamZqaE44T3pBSzRhNWw4LWR2VHNGVHdxekR1THJXMVg0dw?oc=5"
     },
     {
-      "id": "wtiusd-5",
+      "id": "wtiusd-6",
       "source": "Fortune",
       "title": "Current price of oil as of Aug. 19, 2026",
       "excerpt": "Current price of oil as of Aug. 19, 2026&nbsp;&nbsp;Fortune",
@@ -14556,7 +14564,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIYlRWaXFRWVd3STMwYWZ1N1U3eHBlemdwVFhqLUx5ejFoY1ZwU3RLU2hKYWlQQnYzRVpwRkt5RDBQV0JUcHlVQnZCb3VuS19NUzZqcWNyQXBvTFV5S0NRTUdB?oc=5"
     },
     {
-      "id": "wtiusd-6",
+      "id": "wtiusd-7",
       "source": "FXStreet",
       "title": "Oil price outlook: Micro WTI Crude Oil futures navigating between arc levels",
       "excerpt": "Oil price outlook: Micro WTI Crude Oil futures navigating between arc levels&nbsp;&nbsp;FXStreet",
@@ -14564,7 +14572,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYmVYRXktSzJaMWJfZ0V6bGFiRVFoUUowQ2ZJaWQxWHFKalIwUmNlcDl2SGVmNlZnSEc3eGhlblNSYU5jWWpBQmhxRlo3WE1lSTZKalJ1aE9NZ2VqYmxkWW9yQTFmemFWTW1ldUlyTzJzRlNPYlFnNFVDMFZKRW1UMGpHa1BnWDdNenFMZ0tOTXpDU3FLVEpJelRrZ2o3Smo1RktKVFpab1BhN1hxQmpqYW15RUZMZ2lfdmUxVXFXUQ?oc=5"
     },
     {
-      "id": "wtiusd-7",
+      "id": "wtiusd-8",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "title": "Venezuela Signs Oil Deals With SLB and Hunt to Boost Production",
       "excerpt": "Venezuela Signs Oil Deals With SLB and Hunt to Boost Production&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
@@ -14572,7 +14580,7 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMm5OMWszbDRWQXZIbV9pcXIzdU1VeVJTRl9pcmpadFEwRmUzMHItTVU3d1dCVXRXRnFGRm1PMGI1SThKbXoxNDl1blBfT2RxYjRfX1dURWlVdlNZQUFPM0FxeWlhdFkwMEhoaEs2c1d4OTNyejlQTEJCd1d6RUhWZGROX19MbDBwQ2tZeWlnazl3cmE2RXU3TDdLWHNxTVk4TTh4bzRIbUJGQXRRS2R2NDJYU2JOT1VOa2Vr0gHAAUFVX3lxTE9tY0F1VzNDREFuOW5BSG84QjhBUWxTYXNZMDVrSjJ1aXQ1MGlOdHhVbmNtamc5UEhZSGw4bFBOa2djd25YX2xsWWFoOFNBZzhjOGo4cWFaODJtUnktQnJmaENncDN0MXh0UG1NRGozVmN1eG1hbUJVbGtMSHVHeTFEci1adWRfOEpRaGN2bXF3Skx1LVJ4NjVESEZBN3UzUDhNQXZKeFhjblBJbGZFaU5nZFRObEVwRjFtLWxnTEx0cQ?oc=5"
     },
     {
-      "id": "wtiusd-8",
+      "id": "wtiusd-9",
       "source": "Fortune",
       "title": "Current price of oil as of August 18, 2026",
       "excerpt": "Current price of oil as of August 18, 2026&nbsp;&nbsp;Fortune",
@@ -14580,20 +14588,12 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KM0xoMEc1a1o5QnZBYk5BbTE3SkVGWHM5bDg3bmJ0LVBKN2I4TGNUOEFzMV9vUVh5M19kQVJDQkZuOWpjaWxKQV9nR293bHhMeEZlbWFsendJbDVSb3FmbGd3?oc=5"
     },
     {
-      "id": "wtiusd-9",
+      "id": "wtiusd-10",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "title": "Oil Prices Rise for Fourth Day as Hormuz Traffic Slows",
       "excerpt": "Oil Prices Rise for Fourth Day as Hormuz Traffic Slows&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
       "timestamp": "2026-08-19T05:40:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdlRtZGRyVi13TWFudkdLUkZsQ21hQXhISjA4eDhVS3h0RFJtX3VTSXBSbW1RMWVidWYxQjk5WXY3cmI0NXZPeUVUNVJBUUVydFRPMXpZX1pLOW16WUFBVUl1UFlvbDctbDlmT2tFRmpTQlBqRUxHaFNwVXc3dGl1YW5pWkpld2o2X3BQZnp4bDd3MjhuZU9jcXcyd0pwRk0tNFI2TDJJeU0zUW1FR1hN0gG0AUFVX3lxTE1sa0FaMW9CNDRSbWpGTVFiTVo4bVJjWTk0aWRQN0cxQnd3TENvMEdjanJFb2FNUDRnNEwzU1NHOGJjOWh3QmJMYXg0cF94aXh3WWpJV2hmeGNpMms0dG5jRGdaS3gyQjJQVlYwR25GOHVFOXh0ZE1jMWY5SGNkajBxYjJVVmhPX19sdlF1aGdTbWtsS0NUUXlvTW9JUmRKVU1PSlVRNmR0djh1MWEwR3hLZ0RPUA?oc=5"
-    },
-    {
-      "id": "wtiusd-10",
-      "source": "Source New Mexico",
-      "title": "U.S. Energy Secretary Wright says New Mexico has ‘room to grow’ amid oil, gas boom",
-      "excerpt": "U.S. Energy Secretary Wright says New Mexico has ‘room to grow’ amid oil, gas boom&nbsp;&nbsp;Source New Mexico",
-      "timestamp": "2026-08-19T04:20:53+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjBrMnVwVFhJWjZPNTBHS3lNYTVTZTJDaW9HR2hFdHZlaW9ibWl1ZFJBdWxuUUROMTRZWjNnLWlZTHdPbzBPNTJRdzBJNmxyTG53alZWVm1VNXVlSlJBZzJVYmMwdTNJTTY4RnNlRXg5TXY4YUh3Z1MzOW5uWUpBbFBlcW4xQnNXQzRaNldUWVZnSHU1M3NDUllQTXpFVnlLb3pTVDEyS3R6R1dQR1VxaA?oc=5"
     }
   ],
   "SPX": [
