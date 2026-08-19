@@ -248,19 +248,19 @@
   "Canada": [
     {
       "id": "canada-1",
+      "source": "CBC",
+      "title": "Carney briefing cabinet, premiers on potential trade deal with U.S.",
+      "excerpt": "Carney briefing cabinet, premiers on potential trade deal with U.S.&nbsp;&nbsp;CBC",
+      "timestamp": "2026-08-19T21:29:51+00:00",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15TVJIZ3ROcENBdVFOd3M1YW9meHBYRXVJS3RkeW1zRnZiUmdSekdNYldQZkVnN25OeW4tWUx0a1U4X0RlT3U4TlFiWmV1QVlxWUlobnMyZjh0MV9fZWNjNUtGd3FTSmo1dXdhWEU2eHM1dGJvaUhmNUE5LVA?oc=5"
+    },
+    {
+      "id": "canada-2",
       "source": "African Development Bank Group",
       "title": "Canada and African Development Bank Group advance integrated approach to development finance and capital mobilisation",
       "excerpt": "Canada and African Development Bank Group advance integrated approach to development finance and capital mobilisation&nbsp;&nbsp;African Development Bank Group",
       "timestamp": "2026-08-19T20:56:03+00:00",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcExldG10dkduaFhoQjlEcjZmTW1HT2h0dVRaXzgtRjRwZ0FSMklBUHRQRVNDM2I1XzYtN1hkMVZKaHR2eUpJYktYSVpycDhjTjBqNGZ1ZnJSaXUzREhZVm5ocUdkRHJKdkU0aThvaUhHLWtfc2pQRWxqeUhYQmNkVWRjcW0taTFmcmlWYkdBS01XTzk2a24yeVpGMTc5TV8yQTdhU1BKejhrQjhrZEJBcldpYVpnd29oSFJOMExBOG5TNzc1dzZfelFtemQzMHVpNllnR0pEbnNsTlZsY3VFdVNFaGs0aE9zZkxodUR0aFhpQQ?oc=5"
-    },
-    {
-      "id": "canada-2",
-      "source": "CBC",
-      "title": "Carney briefing cabinet, premiers on potential trade deal with U.S.",
-      "excerpt": "Carney briefing cabinet, premiers on potential trade deal with U.S.&nbsp;&nbsp;CBC",
-      "timestamp": "2026-08-19T20:03:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15TVJIZ3ROcENBdVFOd3M1YW9meHBYRXVJS3RkeW1zRnZiUmdSekdNYldQZkVnN25OeW4tWUx0a1U4X0RlT3U4TlFiWmV1QVlxWUlobnMyZjh0MV9fZWNjNUtGd3FTSmo1dXdhWEU2eHM1dGJvaUhmNUE5LVA?oc=5"
     },
     {
       "id": "canada-3",
@@ -2135,6 +2135,14 @@
   "Mexico": [
     {
       "id": "mexico-1",
+      "source": "Courthouse News",
+      "title": "The beach town in the middle of Mexico's new circular sargassum economy",
+      "excerpt": "The beach town in the middle of Mexico's new circular sargassum economy&nbsp;&nbsp;Courthouse News",
+      "timestamp": "2026-08-19T22:50:08+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUGRjNE9mZUFNQnJCWmRCUENMclVqUGdRMV9CTUIyM2VIaHVza19qU3VETC1lNkRpaTYzOWtxM0RpaTVNMU0ta2QyZWR1bnZzRnpwN1lrMGpJdTc3U3U3Qk9tS3F4Q3lwcTZCbVRFWTFuRHBRc1N6UDhnY2t5QnFJVEZsaWhyb1FjUTFacHo1amJEc0I2OEZQa0xlOXhHLS10UHJDYQ?oc=5"
+    },
+    {
+      "id": "mexico-2",
       "source": "Mexico News Daily",
       "title": "Mexico and My Money: What you told us about your personal finance habits and hang-ups",
       "excerpt": "Mexico and My Money: What you told us about your personal finance habits and hang-ups&nbsp;&nbsp;Mexico News Daily",
@@ -2142,7 +2150,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmw2d3R2VUp0U1RTV08tUkhLRktmaHhYRUc1MFFEd3NkMXpHekRtQkRqN05QRUhPZVdPNDNFRHppbTVVWTJzOVZDblJMWmtZeHN4LVVyVzVoZjRKN2Z5cDUySlgyRG1SQzN0ek5tTGw0ZlRnQnA5SVJiUmRJbFp2VVJVQjlxVXRER2FvbTZTX1N4VnUteVdPRQ?oc=5"
     },
     {
-      "id": "mexico-2",
+      "id": "mexico-3",
       "source": "Briefs Finance",
       "title": "Liverpool Adds Banking and Beauty Services as Mexico's Economy Stalls",
       "excerpt": "Liverpool Adds Banking and Beauty Services as Mexico's Economy Stalls&nbsp;&nbsp;Briefs Finance",
@@ -2150,7 +2158,7 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeWRYVFlXTU1tSC1LLS1iOHFILTlsODMtaGp5LXVYcUxUUnl5V0hGUGxtT0EtcFpEV1VjcWZkTkhkZ1VDeVgyenlHMGM1UkdUODhHUURmZ1IyRW8wVXNQNC1rN2lFd2FYSnRLZllCWnhRUkpPLVFxa0xhUWR1Zy1ENDJUcnV5SmlRMk5TaDVQVlBEZw?oc=5"
     },
     {
-      "id": "mexico-3",
+      "id": "mexico-4",
       "source": "South China Morning Post",
       "title": "Mexico weighs tougher trade rules for China, as US talks grind on",
       "excerpt": "Mexico weighs tougher trade rules for China, as US talks grind on&nbsp;&nbsp;South China Morning Post",
@@ -2158,7 +2166,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQckVCcFhHZVFQaU5ZRG15dmRZWmlYQmtNMjZjal9UQk45dmxmLUg3blh6OWtkQll6OXBrTkxBS1VvU0p6TUc0YkhzX3ZGYWcwQXFtY0x5bHE1OWU4UGlmZUVPV0l5VTduUVV0OGVnUFFpS2I0UEpTNkg5QTlEdU9oT005NU9CWU5xNGJicWZ2MHJTZFI5NzBOVl9YVmE5NG1ZeEJRRzc2N045dmV2bzBuWdIBsAFBVV95cUxQS2RFQWt4bDVWUllkb0FYQ1VWUzgzUVR3dEwtbGxMaXI2aXJyVzRITUg1NWVtTjNmaGRIemlaRzltZzFkMm5qZ29GQ29Yck5kZmZNVzAyNWczSldaT0FtaXpKVFhuWXI1TDA2SExTc3cza0xYQ0NuR3RDMkZscHVHTzBfTVNyRXNkZUNGMGp3ZEhyWFlPQmRyWElHR0p5UWpna3RiTXZfTlJnNXdmcEJpVg?oc=5"
     },
     {
-      "id": "mexico-4",
+      "id": "mexico-5",
       "source": "Mexico Business News",
       "title": "Mexico Targets Plastic Waste Through Circular Economy Efforts",
       "excerpt": "Mexico Targets Plastic Waste Through Circular Economy Efforts&nbsp;&nbsp;Mexico Business News",
@@ -2166,7 +2174,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0t5bHRlUGxvQ1djalliU1RFaTRyeDVzTzZQVkJDb1RPWFNMc1lGc1VQblFpX3hRVFgwLWdhS191eWI5bGpRTWwxQS01Z2lMdjdMb3lEV1lVQ1ZmRF9tNmVod01WYXc2ZjMtQlFvUXZPSEZ5MjJQbXNoM2hNYmhqRW02NkhyUGtHbDM0VnJTeWRrMVhxOFZMSmtvWVZYeEtMajYzOTNLUm9XS1VxWHc?oc=5"
     },
     {
-      "id": "mexico-5",
+      "id": "mexico-6",
       "source": "PBS",
       "title": "Fact-checking claims about Taylor Farms' donations to Trump-aligned groups",
       "excerpt": "Fact-checking claims about Taylor Farms' donations to Trump-aligned groups&nbsp;&nbsp;PBS",
@@ -2174,7 +2182,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnF1eWRiWEE0OGFkclVaQ3RBcy1oQnJKYlNSSHpnYUItbGtUWXhPS3JJM3FGSkdycGQ4WDdzUnc1U0c2amVzQ0UxN0cxY0MxRWxJNGEzLXY1N0FPaS1CQ21jS1AtWC02RkNKMHM0MXJWaS02Zk5KYnRnLUFZdjAtZTlMcFZBWnRxSnlMV3pjUV9zUGVTd1Bqb0kwWEZiampyV00zT0l4X0M4ZFlMcm9tMNIBtgFBVV95cUxOSmNGWGRtTlZGT3VrLS1FVnRnN19LWGZrMXBpYjYtV1hyT0pJRUE5UWF3TVQtdzZ3WjZDNjVlNDVCM2JSVGdnNHNCdnV6RjhPSXJkVFJFcXpnOU93eUhFNHlHODQzUzF4QjU2MThmRkhiRkpzNWlZc3dOX3lpZFAxNjRRa05oSEtuUk96c0NnYTdEMnhLNWJ5MGp1VVBrcG40WHNOVUJsdHJfUC01ZGxxLUJ2b0hEQQ?oc=5"
     },
     {
-      "id": "mexico-6",
+      "id": "mexico-7",
       "source": "PBS",
       "title": "Fact-checking claims about Taylor Farms’ donations to Trump-aligned groups",
       "excerpt": "Fact-checking claims about Taylor Farms’ donations to Trump-aligned groups&nbsp;&nbsp;PBS",
@@ -2182,7 +2190,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnF1eWRiWEE0OGFkclVaQ3RBcy1oQnJKYlNSSHpnYUItbGtUWXhPS3JJM3FGSkdycGQ4WDdzUnc1U0c2amVzQ0UxN0cxY0MxRWxJNGEzLXY1N0FPaS1CQ21jS1AtWC02RkNKMHM0MXJWaS02Zk5KYnRnLUFZdjAtZTlMcFZBWnRxSnlMV3pjUV9zUGVTd1Bqb0kwWEZiampyV00zT0l4X0M4ZFlMcm9tMA?oc=5"
     },
     {
-      "id": "mexico-7",
+      "id": "mexico-8",
       "source": "Los Angeles Times",
       "title": "‘Coordination, not subordination’: Sheinbaum attacks U.S. ‘meddling’ in Mexico’s politics",
       "excerpt": "‘Coordination, not subordination’: Sheinbaum attacks U.S. ‘meddling’ in Mexico’s politics&nbsp;&nbsp;Los Angeles Times",
@@ -2190,7 +2198,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT3JPVzJlZHRtNXBkQktiTjhLQ3RycDdrZDh3Y3dyWU9PRzI1RDRfS0tSUG9nc0x6czJjcWRWSXZISk9jdWxKMy02NEZmaTR1TnNab0RsQTVGbEVUMjE4UEplbVp0X2NtWm1FZEZMaTBHeVJBcnhnSWpVU2FiWUoteTdNaUw4dzBkV19ReVZkUDRISlFBb09lTFNPd3ZZY3oxc2FrYnhYeDNFQVNBM0VxTURrSXVDbG11RG1nSEtrb2dUd0tOaWNYT0ppYW1NT1p4?oc=5"
     },
     {
-      "id": "mexico-8",
+      "id": "mexico-9",
       "source": "Mexico Business News",
       "title": "Mexico’s Tech Economy Shifts From Adoption to Value",
       "excerpt": "Mexico’s Tech Economy Shifts From Adoption to Value&nbsp;&nbsp;Mexico Business News",
@@ -2198,20 +2206,12 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeVNyM2FYdGJITHF4V1U5aUlxdWMyd01rYTMtcUJMb0dTUHREOWw1eG5HakpKZnNoQzJ5YldHT3c2NVd0UGRTSlByN0I3d0NfLV9mSjlPQ0FLbzR4ZV84WFoxcXBSM2pZYTVkOUxaNno5a05TVjhoRjlQUXA5RHlYZDlrZmlBdkU?oc=5"
     },
     {
-      "id": "mexico-9",
+      "id": "mexico-10",
       "source": "Yogonet",
       "title": "SiGMA North America set to deliver $12.89 million to Mexico economy",
       "excerpt": "SiGMA North America set to deliver $12.89 million to Mexico economy&nbsp;&nbsp;Yogonet",
       "timestamp": "2026-08-14T10:00:18+00:00",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeUIxRk9GRnowUlJxZ0dFTHB2UUgxbHVUZnF0UGJzTGw0Nm82SDFvNURUTkJ5LU1lSGtId2xLS0pJRXN1M2pKWW42RFBubnR6V21ZZ0NBalYxWG5MNDhQclJtNmFjZkJscV9NLWFjeGNUQ0YyNUdaSnNRWW4weVQwQnBYNGV3SFp5dXFvSXJWZ3Ewb25ScjZIVndXV1BNQUNIQV9HdnJwYlJTUDdoN1doNWtPdVU5WkVuanFSd2ZxY3hRb0Jt?oc=5"
-    },
-    {
-      "id": "mexico-10",
-      "source": "Mexico Business News",
-      "title": "Vinte Prepares BIVA Issuance as Mexico ESG Bond Market Rebounds",
-      "excerpt": "Vinte Prepares BIVA Issuance as Mexico ESG Bond Market Rebounds&nbsp;&nbsp;Mexico Business News",
-      "timestamp": "2026-08-13T19:56:17+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWkxrQUY3WW5CeGk4Zk1EUVVVclNpWWViM29IRVpyM0NhVjNvcTFhV3FNSm11ZG14UFB0OHd3WHdFc2M4QTBPTmZscVQtMEZsaVpPWklzUXFkT3czQWl1eHNGOTdPTXplN2xXR0FUSmtDcE9aVmZ0MmlnS3RUN0VGcWQzM2xFdExsNVFXamJ1aFdRVDlnRU0zVnZFQldLUnM1bXFZ?oc=5"
     }
   ],
   "Uruguay": [
@@ -3201,6 +3201,14 @@
   "Venezuela": [
     {
       "id": "venezuel-1",
+      "source": "WPLG Local 10",
+      "title": "US providing equipment to Venezuela in effort to clean rubble, boost struggling economy",
+      "excerpt": "US providing equipment to Venezuela in effort to clean rubble, boost struggling economy&nbsp;&nbsp;WPLG Local 10",
+      "timestamp": "2026-08-19T22:55:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM2E5UEdGZTByM2k3dzZKaWJHUnJTaXYtSGE0RHNpVk5jcVpBMmlqbDlTdVpJWWhuY25Pd2pCSDA5UkZNYUxfdzdwUThhdDJkaThibGYtUU50VFVOUG1Yd1YtZGNtMGozUG0ySkppWUxQSTl2OGlPM2RiVUFudkhoRXRhZzA1cnkwMmlZTFNEcnlsVlZWM2Y0VFBFc0Zvekg1cUxZY2xXdllGNzZsQldieWpaVXdmUWp2UkZ4OVZ5bUxSRVh1SWl5SnlVTTZHUQ?oc=5"
+    },
+    {
+      "id": "venezuel-2",
       "source": "Funds Society",
       "title": "Venezuela Capital Market Reopening After Sanctions",
       "excerpt": "Venezuela Capital Market Reopening After Sanctions&nbsp;&nbsp;Funds Society",
@@ -3208,7 +3216,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOODdFRjhfaXUtSVFudW9IbHNxbWM1NlI0MnJXY0NiSGIxdFJrSzVHRzdIeXBvVGFDUUhsVE1aSFpfbTlPZnFhNDEwVTFDa2ZGNUlzdWhKbzFITFVUVnk3TkdYOGtGMEMwNm80b0VsN3pCVE1yTUh4eFd3Rzg0YldMaHZoVnFCNHlBOWhtTDN0UTFybzc0OUhScGhlZGNvLUdqWWFjUi1aWlV5VFQzek45anFFSzJpVXVsMzhNdW1PUGhWUl9odFhiWUQ2ckZSdVZmQlE?oc=5"
     },
     {
-      "id": "venezuel-2",
+      "id": "venezuel-3",
       "source": "TradingView",
       "title": "Venezuela economy grows 7.14% in Q2",
       "excerpt": "Venezuela economy grows 7.14% in Q2&nbsp;&nbsp;TradingView",
@@ -3216,7 +3224,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzBvcHh6RWRhcE5WZDBzSHd4TG5OV3hIRHI1Sm5iTENSYVJpSnBKX1htZnB6Zk03OUx5bUVlUVc5bEpnOXN0cU1vZnUwelFfNWtreW9lMmxGRkdSSFZPY0dFNzdUc3puNElQMkRlZWtCODJpSDFmSWFodThmRHpyd3k3R1hUNkJ5Z2VpOFg5aE93bzZqMHVrU0ZnTnlYTTBKcV9BUkpTSQ?oc=5"
     },
     {
-      "id": "venezuel-3",
+      "id": "venezuel-4",
       "source": "Al Jazeera",
       "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
       "excerpt": "Venezuela says 131 political prisoners freed amid post-Maduro talks&nbsp;&nbsp;Al Jazeera",
@@ -3224,7 +3232,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGloY0ozcU9fT1d5NGJUWVJ0NHFYZHlUal9OQkJ2WUhhZ29iS1hRUVBBTThsTlktRW1fZE1jMG91MHVSeHoyWWV4RUZwaVUyRzNzamNCZnpyT1lGNjd6bjBuMm9nWTRGY0I5RVpMNllHZUFBX0ZvYTUxWVVKdTE5Qkd3T2ppMFY5RmM4bWprNmtKQkR1T0w2NlZpb2FsLTltZVJMbUQ2REs3ZlNZ0gGyAUFVX3lxTE83ZWY1NG9GTmNWWTJMRjhRaXVneDNGSmV1ZElYU3d0SmRCckFOM25pZjFfWmFxQ2haSm1GdXYtLW5XdkR3Q3F6VElMWnU4UmUzY052RUVwOUZIQ1g3Q1pBUTN5Wk9faUk2NENvNHhnVGZuN0NwVUdmTTZFQ2ZvNG51cUJ4ZGExZjZ6OFVHN1ZSUDFvMzI3WGNxaEdaYkgxR2pxalhFNVZPWTJERmRmckttM3c?oc=5"
     },
     {
-      "id": "venezuel-4",
+      "id": "venezuel-5",
       "source": "Devdiscourse",
       "title": "Venezuela's Liberty Release: A Step Towards Democratic Coexistence",
       "excerpt": "Venezuela's Liberty Release: A Step Towards Democratic Coexistence&nbsp;&nbsp;Devdiscourse",
@@ -3232,7 +3240,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTzRzdUs4bWhzMS00dzl6MnRMRmE1cWVSSGN2MUVhRUttWEdRMUxhMW1WeGc2ZWxHeUkyLTV0RWs1V1BWSnlnZ0VIbDZxaFpLcGtGX1BrLVV3ZHg4cmV2LTJCUlpoQmlCODNBaW1FbFZQM1g2ZVpMVjlVQS1yZ2xrVmdMMEg3d2RoQXBpWnlBS0RyLVBfb2lFTVRsMVBkTzJrTDJRcTlmOUQyTmpjdkpKS0Y3OG1ZRlRxSnfSAb8BQVVfeXFMT0wweW5xc0RKaXdIaFZqRUt0eEJvMG1SUUdjUmdCSi00bDBKbVo0cGgteUNVN0N5S1ZKaWc5T2FVeEdOQ3RPLW9lanJVd014OVJmT1RGNF9naU9CMkxxWUxxZlBkVkJ0dFh5MjItLUtKMlUyeE9veXlHVDQ5THowbDJBdjlhYW03TEhlVTR3bFJJWGMwUDUwbVZ0aWo1MFpjQURPaGZyakJnLXVOX2IzQmhSb3Ffay1nUTZFYmlIOFk?oc=5"
     },
     {
-      "id": "venezuel-5",
+      "id": "venezuel-6",
       "source": "Reuters",
       "title": "Venezuela looks to UK-held gold reserves for reconstruction as inflation surges",
       "excerpt": "Venezuela looks to UK-held gold reserves for reconstruction as inflation surges&nbsp;&nbsp;Reuters",
@@ -3240,7 +3248,7 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNXhicjVuSDk2dXZSRGNjMlNscC1IbHBxZTlKTnFwdDJyNTVkREhsV295VmtVWXFrdTJkalJSeFlNa09zelg4VF9zVk5GbWplajU2YUFvdEZtRENnUXgwR0pqT3J6eUFZTlB1c29RUXdnU21HcXV6ZVVsTGhScUJhV2ZSTExYSG45d1hJNzNJOUJnbXFfeTVLenBYdzdKd3ZlLTNuS3d3?oc=5"
     },
     {
-      "id": "venezuel-6",
+      "id": "venezuel-7",
       "source": "WTVB",
       "title": "Venezuela inflation surges to near 20% in July, central bank says",
       "excerpt": "Venezuela inflation surges to near 20% in July, central bank says&nbsp;&nbsp;WTVB",
@@ -3248,7 +3256,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdFBSbWg3SUdINmFvVnJsQTBoTXVBM0NvRlJuZlZ2d0s4SXpFb0tpaE5WWGlyeHNWRmd5NDU5eUJYYWZKTjFjVHhXSzl4MGczZ2pYM3FPblZJYnIwdkVlTDU2YWc5VVVieFh4eUIwYWxEZDBhbUFVVzRxcDFwa2FrRkRmLUNSYXk1VTdTTTZaZWxxa1V3?oc=5"
     },
     {
-      "id": "venezuel-7",
+      "id": "venezuel-8",
       "source": "KMVU FOX 26 Medford",
       "title": "Venezuela govt, opposition wrap up round of post-Maduro talks",
       "excerpt": "Venezuela govt, opposition wrap up round of post-Maduro talks&nbsp;&nbsp;KMVU FOX 26 Medford",
@@ -3256,7 +3264,7 @@
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTzZjZEthVVY2eTloYjJmWl9UbnZTU2tpbVgzeHdMRGNxS2V5WDRsRXlwRUkxd0NMcC1qRFZEaUNKa204UGVheW9FblJtLXFlOEFINlBWOWJna0dJLVp6VkVXZVRqUXl0MVBJeHUxeUgtWE91aFBMU3BCNjlVYjZPZkFuaG4tSEJEM2JVOS10ckJwWEpmTXRTQ1BIZUhXSkFLR3ZRYWVjTmg4ZlNUZWk5aTVRd3Z2TGxyMWZrcldRTTlZbnBXM0FoWjN0aU0tR1A0RnB3bGFBNElsVnVSR0hBQzN6ZGJXeXJP?oc=5"
     },
     {
-      "id": "venezuel-8",
+      "id": "venezuel-9",
       "source": "finance.yahoo.com",
       "title": "Venezuela inflation surges to near 20% in July, central bank says",
       "excerpt": "Venezuela inflation surges to near 20% in July, central bank says&nbsp;&nbsp;finance.yahoo.com",
@@ -3264,20 +3272,12 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSUtCQzl0LUNvZnhhR0NULTNoNXNnSXZpb29MeU0xN2Z6aEdmNWh2UGY4VGYzZ1JXSUN3UEtDaWFKQXBwdHd2aXRFNUl6OHRHN3JBQS0zbXAwclVtZFlYQjhoZXZyVUVTWm5US0RReDFia3ROTS03T3ZyVV9CWTBQdEl6MlVZdzhJXzRUMVRla1hTZXRMaFNGbVZ2M0pwTDFJ?oc=5"
     },
     {
-      "id": "venezuel-9",
+      "id": "venezuel-10",
       "source": "TradingView",
       "title": "Venezuela inflation surges to near 20% in July, central bank says",
       "excerpt": "Venezuela inflation surges to near 20% in July, central bank says&nbsp;&nbsp;TradingView",
       "timestamp": "2026-08-12T22:15:58+00:00",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVGJVV3ZTaFprQ2NJbXM0aW1UU2EtQTZHTDBRNkxrVFJRdFpmMU1oOXplWjEyemk1bXppeTFMUHJqSGJDdFNnYnRFbXpsQnlMekZ3TWt4UEpJT3ZfdXhROHkxcERXQlNOYnVNaV9zWS1kejlUN09HZGFsZ0JvTjR6MTNSY2xOalR3SXFfanc3dUY2bHVLTEhMN2kwSElKcnhMWlc0WHJsR1MyaXdGMXh0Y0NMSV9PaGV6X3plNm9scFo1ZWpxSXdtZVRTTzM5dw?oc=5"
-    },
-    {
-      "id": "venezuel-10",
-      "source": "Investing.com",
-      "title": "Venezuela inflation grows to 19.9% in July, central bank says By Reuters",
-      "excerpt": "Venezuela inflation grows to 19.9% in July, central bank says By Reuters&nbsp;&nbsp;Investing.com",
-      "timestamp": "2026-08-12T22:14:23+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdWJ5c1ZOb3RzQkE5S0dmOVBuZ0pyRzR6VENzTk9saTkzazNYTzZTVjladWFRNlVvOFgwVHhfbGpmS1Z0WFNNbTZFYksxYWd4UTd0bGl5eXlOdmRqYk1rTzM3R3pCUXlXamZESWtJMHYxa0FDZEo3Z2hkbkVIb2ZVeldidjBabGZoZjhBa243Ulh5RjJsSlJ4VU9ZZzlzTUxnczE3blhNeGUxeUl6TmJ3?oc=5"
     }
   ],
   "Guyana": [
@@ -4770,8 +4770,8 @@
       "source": "Modern Ghana",
       "title": "GoldBod and Ghana’s Economy: The Impact, Gains and Tough Questions | PM Express",
       "excerpt": "GoldBod and Ghana’s Economy: The Impact, Gains and Tough Questions | PM Express&nbsp;&nbsp;Modern Ghana",
-      "timestamp": "2026-08-18T23:13:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JaHRvbXJ5RVdjNDFBaGRnWS1WNzlvWi1WVTlLODNFc0VLdllvSzBLejdBMHhaYWNOQS12MGZqWTM5Zk1FZm5WN1ZHSUd1TVd3RHBzNVJEWWxUWURkRnBZaGNrZ1TSAVxBVV95cUxOMF91V2ZtUkt6Qi1SR2RJc2kwekZFQ0tndFhHemV5R1JkTF95M0hrZjA0WjlzQk9PMVMzUThYbUFKcGJXMURHOUp2b2FnZ0RBZjc2RTJ2V1VpbHg4Uw?oc=5"
+      "timestamp": "2026-08-19T06:20:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QcWNNbXdPZFhpQnFiNURuWFptODdhTU9aR2ZuOVF4QTdYOUJSMkhsOVNDbDNESWNYVC0wZDRnSXJUNWVWcGttMFpjRmZOSWRpNV9PMG9HNkttcFF2WU8tSC1EZW3SAVxBVV95cUxOMF91V2ZtUkt6Qi1SR2RJc2kwekZFQ0tndFhHemV5R1JkTF95M0hrZjA0WjlzQk9PMVMzUThYbUFKcGJXMURHOUp2b2FnZ0RBZjc2RTJ2V1VpbHg4Uw?oc=5"
     },
     {
       "id": "ghana-3",
@@ -4779,10 +4779,18 @@
       "title": "GoldBod and Ghana’s Economy: The Impact, Gains and Tough Questions | PM Express",
       "excerpt": "GoldBod and Ghana’s Economy: The Impact, Gains and Tough Questions | PM Express&nbsp;&nbsp;Modern Ghana",
       "timestamp": "2026-08-18T23:13:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JaHRvbXJ5RVdjNDFBaGRnWS1WNzlvWi1WVTlLODNFc0VLdllvSzBLejdBMHhaYWNOQS12MGZqWTM5Zk1FZm5WN1ZHSUd1TVd3RHBzNVJEWWxUWURkRnBZaGNrZ1Q?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JaHRvbXJ5RVdjNDFBaGRnWS1WNzlvWi1WVTlLODNFc0VLdllvSzBLejdBMHhaYWNOQS12MGZqWTM5Zk1FZm5WN1ZHSUd1TVd3RHBzNVJEWWxUWURkRnBZaGNrZ1TSAVxBVV95cUxOMF91V2ZtUkt6Qi1SR2RJc2kwekZFQ0tndFhHemV5R1JkTF95M0hrZjA0WjlzQk9PMVMzUThYbUFKcGJXMURHOUp2b2FnZ0RBZjc2RTJ2V1VpbHg4Uw?oc=5"
     },
     {
       "id": "ghana-4",
+      "source": "Modern Ghana",
+      "title": "GoldBod and Ghana’s Economy: The Impact, Gains and Tough Questions | PM Express",
+      "excerpt": "GoldBod and Ghana’s Economy: The Impact, Gains and Tough Questions | PM Express&nbsp;&nbsp;Modern Ghana",
+      "timestamp": "2026-08-18T23:13:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JaHRvbXJ5RVdjNDFBaGRnWS1WNzlvWi1WVTlLODNFc0VLdllvSzBLejdBMHhaYWNOQS12MGZqWTM5Zk1FZm5WN1ZHSUd1TVd3RHBzNVJEWWxUWURkRnBZaGNrZ1Q?oc=5"
+    },
+    {
+      "id": "ghana-5",
       "source": "Modern Ghana",
       "title": "Bank of Ghana: Asiama Charges Non-Interest Finance Council To Protect Consumers",
       "excerpt": "Bank of Ghana: Asiama Charges Non-Interest Finance Council To Protect Consumers&nbsp;&nbsp;Modern Ghana",
@@ -4790,7 +4798,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iZXdmTGRWWkV6R3hxV213ZUpEYjRBMmtDY3RyT3JJVHhONG1FNTRJWWNLcHp5YW9LUDZoMVlabERIZWViNDJiTXdRcnNMblhfVjZjTWtIaWRaT2cwVl8yOUNtQdIBXEFVX3lxTFA3Uk9TMEI3TnVYTHJDMjZia1pQVkdVZ1BlZUxaM0hfblRUTmlyYlFkNnhmd29RUEdtb2Zkb0FlRllvWDMzWTE4WWYxRFRDalBhaE51c2lfX045RzU0?oc=5"
     },
     {
-      "id": "ghana-5",
+      "id": "ghana-6",
       "source": "CitiNewsroom.com",
       "title": "BoG inaugurates advisory council to oversee non-interest finance in Ghana",
       "excerpt": "BoG inaugurates advisory council to oversee non-interest finance in Ghana&nbsp;&nbsp;CitiNewsroom.com",
@@ -4798,7 +4806,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGJYVkc4Z1JuQlQ2dm1tcW5tRmdNZ1BKbXBSNGhZSEZZUURGRXZ3ajc1ZTlScFgwSG5uZDI5UGZKOUU0b3BpWFNrY0VBSkFoZGdQR3I1OTV3eGZoY0Vuektqa21YUlpqNW9kMkY2UGtXeGtCVnpvTVhoRkJRZDUzOEZnZTZxUmtnYlJINy1xcDRXOHZDYUJQZGJ0YmozclRWdkcyVm9jVjdqdw?oc=5"
     },
     {
-      "id": "ghana-6",
+      "id": "ghana-7",
       "source": "Modern Ghana",
       "title": "Can Ghana Benefit From The Global Energy Transition?",
       "excerpt": "Can Ghana Benefit From The Global Energy Transition?&nbsp;&nbsp;Modern Ghana",
@@ -4806,7 +4814,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbXphaG9FMkhzbWJ4OEpySzFMR0M2MkZhV2lfc0w1RWJUc3ZJaXk4TE1GWDZHVElZaHctaFdCOGtJdG5BcGptNDg2NnhreWFVVHZudmFQUGJJdXpHSnFlR051OC1BRHlNNVJLY3NDQnlzSUItVTJzQUpscVlnNk5pamdINUF5Z1NENDJDZGE2aWZHUmpiTzJZYnh3ZXfSAZsBQVVfeXFMTmwzY21GS2dTTG1Pa3dmeUFYNWxSSEFoN0xRMUlrN1dsd3hfOU93Q0FHN1dMUkF6b2pncGkyT3hCSTZkTHdqZ3dPeW02WDVndjd6dDhSalB1TFg4NnBwVTcxMHl6R3htZWhmaXRfOXNyT184VnhZZHBGY2dmdHF6NDExWG53SkFfcUlHalNYeHRVSkgxTlZjQU0zTHc?oc=5"
     },
     {
-      "id": "ghana-7",
+      "id": "ghana-8",
       "source": "Modern Ghana",
       "title": "NDC Explains: Ghana’s 24-Hour Economy Does NOT Mean Working 24 Hours",
       "excerpt": "NDC Explains: Ghana’s 24-Hour Economy Does NOT Mean Working 24 Hours&nbsp;&nbsp;Modern Ghana",
@@ -4814,7 +4822,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WVi1tOTluRVVCS3JEdWxYZGRLakJwV2xkTExZRDhqUWZfMmVuUnJ6UHdWdUU4VklMNUprWVlKaEx6QkxqWjVQb09yNHU3Yzl3YVdvMVoyWWxsb3ZDTUhfR19ka9IBXEFVX3lxTE1Uc3plYzZkOWxBM0I5SUJ6MHhodFFSR3N2M1J5bWFsUVF3dFkzUk5VRTU1VjBUeXE4NGN6RzlGelY1NjB0OVpRNTBjWXU2OGpDa0dSSEx5UC1QVzI3?oc=5"
     },
     {
-      "id": "ghana-8",
+      "id": "ghana-9",
       "source": "Modern Ghana",
       "title": "NDC Explains: Ghana’s 24-Hour Economy Does NOT Mean Working 24 Hours",
       "excerpt": "NDC Explains: Ghana’s 24-Hour Economy Does NOT Mean Working 24 Hours&nbsp;&nbsp;Modern Ghana",
@@ -4822,20 +4830,12 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93NmlQRWtQQm5XaHdxY1RuMVZ6V1Y5dnpxeE1LLXRqc2E5TkxIU2hUNGY3VEZvaFppOE5jZ1pOQTBtbi1kZFh4T0t3SDY1b3FDNFRIVkpsSmRzVzBFbVQtTkJyb9IBXEFVX3lxTE1Uc3plYzZkOWxBM0I5SUJ6MHhodFFSR3N2M1J5bWFsUVF3dFkzUk5VRTU1VjBUeXE4NGN6RzlGelY1NjB0OVpRNTBjWXU2OGpDa0dSSEx5UC1QVzI3?oc=5"
     },
     {
-      "id": "ghana-9",
+      "id": "ghana-10",
       "source": "3News",
       "title": "Ghana’s 24-hour economy needs a new kind of bank",
       "excerpt": "Ghana’s 24-hour economy needs a new kind of bank&nbsp;&nbsp;3News",
       "timestamp": "2026-08-17T15:59:51+00:00",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4UGYwRHBZX1FkNDVuRThOSnhIWGRiWDVSUGZRT0NYRW5pSmxZbUxPa0VldzIxMWFsYzlfZU4yTDZ1QkY4bVlLTE05RzFtdV9xaHBDa0hLS1EyQzZ1Ty15S1pIOC1xckVybE1OeFBJVGpyOGtJbUVEZG1yMV80QQ?oc=5"
-    },
-    {
-      "id": "ghana-10",
-      "source": "modernghana.com",
-      "title": "Enhancing Ghana’s Legal Foundation for a Sustainable Blue Economy",
-      "excerpt": "Enhancing Ghana’s Legal Foundation for a Sustainable Blue Economy&nbsp;&nbsp;modernghana.com",
-      "timestamp": "2026-08-17T15:40:59+00:00",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS29LZmdoSGVjUkpzV1lWNHRfZG4xMHNYZUxabXJ1MklZbWtnMldidmdRVUJocFBDLUlDQ2RUTDZlaU1yWmV2SUdWRjRxRlVDbm1ocVREc3dtMElpRGZqeFBqazZOU0xzSzBVbG5wbHB0QTdCWndtWU1OeWo4dl9rNGkzSHlVQTBWQXY1bVZ6ckxNeHViWm5VMEMwNNIBmgFBVV95cUxOcHJLNjRUZEZZRkV1VTJYUkR4SzhJN2hIZi0xWFk2MEoyNE00b2xyNlBNalVrb0g1Q2J1YzlDRHVzaHlCT1JOQVF3aS1FaVAzX252Nk1OcDVlbWRTbFdGeTF5TTJlQ0lWYlUwbmxJWTJqNUQ1QVFIcEc3ZXcyYTdPQ3Y5ZDZ4VHdxMTJQbGs3MUdNQlRDQVhqLXJR?oc=5"
     }
   ],
   "Côte d'Ivoire": [
@@ -7719,6 +7719,14 @@
     },
     {
       "id": "northkor-2",
+      "source": "Mother Jones",
+      "title": "What Does Trump’s Open Respect For North Korean Nukes Tell Iran?",
+      "excerpt": "What Does Trump’s Open Respect For North Korean Nukes Tell Iran?&nbsp;&nbsp;Mother Jones",
+      "timestamp": "2026-08-19T21:08:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa0UzMzNNSEotVDFxajFfNElkM1VyS1c5RHo4dGE3aXQ1eDhhd0w4amhlbnVaZEJyeUhJZ1BiNnFTc19kY0FLT2hqQlZJa240RDF3UFEzTHJubFlQOXhzSk1NaFJtekVXRnpxVzNfS1RsaEdLMDF1bmJfZlpVSDkwNUFWamVZbmd1UC1YTWxIZW91cWZkNURTV0N3Z0w?oc=5"
+    },
+    {
+      "id": "northkor-3",
       "source": "PBS",
       "title": "WATCH: Trump talks about North Korea, interest rates while hosting cryptocurrency leaders at the White House",
       "excerpt": "WATCH: Trump talks about North Korea, interest rates while hosting cryptocurrency leaders at the White House&nbsp;&nbsp;PBS",
@@ -7726,7 +7734,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc05VMXV2c3NSVFNOMUF3LVp3b0dyejhsU1duLWVGZVdGQlFBR2pNa1VaS2E5eHpXcndKR2x4WkkzR2lUT3VnWFdlcC1WQmJ5d3ZIdXphM0xlUGxGbEFPMnZxaERuam1UX3NpY2x6MnlUMmNLcC12aEdkRGh3dHl1Vno4QTYtemg1ODdxWTc3RXBmbWVGSGU1azgxajJZUDdkaWhjYTgxRllXMWxlajJpQVRDQW1HdXVwWm94SWF4X21zOUhvTXptNXQ5TExhb3dGRDI4Nk1aVExyQmJB0gHiAUFVX3lxTE9HSjhacGd4SGFDYk9wYlNfZ2g1Z0c5dGx2UF9DNVY3SFRUVHF1bEJwbVBHSHlDdUZSXzVtYi15R0VPa0p6blNMV0NaLXdaRXh4VnVROXVMXzY5cXg4clNVaWlhbUhibU1BMmZWR0hVd09FSFRra2E0VXRrQjl2aGJUemdFQXl6MkMyVU5LSV91ZHREcWQ5VU5xd29QSURVN2h3MWVPTHpxajJkM0lwMVJEemluZjZpdi0yZHVjUHJRTUpnNW84OXRRN0JKZXdFZDVhSnE5THhJLUVGNGhSREJvanc?oc=5"
     },
     {
-      "id": "northkor-3",
+      "id": "northkor-4",
       "source": "The New York Times",
       "title": "‘No Interest’: North Korea Dismisses Reduced U.S. Drills With South Korea",
       "excerpt": "‘No Interest’: North Korea Dismisses Reduced U.S. Drills With South Korea&nbsp;&nbsp;The New York Times",
@@ -7734,7 +7742,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV2JhcFB1cFpuQU55V2xESmNrV21qQnF4ODJ1LUJtbjJ3UEs4dlpEa2dnZjNJdmxwVlRmcUZhR2huMTQ0dGNJeGxXTE9PTTh0ZGMwVWNpWDB6c1p4MlppcERIaUl0cHEzZFNXYlk1aHEzcjRHbXFpNVpvYklydzFId1RtYjUxNTJQeGI1bg?oc=5"
     },
     {
-      "id": "northkor-4",
+      "id": "northkor-5",
       "source": "The Detroit News",
       "title": "Trump plans to meet with North Korea's Kim this year",
       "excerpt": "Trump plans to meet with North Korea's Kim this year&nbsp;&nbsp;The Detroit News",
@@ -7742,7 +7750,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWW56X09JT1d2alp5SEMyVjZWNlJzd241T3FIaGdHYVlUMDFKVDlKVVYwLXloT2NsZmN4dUR3cHk4enNtZDR0UkU0ckVfR3lTbEdaTmRqTU84SlptSl9EMWtTNmpTV3dOWi0wWXp1ZFQ2YnNreGRybEpUSDBkcXVtMFJiOF9LWkQwX0RxZVhUVHY5akRYc0h4Ql9pdGtmZW1nejBn?oc=5"
     },
     {
-      "id": "northkor-5",
+      "id": "northkor-6",
       "source": "Al Jazeera",
       "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
       "excerpt": "North Korea leader’s sister denies talks with ‘hostile’ US&nbsp;&nbsp;Al Jazeera",
@@ -7750,7 +7758,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSTktbjlwVGN3RV9qQlRxRUdxc1ExNFlXZFIwOGtZV25EMTNzUkFHQmUydFFZTFlOY1VveWxkbVBQZmJWUGYtTmZoYk1wV1ZiMHNRUE1zem4yUlo4STV0enFzYU45TUFPVjFmcE9RRTNDZG5WbkhKOHlHQkNuUXM5Mm42RjR2Z3VvaGRCLW9VbVJNV1ljYW1hUEJIUXLSAaIBQVVfeXFMTkpSYUlETnI2U2J6NmNWakhEandZNzg1ako2djQ5ZU9QZjNFc3hJbW5OeGkyV0RrbEdXc3daM3pMVjlEWmt2YTZWaVpNcjlJOUVlaEtwRi1OVkhwMEFwUExKQ3dINmFGcmdWS3BEdmJhdURVNEY4WFdvSUM0ZUNsYXViOVluRzlrSGVBaWstdzdSVVVNc1JBdzBlbVRBOEE4WEJR?oc=5"
     },
     {
-      "id": "northkor-6",
+      "id": "northkor-7",
       "source": "USA Today",
       "title": "Trump says he will meet this year with North Korea's Kim Jong Un",
       "excerpt": "Trump says he will meet this year with North Korea's Kim Jong Un&nbsp;&nbsp;USA Today",
@@ -7758,7 +7766,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDhOWlRwTlM4NUliZFFrcF93ZWVlSzVhcXd2eU9oOXRqUFpPSzM2aTNlREtxUkUyaXRxYnVOUVVOU1ljb25abDE1dkVRMFczT0wyWjNORTdqM2oxNjZIVVRXaXg3TFlXRnJ3WmZUZnlCeFRtU1hQVUNQZmR4V1UzNzJ0QU5aNUZQeVVXby1tbjB0QWgwZGFqX1R3cmEzS0ZlMEEtMnpid1NQZw?oc=5"
     },
     {
-      "id": "northkor-7",
+      "id": "northkor-8",
       "source": "NBC News",
       "title": "Trump says he will meet with Kim Jong Un this year",
       "excerpt": "Trump says he will meet with Kim Jong Un this year&nbsp;&nbsp;NBC News",
@@ -7766,7 +7774,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUmNkSGRuYnVNdkxvb0xQeUxYdGxfOFR5RzdPNlEwdUlrcWJUS3JCRHpfaG13dEI2bGUyeUV2d3dDeGR4VkxhMWNmMzQ3VkpoLTZES0t2N0wwZDBTVHlDQkJYVHJrZ0tCc2g1R3Vsa21aN3E5Q1FOWnVrenJLUkJBaURTRFBjTXlfNXVyZ0VLQ2hZcTZ0YjNRYkM4NHU4WTVkNEp0Y1RzTGdNOGM5M3c?oc=5"
     },
     {
-      "id": "northkor-8",
+      "id": "northkor-9",
       "source": "vox.com",
       "title": "Why Trump can’t rekindle the spark with Kim Jong Un",
       "excerpt": "Why Trump can’t rekindle the spark with Kim Jong Un&nbsp;&nbsp;vox.com",
@@ -7774,20 +7782,12 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zUFV4eFBNTXFxak0ta2xIMnUxNHZIdUw4NXl6bENZWnM2TFZnYl8xSkJGU1RZQWtjMVl6V3I2YXI5d0Z5OTZqdVFwX0RRUzAzUlBLWG55Y1NMSlVQODlxZlRETnV0UXVMX2FZMnJ2REJSc00?oc=5"
     },
     {
-      "id": "northkor-9",
-      "source": "Fox News",
-      "title": "Trump says he will meet with North Korea's Kim Jong Un 'later this year'",
-      "excerpt": "Trump says he will meet with North Korea's Kim Jong Un 'later this year'&nbsp;&nbsp;Fox News",
-      "timestamp": "2026-08-19T16:17:55+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUVleDQ2Y2dRQ2l6MnRZLS0zNllxNUdLbUc1ZlhuSmtHMXlEOHlhQVgxTTFZOWU5aU9GLXBLZkI0dmwtZkFSc0ltbnF0M0hqdWM2d0Q4a2ZLUVNSaHNhelYzTmRhWjJ3S05Hb3VWR19EVGI5aHZEOGFjZlc4aDhqbHUxd0RmZTdjSkZCQlB2VGzSAZYBQVVfeXFMTmJmMk1ZOUJiMmlZOEUxX1RyMW01RnI3ZldZdkh6TEdoNTJid1RpZnhraXppY3ZmemFBaFJkeXBnNkQwTTE4UFkzQ1NiQ2lxLUdtenlKckhoRWlhT1lGUU9fc2YyQkFCcFNaeEdyR0I4aEhldnZ2VjNBUFc5MjNpUHctMkNOaTlQdUFBeEZVWW93aXBUclpB?oc=5"
-    },
-    {
       "id": "northkor-10",
       "source": "Fox News",
       "title": "Trump says he will meet with North Korea's Kim Jong Un 'later this year'",
       "excerpt": "Trump says he will meet with North Korea's Kim Jong Un 'later this year'&nbsp;&nbsp;Fox News",
       "timestamp": "2026-08-19T16:17:55+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUVleDQ2Y2dRQ2l6MnRZLS0zNllxNUdLbUc1ZlhuSmtHMXlEOHlhQVgxTTFZOWU5aU9GLXBLZkI0dmwtZkFSc0ltbnF0M0hqdWM2d0Q4a2ZLUVNSaHNhelYzTmRhWjJ3S05Hb3VWR19EVGI5aHZEOGFjZlc4aDhqbHUxd0RmZTdjSkZCQlB2VGw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUVleDQ2Y2dRQ2l6MnRZLS0zNllxNUdLbUc1ZlhuSmtHMXlEOHlhQVgxTTFZOWU5aU9GLXBLZkI0dmwtZkFSc0ltbnF0M0hqdWM2d0Q4a2ZLUVNSaHNhelYzTmRhWjJ3S05Hb3VWR19EVGI5aHZEOGFjZlc4aDhqbHUxd0RmZTdjSkZCQlB2VGzSAZYBQVVfeXFMTmJmMk1ZOUJiMmlZOEUxX1RyMW01RnI3ZldZdkh6TEdoNTJid1RpZnhraXppY3ZmemFBaFJkeXBnNkQwTTE4UFkzQ1NiQ2lxLUdtenlKckhoRWlhT1lGUU9fc2YyQkFCcFNaeEdyR0I4aEhldnZ2VjNBUFc5MjNpUHctMkNOaTlQdUFBeEZVWW93aXBUclpB?oc=5"
     }
   ],
   "South Korea": [
@@ -14763,6 +14763,14 @@
   "BTC/USD": [
     {
       "id": "btcusd-1",
+      "source": "CoinDesk",
+      "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
+      "excerpt": "Bitcoin briefly hits $70,000 for the first time since June. Here is why&nbsp;&nbsp;CoinDesk",
+      "timestamp": "2026-08-19T22:26:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcXBVcDZGbU9sdnVyN2xCUWx4UWxvZS1pNElyOG9WU0E0bG1DVWw5MWMyNXBWV2FLSElGdUF3UnNZQjdTc3BoTy03OTdPUlFvTGZzRGZZUnFnbFdQc25LdFVNUlhrdkRiTDF2MEZRbU1aanJlWElxel9lMVZIZjdBQlI3dEZsOW1ibFBTSW9WbU55Tk1GSWdVRjUwUmsyVjhSR1VXVXNqNG55VVBuY25LaXEwb09Eb1U?oc=5"
+    },
+    {
+      "id": "btcusd-2",
       "source": "Crypto News",
       "title": "Bitcoin price breaks past $68K as $1B short squeeze hits",
       "excerpt": "Bitcoin price breaks past $68K as $1B short squeeze hits&nbsp;&nbsp;Crypto News",
@@ -14770,7 +14778,7 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDQ2cnB2bW55c3RXQXV1YWpyOWdPTnV3aXRKNEFLQXpKSUJub2ROTzhOYVRHcnppcDJrSE1CR2w5Rkt2eXY4OEFBMEp3OUpUVnQ3UDhUd2dSTEVsSjVNUzdjRV9XaXFfazR0ODZZMkF4MnJ3UTUwLVNYNG9zWktWdw?oc=5"
     },
     {
-      "id": "btcusd-2",
+      "id": "btcusd-3",
       "source": "The Globe and Mail",
       "title": "Why Is Strategy (MSTR) Stock Soaring Today",
       "excerpt": "Why Is Strategy (MSTR) Stock Soaring Today&nbsp;&nbsp;The Globe and Mail",
@@ -14778,7 +14786,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVlabENTT3pLVENIOWpmTEVscTUzV3g3cjU5SUhxX0NhLTcxSkpOMThZREw1eHF4VDVLTW80d1FQa1FyWnc2UWRYUl9TS0dEcUxYTDdidDRyUkJnSm54SUt2eHc4SzhlUUFEYVFWLXg5UEhKd1VqYlNRTF83Ymt0YjdQUU9ZVnZXTFZ4MnBqOXdzSEkwVTE3SlRSelJLbVRqZjJvNmdja0VYa2pMNzFBTmtoM2prS0FJUVpWaVhmeXNlemM?oc=5"
     },
     {
-      "id": "btcusd-3",
+      "id": "btcusd-4",
       "source": "TradingView",
       "title": "Why Is Strategy (MSTR) Stock Soaring Today",
       "excerpt": "Why Is Strategy (MSTR) Stock Soaring Today&nbsp;&nbsp;TradingView",
@@ -14786,7 +14794,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGJkdlp3UXg1ZHEtNTNvY0puck40LXNCZUdoWEozaVVmSU9MeWFSZTZQLXFhWFh6MGhlN2lMZzRpeWdvVms1Nl9YRnZ1MHByT2pVQXhHd1NVamcxOGlkWFNXTFFHdm5CSG5Kbmh0MXkxcmdPRGFXcHVGcEROekVTcTFSNkhSVXpnOXNXZjVZc3pHU3lXMUxwMm1uclZQekVKaGVV?oc=5"
     },
     {
-      "id": "btcusd-4",
+      "id": "btcusd-5",
       "source": "Altcoin Buzz",
       "title": "Crypto Prices Surge: Bitcoin Reclaims $68K as Liquidity Improves",
       "excerpt": "Crypto Prices Surge: Bitcoin Reclaims $68K as Liquidity Improves&nbsp;&nbsp;Altcoin Buzz",
@@ -14794,7 +14802,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WOFlDMWVqNEJ1NVBTX0U0elhES2tlUlJDb1BzdkZ1cWhjRnJMN0cyY3dDYmR3WUxZWTlpSWRpa1FDdTdjdnN2UjYtQnhVVHRiUmJjejBKYnVrNTNQRVJtSHBfWldBZUxGRHlyTkc4MA?oc=5"
     },
     {
-      "id": "btcusd-5",
+      "id": "btcusd-6",
       "source": "eciks.org",
       "title": "XRP price holds near $1 as crypto market stabilizes",
       "excerpt": "XRP price holds near $1 as crypto market stabilizes&nbsp;&nbsp;eciks.org",
@@ -14802,7 +14810,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBckJsNS13YlZLaEx6eTZGclBRbC1qVGtaVU9sUkJ5cktFXzBCX0xUTjJkVGQ2S2dSY2pmeFdlMHotaVZ1eFUxbnV1UkFWY3pHYWVZR0tWc18?oc=5"
     },
     {
-      "id": "btcusd-6",
+      "id": "btcusd-7",
       "source": "Yahoo Finance",
       "title": "Crypto Prices Explode With Surprise Rally: Is the Bull Market Back?",
       "excerpt": "Crypto Prices Explode With Surprise Rally: Is the Bull Market Back?&nbsp;&nbsp;Yahoo Finance",
@@ -14810,7 +14818,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWVVBT3FjY3ZPb2hVal9ZM0lSb1E0RlR6cVVvODFMbVFmeDBZMm1MOHc0RFZYLW9VZ29GNXg2VlJOQmg1NkRNWWdtc0xNcDBaV2llQWVNc1hxQjFYbk9JQmpLSHlnWlplbVRYM2JlSG92d0NhaU0wVWVJVWs5RjdGTlBBZV9oVW9Tekk5Q1ljNnZla2lPVm1YUXlZWm9qVjN5WE9F?oc=5"
     },
     {
-      "id": "btcusd-7",
+      "id": "btcusd-8",
       "source": "BeInCrypto",
       "title": "Crypto Prices Explode With Surprise Rally: Is the Bull Market Back?",
       "excerpt": "Crypto Prices Explode With Surprise Rally: Is the Bull Market Back?&nbsp;&nbsp;BeInCrypto",
@@ -14818,7 +14826,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90Q19vMm1aTG04UUVUd3VoYmtRX3c3WlQwcnV3bUpIM042RUNTMDZQYmdQNFhxUWRwQlFDVGtFRWhfcTdEREtNV1NSRC01UFFSaVNmMTNqb3lPRFJzSXhRLXQyeVFxSnNUTEc1aGt4SmRIQQ?oc=5"
     },
     {
-      "id": "btcusd-8",
+      "id": "btcusd-9",
       "source": "CoinGape",
       "title": "Why are Crypto Prices Surging Today?",
       "excerpt": "Why are Crypto Prices Surging Today?&nbsp;&nbsp;CoinGape",
@@ -14826,20 +14834,12 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hT25MMUQ4VE50X2tGMUNBT2pRbEd5VVVQajV2aldHalZwWEllREg1cDdEU1Z5LU91ME1XRlVjUEJweDNuUHF1WFRZTnlQUjZoOTMtSlRTUnkwc2lhTUlEVEEzQmxUTi1WTHZpTzVId19lem8?oc=5"
     },
     {
-      "id": "btcusd-9",
+      "id": "btcusd-10",
       "source": "TechStock²",
       "title": "Coinbase Shares Surge 12.7%, Outpacing Bitcoin, on Progress for U.S. Crypto Regulation",
       "excerpt": "Coinbase Shares Surge 12.7%, Outpacing Bitcoin, on Progress for U.S. Crypto Regulation&nbsp;&nbsp;TechStock²",
       "timestamp": "2026-08-19T16:46:57+00:00",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEFCVlhlQUJSQkM4TGhUU0pzbnhzblZtNUswOHNld2wzQXUzbFFwWUw2eDcxd05aelRyaXVJUkNBWHBCQlNpaERnMmtJYnBkanVGMEtTQ0FadmUtcTJqY2hncy1WT2hicWdTVDJ2anhuTGJ6M0tVRFBlbmdaYTZneHBnenBUS2RQeHRURS1vSWtEc1VTMWJZbjB3?oc=5"
-    },
-    {
-      "id": "btcusd-10",
-      "source": "Decrypt",
-      "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
-      "excerpt": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour&nbsp;&nbsp;Decrypt",
-      "timestamp": "2026-08-19T16:10:04+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkRvNFgyZjZfNHVJN0p6eWNGM2N6VTY1MkVxX1B2V1FMc1NjSlBpWmMyb0xZb3BqMUFGXzBoTU5EbnhfRV9Idzd3MlBIMXJRRUF6VmRhM0hkRFFwSWJuQ0Y0WGxyN0RfTU9WZjdIc2d1YXR2SGNoX0hIM0FsMTFUTXZn0gGKAUFVX3lxTE1lYlhIUkNmaWtKRHN3a0x5SkRFcW80ZmJrQzcxdzNpaXFfS0tjTFFwenc5QnBJWFlwVnIxcGg3VUJHUDk2ZnlWcmJucFc4VF9wb0ExcDFjU2E2SFExX1Zra0ZXdVQxS3pPaE4zSzNQUS15am9DUGEtd0cwV1VZTEUwOXZDd2Uyb2ZqUQ?oc=5"
     }
   ],
   "EUR/USD": [
