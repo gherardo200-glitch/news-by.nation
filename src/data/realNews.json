@@ -1494,6 +1494,14 @@
     },
     {
       "id": "russia-3",
+      "source": "WSJ",
+      "title": "Opinion | Dissent Grows Among Russia’s Political Elites",
+      "excerpt": "Opinion | Dissent Grows Among Russia’s Political Elites&nbsp;&nbsp;WSJ",
+      "timestamp": "2026-08-20T20:20:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkxGbllLSVlkdEpLTzIxaHJHT2ZtdEQ4ZmMzdnZ0blNHRE5ncHFIRTVmUE9QY0dfVEdzT1FuTzVLS3psRjhydzNLS20xUTFTUXpXNGI1c284d3pzR0VzOFNoaDM1YngzOEw1N29la2xGQjFFNDV4NjVvalh5ZzJwT0pxS19zMTlJ?oc=5"
+    },
+    {
+      "id": "russia-4",
       "source": "The Moscow Times",
       "title": "Putin Orders Government to Shore Up Russia’s Debt-Laden Regions",
       "excerpt": "Putin Orders Government to Shore Up Russia’s Debt-Laden Regions&nbsp;&nbsp;The Moscow Times",
@@ -1501,7 +1509,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcUpQNVVEOHR4eW9pZWZtY21fUWZjajBGVXZsU1VJdVAtM04ySGZDbEdqSmdHM29PaDJTZ0x4c1NubWJpcFhTLUxwcXFDNG9lUkhRWU5lV25OSnVCRDBIM3NvckV4REgzOHZrSVdhd1Q5Q0FHWmRhMjZHcTRLZ1EwaFV0dXJrRC1rTEJGYUdjSUtyNW5KU0phZUZXT2RHU0ZXcEdRSDZvV2J6dG45amt1Wg?oc=5"
     },
     {
-      "id": "russia-4",
+      "id": "russia-5",
       "source": "Institute for the Study of War",
       "title": "Russian Offensive Campaign Assessment, August 19, 2026",
       "excerpt": "Russian Offensive Campaign Assessment, August 19, 2026&nbsp;&nbsp;Institute for the Study of War",
@@ -1509,7 +1517,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUNQNVFoWUZiZUo2bjM0cEkzZFFEVlBwTExNZXp5RzBnY084NERuZ2tXd0VHT1JJeTBPVlJXdjloVDVOQ25nNzlpa2k0OUtldW9XQmo1ZWJZY2R6bjZyZFBQUW5UTzRDSGkyQkZyajZFTmFwcUx5U3pvV01LTjd5UHd2clNEdXN2bHVILTRJdjJtSm9lbEFJLU1pd3dTTVBCUVlsa3dHbHlHZw?oc=5"
     },
     {
-      "id": "russia-5",
+      "id": "russia-6",
       "source": "Eurasia Business News",
       "title": "Russia’s economy indicators for 2026 and 2027 : Growth, Inflation, Rates and Key Risks",
       "excerpt": "Russia’s economy indicators for 2026 and 2027 : Growth, Inflation, Rates and Key Risks&nbsp;&nbsp;Eurasia Business News",
@@ -1517,7 +1525,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM1lDYy1FTGZJV2I0dkk5N2tQVWdlQWYtQW5ZV2pLc2VKNVdnSExORFk1bWxCM0tCVGQwa3VWTHVHTlZDRW1qQlNGa0hQVTlySlZrWDBfWGphV0x2UWdWaF9kQUNFdTdkZjJpRjZYdGc1QWNvTXVwNjh6Wmh3T3RWcDFhbDdva0tOSjlSNHlvYUtjMUJ1Y2hiTkpxOXRad21TSjZHeDY1TU5YdUp2YmN5SzlOTk5wTzhPVjY2UV9Tcmx4b1k?oc=5"
     },
     {
-      "id": "russia-6",
+      "id": "russia-7",
       "source": "CEPR",
       "title": "When statistics lie: Using satellite data to track Russia’s wartime economy",
       "excerpt": "When statistics lie: Using satellite data to track Russia’s wartime economy&nbsp;&nbsp;CEPR",
@@ -1525,7 +1533,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUVDRnZBbEZtUlhtVTRicXFuUWw0UGRhMTRBTFJJdmszMW0xU0xILXk4a19lanhoUjZSYVlfeThyeEtjdlgyWDdkVmdLb2FOSDFILUZGNFg0ZkxqYWF5WGJfU1pfQ283QXFDd21jUUpmRXNTZkZ4MEFCbE0wRGtJQ2tXd1ZJYXRBbEQzSjljZzBKQzBYa2d0S1JPcENLcjI4bjQ0?oc=5"
     },
     {
-      "id": "russia-7",
+      "id": "russia-8",
       "source": "NBC News",
       "title": "Top Russian economist ousted after rare critique of Putin’s war economy",
       "excerpt": "Top Russian economist ousted after rare critique of Putin’s war economy&nbsp;&nbsp;NBC News",
@@ -1533,7 +1541,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSExWV1hETlJnS25mVms5dFEwM1VucTVJWDJOZEs1bmxGeVlXbVphNmRRTy02eVhiZkNBa25EaWhQMXcxeDdHNG0yYUZ4N0hseVRXY3ZQc0E1bk82YVBsV3RJUHVGMDdFSjBHcVdmaXlsUm10clhJbi1Wd1ZlQzZKY0h3N3FsTVYxd1RjQ2k0ZzZVdDJ5dy1yb0lIYUJpZW95aVB5eUFJR2YtQl9JcFUwOXp3RlMwM3oybVE?oc=5"
     },
     {
-      "id": "russia-8",
+      "id": "russia-9",
       "source": "The Economist",
       "title": "Russian attacks are doing severe harm to Ukraine’s economy",
       "excerpt": "Russian attacks are doing severe harm to Ukraine’s economy&nbsp;&nbsp;The Economist",
@@ -1541,20 +1549,12 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUTZZQ0pJZ0Vha2YtMlhDdERhNGFyQ2pJYzhrTlc2eFhaSVVqVkpVZWJOYThjc2ZRbnB2TVZwYklyRHV1MUlMQnRXSi1QWmlVSVdhaGJKdnVSTWUwYllnYmVnWFFJaVZjR1ByNXdEWmJUY3c5SW9lYTJXTzVMS3BuNGdDdmdOYjQ5Sk5XWTV5MlVmZ1dwMzRtQ01tamVUZ1RWcFVF?oc=5"
     },
     {
-      "id": "russia-9",
+      "id": "russia-10",
       "source": "Meduza",
       "title": "Russia’s economy is growing faster than expected. It probably won’t last.",
       "excerpt": "Russia’s economy is growing faster than expected. It probably won’t last.&nbsp;&nbsp;Meduza",
       "timestamp": "2026-08-18T09:52:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVNtcnBfeTVzS0ZiS0FDOU14SG1xWnRaSWNxM3RCbFpwM1JHdlRIR2cyRTYybnBwV3RvSDc5bmhWQ19zTkhoLVV3c0RJV0UxM0ROZm5YLW5ZUmwtbkEwMC1BYnl1ZkpoSFQ5WWExRDlqR2ZlSDNYU0dvVXdELXdzRUJrT2MyeGwtLVRWNUM2em5LQnhFYVI1S1pFclM3amR3OHZRN3dWMzNOT0l3T2ZZZdIBtgFBVV95cUxPXzBfUjQxbTQ4dHVwUG5UVFFSS1hoQXlQQ0RiYTYzamtzbmsxRF9WQmxhSk1uNGlhaEV3YWlxTDNYZzlYZWNnZ2dXdURidWp3X3pUeTR4RDNKQndDeVFZdUVaNm5maXR3R1RjQjBWeFpFYlM1UUFRWVFIUGtFUTFnTFVzU0dOaHplaGRLaWlqWl94aTctWlJzT2l1a2lkejRSem1yOXIzRDNCOFlTbUstVkFHNElLUQ?oc=5"
-    },
-    {
-      "id": "russia-10",
-      "source": "CNBC",
-      "title": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
-      "excerpt": "Russia says its economy is strong. It just fired a top economist who warned otherwise&nbsp;&nbsp;CNBC",
-      "timestamp": "2026-08-18T09:50:10+00:00",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JcTVKTXdMcmJ0REdKcEUwMTY3NDNocklwMktZMjNQbTd2X0VzTG04QzVTSWQ0eFBjenZsZTFfRzZ3WU1SN2J5NnJEdmh0M1gwS3EyRnJuQ2c4YUY1ekxhMUpuZlBFR3h6SXBzX1ZoWHNPeW9kNExHN0dRRdIBgAFBVV95cUxQOVZfTFNLVHRNXzl0dU9xTVg4VjdiSFBwZVQ0akZ1RjhkYlNrbkI5YkRvdldMYS1zS0N6VmpJUTdKd2VOMC0wTU5DTGVMczBua1JXQWd1N3RlWkhkSlVzMFFpZDh4dTc1Yml1bU1CYVNnV2owSnBGd0dEeXhKS2NGMg?oc=5"
     }
   ],
   "Bahamas": [
@@ -8531,6 +8531,14 @@
   "Kyrgyzstan": [
     {
       "id": "kyrgyzst-1",
+      "source": "trend.az",
+      "title": "Kyrgyzstan’s economy sustains strong growth momentum in 7M2026",
+      "excerpt": "Kyrgyzstan’s economy sustains strong growth momentum in 7M2026&nbsp;&nbsp;trend.az",
+      "timestamp": "2026-08-22T15:11:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84OWNnb1pMY3BIYnZTTDJMQy1fcUJuXzBNMmN5VkJYdzgyN2lLYkJtQkh4VWVqWHpFTkZHYld6T3ppenQ4VE5WVDhod3N5WExDMjBXalpkQjFseHJXWnZJ?oc=5"
+    },
+    {
+      "id": "kyrgyzst-2",
       "source": "Акчабар",
       "title": "According to the Ministry of Finance's forecast, Kyrgyzstan will pay off its current external debt in 2075 on Akchabar",
       "excerpt": "According to the Ministry of Finance's forecast, Kyrgyzstan will pay off its current external debt in 2075 on Akchabar&nbsp;&nbsp;Акчабар",
@@ -8538,7 +8546,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWRIckRlX1dGWFBoTURfUHBCZWt2Q2hBSC1fS0d1TnhReUd6QUhycWJ0Rkk0U3FHR0lVbmRwY3h6aF8yMmpOMk1HMVZLOER2RXpjaW9vdHR1M3BXLTREeERIRzFzZFpINVR0OVppa0N2VFdqbWlHdDMtcGVaa0hvX3pXd1ZJd3R6a3RDVGswaXhDeVFOUzA5TVlGQkZrN3hwSnluaWJmcEhyOUJfeVg1MmliMjNoRDVmUjBSZkR1NjlMQQ?oc=5"
     },
     {
-      "id": "kyrgyzst-2",
+      "id": "kyrgyzst-3",
       "source": "Encyclopedia Britannica",
       "title": "Kyrgyzstan - Politics, Society, Culture",
       "excerpt": "Kyrgyzstan - Politics, Society, Culture&nbsp;&nbsp;Encyclopedia Britannica",
@@ -8546,7 +8554,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95VjVGekl2c29aRUl1M0hSc2F0QnRNZ1FjbHNQMVFaRUM1U1RDdGN4U0tqWHdxSHVDdlZ3dlZ2emdXaWplcWlIVFgwbE9LRG5SeWloRGozblRwNmhYZmZZejRDTFNrZVIyUGVlVUc4dlZiOGUy?oc=5"
     },
     {
-      "id": "kyrgyzst-3",
+      "id": "kyrgyzst-4",
       "source": "EGOV.KG",
       "title": "Kyrgyzstan and Georgia Resume the Work of the Intergovernmental Commission on Trade and Economic Cooperation After a Ten-Year Hiatus",
       "excerpt": "Kyrgyzstan and Georgia Resume the Work of the Intergovernmental Commission on Trade and Economic Cooperation After a Ten-Year Hiatus&nbsp;&nbsp;EGOV.KG",
@@ -8554,7 +8562,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95Sk14b1gxNEFhYzRXLWVoamI4RG1DT3VaWUNGa1J3T29GS1BxWG5zMlFxTC1zNDE1UkpMR2RmYk0zUnVHaTVsVkxVc1IxcUVCQWxyVnBCc2x6Zw?oc=5"
     },
     {
-      "id": "kyrgyzst-4",
+      "id": "kyrgyzst-5",
       "source": "Devdiscourse",
       "title": "Kyrgyzstan's President Japarov Eyes Second Term Amid Political Unrest",
       "excerpt": "Kyrgyzstan's President Japarov Eyes Second Term Amid Political Unrest&nbsp;&nbsp;Devdiscourse",
@@ -8562,7 +8570,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2QzTjU4N3plZFhGV0lQdVJ2QzU5MmlvaXVXTnZ0WThuSm5qdUlxTkwwcGVKVlNuZVdBeGdPcVNUOTUyczVpV0xoTkhCSC1mdFRZSlIwNEdKM2tVVFBEUG5lZDJfMWI3TjJQamVIWDg4Z1FNRTZCWDZhTmZqZ21MMkxTdFhmNzAzMDBsOElYTlZhSm5sa2szaGI5d0xMSW1fYUNzT0YyRUhoY1p4UXhLMHVMVlhfLTQxU2M0d0hPb9IBxAFBVV95cUxQOTQtbFp3ZGJtazBod3Uwa3Q5Vks2NG5tQ19CcTRfd2o0QUk4cVJpVm9vLWNUQ1JXdzgwZWhTa2l2dVNKNFBnWUZyVWhZTlZxRTM4a1dnTjh4YkpOMFhTRWQyZ3ItQndMYTRLR3dnazJPMWtIZ3lNWms3RVlyZUtiRV95Ql9BelFxRE1FRFpna3RzaDBRQ0VhYWYzc2RVNHdmX3pidWt0NUtSdDFmQTE5Z2JCZjdMRnRxdXpyNVU3cHpPZjM5?oc=5"
     },
     {
-      "id": "kyrgyzst-5",
+      "id": "kyrgyzst-6",
       "source": "app.com.pk",
       "title": "Kyrgyzstan envoy says “Cholpon-Ata Summit” redefines Central Asian geopolitics, opens new corridors to Europe",
       "excerpt": "Kyrgyzstan envoy says “Cholpon-Ata Summit” redefines Central Asian geopolitics, opens new corridors to Europe&nbsp;&nbsp;app.com.pk",
@@ -8570,7 +8578,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQREdWU2Q0NENzUXFKR0dhWjV2YWVwZmVDRE9yU1BsTVk1OW1MX0VwQWR1NEJsOHliUmRJT0MwN1NWZUphRHJ0UTkxZFNtbllORWxuUEozMjUyY0Z4b21MdndQSWhUQjZ3TFR2a0x2cnB6RlpHUFl6N3FtY1NDRV9fQkFGMGE2clpCdndZMVBSUXBkYkp6VFk0WE1mZ0huQUgtTFhsd0cwN1VTZ2Y1Q25mWkdualBPbHRKenM1b1Vyc2FWSFlDUlZHNk5QLUxTNWVkSk5jRk9B?oc=5"
     },
     {
-      "id": "kyrgyzst-6",
+      "id": "kyrgyzst-7",
       "source": "BelTA News Agency",
       "title": "Kyrgyzstan to host Eurasian Economic Forum in 2027",
       "excerpt": "Kyrgyzstan to host Eurasian Economic Forum in 2027&nbsp;&nbsp;BelTA News Agency",
@@ -8578,7 +8586,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORk9rRU5QOFE1MTFRTTI2THV2eUNJZE5DNklDSUxweVhvQndENzV0blFMclFHMHlHcndweVJkZjJvelQxWVJSeERVVmdOMkowR25nT1l3WjJ2d0Rxb1lPaHYxUWxOWWdXNEdPclZtSDBQNmxaUVowVDhXSndHd3FOQXRuQVJ0cW90MFE1N19RejgzTHdsd0xQTGUzTzBnZUk?oc=5"
     },
     {
-      "id": "kyrgyzst-7",
+      "id": "kyrgyzst-8",
       "source": "تسنیم",
       "title": "Iran, Kyrgyzstan Move to Expand Mining Cooperation",
       "excerpt": "Iran, Kyrgyzstan Move to Expand Mining Cooperation&nbsp;&nbsp;تسنیم",
@@ -8586,7 +8594,7 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2VhOG1ZUldQcGlwNVpPTEpLenZXdjNLVGV3eFpIdzhZd3k1WHR4Y0RFWWRTb3BDY3diLS1BdkI0elIzSTJuUDBETFlDanlTQ1hwaV9ydWNuQTA3SWcwNVB6bTVtSHJHeVJvM1hZcXRYSm9ZNDkzazRSdERpSmxOV3VuX05Xai1BTXY4THhhS250VHlzMF9jQjk2ZUFxYjVQRkJIWdIBqgFBVV95cUxNUWZVT3VqalVucEFJdU9FT0YySHN3aFAyNkpMMWlGeUVjUk14NldTY3NySk5ocElVdWZjcHhEMHFsV1RwbVV6M3ZiLW9ab0ZJM3MxTGNSTUxkSEwySXQxdDJOU1Z3WXRRaEl5c3dBY0FLSHcwRGtMNmlGcXNpMmJGNG52VmlsSnV1T2FXUzJ0TS01TVY3NVFtU0doTVBMV3BNQlh5Njc3QnR2dw?oc=5"
     },
     {
-      "id": "kyrgyzst-8",
+      "id": "kyrgyzst-9",
       "source": "IRNA English",
       "title": "Iran, Kyrgyzstan agree to boost trade, mining, economic cooperation",
       "excerpt": "Iran, Kyrgyzstan agree to boost trade, mining, economic cooperation&nbsp;&nbsp;IRNA English",
@@ -8594,20 +8602,12 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXpLY1J5aEgyU0FPVGJFV19IX3M5dXBMRlR3VVZjeXVyb0UtZjkybjIxTkNqaGluWXZVVHVyMDVORVMyNFRWeGloejBQZEtsRlRwOWZKWmRORGNlSWcwdmV6ZS1ob0NCd3M0WS1oR1R5NDh1bkFrMDJfMkhTSjN5LWk1QzNyZnBJdzl3TDY1MV9lX1FWZHZUMHV1N0V4UdIBR0FVX3lxTE1TZTU0UUEwS1VMc1FPN3RhWU5oMlFRcG1VczVHNGxBNWZ3cTN3SFBoWFQzQU5NNnFRYjAwRnQyMnFidlVYMGJF?oc=5"
     },
     {
-      "id": "kyrgyzst-9",
+      "id": "kyrgyzst-10",
       "source": "Armenpress",
       "title": "Pashinyan heads to Kyrgyzstan for EAEU meeting",
       "excerpt": "Pashinyan heads to Kyrgyzstan for EAEU meeting&nbsp;&nbsp;Armenpress",
       "timestamp": "2026-08-06T06:45:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ja3FZQ01sdV9LSzJPcGRvZ0VHWHUxT3l1VV9zUE04TjVVUUJqTkl3TTAySHItQnpSSThESnlsM093MHRLTUtzckRxdF95UFNHX3fSAVdBVV95cUxNUTAtZy1KZVpEV2lPYXh0b1BQYXZWOGNwSjRNN2VBUTFLOWZ0c0JyRThWcWg2MVpERTkxb3gxR2hKU3c1czZHZTFySW1QQ3AxcFlxMVZ3LVU?oc=5"
-    },
-    {
-      "id": "kyrgyzst-10",
-      "source": "AKIpress News Agency",
-      "title": "Kyrgyzstan's exports to Russia rise 60% in five months - Russian Economy Minister",
-      "excerpt": "Kyrgyzstan's exports to Russia rise 60% in five months - Russian Economy Minister&nbsp;&nbsp;AKIpress News Agency",
-      "timestamp": "2026-08-06T06:30:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdkJNT1B4ZzFHdDhrODQ2STgtbTJrdUJIM04tdzMxcWdIbExjSE5UXzM4bkxObW9wdy1CVGlBZHdRdHZIa2J6dXBGblQ3akxHeGpIa2VhSkpFZm0tZUNpVkdueS1mUGlwUVNpZWxlNm1VS01nQnBpT1laZ0hjZTY0TFpaS2s2UXlaTlgyWTRpWEJNNHlMX0J3al9oaUMxQ2p2UjZoSFMtZWF4a0ZudlpqblFYeE5kQk5Id2Q3WVFIN3hMY3FJTmc?oc=5"
     }
   ],
   "Turkmenistan": [
@@ -9843,6 +9843,22 @@
   "Germany": [
     {
       "id": "germany-1",
+      "source": "Bluefield Daily Telegraph",
+      "title": "Germany Politics",
+      "excerpt": "Germany Politics&nbsp;&nbsp;Bluefield Daily Telegraph",
+      "timestamp": "2026-08-22T15:31:36+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQmhnaEVLTVM0aGQ0RXRDZ0xyWXFzdy00T2RUVFUzRmp1a0RmWFRZX1h3VWtYN2g3cnBLZVVyUnl4eEJBSXhZN2d1a0V3OFFlNXpjZUJONTNVVHBLQklkN09RMGd1UWZfeWZrenVFRU90ak5mV3NEZDFoejhqVXZsOXp1QWtqQXRxVUNJaVZJN0Mzclk3dmxqX2RmdnJPVUdkODZxV0RoMlUyUm9P?oc=5"
+    },
+    {
+      "id": "germany-2",
+      "source": "DW.com",
+      "title": "Germany news: Berlin losing its appeal for many Germans",
+      "excerpt": "Germany news: Berlin losing its appeal for many Germans&nbsp;&nbsp;DW.com",
+      "timestamp": "2026-08-21T23:56:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVkybUswUHNGV3JBSm9CcmVsU1M0WU5CY25GLWZ3ZGVGTWFKOUg5TVFNZG1rUGh3eExsSHo0TUVPNXBqMFFxd3VEUW14WDY3UUx4MVVodS04QllZclBrSkVOZDY0SXkyd0xpVHFfb00xTnZxTlpjajI2QTJOZXlJU21Dcl95ZG12bUE?oc=5"
+    },
+    {
+      "id": "germany-3",
       "source": "Finovate",
       "title": "Finovate Global Germany: Spend Management, Embedded Finance, and Instant Payments",
       "excerpt": "Finovate Global Germany: Spend Management, Embedded Finance, and Instant Payments&nbsp;&nbsp;Finovate",
@@ -9850,15 +9866,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZG81RnJQLXhDQnVtM0lJVXAtUkhYMXEzeWRpOWFLcERKQ20yX3Vsd3ZIZ3Q0ZGFCNHdjSWhDZVlGNXU3TnhPZTg2QWlCR3ZtNnNZY0dnWHRwdERxVS1TM2cxQmp3LVM0SFZVLWVBRHJvM1QyelJTRlczRnZHUFZNQmtTWm1vc1VqTlYtZXhFb0dMT3JQeGFfcmQzbU53OVFUWWc?oc=5"
     },
     {
-      "id": "germany-2",
-      "source": "DW.com",
-      "title": "Germany news: Berlin losing its appeal for many Germans",
-      "excerpt": "Germany news: Berlin losing its appeal for many Germans&nbsp;&nbsp;DW.com",
-      "timestamp": "2026-08-21T21:42:46+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORVkybUswUHNGV3JBSm9CcmVsU1M0WU5CY25GLWZ3ZGVGTWFKOUg5TVFNZG1rUGh3eExsSHo0TUVPNXBqMFFxd3VEUW14WDY3UUx4MVVodS04QllZclBrSkVOZDY0SXkyd0xpVHFfb00xTnZxTlpjajI2QTJOZXlJU21Dcl95ZG12bUE?oc=5"
-    },
-    {
-      "id": "germany-3",
+      "id": "germany-4",
       "source": "The Times of India",
       "title": "Germany’s Drought Crisis Is Now Hitting Its Economy, Raising Costs And Inflation Risk",
       "excerpt": "Germany’s Drought Crisis Is Now Hitting Its Economy, Raising Costs And Inflation Risk&nbsp;&nbsp;The Times of India",
@@ -9866,7 +9874,7 @@
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMjVvSUNDTjZQSEFTWXZvT25tNEt4QVlzWkl5UTFTQXpOZTlUUUNYRm9xMHdobTV0SHlJWHFFWGJTUnN1ZnBaT25oUkRNYlZDVDFPdXYwZVlkTnlYVHdzaGdaTmRzb0RjWUxOVDdXOXpLa0M3dERmQnhsbnZSTDZyQWt2czFONVlDc2lYNGJzZVhCd0FKWWw2WXZpT19xcm9mb1FIVEd3OVZYaFdodTFNa3hTaTNNRG8zZ2w4aFNEQ0NmVWEtdjM5NzBVRnNVZU1tOHVQaEdQRXJxT1NIQWVrN1pQLXNqaFlwV3ZncjNkMEIxQW5RWWVLNdIB_gFBVV95cUxPSmwzeXF4bVFRYW5lMzdOeWF2MkNwczVyYm1hNjZrNXN2clBpQlNkRmd6NUp0bWhqMkM3UElXSFB4MVhkZ2JnOUdlUWJNNHhLdDBZZ2tCWGNkMElTdmhzWENqbFNPOElTSVVwdHpJVWVPNGp0VnZQUURrSDdrLUZibXpxeUFEclVaeFNrV3d1b1doNHJKN2ttU21zWjJTNUNsakNERlZ1TTY5SjRYQWo0UzA3VWZjS0hRdzdNUkI0anZLZjRiLW5kcjhXTnR6SWNqbTgxdDc4WkdINnpvakdtSjNxQ3BmUnYwMkx4UkVNb3NHbWVXMGtNOVg3Rk5Tdw?oc=5"
     },
     {
-      "id": "germany-4",
+      "id": "germany-5",
       "source": "DW.com",
       "title": "Germany's Climate Crisis: Why Politics Struggle To Keep Up",
       "excerpt": "Germany's Climate Crisis: Why Politics Struggle To Keep Up&nbsp;&nbsp;DW.com",
@@ -9874,7 +9882,7 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CZmljTHpKdEwyMEgxM3NRbmNEN25qbVRzY1JQRXkySzN4Vkp1Z0pIUTlnRFBieFJuMzkyTFRBN0ZTNlE1SkNBTFlQWGpYaFNnZVMybktzaTItZS10T21oUktXMHVPMTU1?oc=5"
     },
     {
-      "id": "germany-5",
+      "id": "germany-6",
       "source": "dw.com",
       "title": "Germany's Climate Crisis: Why Politics Struggle To Keep Up",
       "excerpt": "Germany's Climate Crisis: Why Politics Struggle To Keep Up&nbsp;&nbsp;dw.com",
@@ -9882,7 +9890,7 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92NDlvV2hISTY1amQ3Z1JzUXE1OXVMb0xWYXFOM1FfRjFmSnFMbWdZR3I5UHRpd2RNTjU3T2ludFFrNjNJd1hxVnluRk5TalhMaDk3elduTjJVMDB3eGhPT28zVlpjX3Yy?oc=5"
     },
     {
-      "id": "germany-6",
+      "id": "germany-7",
       "source": "Bloomberg.com",
       "title": "China ‘Not Playing by the Rules,’ German Finance Minister Says",
       "excerpt": "China ‘Not Playing by the Rules,’ German Finance Minister Says&nbsp;&nbsp;Bloomberg.com",
@@ -9890,7 +9898,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDd4U0hwcjlQQkZjaFN5TG1BWG0xdHR3SlVkTUxlUXdBU2E3V1k3cHV2NkRFMGtwMk9iY2dWa2hhZ2phbnc5aFotU0F6dlU4aGtVQXBQR1FvSHJiTkk4TEMydTRXTEdlZ1JwSWdMZVNHNHA0WV9CSFZoanp4X3BOYXdyVEgyNVJSLUFHcTY0Wk5wUlJPamZaOXhrZWRtSm5oejV0NkZPZHpZRklBYTdn?oc=5"
     },
     {
-      "id": "germany-7",
+      "id": "germany-8",
       "source": "WSJ",
       "title": "Low Rhine Water Levels to Slow German Economy, Bundesbank Says",
       "excerpt": "Low Rhine Water Levels to Slow German Economy, Bundesbank Says&nbsp;&nbsp;WSJ",
@@ -9898,7 +9906,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdm5FYTNsU3NidUR5amdsUWxOOTlZOWh4NUJDa0t4bGlOZzJKUHNlN0FiR0NEcGZDdVZRNUNuM0ZSM0xVajJ4dTBCemFqMjRoZTVMUElZbzkxbzh1d2RhX3l0a3FsY3JOX2VmZjMyMnVVTllyWUZGMVZXUC13V09vMjhVMFNOOVVxaEFLazZOM2FOVmV4OTgxcFJjaG9xdGlnTzl0R1JLZkJIc1dpd1Nz?oc=5"
     },
     {
-      "id": "germany-8",
+      "id": "germany-9",
       "source": "Finimize",
       "title": "Germany’s Shallow Rivers Are Starting To Hit The Economy",
       "excerpt": "Germany’s Shallow Rivers Are Starting To Hit The Economy&nbsp;&nbsp;Finimize",
@@ -9906,20 +9914,12 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkxMcExvVHJWT3VoS3NXTXlhWGpJTkdfTWFHc3J5V1JlRURobGF5b29UNzMxWGgtaFhXdU5IcjVQcXdNYmpaa1dSVDlTNzFnN3htZzM1czdDOFlqajlsa3d6Q1NvTjhGZ3RMdjYtQk1YRllTUFgxVVE3MDJLbnUyLTBXTS1WdlhOWGNxNw?oc=5"
     },
     {
-      "id": "germany-9",
+      "id": "germany-10",
       "source": "Anadolu Ajansı",
       "title": "Germany’s trade surplus narrows to $123.4B in 1st half of 2026",
       "excerpt": "Germany’s trade surplus narrows to $123.4B in 1st half of 2026&nbsp;&nbsp;Anadolu Ajansı",
       "timestamp": "2026-08-20T08:29:19+00:00",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ1IxdnFmTUI1SHVjbGNMLWNONHVBTG5FcFc3QlRTangzSWxiSmQ3SnlPbjFDLU5zVm41WmYzSGhOQXY0YzdPdk9rNVFmLTRuV3JKTDV4RUJudWgwOFYyNTJWOExkcHpwek1TXzVEbkoyVWxnZHljX1Fqczk3TktNX1R2eTEzZEd6R1FTNHJpZ2UxNFZlc1REZHB1VXZjY3VJQnJz?oc=5"
-    },
-    {
-      "id": "germany-10",
-      "source": "Armenpress",
-      "title": "Armenia, Germany discuss expanding trade and export opportunities",
-      "excerpt": "Armenia, Germany discuss expanding trade and export opportunities&nbsp;&nbsp;Armenpress",
-      "timestamp": "2026-08-20T08:14:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vWFdKRkFzaTV3SkJvSkNwVGZ4b2JURjgwV08waHFFTkRIa3o1djdza20zMFdjTE1WaFY4V1BQRVVjUVQ0LTZUSEh5c0R3UlJYM0HSAVdBVV95cUxPckcyQ2p1Z1ZGMnp4WW5LWWRtSTFyYk0wbk1GclZjZVZsRGhxeVUzUXkyYzNudTlVTXRvNFh0SDR5YWdyUTllQU51MW9JSWhhU1U4bnRULXM?oc=5"
     }
   ],
   "Bulgaria": [
@@ -11812,13 +11812,21 @@
     {
       "id": "azerbaij-1",
       "source": "trend.az",
+      "title": "7 projects worth $500M under review by Azerbaijan-Uzbekistan Investment Company - minister",
+      "excerpt": "7 projects worth $500M under review by Azerbaijan-Uzbekistan Investment Company - minister&nbsp;&nbsp;trend.az",
+      "timestamp": "2026-08-22T10:57:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuaFpRMHgwSkVPTUxEc1FMWmhibThEbzc3dVhGVWc2MmctVnhrR0gxU1hOSjZQTnlPWmZaMG9Hd3JuMHVLS1hHS2pmZlVVWklwWTZ4Y1FLd1ZseE9PaWVJYVdDRQ?oc=5"
+    },
+    {
+      "id": "azerbaij-2",
+      "source": "trend.az",
       "title": "Azerbaijan’s ambassador to Costa Rica presents credentials to President (PHOTO)",
       "excerpt": "Azerbaijan’s ambassador to Costa Rica presents credentials to President (PHOTO)&nbsp;&nbsp;trend.az",
       "timestamp": "2026-08-22T05:54:31+00:00",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qNnJfUlo2dnNkdHBkS2RFbFVPck8yZDBMOW94aVJhdXVsejI0eFBPN3R1VkRoRzhFNEh4MkpUOFpPakpQVEZTWl93NFNCVUVGaG82SVFkdU1TUG5yZUZIb0UxQQ?oc=5"
     },
     {
-      "id": "azerbaij-2",
+      "id": "azerbaij-3",
       "source": "trend.az",
       "title": "Azerbaijan reports increase in trade turnover with China",
       "excerpt": "Azerbaijan reports increase in trade turnover with China&nbsp;&nbsp;trend.az",
@@ -11826,7 +11834,7 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Id3NTSWZUalZueHlSOVczS0tmRWxVUllHZ2hCLURScmx2U0JFQkE0VWxfNVZSOHlRUHBCQVhET0ZuMWM3NkdEVHU1Nzh3VzhFQzFJYQ?oc=5"
     },
     {
-      "id": "azerbaij-3",
+      "id": "azerbaij-4",
       "source": "trend.az",
       "title": "Practical steps beyond declarations: How Azerbaijan and Uzbekistan turn agreements into action",
       "excerpt": "Practical steps beyond declarations: How Azerbaijan and Uzbekistan turn agreements into action&nbsp;&nbsp;trend.az",
@@ -11834,7 +11842,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrMmlMWF9oV1dsMTVNeWRpVnlMM2xFVVI0NDRBTHlsaUhJSWRRS0ViV2JHNTZsbV9HWHY3djNtaWdNcVFTT0Q0ZmMyME5WbHpLY3BhVUVWLTlIVHIzUVVIeWhlYw?oc=5"
     },
     {
-      "id": "azerbaij-4",
+      "id": "azerbaij-5",
       "source": "trend.az",
       "title": "Economic opportunities in Azerbaijan and Uzbekistan open up broad horizons for creating new cooperation formats - President Ilham Aliyev",
       "excerpt": "Economic opportunities in Azerbaijan and Uzbekistan open up broad horizons for creating new cooperation formats - President Ilham Aliyev&nbsp;&nbsp;trend.az",
@@ -11842,7 +11850,7 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GVGhPaTV4ZEM3ZUJOZjQwQnB6T1BldWxCOHRyRWNkZHJMdFpxM2pJdEM0YjBZNGNUN1RxNk4wOGtiZ2NLRi15aFVtaHZWanFva3E2U3dCME1IWVVhRFhYMU9PRQ?oc=5"
     },
     {
-      "id": "azerbaij-5",
+      "id": "azerbaij-6",
       "source": "Report.az",
       "title": "Green energy key to diversifying Azerbaijan's economy, UK envoy says",
       "excerpt": "Green energy key to diversifying Azerbaijan's economy, UK envoy says&nbsp;&nbsp;Report.az",
@@ -11850,7 +11858,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNl8xYkstZnk0Y18xWjBkSDJHcWI0Q21tbTl2OURmczEzNXFjYXBNSjFUTmF1VlNDMVZrbGJOVU1adEZCakZMWGpwOXBzYk5jcXROa0swZ0FDUnl0R0NYLTlfcjhyaTZNeUJiUThndUZDQkMxNzhidXgxTGZWa2VDSGZxM3h0QzFMQkxxQzQ3QzRmMmFheVJjR0dtSXdNU25hcUxzUUJqanXSAa4BQVVfeXFMT1c3ZHZ4ZDllSGhnSkNTeTF6Q1dfZTFQM1dwTFNFTG8zMnh4ajhVUGFXVGJwSTFJc1NTRzJyeXlDLXB4TU9KSUREdzJ2ZVNEbjgwb3FEczFLNlctTTB3aTdTRkNZMm1xamNJYkc4WjRNWk1tUDJMTmNlSjhOc1V6ZWNvLXRuTzNzd3FtVUZ5Q29tTWNZWHF0Q3FXZnhUb3cyMWQ3S1htdXFKYzRDVGVR?oc=5"
     },
     {
-      "id": "azerbaij-6",
+      "id": "azerbaij-7",
       "source": "Apa.az",
       "title": "Central Bank of Azerbaijan warns citizens about foreign investment platforms",
       "excerpt": "Central Bank of Azerbaijan warns citizens about foreign investment platforms&nbsp;&nbsp;Apa.az",
@@ -11858,7 +11866,7 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTjBXaFNLSjhRbC03YlpGWEF0aG5EQlRrckh4bjlNbTFwdTBnZnhma242dHE5bGVzYmktZ25TYTgwRzhYRFhvX3gzV0FDM21EbVcydkFPM19QTTJzQzc3SkFaQVdwSHBmeGVQU1dEZ2FHMXFSbEFrajlEZGstLTlKM0Q3eWNpNHRQUEtHUUR1eEgzdjhhR0VGMHVLRDlyZ1BULW84Y1VBSHJKM1ZDRUE?oc=5"
     },
     {
-      "id": "azerbaij-7",
+      "id": "azerbaij-8",
       "source": "Caliber.Az",
       "title": "Turkic States Security Council secretaries to meet in Azerbaijan",
       "excerpt": "Turkic States Security Council secretaries to meet in Azerbaijan&nbsp;&nbsp;Caliber.Az",
@@ -11866,7 +11874,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzZJOUoxc1BFWFAwVUVRRE9mWERTa1pHeU5qcGh6RGhJRGNDd2hYQXUtQUhqZkNpbm52SXBRc295TEVpWXZCckpaX2RDS3pVQkdlWTNKc2MyNURwNE5VOWdRUjU3dmpJdkNMLXh5OUQwTEUzT1hfZWNIWUM4Q0VyeDBERWFveWNmYlBHcWFWSm9tby0zaC15VE4wWUc?oc=5"
     },
     {
-      "id": "azerbaij-8",
+      "id": "azerbaij-9",
       "source": "Azərtac",
       "title": "Azerbaijani President approves State Tourism Development Program for 2026–2030",
       "excerpt": "Azerbaijani President approves State Tourism Development Program for 2026–2030&nbsp;&nbsp;Azərtac",
@@ -11874,20 +11882,12 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON0RxQVBMcGJRdzU0SFlKME1kTFdJMU9GSHA3WnVZWVFoY3pvaDVZbjY1ekx0cVlYZFNnVkh0cjRDRlNDTDdVWmQ2bWdWcEIwdHdKYXdKQ2YtVU9QenFfN0Q3NDNnRXJUZlBmbnNhb0RLc25mbXR1a1FNZzd4ZWJPTWprVVEwZlI5M3U0c1FPZnhJT3ZKOWxjWDd3cUVPTzNYd1FDck90bHpSMkZCeEcxa19KOXo?oc=5"
     },
     {
-      "id": "azerbaij-9",
+      "id": "azerbaij-10",
       "source": "Apa.az",
       "title": "Tourism’s share in Azerbaijan’s non-oil economy targeted to reach 8.6%",
       "excerpt": "Tourism’s share in Azerbaijan’s non-oil economy targeted to reach 8.6%&nbsp;&nbsp;Apa.az",
       "timestamp": "2026-08-20T13:05:41+00:00",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlRXeVV1VUVXTXVFX3hrY3ZZZUZPOE1rdHQ0cm9kQ0x1dVZyeG1uQUFKYk9CZlF2ekt0NU1GMEZ4djlHbjdmWndBTGtPdmF4MjhVZ1JEVkZFY2tsQktvSHhaQy1udEtRZzB4anQzUzBfRGhmM1VTQkxXMFJjbVl3ZjBHSWRtX2p4ZkNfaE9KOWtXdzJndUM2TWx0LS12UGJF?oc=5"
-    },
-    {
-      "id": "azerbaij-10",
-      "source": "trend.az",
-      "title": "Azerbaijan approves State Tourism Development Program for 2026–2030",
-      "excerpt": "Azerbaijan approves State Tourism Development Program for 2026–2030&nbsp;&nbsp;trend.az",
-      "timestamp": "2026-08-20T12:28:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yOUI0ZFV0RzFvQzV3RTEzeFE4QUNINXg5VVFNYkNJR212a1pmOVdnVDZjOUNmUGg1TXZoSXR4Z216ZklRWU5feWRka21ISEFRU3Znbmk4RnF6R0FkbG51RHNIWQ?oc=5"
     }
   ],
   "Georgia": [
