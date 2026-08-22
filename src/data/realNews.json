@@ -248,19 +248,19 @@
   "Canada": [
     {
       "id": "canada-1",
+      "source": "NBC News",
+      "title": "Canadian Prime Minister Mark Carney calls new U.S. tariffs ‘a miscalculation’ after trade talks collapse",
+      "excerpt": "Canadian Prime Minister Mark Carney calls new U.S. tariffs ‘a miscalculation’ after trade talks collapse&nbsp;&nbsp;NBC News",
+      "timestamp": "2026-08-22T18:48:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5"
+    },
+    {
+      "id": "canada-2",
       "source": "The New York Times",
       "title": "U.S. Economy Could Feel the Sting From Trade War With Canada",
       "excerpt": "U.S. Economy Could Feel the Sting From Trade War With Canada&nbsp;&nbsp;The New York Times",
       "timestamp": "2026-08-22T17:25:42+00:00",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd3Nrb2tXbzZxNS04eG94c1lmaTNJdndWS2NCcmhlQ2dUdnJjSEhGVnZHbHVjdEFZU3huOWEwakhGdFJMR2xIcGUtcDNtOE95Q0RySzVsRWtpRnl1cFoyYm5tclpuWXY5VU9McWVUbXpld1NSVlg0dzRfdDZHVGkzZE1n?oc=5"
-    },
-    {
-      "id": "canada-2",
-      "source": "NBC News",
-      "title": "U.S.-Canada trade talks collapse, setting new 50% tariffs in motion",
-      "excerpt": "U.S.-Canada trade talks collapse, setting new 50% tariffs in motion&nbsp;&nbsp;NBC News",
-      "timestamp": "2026-08-22T15:50:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa2RBa0xGOG9rdlNQbG53UEhIMXVBb2lhVllhVmRqUzU2bFZpX1RtV3ZMMXZkbXpFMEFpMV9oT0M3aEpMbzdzcWw1SFlaVWNqWGJZYzJ2bml0djNLSG5jQk41WjNVV1FBR3RUdm1PQ1AtanRLcmxYcXctdVBqVU92Q0lydWdrdw?oc=5"
     },
     {
       "id": "canada-3",
@@ -6563,6 +6563,14 @@
   "Tunisia": [
     {
       "id": "tunisia-1",
+      "source": "The Fintech Times",
+      "title": "Tunisia: A Fintech Ecosystem Caught Between Cash and Code",
+      "excerpt": "Tunisia: A Fintech Ecosystem Caught Between Cash and Code&nbsp;&nbsp;The Fintech Times",
+      "timestamp": "2026-08-22T07:00:20+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjFtYVBaWmxuajdVSjZJWjd5NGhtQ0szQVloNklLZ09iZkY1MmxweWoyZExjR3luXzdZUkx2MUxTUWt5RlpBTy05V1dDZ0JwREU0MmVkMU96WTFyeGJ6UkdmWmh4b0NacVRWZ0liZmZmUFRXaExhNmRmdnJURGVkRHRtWi0zOUFfS0FNazFR?oc=5"
+    },
+    {
+      "id": "tunisia-2",
       "source": "Benin Web TV",
       "title": "Tunisia: growth slows in the second quarter despite agriculture and services -",
       "excerpt": "Tunisia: growth slows in the second quarter despite agriculture and services -&nbsp;&nbsp;Benin Web TV",
@@ -6570,7 +6578,7 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTJ2V0RlYkRNX2w5NHVzbnF1SkhfWUtJVHpCd3JkcjVIT3NORWpkWUxfSXBQV3g5WGNVUHlMSDJWMk9YaVUxOUp0MExza0cya0RTTHU3RUlEMEY1bW54Rk9NalloWklkRWZPSno5VFo1a1hNT0N4Qm9rRG1wUW41dnJvRW45UE00MWoyWXd3a2RnVEhEVmJXMXd5UjlhdW8xdk93?oc=5"
     },
     {
-      "id": "tunisia-2",
+      "id": "tunisia-3",
       "source": "African Manager",
       "title": "Tunisia’s economy grows 2.3% in Q2 3026",
       "excerpt": "Tunisia’s economy grows 2.3% in Q2 3026&nbsp;&nbsp;African Manager",
@@ -6578,7 +6586,7 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3OGh4Szl4M0p1SXVOcnBjY1o2VWUtVkVFTkJpbE5mUTY1NXBEdHN1QVhCM09Qb1ZWR2VQa25ULVhveUM3WnkyWXRuWkxELV9EOHZqVThmS1ZRNFdkNXVxUEdEalEzVTNUTDZnWUdiUEV3QXE0OXFJ?oc=5"
     },
     {
-      "id": "tunisia-3",
+      "id": "tunisia-4",
       "source": "en.africanmanager.com",
       "title": "Bank ABC Tunisia and BMICE partner to finance foreign trade in Arab Maghreb",
       "excerpt": "Bank ABC Tunisia and BMICE partner to finance foreign trade in Arab Maghreb&nbsp;&nbsp;en.africanmanager.com",
@@ -6586,7 +6594,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc2gwSWJEcXRsN3ZyRE5NSkdTSnJFUl9uMXRpSHpqb01mN2xScXcwNVpYdU5Sa1AzWl9zNy1pZUdXOHZRUDkxS1Y0MGt1SnVPWThfcW84Y0pBWFdiUFpmT1UtZDFqX1plQnJBM3VnRnAzaHdYejI4a1cwSnEyaUZfX2VXckNsbG00aVhuY3lqNVZFVi1VdVVvSHBEeFJWQXJPNXFFXzlUc19Odw?oc=5"
     },
     {
-      "id": "tunisia-4",
+      "id": "tunisia-5",
       "source": "African Arguments",
       "title": "Anatomy of a Failure: How Tunisia’s Democracy Was Undermined",
       "excerpt": "Anatomy of a Failure: How Tunisia’s Democracy Was Undermined&nbsp;&nbsp;African Arguments",
@@ -6594,7 +6602,7 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMTJQeU5qYjVrQkZDOGFTRnJyNFRlTVdqQ1ZSLVhXeHJkR3hrUXl0Nk5NUG9QWUQxWXhqY2ZkRmNuNUh2blR4OGs4YUpINlZud0pkTGswLXhwTnVWV05pYTRNUzd5VDNlc0IwVGRySjNXaVdTMzRKVURrckNrSl9lb2J1NWJLRXJKWEZHeW1KN1RiODl3VXdvalBTWk4?oc=5"
     },
     {
-      "id": "tunisia-5",
+      "id": "tunisia-6",
       "source": "Carnegie Endowment for International Peace",
       "title": "Five Years After His Power Grab, Tunisia’s President Has Only Achieved Failure",
       "excerpt": "Five Years After His Power Grab, Tunisia’s President Has Only Achieved Failure&nbsp;&nbsp;Carnegie Endowment for International Peace",
@@ -6602,7 +6610,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjBYT3Q0R25Hbm5nUXZ5eTRXaTBNS1g2VjNIdkNqN1NyUDV0WElKd1Fwa1k4eEZYeWxORkdWSTJCUXIwUnc4NDRpY2hFbVNYbm55N3ZaMUttMEk2ZjBmU1pmTFRrU0REVzlWa0ZwVDdtZ0NjLURaNERkZHA5T3BjMTMxejhHNVo0SVQ2d1kxd3BhYVpSNzdkREo4LWw0cTg?oc=5"
     },
     {
-      "id": "tunisia-6",
+      "id": "tunisia-7",
       "source": "Al Jazeera",
       "title": "Beneath Tunisia’s silence, public anger simmers",
       "excerpt": "Beneath Tunisia’s silence, public anger simmers&nbsp;&nbsp;Al Jazeera",
@@ -6610,7 +6618,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSUdfZkVoRkI0XzBMbmR0d3BwbE5GNE1TMHpwTDZ4czNSTEgxYi0xYmFkZ2RBenRWdFUxSV9rSnJjNU5fclAzdDJ1NG9lM0trWEY1T2Q5MjBaYWgxY2Z6UlVhQzVydnhQcU9LQmFodTlqSUtHY290cVBzTUVudWVnXzRSTzB4UGxFRjRjdVBzRDZqWFHSAZMBQVVfeXFMUElHX2ZFaEZCNF8wTG5kdHdwcGxORjRNUzB6cEw2eHMzUkxIMWItMWJhZGdkQXp0VnRVMUlfa0pyYzVOX3JQM3QydTRvZTNLa1hGNU9kOTIwWmFoMWNmelJVYUM1cnZ4UHFPS0JhaHU5aklLR2NvdHFQc01FbnVlZ180Uk8weFBsRUY0Y3VQc0Q2alhR?oc=5"
     },
     {
-      "id": "tunisia-7",
+      "id": "tunisia-8",
       "source": "Al Jazeera",
       "title": "Beneath Tunisia’s silence, public anger simmers",
       "excerpt": "Beneath Tunisia’s silence, public anger simmers&nbsp;&nbsp;Al Jazeera",
@@ -6618,7 +6626,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDF6V3BzYmVuOXU5SFZXTC1hbGh2ZS0tS2taNldoWEhJOEhYZ3lTNTV2amlsREx0ZXRseUZYRC15UEs1ZjctVkgwUGhYQWhPVVgzLUJJeHZuNWwzNHdSc3Y3NW1taWdYc0JDaWV4bWhKd05oaWhfbTk0UW9Md3FCUTRxLXp2NWE0RC1Td1BB0gGTAUFVX3lxTFBJR19mRWhGQjRfMExuZHR3cHBsTkY0TVMwenBMNnhzM1JMSDFiLTFiYWRnZEF6dFZ0VTFJX2tKcmM1Tl9yUDN0MnU0b2UzS2tYRjVPZDkyMFphaDFjZnpSVWFDNXJ2eFBxT0tCYWh1OWpJS0djb3RxUHNNRW51ZWdfNFJPMHhQbEVGNGN1UHNENmpYUQ?oc=5"
     },
     {
-      "id": "tunisia-8",
+      "id": "tunisia-9",
       "source": "Capmad",
       "title": "Tunisia: Central Bank keeps key policy rate at 7.00% despite inflation easing",
       "excerpt": "Tunisia: Central Bank keeps key policy rate at 7.00% despite inflation easing&nbsp;&nbsp;Capmad",
@@ -6626,20 +6634,12 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmwxdS1OZkRqb1VDNGtfUmZHNEcxTVlRNDFvbTdxX09SaHN2dC1iZWJoR0Nfa3A1RUFHT3hLazF2cHNNaUNjcG11OHZVdWVKRV9TS1JsSWp6UldhZlVCYVF2WnMwdE9ob2xGY3lyYlhWOFRleHlrU0F5aXMyZnhGWUFUM1hWaGZ6dExtemFpeHBXZ3owdWQyTVpTOXcwT1ZZaWhIMg?oc=5"
     },
     {
-      "id": "tunisia-9",
+      "id": "tunisia-10",
       "source": "Mondaq",
       "title": "East Africa And Tunisia Push Mobile Money Towards Interoperability - Financial Services - Worldwide",
       "excerpt": "East Africa And Tunisia Push Mobile Money Towards Interoperability - Financial Services - Worldwide&nbsp;&nbsp;Mondaq",
       "timestamp": "2026-07-30T21:12:41+00:00",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT0toanE1Zkk0TEJjYVpYS1dpMDZ2bThlakFtUEFRanZhc19EQTgzZTI0WGpDMGp2OEtxY21mcGR5MnVmWlZQbXRPYkFLU3IzenNhbGo2bHIwY3R0djFtMzBrdXhFa3BWNkF2bmgzMXpSNFVzMExxeXlIbVBCUVZldWpDS3FmUkVaSXQtSHNKZmgzTzItNzNWY2tkUGoxUDhkdENHNlhVRERrdEhNd2wyVFlDeXBfVG41c0dhcjRRT2hDWkFkY1Rv?oc=5"
-    },
-    {
-      "id": "tunisia-10",
-      "source": "The Tahrir Institute for Middle East Policy -",
-      "title": "Power Cuts, Protests, and (Lack of) Policy: Tunisia’s Economy Under Pressure",
-      "excerpt": "Power Cuts, Protests, and (Lack of) Policy: Tunisia’s Economy Under Pressure&nbsp;&nbsp;The Tahrir Institute for Middle East Policy -",
-      "timestamp": "2026-07-30T13:24:39+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNm5JUlBnRVZ5U3VDSXIwMUdTNkRQa2dfcm1sYTdIbDdwTmJYbXhtMklhY0JFNUVlZ09LNWUyWkQ1Vmh6c3BhZ290cThEQWNJVk9DSDBwUHBYSFR6N0JJU2U5bllXN2paZXNhdjQ5bHhTc095OXBiUm9Pb1MzQklWN2pFMmY5R3RPTGlDOVJjTTFDOUp1eUgteW9WYTRscnBIZHc?oc=5"
     }
   ],
   "Algeria": [
@@ -8040,26 +8040,26 @@
     {
       "id": "banglade-1",
       "source": "The Daily Star",
+      "title": "Economy shows fragile gains",
+      "excerpt": "Economy shows fragile gains&nbsp;&nbsp;The Daily Star",
+      "timestamp": "2026-08-22T18:49:36+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0ZlRTNpZWhkdXdMVWQ4YlEtbUhwcnp3LTcwWmNlRkx6TDRiaVBRRVkyU3l0N3dNWi1FMlhYVkVXOGJCVFA1T0p4akgyamhLeWZPQmdIQlM5NC1PZW1TaWN0N3JGRVhWZnFCQTM0cC1RRXlfWlMzSGpHN0JVeVlkQlI1ZGZDZTdwZVRCM0lsaw?oc=5"
+    },
+    {
+      "id": "banglade-2",
+      "source": "The Daily Star",
       "title": "Energy crisis costs industry Tk 2,387cr daily",
       "excerpt": "Energy crisis costs industry Tk 2,387cr daily&nbsp;&nbsp;The Daily Star",
       "timestamp": "2026-08-22T14:53:38+00:00",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkxKVmR0T0RNM3R4cDc1azNManlDS1h1ODZITzc3VmhJMGNHQjZwTl9xLXZ0cFBuVm5BckRjT0E0UVk4STd1WjgwYlVQUmR0cFRKbUQ1cE5RSE9Md0hUajZEWjFnQW5tNVJOaHNYbC0tdHRhUVFHbFc5ZUdyTUdROE1FMGdLcmlPSlZuek8wejYzYWZVUm1DcW5NSVE5NFl4cE9yWm5n?oc=5"
     },
     {
-      "id": "banglade-2",
+      "id": "banglade-3",
       "source": "The Business Standard",
       "title": "World Bank reviews feasibility of Mortgage Refinance Company in Bangladesh",
       "excerpt": "World Bank reviews feasibility of Mortgage Refinance Company in Bangladesh&nbsp;&nbsp;The Business Standard",
       "timestamp": "2026-08-22T09:35:32+00:00",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lCR2E2eERMbXdPNW84VzdxNlpGYVpRNlJScVQtQkhvVjhMbmV1ZS1uQmdCWldpNVctSkd4Q2RTM2FBdlctWWVfa0VXbFRSSXBpMFVPa3JPMDl0N3VmWVNNam9GYl9vbkpIOFVFRlhkMFBsZTJ1ZTV3enZySVdDRkV1QWFKSjBVUlRiU09iVWRmT3RIYkZkVFl2UndjTWhwaXZiUGZ2QjNkMjFlamJfX1hZOUwwd9IBuwFBVV95cUxNaVE5V21qOE1mUWZJQkhUQWdRcW5TbDBMN2NYZ0VMVWFpeXpuSkF2S011TlJJU0w2N04xY1NjU2FSZTRvbFlRdmdQWHB5XzhxcUNzSGVKWXczN1R5b21OTmFvZUE2NzRMckUydlBBMDVmNVpCc1pyN0VOQUswNDNsdlg1WG9aV2JjYnJRTlZnTC1sTXRtWkNVakZYb1BfNG9wZzBzbmdhTUNOX0l3Vm1CdkNsM2tLbW9NMmw4?oc=5"
-    },
-    {
-      "id": "banglade-3",
-      "source": "The Daily Star",
-      "title": "Economy shows fragile gains",
-      "excerpt": "Economy shows fragile gains&nbsp;&nbsp;The Daily Star",
-      "timestamp": "2026-08-21T22:22:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0ZlRTNpZWhkdXdMVWQ4YlEtbUhwcnp3LTcwWmNlRkx6TDRiaVBRRVkyU3l0N3dNWi1FMlhYVkVXOGJCVFA1T0p4akgyamhLeWZPQmdIQlM5NC1PZW1TaWN0N3JGRVhWZnFCQTM0cC1RRXlfWlMzSGpHN0JVeVlkQlI1ZGZDZTdwZVRCM0lsaw?oc=5"
     },
     {
       "id": "banglade-4",
@@ -9113,6 +9113,14 @@
     },
     {
       "id": "ukraine-2",
+      "source": "Devdiscourse",
+      "title": "Pandora's Box: Economic Retaliation in the Russia-Ukraine Conflict",
+      "excerpt": "Pandora's Box: Economic Retaliation in the Russia-Ukraine Conflict&nbsp;&nbsp;Devdiscourse",
+      "timestamp": "2026-08-22T15:48:37+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSXpvdzNYa3ktNEx6US0zdW9naUwwTF9KdElDcmtWQXJxZm1yRzhKZk5QUnhrZU1vNWstaGJ6V1ZHLThiQlg2cGM1WHZNMlZvSlZlM2xGdjVRNUFsMjhqaTVOLUd0R0ZzMkxfTFRBclczRVpvOXZqWjZjRlRQZDVzVFB0OVphWjF1WDNJTDdWQ2lZZUp5T1RQTU5PakNFUnlHSHE5VWMtUDVzc1hBcjhJcTY5RHBveHo5dUHSAb8BQVVfeXFMTk9Ya0doS3dRRXFhc2JnOGliOG9XaExnTllUNzV2Mm9mZkFTblBEZDdyZnJxQUhRM0FYWHpXbzhsZW94cGhweXhJN2owUGZERmVOZGQtWHJiSGZ5c1FkX0huMTJHSUg0OWs3MTVpWG1HSkoyV2xaNXJ0WkZGbVdkY1FoQXhCdEhpVDZHRUdwU3lFMkRWT1ZSaDc0bE9FSnlfYXdnbEZEYlowSEN4eDFzSXdWYWR0T1Q5T2Y3SFJFOVk?oc=5"
+    },
+    {
+      "id": "ukraine-3",
       "source": "politico.eu",
       "title": "France to ramp up Ukraine support, says Macron",
       "excerpt": "France to ramp up Ukraine support, says Macron&nbsp;&nbsp;politico.eu",
@@ -9120,7 +9128,7 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0pKSlpCdFZoVGlLcHBFQUVic0llSENtaTZwY29GZHFCVXlLdkgtb1ZaSVBYY0ZQMGNwcnItbWdBdGVxNm03akhFN3NkaE9ROWVZcThQaGtqbURXWUthOGJGWmZTemJZQ0R0bW9mTUJFdjhFN2d6S3dSYXVJVGZsX1l5bEloU0cwMDNodjdKQm0?oc=5"
     },
     {
-      "id": "ukraine-3",
+      "id": "ukraine-4",
       "source": "Al Jazeera",
       "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
       "excerpt": "Russian expert warns of impending social crisis as Ukraine death toll rises&nbsp;&nbsp;Al Jazeera",
@@ -9128,7 +9136,7 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVBwd2JreGFKU0lXbkJxNllkYW9abUF6eUFCaGIyTFZCOW5lSm9XQklBN0hqQ0xhUlR4azVaLVdCd2tfRGVNNFE3VC1aRS0yRzN1SE9VUVRyMUVaRkpFWmtwVVMyNkVwNEhYbnIySUJSYTB5TF81cThVWkhjQ1l4eHNZV3E5MDlKNXNITnF2RmQxMVM2MGM0Z0NLVks1R3hTWERNd2RFcFFLWlFQTW9ScEg5aG5WMjTSAbwBQVVfeXFMTnc3MEJELXVpWFZQMElTTGNXUTItSElDQjJfVWU5TFN1UTlOeGstX1NwLTh3Z04wWURaTjBIcm5SMjBKMEpZcWdPX1ZQbGs4TVFRQkZwVmxqbTVUbFRaTWJIc1pVMWlHLWE3V29BUGdxOWNReUFHSWl0Uk8wemZQeXhxLURBazd5ZFUxTG9iekJ0VzdoaFZ0dkczczJvdWktaEE4d1RsR29NMGQ2TkRUVGs0dGNXSUNjSE1oNGQ?oc=5"
     },
     {
-      "id": "ukraine-4",
+      "id": "ukraine-5",
       "source": "Fox News",
       "title": "Ukraine’s ‘Equalizer’ bomb aims to blow up reliance on US, European weapons",
       "excerpt": "Ukraine’s ‘Equalizer’ bomb aims to blow up reliance on US, European weapons&nbsp;&nbsp;Fox News",
@@ -9136,7 +9144,7 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWdvb2V3ejMxUmNZY2RJNk5ybElBOGVXNi1GMndmLXFtOFhMQ3BXV1ZWTEdTZ0lzcS1nODlwOW1xMW11RzdwdjFLUWZaWVo3QUtoY3Vkd0w0enYzRkY0NzNwQW1UV3k3Ti1oQVRSaFhXX2hCeHV0cFg5S2ViTXRMcDg4S2lQOS1jZWpfbUVGRkJjNVk5b2d3UmNXTdIBoAFBVV95cUxOUnJOWUwybUg0YkRzX3NHTHB6OEI5QWVkRURjLVhGZkg2RGozVnVWekw5U2FjZEYxN2MtOTJyOFFfRlBqRTBBbzVyVkhHNXMzOUtYZVh5Y253YzBrckRaWFh3dHBTNjBCX2lpeFRWb1dLaU5NWFRaMlVfcGRfMGlGR05OUDJiNXIxdHFmTmRvcmFRcjlhZF9SVDVXTDJfN0Vs?oc=5"
     },
     {
-      "id": "ukraine-5",
+      "id": "ukraine-6",
       "source": "Atlantic Council",
       "title": "As pressure mounts on Putin, Russia is escalating against Ukraine’s allies",
       "excerpt": "As pressure mounts on Putin, Russia is escalating against Ukraine’s allies&nbsp;&nbsp;Atlantic Council",
@@ -9144,7 +9152,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTzY4MktuSmpabjRvZnpaZU5WN1lRZi1kZ2oyWTNUUFhMenlFM0pfWXdkaHdSSU56cWUxV0p2b25kZHpJSnU4b1hoNnV2WmxJOFAybW0xRzVZbF9yUURDWUtCb3phcU83UXBKc1dLalV1YUcyRXhUd3pOT3IyN1Y1c2NKX09tanNlclIxQ3U4Sk5JRUxGNDRUMjZja2VSTl9mMEtZVmMwQ1JiU01kX0stTUZfczJaQ2JYNElPQk90eUd4Zw?oc=5"
     },
     {
-      "id": "ukraine-6",
+      "id": "ukraine-7",
       "source": "Українська правда",
       "title": "Ukraine's PM tasks Finance Ministry with selling Sense Bank and funding Ukrainian military with sale proceeds",
       "excerpt": "Ukraine's PM tasks Finance Ministry with selling Sense Bank and funding Ukrainian military with sale proceeds&nbsp;&nbsp;Українська правда",
@@ -9152,7 +9160,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tV2djNDk0RG5HOEJIaGFOWnVjQnNRbE9zby1Td0hxZndfckViWXAyYzNEV082Z0JyMnFhR19QYU52amNxWTJPMUZFMUhWdFdCR1ZOeVBLcWFFZ21aN1A3c1NyU2LSAXBBVV95cUxNdEYwUHM3bUdrbE5Odmo2RFRwMDRHVjVwRENIOTE0Vm1BRHFnakpEMEZnek81RE9BMUptSURTZXZqS0ptMWRKUTBTSXVJNnE5VXFxa0lCWGFsQzAyWVV5aHdOemxkcGt4NkpSdExKdmI1?oc=5"
     },
     {
-      "id": "ukraine-7",
+      "id": "ukraine-8",
       "source": "Kyiv Post",
       "title": "Fedorov's Political Gamble: Fired Minister Calls for Wartime Elections, Alarming Even Supporters",
       "excerpt": "Fedorov's Political Gamble: Fired Minister Calls for Wartime Elections, Alarming Even Supporters&nbsp;&nbsp;Kyiv Post",
@@ -9160,7 +9168,7 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GY1JMd3lBR0U3eE1yZDJoTmpxOE1TTGtXUVdhQS00dC1YLTkwQUx2MWl6WV9TZ0pFZTlGYXdjZlVoc2IzaFUwQWFBQQ?oc=5"
     },
     {
-      "id": "ukraine-8",
+      "id": "ukraine-9",
       "source": "Kyiv Post",
       "title": "Putin Says Russia’s Economy Remains Positive as Attacks Damage Logistics and Warehouses",
       "excerpt": "Putin Says Russia’s Economy Remains Positive as Attacks Damage Logistics and Warehouses&nbsp;&nbsp;Kyiv Post",
@@ -9168,20 +9176,12 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DSFZTQmhBeDZmRlUzeVpQdUZjU1FjSVhHUWFSQ2E5WVRwU1FoOTlwMzZUZm5KTmpFM1NKbWE1ZWZIUnYxNGFOSzdrRQ?oc=5"
     },
     {
-      "id": "ukraine-9",
+      "id": "ukraine-10",
       "source": "TVP World",
       "title": "‘Operation Forest Gump’ targets Ukraine’s political elite in corruption probe",
       "excerpt": "‘Operation Forest Gump’ targets Ukraine’s political elite in corruption probe&nbsp;&nbsp;TVP World",
       "timestamp": "2026-08-19T12:55:21+00:00",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWp3SUh2RGh2RUFsNkctcEhlelFrYklOdEVwVU5KQlE3TlphY2NlMTNzQWU4UXNGemdwOWctOGdwYmZqWW52bFUxSmtfdWJlZU1vUjg4cENxYnphMk9xcWNXcTFhdGJVRjBVbWM5R2Y1dng5SzVRalRIY0FSaWRfeTM2SXcwYVJGQ0d1SnZVUTJTenV1QjVESms0bzBNUnYxX2RGdEJfdWJYSk5a?oc=5"
-    },
-    {
-      "id": "ukraine-10",
-      "source": "TVP World",
-      "title": "Russia and Ukraine trade overnight drone strikes",
-      "excerpt": "Russia and Ukraine trade overnight drone strikes&nbsp;&nbsp;TVP World",
-      "timestamp": "2026-08-19T07:58:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUUlOdmpuZlJWQkF4VXViQzZ4NHF6MTVFWXpjR0szb0g2aHJTNEJwbERiY1VuMGRCbW05RkJPajdBR1QzWE1LWGYydmlrelNtWkJMUk9RRWZnOXF1RjdKNy14aUN0dkpMRkNYb0QtbldwTnZUSkJ6c3B0LUdDejRjN3pB?oc=5"
     }
   ],
   "Poland": [
@@ -10335,6 +10335,14 @@
   "Switzerland": [
     {
       "id": "switzerl-1",
+      "source": "latination.com",
+      "title": "Switzerland is sucking in more of the world’s wealth despite already being home to 89 billionaires",
+      "excerpt": "Switzerland is sucking in more of the world’s wealth despite already being home to 89 billionaires&nbsp;&nbsp;latination.com",
+      "timestamp": "2026-08-21T20:29:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kMjgtcTFUNzNuSEZ5TEVKaVlwYUg4b0Q3Wm1ua3RKN3FZVTlxcGs0VmVyM3lwWEt0RzZtUnZtQ1AyZEJxdnNHNDF4eDZZemYtLWx1UUFrX2lQUnBDQjBzTU5ya05lcG1jdXhFLTFmcw?oc=5"
+    },
+    {
+      "id": "switzerl-2",
       "source": "The London School of Economics and Political Science",
       "title": "Can Singapore Become the Switzerland of the AI Chip Economy?",
       "excerpt": "Can Singapore Become the Switzerland of the AI Chip Economy?&nbsp;&nbsp;The London School of Economics and Political Science",
@@ -10342,7 +10350,7 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaG9INVcwMDVoc0NnXzFMY2dheVY5Q0tpTFNWRUZJcGlKYVlrNF9GaTVvV1EtamV2cEsxazBPMVZ3MDFGbEZ1ZHkxOHhzbFllMEpSaEJHcGtOYUtCWVd1akVjNDZ5M1dsZVFQaGFpc1REdzF6b2d4YWN4NGVtdDI1YTJJVk1QYkZJYkQxZEZHTUthc3o1U2U0NkxvM19rcFViN1E?oc=5"
     },
     {
-      "id": "switzerl-2",
+      "id": "switzerl-3",
       "source": "Statista",
       "title": "Monthly central bank policy rate in Switzerland 1957-2026",
       "excerpt": "Monthly central bank policy rate in Switzerland 1957-2026&nbsp;&nbsp;Statista",
@@ -10350,7 +10358,7 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWTZua2dISUNubEdNMkpITE5hRjJvTFRxMk9RS3prYWU4UnZwX3RjVW5lOWRQWGRhVGhtX0tUUkpQNmVsTWV5T0NfVVhfLUpyLWpzVDRwTndjLVVPX1RycFNURUU0ZXcwOTlzMlc3MmxVQ092UHNWd0dSbmNxMkJCQ2RyWGhpelpLOTFKWWIwN2h3bm8?oc=5"
     },
     {
-      "id": "switzerl-3",
+      "id": "switzerl-4",
       "source": "Yahoo Finance",
       "title": "Switzerland’s Economy Finds a Pharma Shortcut",
       "excerpt": "Switzerland’s Economy Finds a Pharma Shortcut&nbsp;&nbsp;Yahoo Finance",
@@ -10358,7 +10366,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVktFclBWczRnWFVOX1BLN1lMN0kzZUw4T0UtSXhaSGNmLVh1WEMxM0RfTjk0dlh4VjZndUc2RGpDSWRLUWtMN0dTaGxPUUVubmNoRlg1ZzA0cU1HOGJ6Y0ZGTWF5dndtTDhZanRhQ3gzLUtvUUtVdllDLTVSdjlWV19JbkVJMldvRHpxcThlUXN5TGVERmFkellNbnhjSVhU?oc=5"
     },
     {
-      "id": "switzerl-4",
+      "id": "switzerl-5",
       "source": "Aviation Week",
       "title": "Switzerland Plans Tax Hike To Finance Defense Modernization",
       "excerpt": "Switzerland Plans Tax Hike To Finance Defense Modernization&nbsp;&nbsp;Aviation Week",
@@ -10366,7 +10374,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3FFRDFpOTlkRV9wOG15eFZNODBjbUhyY2VsNk80YjZMY2lpUHY0N0otS3dpVVMwd094YVhxajA5QzRPSV92UFNqRjVTakFjTHdCd2xSejczQ2MxU2QySXlWOTkyRTJFVE5CQzZIMkJLT1NMQ0ktVE1aWkRxYTMwVmtqSVZydmRqRllzWTFCTlNaRFd4TFlNLUQzdl9ta3hMYXNfN0JYRmNEZC1WTVpFSXJhX1g?oc=5"
     },
     {
-      "id": "switzerl-5",
+      "id": "switzerl-6",
       "source": "Euronews.com",
       "title": "Poland now sixth-largest EU economy, ahead of Switzerland and Belgium",
       "excerpt": "Poland now sixth-largest EU economy, ahead of Switzerland and Belgium&nbsp;&nbsp;Euronews.com",
@@ -10374,7 +10382,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG4zUUhUV3lvcjJybFJHQlI4cjZwUzVMMGpQY3lVNlhSb3NmQ0pSbzRUcDJfczdqUzU5VUhTQmk0VkxROE1OSHg3RWtOQVIxajRBLWREYm84Ujc3TnFKZU16RW4zdUt3eG16SG5STVViQk1UQk1Ed1RWYmtWTUhkeTkyRnFsTlg4V3JzXzE4UlU3NXV4Sk01Vk11NzNvRXJhUnpMNWJXTVhxNmRpdjFUdlVBTQ?oc=5"
     },
     {
-      "id": "switzerl-6",
+      "id": "switzerl-7",
       "source": "en.qdnd.vn",
       "title": "Deputy PM urges stronger Vietnam–Switzerland cooperation in finance, innovation",
       "excerpt": "Deputy PM urges stronger Vietnam–Switzerland cooperation in finance, innovation&nbsp;&nbsp;en.qdnd.vn",
@@ -10382,7 +10390,7 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOVpwWWxRSExrQnBKUm5BdEptYzJfNGNJaUNyN1FwTnVHMktfS1JqRjdDNm5hMUQyM01fc3pJYmNDQlFJbW1FVVg5Y1pITTVuMlpvcG5xd1UtUjNweXMybDlhc0VWNzN6Z2tWRGJoQXplRnpWZ2I4SzVCMUlIMFYxblIwX0lRamlPOEQ1OVV2YkJkckp3aHh5c2hiQ0k4enFWSVAzYWxmdUtqTmxQVnFzY0NuSnhKbFFNWWRfN09oZGhyeUF2SmduRXFSaHJVUy1vR0xUZQ?oc=5"
     },
     {
-      "id": "switzerl-7",
+      "id": "switzerl-8",
       "source": "securitiesfinancetimes.com",
       "title": "CMU OmniClear creates direct linkage to Switzerland’s CSD",
       "excerpt": "CMU OmniClear creates direct linkage to Switzerland’s CSD&nbsp;&nbsp;securitiesfinancetimes.com",
@@ -10390,7 +10398,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdnVXYlRHcmJjMXo3SFY1LThfSHFuN1FwcHNpcWZwNG9tdXRxT0xhVV9sT1lqYjhlOXdkTWpfekNDcDhVTGVoYUlJV21Lc3FvOUsyRFJvTnhQRlZhdTliV0U5RXgwV096WmZLSFpFZlVvMU9MakNJNzM1dmp0UElpSkZVVEtBbllwLVptZG96ckx3bWZxS1ZtVFF5dy0xWGM?oc=5"
     },
     {
-      "id": "switzerl-8",
+      "id": "switzerl-9",
       "source": "Vietnam+ (VietnamPlus)",
       "title": "Deputy PM urges stronger Vietnam–Switzerland cooperation in finance, innovation",
       "excerpt": "Deputy PM urges stronger Vietnam–Switzerland cooperation in finance, innovation&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
@@ -10398,20 +10406,12 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdmluVjk2ajRLRDJVYV9ETjN4dldfS1M5QWREalp5Z0lXTHBiT1JxRTN5dHRqYWNpZ1k4Q1NtQmhkaUVXOEw0UmlnVC1ScVpPdm5NMWRaT2FKNk9iQmEyQXV4cmtQTkZsbG1ub2IzaUw3T1JpS2g4Ymp2NWc5aFJtdVl6MXFsUTBabWhuNnhxRENpWS1rTGJVM2tjNnFlNWc2NUFfcHBVM3FPN3V1aEFJTlhVMVZvMVJkZmc?oc=5"
     },
     {
-      "id": "switzerl-9",
+      "id": "switzerl-10",
       "source": "Statista",
       "title": "Monthly inflation rate and central bank policy rate in Switzerland 2000-2026",
       "excerpt": "Monthly inflation rate and central bank policy rate in Switzerland 2000-2026&nbsp;&nbsp;Statista",
       "timestamp": "2026-07-28T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWnZvNUpaRUJuOTJ5dkRoeUEzTmE4OGYtWVAzRmpVVVFBeHI2ZmpMeks3bkNqMk5RdVVCdktWbzB5OVhSWmFEa3gzVjNHWG5Xb2JZM2hRYkVKb0FQLWU5WHNIRGdOQ01oaWFSY3N3aE9laHpuTkxhdkYySF80LTdjYmhoWWpPMzRKSkFDeTRzUDIwLVE0?oc=5"
-    },
-    {
-      "id": "switzerl-10",
-      "source": "economy.ac",
-      "title": "Central Bank Risk-Taking Over Time: Germany and Switzerland",
-      "excerpt": "Central Bank Risk-Taking Over Time: Germany and Switzerland&nbsp;&nbsp;economy.ac",
-      "timestamp": "2026-07-28T07:00:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uVWtPT1BCLTBzcTdwVjAwTUtnX01rXzJnZUhCTUhqdzZweXJxOUlMRjRvUlZ0ajdNTjNJcWhHVnJfX0k5RmpiOVNLTUxJZjhwUTNlYnhBUWtETkE?oc=5"
     }
   ],
   "Luxembourg": [
@@ -11499,6 +11499,14 @@
     },
     {
       "id": "italy-3",
+      "source": "Encyclopedia Britannica",
+      "title": "Italy - Economy, Banking, Euro",
+      "excerpt": "Italy - Economy, Banking, Euro&nbsp;&nbsp;Encyclopedia Britannica",
+      "timestamp": "2026-08-19T05:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FV2lZaFBSbUl3VUJMWlZCWUZuYkFESU9JM0ZJVTZoeXVuZWJDTGo4OS0xbV9WMlZyendWVFF0RTFnSDRTWnoybmZ4dHFReFY5UWl3Rjg4bE80dw?oc=5"
+    },
+    {
+      "id": "italy-4",
       "source": "Le Monde.fr",
       "title": "Italy's far right pushed to extremes by the radical politics of former general Roberto Vannacci",
       "excerpt": "Italy's far right pushed to extremes by the radical politics of former general Roberto Vannacci&nbsp;&nbsp;Le Monde.fr",
@@ -11506,7 +11514,7 @@
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR0JXc1Naekg4TU9aVEN3TW1WaUNMbTU5d1Q1aEpnaV9vdnl0c0N5WWc4a21kR3F4UmpxMWVuUWkwajRMWE55TUdMcVczdWJla3JUT2RseU1mQ255LUh5QThnYlRXY1hJbE1XWVR3OEh0RGw3THQxSjQ1RTJPSHpwamNRQ3lqbDBnM25jUnV1RDNjT1kwZUd5Zkc5RGprdXFMbTJoSUVfOXV1ODZnVF8xcjBLOEh4U0p3THpYLVFmbFdxOHNDYkVyZnJQLWJEMGI0NHY5MWgxYlhTc0VsWHlGTFBsSm5XYlFSZGg5TGNuWWMyNmEzNmNiWHdLalE3QQ?oc=5"
     },
     {
-      "id": "italy-4",
+      "id": "italy-5",
       "source": "Axios",
       "title": "Extreme heat threatens Italy's cheese finance",
       "excerpt": "Extreme heat threatens Italy's cheese finance&nbsp;&nbsp;Axios",
@@ -11514,7 +11522,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QcUU4UnNYc1JpUVFGNlV5ZVVKUzhGemllWEtHaU15UFRqRldRX05sbnNoVzdVbVhpRG9ZSTVGc0FvaGVRYzBBenJCcGxuenJCS2RZME9VcTFFSTd2THB4S2hMSUhFbWs?oc=5"
     },
     {
-      "id": "italy-5",
+      "id": "italy-6",
       "source": "Bloomberg.com",
       "title": "Italy Insists Spain Border Checks About Security, Not Politics",
       "excerpt": "Italy Insists Spain Border Checks About Security, Not Politics&nbsp;&nbsp;Bloomberg.com",
@@ -11522,7 +11530,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEZuT1FBbEczc3NMN2NGQUZhRUpVNkpuaDZ1WndOS19ZdUQ5QlYzZjBnMWtxTV8xekIxTXZWUHpTRENDc3JwSHYxMFljdGpVbVR3M0dOa1BkY3EzZkhVOElGbmlGQTlIczV2ZEFaQVIzc1JwY2JPbGFjX0JicnpQUmNjOWthWmU4S3ZkenBGQnV2U0c1dXBmWlY0TzJFZWl4UUQ4YkRQUVhvUkxBOGRmTGV3?oc=5"
     },
     {
-      "id": "italy-6",
+      "id": "italy-7",
       "source": "Female First",
       "title": "Climate change is threatening Italy's cheese economy",
       "excerpt": "Climate change is threatening Italy's cheese economy&nbsp;&nbsp;Female First",
@@ -11530,7 +11538,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdThIWUhrd3RKRmx5VzZnMkFOZDlKbzZ0SHJwd2x5MEFNRFY2MUg0MmRvTXE2bjdZZEpPblJYOGtYTUUyOXh3RnRIaXp6cEFFRzhzT0tiQ1BqZHdFOGVCVEY2ZG83bUdTejVFTGg5OS02ZzFlejhRak0zdV9DTU9OVXBSTFg4dlg5TkNFbFp0UEtMVnVidG1HcFhYT0xUMk9X?oc=5"
     },
     {
-      "id": "italy-7",
+      "id": "italy-8",
       "source": "Goshen News",
       "title": "Italy Meloni Fashion Meets Politics",
       "excerpt": "Italy Meloni Fashion Meets Politics&nbsp;&nbsp;Goshen News",
@@ -11538,7 +11546,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTEZzVTZhSFZlcGZZV294dzZPSFlkYk1UYW0zVEU2dlRkR000R1lUSkxQWXl6M245OXZiQkx0dmNWRXB0OXZmSHB6dDR5QXJLR2J2ZWZwdDdvbHJvYWZmYXpGMkIyUW0yYTZCQ1V2X0lDcV9JUXFIWTlVeHFYdmRKdHljc3FzWFVaa29pMkhfUW5FZ051S2dCamR6ZVZEVkdDZ1AxS3FWZFhvc01MYUQ2Smh5bC1MWkotRjRiQWFiMjFXbDlFREJWWA?oc=5"
     },
     {
-      "id": "italy-8",
+      "id": "italy-9",
       "source": "The Herald Journal",
       "title": "Italy Meloni Fashion Meets Politics",
       "excerpt": "Italy Meloni Fashion Meets Politics&nbsp;&nbsp;The Herald Journal",
@@ -11546,20 +11554,12 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVpxUzFLamNYNzhpemJmeHExUmdEM1B2Zl9aS2dVTkR3RDlUa3JCNFJkWDRNTWsybElrVUN1eFlscEllc2ZYbTUzRE5rZUxxWmpVRmZjN1Z4RktMQWdXc08ybllRQ1k2R1NYRHVXYVZfZ2JJVURPMDdUeF8zaVlZVU4wN1pteUlsT2pOeV9HWUdaWE9xcGhJMUk4Vjk5dVQ3SFBtMk1zLXlIUi1ZR1BCcTVB?oc=5"
     },
     {
-      "id": "italy-9",
+      "id": "italy-10",
       "source": "GazetteXtra",
       "title": "Italy Meloni Fashion Meets Politics",
       "excerpt": "Italy Meloni Fashion Meets Politics&nbsp;&nbsp;GazetteXtra",
       "timestamp": "2026-08-13T04:00:30+00:00",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVm9XQ3ktczZSc1BBNmR2US10cGVtTXl3TlFpOWFtS1R6WWlhNmVlS2lyb2NrQ29oZ1NFM3Y0bUZrdVh3X0tEQ2lnb0I1UmtzWEthc2xjTmhPZlFxRjY2MTNPN3ZXcjUwUlBYNVU3dkpuOXZVZzlNUFZBbHF0SFNTb1ctSDFFSkRjTFd1WWdDSU9icll3VUlCdkJKdkQ4aUltZGhrbjVkOUtXVnEtbDNrWlVfcG1BU3JmbDBDak9VMDliOTVXZ2xHag?oc=5"
-    },
-    {
-      "id": "italy-10",
-      "source": "The Herald Journal",
-      "title": "Italy Meloni Fashion Meets Politics",
-      "excerpt": "Italy Meloni Fashion Meets Politics&nbsp;&nbsp;The Herald Journal",
-      "timestamp": "2026-08-13T04:00:30+00:00",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmQ5QWZRc2Nid1N2amdTX0EzZmlWSk8xbEtsaXo2SGVKQU5tZEJVajNzWkcwR0gxODZxbzM0OEpWY2ZRNkxXNmlkblFzVnpUYkhPVHFiT2xudEJSSVp3SUhiSkhCRDdCV2JQVHNmZXBFeTVBN1JiVGk3TjNEMHNYcWhsYWZwVy1WOFdMNXIweHVaVTRFNWU0aWR6dVZ4Q09zLS1feVI3SThOWC1zX0dKdHRn?oc=5"
     }
   ],
   "Denmark": [
@@ -14517,6 +14517,14 @@
   "WTI/USD": [
     {
       "id": "wtiusd-1",
+      "source": "Chattanooga Times Free Press",
+      "title": "Personal Finance: Oil prices are high. But why aren’t they higher?",
+      "excerpt": "Personal Finance: Oil prices are high. But why aren’t they higher?&nbsp;&nbsp;Chattanooga Times Free Press",
+      "timestamp": "2026-08-22T16:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcjhsUGZBMTZMdW4xRXVGS2VZN1ROYzQ3NE9vYjRrMlFVNnM4T1Q3VlZTMktBVU9SUDlQUzlCcy1ZR0ZvYXF6SkxBeUd1Y05NU2owRFdmR1JqaUh4OE1ZcnoxQ0htNHJYTzJSOEwzeldONDZZUWhHOE5rUkVBZm5GT2hsYnhvQkJSa2N1UmJjTk04UUxXdDBBVg?oc=5"
+    },
+    {
+      "id": "wtiusd-2",
       "source": "Caspian Post",
       "title": "Azeri Light Oil Price Surpasses $97",
       "excerpt": "Azeri Light Oil Price Surpasses $97&nbsp;&nbsp;Caspian Post",
@@ -14524,7 +14532,7 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zSGMxNTVwWXFtNUtDN1loVnBWRUFWbmI3c3ZHS0YzMlB6NUlrbHI0LUdjQWFSWkpYdENhU0RwSmVBbk5nVGRjNW05d0tsMDV3SGlYb1JxZmdRWUJrNkxESFN4RUJsYzI1dVk2Wi1jWm15SUJOVHdN?oc=5"
     },
     {
-      "id": "wtiusd-2",
+      "id": "wtiusd-3",
       "source": "LiteFinance",
       "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days",
       "excerpt": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days&nbsp;&nbsp;LiteFinance",
@@ -14532,7 +14540,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
     },
     {
-      "id": "wtiusd-3",
+      "id": "wtiusd-4",
       "source": "Fortune",
       "title": "Current price of oil as of Aug. 21, 2026",
       "excerpt": "Current price of oil as of Aug. 21, 2026&nbsp;&nbsp;Fortune",
@@ -14540,7 +14548,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uWGliTTgwN3hqMGh5Q3VPMFhNeGhrWkhOZ3k2YmlvOUZqbEJsd1I0RERiUVZSdVktUzhiWHZkZkxmMDk3a21tb2NQaTVnYndsMTJTb2lwTW5sTkhDN3lQcG93?oc=5"
     },
     {
-      "id": "wtiusd-4",
+      "id": "wtiusd-5",
       "source": "EnergyNow.com",
       "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank",
       "excerpt": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank&nbsp;&nbsp;EnergyNow.com",
@@ -14548,7 +14556,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5"
     },
     {
-      "id": "wtiusd-5",
+      "id": "wtiusd-6",
       "source": "Reuters",
       "title": "Oil rises as Trump threatens sanctions on Iran partners",
       "excerpt": "Oil rises as Trump threatens sanctions on Iran partners&nbsp;&nbsp;Reuters",
@@ -14556,7 +14564,7 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5"
     },
     {
-      "id": "wtiusd-6",
+      "id": "wtiusd-7",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "title": "US Oil Drillers See Pullback as Oil Prices Rise",
       "excerpt": "US Oil Drillers See Pullback as Oil Prices Rise&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
@@ -14564,7 +14572,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXpid2pCQ0pINTJCU0VGUXhoODVqYVAxNEdEOElBYnJsdVU1UURPeEdJVmdKYVhjRWtHLUt2ZVlaRmJZUGRfRDYxcW1MNlBISlBjYTlyVHJja3pKQXFzdWpWd3dEN1otWk1lWFhLZzNHVDJDS1VLUVU2aDZaWURzNjhWcC1maHp4TVdVM29IbDRpVHot0gGaAUFVX3lxTFBMWks5Nnh0Sk9VM1pvRC03ZC10Rlc3ZDdfY2tBekJJRWxOSHJRRHoxbmxyZFdQbHc0eDg5d2U5a3JBdWJYSlRvY0h3SDRoUmZaSHVVR0Y2X3RyLXVKWWx4cmpuQTlqc3RWZjdDOHg5UDgxSGI3YTkxdEV0Rl85bkdYR0o0Qk1LY2FvZnEtT3JYX3ZMNkhpU3NKNUE?oc=5"
     },
     {
-      "id": "wtiusd-7",
+      "id": "wtiusd-8",
       "source": "FXEmpire",
       "title": "Crude Oil Price Forecast – WTI and Brent Hold Above 50-Day EMA as Weekend Geopolitical Risks Loom",
       "excerpt": "Crude Oil Price Forecast – WTI and Brent Hold Above 50-Day EMA as Weekend Geopolitical Risks Loom&nbsp;&nbsp;FXEmpire",
@@ -14572,7 +14580,7 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRTN5WHRuNXVpdm5QUWprMjY0UnNXNWVfUURMN0Q5dm9VazZpb1p5b1JuZUtIN0k1UjVudkZhcmF3Q3RpVnBGazFCaDAtVWdiNnNGOWFoQTBIQnRFWDVBWHd1Q3QzQ3ZlTWRmZkE1SEhSS0lPYVlxMmRMWDUtb3ZwaG5QWGROOHdEcnlFNmVRbUpTU3psSU04NjdhRTJULW5aMXpkd3lILUpEUVVVZVg0RFhyTzNkUGlJQXVRNTBDNUc0UXk3NVZ4NWVoRFN1VkNjRmFjcTQyVnVHSDhaTmsw?oc=5"
     },
     {
-      "id": "wtiusd-8",
+      "id": "wtiusd-9",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "title": "Oil Nears $100 as Trump's 'Economic D-Day' Raises the Stakes",
       "excerpt": "Oil Nears $100 as Trump's 'Economic D-Day' Raises the Stakes&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
@@ -14580,20 +14588,12 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQldGTGJMc2FyQTZBb2dNbV9xdngxbUFLZENpaUVEZVp1aVNFMnIwNHJteGhYOUZKV1pNWGljQzM4M19EaGY4U2JfTXhxTmtPWEVfSVVGUmJROHhMMHdIbVBhV1pWNGowUi00VmJYSFNrcDE5VW9GN0xpeG8wamRqTWlPUUtsZ09TakJFeFZaRjQ1MlE5eHV0WjJseXJiaGdU0gGmAUFVX3lxTE5EbGFUZ1NrZ2ljRDZtRnIzaGhoZDd2UEhXVzRtZGozWlBtVGR3OEFLUHVId2wtRUZ5dl8tWVFnaWVETWRMMjM3OUk2ZEI3NkxVNk9ybU9zdHdCYm1ESDdSNzlFY01ZYUVtWGQ3cWRNT052Zm95Q1F3Y09SdmJOSi04Y0JwT29QVzhtVFRUUjVYVWRwWXdzeTBlRThkcFB4eE5XYlJQWEE?oc=5"
     },
     {
-      "id": "wtiusd-9",
+      "id": "wtiusd-10",
       "source": "WSJ",
       "title": "Oil Futures Steady in U.S. Trading",
       "excerpt": "Oil Futures Steady in U.S. Trading&nbsp;&nbsp;WSJ",
       "timestamp": "2026-08-21T14:15:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmhlcXljTnlMOFFrSDdrck14Umk3WXVZUFhoX1N5ZDBxVTExWDBfUC16UTAwYnNacFp4MW1HZHh2c21MNVNPNDNkaDFSYkJrSlRGbEhsTTdjU3NWOUNFY3ZZTkxsc3NRX1QxcHRpM2pXcHQ0TkV5c2hUU1RtTFdWVHJpS0pSMmx5SFdsMGtXaFQyQkZaQ2JKNEppYTAtb0tJcVM3dlJuTQ?oc=5"
-    },
-    {
-      "id": "wtiusd-10",
-      "source": "FOREX.com",
-      "title": "Crude oil analysis: WTI path of least resistance to upside",
-      "excerpt": "Crude oil analysis: WTI path of least resistance to upside&nbsp;&nbsp;FOREX.com",
-      "timestamp": "2026-08-21T13:50:37+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUlONnlNZld6Yld6T2FtYjVmakhTLVdrTnJkN0hsTlFHM2VuS19tWGZxTHh2SlN0aExWbTg3OTFxZE1NQkJITExzR3FETjM5VWgtSXo4Zm1QS3Y3OHdacEk0a0RLd3ZlNGJndjNMNzZBZUxZb1IxanlRbVJaUGpyRTl2Sm9hNWU4YXRtUnBEVTk4ZTREemQzZFRIMnAtU3ZWOWNUSXlaTQ?oc=5"
     }
   ],
   "SPX": [
