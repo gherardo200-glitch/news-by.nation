@@ -11893,19 +11893,19 @@
   "Georgia": [
     {
       "id": "georgia-1",
+      "source": "WABE",
+      "title": "How Georgia farms’ fame (and favor) outpace their place in the economy",
+      "excerpt": "How Georgia farms’ fame (and favor) outpace their place in the economy&nbsp;&nbsp;WABE",
+      "timestamp": "2026-08-24T21:17:59+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd21KNmpLU1BhYjQxQUxyc0pMQklOUzhWVjV6SjNWdGd6a2FhaUV2ZzVjY2YzcHQxRkQzX0Rqazgta3VZQ3R6MnE3TE1Rb0hXS1NuMkk3WUhpRHJINFFWWE5fdFp4blRheTY4Ulo0aGJLeFJ5cVV6aE9ESXBXcjRGc2hDOHhTWUNxYThyUnF5S1JlMkE?oc=5"
+    },
+    {
+      "id": "georgia-2",
       "source": "Georgia Recorder",
       "title": "How Georgia farms’ fame (and favor) outpace their place in the economy",
       "excerpt": "How Georgia farms’ fame (and favor) outpace their place in the economy&nbsp;&nbsp;Georgia Recorder",
       "timestamp": "2026-08-24T19:01:58+00:00",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGtJOTdGT3pNOEpSeWw0UXNteUR1czFSVmVsM3VheUxlcE85dFdQTVo0TS15TWRMWnBnZ242T2dZck9kNEt6bk5US2QtV2tUUXkxSGZqa0tfdWMzcHl0SngyWU1tVWNPMFQ3TTB3U2x6NjlxUlVwSmpQRkZDc2JRZ29QdnNOSjZxNjR5SlFkVjhveDVpaEtYaEUwZ3o4ZC01bGxWcTFLQkdHVDg?oc=5"
-    },
-    {
-      "id": "georgia-2",
-      "source": "WABE",
-      "title": "How Georgia farms’ fame (and favor) outpace their place in the economy",
-      "excerpt": "How Georgia farms’ fame (and favor) outpace their place in the economy&nbsp;&nbsp;WABE",
-      "timestamp": "2026-08-24T15:27:26+00:00",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd21KNmpLU1BhYjQxQUxyc0pMQklOUzhWVjV6SjNWdGd6a2FhaUV2ZzVjY2YzcHQxRkQzX0Rqazgta3VZQ3R6MnE3TE1Rb0hXS1NuMkk3WUhpRHJINFFWWE5fdFp4blRheTY4Ulo0aGJLeFJ5cVV6aE9ESXBXcjRGc2hDOHhTWUNxYThyUnF5S1JlMkE?oc=5"
     },
     {
       "id": "georgia-3",
@@ -14568,7 +14568,7 @@
       "source": "Axios",
       "title": "Looking for an energy shock? It's in diesel",
       "excerpt": "Looking for an energy shock? It's in diesel&nbsp;&nbsp;Axios",
-      "timestamp": "2026-08-24T11:06:11+00:00",
+      "timestamp": "2026-08-24T11:14:07+00:00",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1udXlZZXhJZllxNXBYdUtzX0VudWJCdFdyOGtVLS1aQ3JibWs3NDBSZGVNRVJKbnFFMjJIXzVOb2RzWXhFRmhCbENDWndUYnZvYkdOVEROZUZZdlFIcmVHeWFwMk16Q2s?oc=5"
     },
     {
@@ -14681,14 +14681,22 @@
   "IXIC": [
     {
       "id": "ixic-1",
-      "source": "Investing.com",
-      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves By Reuters",
-      "excerpt": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves By Reuters&nbsp;&nbsp;Investing.com",
-      "timestamp": "2026-08-24T20:38:47+00:00",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZjEwQ0tDMzc1bW8yR24xcW5JTnE0bmxqRFE0LXI1b2V4UC1faWJqaXBSdTdzRDc5a1pDZzh4Y1JHaHQybnU1d2pzMjZhX3BMejI2emZmeHp3N1Nub3ZSQmw2LUJaMnhTN28xSWV5ZUZNbHJ3NkRwWl9hZ0FFRFpCVmhONVdweGN0U1hMYzdlZEdCendkUTJQUUYxYVNEcGtXVkF3M2tHeEpmSERxZGZXeF83TEJwbDg3MXJqUm93?oc=5"
+      "source": "The Motley Fool",
+      "title": "Stock Market Today, Aug. 24: Nvidia Extends Losses as Tech Stocks Retreat",
+      "excerpt": "Stock Market Today, Aug. 24: Nvidia Extends Losses as Tech Stocks Retreat&nbsp;&nbsp;The Motley Fool",
+      "timestamp": "2026-08-24T21:33:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ21EUl9kaW5Zdi11ejNvUmxEWmxyck5oTnljV1dCWS1KQ1dWYkoyc3BJQUpjYUFJU19xYlFtRUZIWk10SUk3S2xyaWl5YVFUVXJNM2JCRFAwV2tqWm5aRVpMcEVsYWEtZk80TWd3RXZmZDUwSGlaZ2Qwa2VHaXhGRTJGN1hTQ1BsUFZVUXlTWV94eXl3cnZJSkQ5dXlhcmVkOTNoNVR1NGlwUDdTY1BxdXMyWVBZemZIOVhpMllLb2Z2TzNlVVQzbmdVQQ?oc=5"
     },
     {
       "id": "ixic-2",
+      "source": "Investing.com",
+      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves By Reuters",
+      "excerpt": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves By Reuters&nbsp;&nbsp;Investing.com",
+      "timestamp": "2026-08-24T21:11:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZjEwQ0tDMzc1bW8yR24xcW5JTnE0bmxqRFE0LXI1b2V4UC1faWJqaXBSdTdzRDc5a1pDZzh4Y1JHaHQybnU1d2pzMjZhX3BMejI2emZmeHp3N1Nub3ZSQmw2LUJaMnhTN28xSWV5ZUZNbHJ3NkRwWl9hZ0FFRFpCVmhONVdweGN0U1hMYzdlZEdCendkUTJQUUYxYVNEcGtXVkF3M2tHeEpmSERxZGZXeF83TEJwbDg3MXJqUm93?oc=5"
+    },
+    {
+      "id": "ixic-3",
       "source": "Reuters",
       "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
       "excerpt": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves&nbsp;&nbsp;Reuters",
@@ -14696,7 +14704,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmVCQWYzaWpzTVpmVFJPV0xRdEtUcXg0N2JKZHB5Z2JFZWpWRHFwS0Q3R2NtVHp1c29rem5scXhwa0FZMFZJNGtqM3ZCRlVOa1doNGNtWEcxVVZCYXFDSXlEbmJwODhKbG5Kdk15RDJpbDFleUFpWkdmbWEtMkhGWnF0U1FWWVpmSnp4aXp4UzlPc2hzaFNTWllwSm5UVWlpNWtWQlkzX1dqOHJNbkg5ag?oc=5"
     },
     {
-      "id": "ixic-3",
+      "id": "ixic-4",
       "source": "Yahoo Finance",
       "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
       "excerpt": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves&nbsp;&nbsp;Yahoo Finance",
@@ -14704,7 +14712,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb1hieGRGemVPQWtlRDVnWlBTaVd6Rk9Jd2J2eXp2ZUwwV2VyZEVGb01rdndZM0FRUGNlOVc1Z092eU9RNERjeUF2bDE2ZDdaM3NnMkZpQVVGMmlfRlpTU3FKVE15NDRKTndjQ0tzLTNnbTRnQXd3M0lhVWZwMmc3UnJjTE13RC1DUkp1cnRmOHRhOGt1VWo4a1hB?oc=5"
     },
     {
-      "id": "ixic-4",
+      "id": "ixic-5",
       "source": "Finimize",
       "title": "Tech Stocks Slipped As Washington Took Aim At AI Data Centers",
       "excerpt": "Tech Stocks Slipped As Washington Took Aim At AI Data Centers&nbsp;&nbsp;Finimize",
@@ -14712,7 +14720,7 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHpwbE5feUpxY2FFR0psNGVkMnVPY3ViMVhQb2w5enBrZ3VnNXFnQVlocHBQYms4YjhQb25nVmlfZHNPcTBPMGQzbWtORFRESnRJSHVrN3lyOW9Qd2xqMmktZU5GZU5fZ2h0LXdHb3NWblpjUGdCa243YkhiTm5rdmduaHVDTUhXVnpvZFNfa1R3Nk4z?oc=5"
     },
     {
-      "id": "ixic-5",
+      "id": "ixic-6",
       "source": "Seeking Alpha",
       "title": "Stock market ends mixed as tech stocks, yields slide (SP500:)",
       "excerpt": "Stock market ends mixed as tech stocks, yields slide (SP500:)&nbsp;&nbsp;Seeking Alpha",
@@ -14720,7 +14728,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdklnTUZhSE5zeTVhM3hOX2ZoN3lQMkZySUpBWmxUUmRnY1hkeUw4MmJsSmRlajk0MmFlVXBHQXdRZ0V2U0l4UVQ2cy1RcHYwWC12eEhqaGp6cG5pNzRlX2w2SzFKQVVWY0VBdVVJQThvbTJxYmJtTTVkUXNRRG5memRWek5kRnczelU3ZEpDMnhiT3BMM1E?oc=5"
     },
     {
-      "id": "ixic-6",
+      "id": "ixic-7",
       "source": "marketscreener.com",
       "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
       "excerpt": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves&nbsp;&nbsp;marketscreener.com",
@@ -14728,7 +14736,7 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWRTMG5JTjV1MUkxVkdFU1hVc1BlTnAxUDhNb2FXcHNXeDZyR2h3V2diajBKWlBxQmZZUkVid1U5UnR3Q3BpcTVJcncyOTdnS1YyNXJ5MEVSS0N5Q2ROOF8wNm14NVFydjAta0pORW9jOU5jZWp4YWVGdDBNYkVwMnFEbDgwUVdVM3Q1SFhaWmJtdXo3Z3NWNkFSS2Yzb3FfUHI5QTREMWk2X0lYaXFwNzdZeXVoNDJ5OVE?oc=5"
     },
     {
-      "id": "ixic-7",
+      "id": "ixic-8",
       "source": "Yahoo Finance",
       "title": "Stock Market Midday, Aug. 24: Dow Edges Higher as Chip Weakness Pressures Nasdaq",
       "excerpt": "Stock Market Midday, Aug. 24: Dow Edges Higher as Chip Weakness Pressures Nasdaq&nbsp;&nbsp;Yahoo Finance",
@@ -14736,7 +14744,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUUtETUZiRkdWdW01OHhhZjdTWVNNbVVHZGxqNzF5Vnpma05rMVVkRVpmd0RQVmRvbnpDUzFYUXlOM0NicHJqUk9mamM1S0Q1WVltb0VCS1l6ZEVpWHpJejY2b1JDRF9aMlNzNmRzbVU0WDdZWUluT2JpSmk2ZmRZVmZQTkgwMEZBY2pQenFJUlB4aVQwRVE?oc=5"
     },
     {
-      "id": "ixic-8",
+      "id": "ixic-9",
       "source": "investingLive",
       "title": "European shares close mixed; US tech stocks lags",
       "excerpt": "European shares close mixed; US tech stocks lags&nbsp;&nbsp;investingLive",
@@ -14744,25 +14752,25 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmpLNnZSUGU4NnZ3a29lVDcwN1VmSU5oa1RGNU1yV1hNTkZKOXVWcGxHam95cFRwd0FfelNlYUYtT1VaRFN6MWxTWjhfVUhPSEtIY25NX3h4U0doZ0RHdHU1NVp5X2xFd0o0RE1YR2ZzMnd5VUZqNG1uTENyMXNrV1hET2lTVmt1?oc=5"
     },
     {
-      "id": "ixic-9",
+      "id": "ixic-10",
       "source": "Seeking Alpha",
       "title": "Tech Stocks Take A Tumble; Nasdaq Composite Leads Pullback",
       "excerpt": "Tech Stocks Take A Tumble; Nasdaq Composite Leads Pullback&nbsp;&nbsp;Seeking Alpha",
       "timestamp": "2026-08-24T15:06:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQXzlPZVNNSDBEd0p0d2JIYnJ2eFdFWC02N1Y5aG9oYTZfaC1fT3ZHVjRDZkFEd21wY2N1c3dKc01GeEd0S3NGdG1TdzJLZlhpRzZpNl9wLUpTZUViMmdocEMyNEVKQTNwZnhiN091Nk9oNU5jaGMzNE9yRk42eUFndHBsVThmdHd1XzNpSTlsc0pidXZTRFE?oc=5"
-    },
-    {
-      "id": "ixic-10",
-      "source": "NDTV Profit",
-      "title": "US Stock Market Today: Nasdaq Falls Over 150 Points As Tech Stocks Slide, Iran Tensions Weigh; S&P 500 In Red",
-      "excerpt": "US Stock Market Today: Nasdaq Falls Over 150 Points As Tech Stocks Slide, Iran Tensions Weigh; S&P 500 In Red&nbsp;&nbsp;NDTV Profit",
-      "timestamp": "2026-08-24T13:38:20+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcVRuWkFOTVJJWWhaU29XWVo2VXlfLVFsZGdtdGwxZjJDR3BHcHVuaVpqRFc5d0tfeTdfcElSZy01RHB1SmxZMFFBZU1LWDNvWGQ2YnVacWVmQk5xeWNibUNMV3EweElCcTlIUmFhREpBblVwTDRPNV9ROGRpNFlCeVd5SDJTTGRIakNET0NuQzBwUGt3bThOaF9McktzUm5ubDhhZExSSkVkejZYdjg0Z2RWMW4zeC1WLTdKY0UxTkJtNUJOZFFDZUdzQ0VNN3lrSUhTc0wwR1c4OTFlcTdCNDBpUE_SAewBQVVfeXFMTV96bjVpMUoyalg4Vm96d1QxOW81VmtvX3VfUGZheFdhTTNJSkRoc1Bkb2h1ZWJ4dzRiQVhMOF90ZTNTTUhWbFFTcEt2b19VclJsRUtVeFFHZ2NFODlNUGo1TUoza1RxNXZHd0NReWZQZkFEcElxbVctd00wUWR4c1JiUHpaS1JuZk83XzhMNGVQdXZYSUV6eG1ndDBXYnlMQW1HcF9JRV8xdjZfRW0yTVVmYzZzSzJiYmhra0xoTTNmdVZGUzRTUEtTWnd6ckhfUkNKUGZVdWlSLXNCTVR2elBhTG1KeDF1MTQ0ZGY?oc=5"
     }
   ],
   "BTC/USD": [
     {
       "id": "btcusd-1",
+      "source": "CryptoRank",
+      "title": "Crypto Groups Sue To Block Illinois Digital Asset Tax Act",
+      "excerpt": "Crypto Groups Sue To Block Illinois Digital Asset Tax Act&nbsp;&nbsp;CryptoRank",
+      "timestamp": "2026-08-24T21:48:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWWRXVElDZ2NxQ0JDMmVnTTVQWGNHX3ExYmhJRWlRSXZISjJnQXoyUDJpdHg5Tk9EX0k1dmMweVN6S2xwSE41RnNqVWhObERRU2VLLXpOdVdDY1A0RUwzM1ptM2prc0tCaUEzcXo3RFIwSzBCdzVjYmtuNUNoaVcxc1A2MmN2dUlFUGZqOU9jN1BUZlZRWXVmZ194aw?oc=5"
+    },
+    {
+      "id": "btcusd-2",
       "source": "CryptoRank",
       "title": "Bitcoin Drops Below $78,000: What’s Driving the Slide?",
       "excerpt": "Bitcoin Drops Below $78,000: What’s Driving the Slide?&nbsp;&nbsp;CryptoRank",
@@ -14770,7 +14778,7 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GQW1CeUZMdWlGcGlDaHlLUzdzckUwZzZjdzY2NGNBaU5QQ3dBTmg1ai1LWVBGNkM1X21wcHVYcktiaGItcG5Yd2NpNm4yVFQzMjFfSXUtY0lGdS1vSkc5Wl9oUnVNZFNGTnZDVmtxZEFMQ1k?oc=5"
     },
     {
-      "id": "btcusd-2",
+      "id": "btcusd-3",
       "source": "Altcoin Buzz",
       "title": "Bitcoin Eyes $80K as Ethereum and XRP Extend Crypto Market Rally",
       "excerpt": "Bitcoin Eyes $80K as Ethereum and XRP Extend Crypto Market Rally&nbsp;&nbsp;Altcoin Buzz",
@@ -14778,7 +14786,7 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zM3dTRlpsM1JvWjJka0R3UndkQnpkYmZ0cG90eFAxdlJYYjJpY0dZaWdWUUlRYUI0Q2dmazZyTGpDb1FvdFFvU2w1YVdXMVZ5ejBkMHFUdGZRdWdxamZZYlhGb05PZ2hC?oc=5"
     },
     {
-      "id": "btcusd-3",
+      "id": "btcusd-4",
       "source": "FXStreet",
       "title": "Cryptocurrencies Price Prediction: Bitcoin, Crypto & XRP – American Wrap 24 August",
       "excerpt": "Cryptocurrencies Price Prediction: Bitcoin, Crypto & XRP – American Wrap 24 August&nbsp;&nbsp;FXStreet",
@@ -14786,7 +14794,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOME9sTlJMbG91SG5oTGtsN1Q5MzNPVnhyY25iZU5fRXQ4UzlHX0l0VU44SkM5aVBncUg0LUx5cWFFTl9qS0JOaXgxaWE2Rkhwa0NmX05zWnJkaVlRSzNLUldVeWF1d1kzUjJ0OFdJWHBvTW9IVUgySVFKdHkwRllMWVVraVdZSFFGd2MzOXhsZmJJZXJKdi1EUGRRZmZHX0lSZkhZQnotaUVWYk80alR0dktzVnpBWnNhaXlxZ1k5cDlvVXRrRzZ3cTFBdlFSaFlqWUE?oc=5"
     },
     {
-      "id": "btcusd-4",
+      "id": "btcusd-5",
       "source": "Bitcoin Foundation",
       "title": "Crypto Bull Market 2026: Is Bitcoin Rally Turning Into Altseason?",
       "excerpt": "Crypto Bull Market 2026: Is Bitcoin Rally Turning Into Altseason?&nbsp;&nbsp;Bitcoin Foundation",
@@ -14794,7 +14802,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHZNbWtBa0JCSmcxbk51Vk1YY0l3b1oxUzFpSGZUVWJxNjAxMmMwREk3NFcwT2JGS0dmMGpRa0x1TnVEbXM4Z1RMMlFQN2JqVEpUZFhETERuWFE3WXR2eXNHVG9YVWgxbjFLRGpCNWxlZk1fcVZFVFlLRTAzZW1QMmNZemNrTG9pNmNKVnNQQWZSUHVEZ2JyTWR6cjhyUQ?oc=5"
     },
     {
-      "id": "btcusd-5",
+      "id": "btcusd-6",
       "source": "FXStreet",
       "title": "Cryptocurrencies Price Prediction: Bitcoin, Crypto & Ethereum – European Wrap 24 August",
       "excerpt": "Cryptocurrencies Price Prediction: Bitcoin, Crypto & Ethereum – European Wrap 24 August&nbsp;&nbsp;FXStreet",
@@ -14802,7 +14810,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN1J1Z0tjeUJSSzcwTjNfSThSWktYQm1ZU21LT051cnVaVlFaSGlTRWlNQ05PTFhLTjAzN3VMZnptSUVWT2toUE1ySVV3bmxJZmVNa1d4SzRvVHp6UG9qd1hVQ3JCcXVEM2lLbzFaVnJha2xnaTFTcmdOcU5aYTd0c2lVTzN6WFR1bEIwbHI5ekxISHVDcUFPRmxHYU10YS1yMjZ6RVRQUThLcDlvWTY4MW9QRGRMRkIwUHZXQUVOWjI0S1pWdnJ2Ni1QdUprakxrUlJmZ2RsUEU?oc=5"
     },
     {
-      "id": "btcusd-6",
+      "id": "btcusd-7",
       "source": "Forbes",
       "title": "‘You’re Not Bullish Enough’—Bitcoin Is Suddenly Braced For A $1 Trillion Price Game-Changer",
       "excerpt": "‘You’re Not Bullish Enough’—Bitcoin Is Suddenly Braced For A $1 Trillion Price Game-Changer&nbsp;&nbsp;Forbes",
@@ -14810,7 +14818,7 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVlhhLW5vRFdRal84WDFpSmpleHhyeUY4R1J3emctWHh1Zkc5UmRYVnc1UTlNWl93SE0tNkpiVmJNRDZfNjV1ZTBubW1kc25rWHM3aWtxOEt6a0pFRG9Zb3l1UmV1S1pmS001TjVFc0ExTWdrU3NlZ09pWmJKMC1hRDZYZFlJWWlwdEFJWHBvdGdsWHViTFIzTGpWUXBBRE16eVRqMlpWbGFTblMxYl9OQ0hFRmJlc0tyTTN3Zm85MU9nTTZsZGNqZHNoZkhsdm9RNVJvUjRJbTZHQW8?oc=5"
     },
     {
-      "id": "btcusd-7",
+      "id": "btcusd-8",
       "source": "Bitcoin Foundation",
       "title": "Tom Lee’s Crypto Stock Picks 2026: 5 Stocks to Watch as He Turns Bullish on Crypto",
       "excerpt": "Tom Lee’s Crypto Stock Picks 2026: 5 Stocks to Watch as He Turns Bullish on Crypto&nbsp;&nbsp;Bitcoin Foundation",
@@ -14818,7 +14826,7 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRE44RmFtOVFPOTRfQXZvQ0FNWXFfbGoxWXZxNjBNMWNlRmdnLWoxdVFlV0oyeWZXU0g0WDd4RjF1Z05FdUZvazFrTk1fVWZwVVFXMnFEcTRNRkNWdjZMWmhhc3JwVzVsNXR6d0hNYzB5SzZDc1BUS2ZMV1lCLXZKTlZmNnFOeDZjQW13M2xTQUpmWUdSWjdmMzk5bWRtV0ItMEtTLVItNUZKbEIyLXpkSHo5LUVuamNsMjNZUy05M0ZBVjA?oc=5"
     },
     {
-      "id": "btcusd-8",
+      "id": "btcusd-9",
       "source": "BitKE",
       "title": "REPORT | ‘Positive [Crypto] Returns Attract New Participants, Which Raises the Price Further’, Says Latest Federal Reserve Paper",
       "excerpt": "REPORT | ‘Positive [Crypto] Returns Attract New Participants, Which Raises the Price Further’, Says Latest Federal Reserve Paper&nbsp;&nbsp;BitKE",
@@ -14826,20 +14834,12 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTlAzQXU0c0RkV2l4RmZaR1ViRmxZUzM4el9DUDk5ckY0R2NaMTkxVG0zbXlBYm1KcGlReVo3NFEtaGJQaGNWRG1aYUMtS3NYREVscmdTQnJGMk84TGhUcExzZHBITXlBMFRaSktpWmo5bXJBZ2F3cmQ3cFM1ZGN6Nnh0TWNxQQ?oc=5"
     },
     {
-      "id": "btcusd-9",
+      "id": "btcusd-10",
       "source": "CryptoPotato",
       "title": "Zcash (ZEC) Explodes Past $800, Bitcoin (BTC) Reclaims $77K: Market Watch",
       "excerpt": "Zcash (ZEC) Explodes Past $800, Bitcoin (BTC) Reclaims $77K: Market Watch&nbsp;&nbsp;CryptoPotato",
       "timestamp": "2026-08-24T10:06:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT19mR3FwUWd0M3duVnk0MGpoMlExaWpuQ2ZDWUdyUWFkWDNWUDVvUEEtNjduNUZnZmFEMWZiT3htRGROWGJBdi01S053V1puczRSMmUtOFpIMUJxME51UzFVVHNkNHo5bFBvaXB2cndmcjd6cDFuY2NOTU11bkpxN01hZlFjTkRtUlFGcFRNYUkxNHd2cmc?oc=5"
-    },
-    {
-      "id": "btcusd-10",
-      "source": "Moomoo",
-      "title": "Crypto Weekly Digest | Bitcoin Surges 23% to $77.6K; Record $2.7B Short Squeeze; US Regulation Breakthrough Expected",
-      "excerpt": "Crypto Weekly Digest | Bitcoin Surges 23% to $77.6K; Record $2.7B Short Squeeze; US Regulation Breakthrough Expected&nbsp;&nbsp;Moomoo",
-      "timestamp": "2026-08-24T07:17:44+00:00",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1ZCU1J1S0NtWDRycjljSE9RdTBhUnQ0X0htS3NBa2ROV2VqRDRweDFsQW9MZlR4cDNTWndHVTlSZFo2ZUt5UjdIZmltc2VVWnR5T185MGJYWTVfRTdNbGIwekNtdEtpdUVkeHN4RkZ0eTluOXFGMFRySHhiMkJpalQ2WjNmNmlRS1dVdWlMT08tQUI5eEUwSGN4NVlxUUo1ZDRTMi1NRjBNWVI2?oc=5"
     }
   ],
   "EUR/USD": [
