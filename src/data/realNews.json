@@ -248,6 +248,14 @@
   "Canada": [
     {
       "id": "canada-1",
+      "source": "The New York Times",
+      "title": "At Home and Abroad, Deference to Trump Turns Increasingly to Defiance",
+      "excerpt": "At Home and Abroad, Deference to Trump Turns Increasingly to Defiance&nbsp;&nbsp;The New York Times",
+      "timestamp": "2026-08-25T21:42:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTk5CNVgxMU9PYXNONTZHQjBua010ZkRCbEFHVkU5RUxEbnRRbkVJbGFaV2NxOXlmQmdGX3IyQWQ1MzhsNkhNMmVvcXl5Q3hrSnBmVlM0N2hYLWtpNUpZUVpnVnNaUzIxRVNESXR4eGJ6bVZTS1BQRGtpMGZVQ01UZ05kM2c?oc=5"
+    },
+    {
+      "id": "canada-2",
       "source": "Scripps News",
       "title": "Canada announces retaliatory tariffs on imports from the US",
       "excerpt": "Canada announces retaliatory tariffs on imports from the US&nbsp;&nbsp;Scripps News",
@@ -255,15 +263,15 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHhqX2FRZHZQYkhIUVNPbzAxenJHY21fcjNsUlc3cS1McjZPdTdFQ1NuQ2V0YWlsSjM5WUdiTmEwckN3TVBUakdMSUYyS2p3a1ZIdF9rS21jOXE0NUEySllrMTRrWVE3RU1naGVBMnJJVDhKY1pPUUl4SDJqbzQwTHROOWFTR25TTndyR0RBMU0yVlRUUUNvemhqNkFRMXRtdDJtX0xwVQ?oc=5"
     },
     {
-      "id": "canada-2",
+      "id": "canada-3",
       "source": "Morningstar",
-      "title": "Fresh Trade Escalation Deepens Uncertainty for the Canadian Economy",
-      "excerpt": "Fresh Trade Escalation Deepens Uncertainty for the Canadian Economy&nbsp;&nbsp;Morningstar",
-      "timestamp": "2026-08-25T18:54:20+00:00",
+      "title": "Fresh Trade Escalation Deepens Uncertainty for Canadian Economy",
+      "excerpt": "Fresh Trade Escalation Deepens Uncertainty for Canadian Economy&nbsp;&nbsp;Morningstar",
+      "timestamp": "2026-08-25T19:09:14+00:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkxlS0lHMHZ3aXo0QXcyVFpwQzNsUGRzSzNaelQ3cXo0QU5YSDJ3cEZSdUdfX3g5UGhSc0tvODJ1M0lpeEQ1LVdhT0tuUWI0VFFJeElfVEEzTHEzWUQ5MVpEeG1IWTd2Z0FLbVp2blNKWHk5ZTVMOVVmZEFuZEFUNXZHNVlwTWU1TFFLRFZOM1Y0X3V2VzlxQjBIbTZLcVIzdFZaSF9DSQ?oc=5"
     },
     {
-      "id": "canada-3",
+      "id": "canada-4",
       "source": "Scripps News",
       "title": "As US-Canada trade talks collapse; consumers brace for higher costs",
       "excerpt": "As US-Canada trade talks collapse; consumers brace for higher costs&nbsp;&nbsp;Scripps News",
@@ -271,7 +279,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNazVTdmxrUC1DS1p0VExwRVBRV1JSamhwdU9TWS1LN2RIaHNHbWY1SGhRQmZTYXM5NU0xRExVSXZfVEc1NEpJeVlob1c2akg5cjM2aTJJTURXZlJlSTVHOXYyRnd1NmJPRElJOWdxa3BoVkh1V0tDems1eEpOWjNMODFsRlpXalE3dllxRHhwcnZqdW9Lb1ZnNWRWbUhJdTVzTlAzdHlpZVhlbkxkWDlvZA?oc=5"
     },
     {
-      "id": "canada-4",
+      "id": "canada-5",
       "source": "Yahoo Finance",
       "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies",
       "excerpt": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies&nbsp;&nbsp;Yahoo Finance",
@@ -279,7 +287,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzNQX0VXeXFmSVM0RF9tYkpsZ1hGSDMyRUZKMnNMUGR5ZHNoaHJuRjd1MG10NV9iMC1CNGFsejVrVUJHdXpvME5XNnVQN1RyZVYtWm9RZ3U1UHhZRk02dkRvb0JhMmpvVWlJeEhlbGEtakpJQTlMT2s2c2xJUTZMbmViU2F6M3hGOW01LVJiaDdrUDRwVFh0UVJMNExfemFtOVd1SU9tYw?oc=5"
     },
     {
-      "id": "canada-5",
+      "id": "canada-6",
       "source": "The Portland Press Herald",
       "title": "Canada strikes back at US with retaliatory tariffs as trade war escalates",
       "excerpt": "Canada strikes back at US with retaliatory tariffs as trade war escalates&nbsp;&nbsp;The Portland Press Herald",
@@ -287,7 +295,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTi1NbnFocnZtZ3JGdEtUMElFQng5T1oxdk9oUjY5Vlh4dUtSQTVpWEFPU2M4U2hISFhVRE5DWWRJVFdGZms2cVZ1QkpxRGZTNDQzZkRlNk1ic2hwSWlUU1J4SVFsa3Rta2xKZ3ZYNEhUbk5OZUdKMFhqcGZQVVVCNU1CTDlQX1QwNjJGWWVlMWNLTDdOV0RXa3BHanE0akg5X0N5bVpubUlKdV9xTEZUcnRiYw?oc=5"
     },
     {
-      "id": "canada-6",
+      "id": "canada-7",
       "source": "The Washington Post",
       "title": "As U.S.-Canada tensions escalate, Republicans could face political consequences",
       "excerpt": "As U.S.-Canada tensions escalate, Republicans could face political consequences&nbsp;&nbsp;The Washington Post",
@@ -295,7 +303,7 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXJHTFRKcnBTUWFITklBaE5pTFpIeEdDTFEyUjBZMUtoTjVXdWY5Y2g2cThVd1ltVk9zdXdZcWFGSkhfSWphTHhLZFd1X3owMTNfSzA2eHNjVmwxcXRIM0F6bU5LY1VGSFdUOXF2V3RWd2FSZ1liVU5FejFQU2dxMlM5ejlHbmw5dWpVMnFUVVhyVVdPQTh2YXI5NmRnMmFmWmlpeV9ZM2o5aFBz?oc=5"
     },
     {
-      "id": "canada-7",
+      "id": "canada-8",
       "source": "PBS",
       "title": "How Trump's trade war with Canada could rattle states with key Senate races",
       "excerpt": "How Trump's trade war with Canada could rattle states with key Senate races&nbsp;&nbsp;PBS",
@@ -303,7 +311,7 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQazRHTndMUklfd0lCRUw5ekRsREVNOUtNYl9ISHFmT19QcGVob0NlRGMyOHQyZHFOVm1MQ0xTUkNNSlhieU1jVFJPRXJIcUtBU2tNQkFHOVRXaDFxdVJaNFM3Nkh2WHJVTUR5eHZuVWZELWhuazRWMTlYUFFpV0lIakRYM2JHVHBhT3ZMc09XaUt3eEluWHc0OVVLLXNsOWptNjEtZnV1N2NDdUFfWGEtYlh30gG3AUFVX3lxTE5EWUJ6RVRLdkxsbm9WaWZrSUJxTjA0amVVUExMa01maGVKck9DSXRGOFoyVi04d3p1NFhFR2pzcjNfem04MDBuQ3hneENmZVExQTB5TUVyb1ZJdDhybmViV2dlSE4xdU93S2ptbG5qaGUxOVpsZE8xd2dzdHdod2RUaWk1X3BEb3l5eFFLbmN6allSNm9WN2tnYVlzRUVMQ2haRXhFZjBwbjFXd3JxYzdReDRHQzNxZw?oc=5"
     },
     {
-      "id": "canada-8",
+      "id": "canada-9",
       "source": "Spectrum News",
       "title": "Canada announces retaliatory tariffs on $27.6 billion of U.S. goods",
       "excerpt": "Canada announces retaliatory tariffs on $27.6 billion of U.S. goods&nbsp;&nbsp;Spectrum News",
@@ -311,25 +319,25 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWZmR2VRSE9GMHFZZXAyWHZCUlBnWG5ZLXpuSlQ5YUI5TmFnQTE3TTFhUFpOMXNwZTJUSjBjTUtuRmU0YWoyNUctb3RtNVFxNzR4UmRRQnlHOU1peDQ4aWFMZkdmbmFVeGRVa3NYM1Fael9QWUlVN0IxR1B4N3ZBbmVWZlhtcEViMWgybHFERQ?oc=5"
     },
     {
-      "id": "canada-9",
+      "id": "canada-10",
       "source": "Politico",
       "title": "Canada has one important edge in the North American trade war",
       "excerpt": "Canada has one important edge in the North American trade war&nbsp;&nbsp;Politico",
       "timestamp": "2026-08-25T09:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVlVObkZuNDFaLTNsRHBVQnk0Y2Q4cndZaXlHbFNYME16SDJXWWRvQVJFOTZxZjh5WlBUZGZnOVo5ZVNXckpudFJKSlhYWmlfUWpaRlVybzZYV3VaSkxDMDRiVGFXNUFhWGNtNlhzT2lFMVJUaWFFOHAzdGhMX3p6eWJMVHpVc1RUYjFpQ2w3UQ?oc=5"
-    },
-    {
-      "id": "canada-10",
-      "source": "BBC",
-      "title": "How Canada could hit back to hurt the US economy - and Trump",
-      "excerpt": "How Canada could hit back to hurt the US economy - and Trump&nbsp;&nbsp;BBC",
-      "timestamp": "2026-08-25T02:49:22+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nNkdXbnlYejVOWFRlQTI5QVBlSGdyazhRcXBFenF3OUY2YkhfRnVLd3BZaUoyek02LXhfaVBoNmw1VEluTl8tbmUxSDhqMTc1b0NZVVQ4NVlpQQ?oc=5"
     }
   ],
   "United States of America": [
     {
       "id": "unitedst-1",
+      "source": "CBS News",
+      "title": "What Canada's retaliatory tariffs could mean for Minnesotans",
+      "excerpt": "What Canada's retaliatory tariffs could mean for Minnesotans&nbsp;&nbsp;CBS News",
+      "timestamp": "2026-08-25T23:23:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkT1FlemEzLXI2OWRmRVRlQk1jWXhYMDRYVWh4ZlhvcWsyaTNvVko2X01JYkdJOGdZNW1yQy1pU1FwUktoa0VlYlJfSGgwTXhPYVlhN2NROTJyMVpRdVhyNVZoV2IzTW9xZ3V3TDR2UGt4QQ?oc=5"
+    },
+    {
+      "id": "unitedst-2",
       "source": "CBS News",
       "title": "Canada imposing tariffs of up to 50% on $20 billion in U.S. imports",
       "excerpt": "Canada imposing tariffs of up to 50% on $20 billion in U.S. imports&nbsp;&nbsp;CBS News",
@@ -337,7 +345,7 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUFZXNFliTldfdEZjaExwclhhSk1iQS1Eby10X1JKc3gxbXRoN29KZlJrUlhIZEM0VVVSOW5wV0Q0OUlORWFBdlhsUjIwTEJyYmpvQUxLQkxTRXlJSzl3SGNXT2ROazFucEFTQ243dWw?oc=5"
     },
     {
-      "id": "unitedst-2",
+      "id": "unitedst-3",
       "source": "dw.com",
       "title": "Canada announces retaliatory tariffs on US goods",
       "excerpt": "Canada announces retaliatory tariffs on US goods&nbsp;&nbsp;dw.com",
@@ -345,7 +353,7 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0FBWUpWV0MxOHVHSlRqNzd3eWpnSl9rME9sUTF2MW4xRUJwb0pUNGI5RExJT3RoN0paMHR6dmN5Y0xWNzlGcXlqSFgzY1JpdWxBdTJGV3FIRU90Qmk3U3R0YVhmME02QS04WUhfc1RZbEp5dVh5ZV9rb3pQOTl5UThOZWstbTNz0gGIAUFVX3lxTE1kMWJzbjN0cXlTVWIxX1FMRndydVZHTEx1MGp1cFhPdjI2TjR2bVk2bmtjM09QQ3ZhLVZqdFNhckJaVVNfbGtkM2JwVjBXM2dzNG5HZ2ttSk5kZndoOWZkUHpNM3hCLXZlN1hYR0FiWDhxM3RzNUdPUHhtQkFYQTdvd1BidTVRX0M?oc=5"
     },
     {
-      "id": "unitedst-3",
+      "id": "unitedst-4",
       "source": "The New Republic",
       "title": "Canada Retaliates With Plan to Tariff Hundreds of American Goods",
       "excerpt": "Canada Retaliates With Plan to Tariff Hundreds of American Goods&nbsp;&nbsp;The New Republic",
@@ -353,7 +361,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13bVQyYUJvYUUxd2dZZk9HZ1Y5QnJBaUc4Z2NaUXpidG9YaGhaTERUSFVGUE1uOHY4N0c2anFSQllHeXgtYUpvdFdtNUhsSGxBcUd1TmI4ZWw3Qlh2dG9nVTloZUZfS0Fxa0NJSWR6eUd2M2tQRkoyQ0hFLXA4TDA?oc=5"
     },
     {
-      "id": "unitedst-4",
+      "id": "unitedst-5",
       "source": "Spectrum News",
       "title": "Canada announces retaliatory tariffs on $27.6 billion of U.S. goods",
       "excerpt": "Canada announces retaliatory tariffs on $27.6 billion of U.S. goods&nbsp;&nbsp;Spectrum News",
@@ -361,7 +369,7 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZE5xRFo0bGYySzhtSUtXSDhqbDczZlBuYVd4ZWd5VDJZRGQwd3BNVldRTnVPZVk2LThfQ0JjMkZZRkd1Tm9idFZrVDNScjdZazRHRUJERnltMkdLQ3pldGgxWW42SVpvUEVYYXRtanBCdEpwM2NYNFJZb0FJVkdhNlVXYUhNX2xkNkFQOU1kMGpLREx0dkE?oc=5"
     },
     {
-      "id": "unitedst-5",
+      "id": "unitedst-6",
       "source": "Spectrum News",
       "title": "Canada announces retaliatory tariffs on $27.6 billion of U.S. goods",
       "excerpt": "Canada announces retaliatory tariffs on $27.6 billion of U.S. goods&nbsp;&nbsp;Spectrum News",
@@ -369,7 +377,7 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWZmR2VRSE9GMHFZZXAyWHZCUlBnWG5ZLXpuSlQ5YUI5TmFnQTE3TTFhUFpOMXNwZTJUSjBjTUtuRmU0YWoyNUctb3RtNVFxNzR4UmRRQnlHOU1peDQ4aWFMZkdmbmFVeGRVa3NYM1Fael9QWUlVN0IxR1B4N3ZBbmVWZlhtcEViMWgybHFERQ?oc=5"
     },
     {
-      "id": "unitedst-6",
+      "id": "unitedst-7",
       "source": "Spectrum News",
       "title": "Canada announces retaliatory tariffs on $27.6 billion of U.S. goods",
       "excerpt": "Canada announces retaliatory tariffs on $27.6 billion of U.S. goods&nbsp;&nbsp;Spectrum News",
@@ -377,7 +385,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2dTMHNUOU5DaXBiV09fdEhsbHJ3TXpLT2JNQ3ZjTEdEV0Uxazh2SUNUX1lYNzZWWTJRSUtRM2Fld3pYOEszQUpYdG1fcEtOTGRERnQxT3FJRG1vV1ZYNnp1SlVyTk5pbUVOU3JxOEExUkhmN0cxZEpPYmE3SlJhck0tdEowUjhicm9HbUZR?oc=5"
     },
     {
-      "id": "unitedst-7",
+      "id": "unitedst-8",
       "source": "Spectrum News",
       "title": "Canada announces retaliatory tariffs on $27.6 billion of U.S. goods",
       "excerpt": "Canada announces retaliatory tariffs on $27.6 billion of U.S. goods&nbsp;&nbsp;Spectrum News",
@@ -385,7 +393,7 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTgxWEN3ZmVZSkExWHg1Qm9Vc0YxenBuM0V4SXJoemNZVGwyY1kzYU04aW1yYUU0TUp1QUZGYmN4MGFRTEdubExiazkyZ214TWhLWUEwOFU0ZGI5WW5ocEFXLXItX2tYX3pPYnlNQlpMazAzTGpsSXczVXYzekFaZzlTSDMzOGZQd2l1ZDk2T0dEUEtzb2lZQ1dTZFdCUkE?oc=5"
     },
     {
-      "id": "unitedst-8",
+      "id": "unitedst-9",
       "source": "DW.com",
       "title": "Threat of all-out trade war between US and Canada looms",
       "excerpt": "Threat of all-out trade war between US and Canada looms&nbsp;&nbsp;DW.com",
@@ -393,20 +401,12 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOendjVzd3SjNNVkY4WEthVFRlT2xjeEkxdzFTQ1VaRlRYcjlfUUN1MVRxSGVTSy1ieC1CWlZTZm04SEhWTlpOaU1vMTg5aU5RRGNCcXVTeFhNNEcwTlhING5lc2hBNXdGRXI4c1QzZXBMSG9fU3V0R2o3WTBCMGQ3ZndyUVJ1bVlNLXlmVF8xN3V2UjdGZG4w?oc=5"
     },
     {
-      "id": "unitedst-9",
+      "id": "unitedst-10",
       "source": "thecanadianpressnews.ca",
       "title": "Trump threatens to change name of Lake Ontario to 'Lake America'",
       "excerpt": "Trump threatens to change name of Lake Ontario to 'Lake America'&nbsp;&nbsp;thecanadianpressnews.ca",
       "timestamp": "2026-08-25T15:02:23+00:00",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSVlydEd1Mkh3SVplSVFTOVRTX1NyLXhnejduRDFEZU5ZQ3BlX1hVMXU3REVENEF2UC1nSzgzQW5iSjNfUlNPbEtBbUF5Y2FZNEtrbFZuOWhWcFN4dHhUMUNCVmw0am5veE4wbzRkY2VRZWQ5ZS1IWVBPT1E3ZWVraGxoS2VjX2hPZmhXYnA2TnNReVBzeDUyVEtXWTI0VWlCUDFxaHB5MGhCQWg3OGVUN3JoYmppeWtDemN1ajgxWjNMLVo2SllEZkRtdDdzcXc4aDRuVXdMQVNPcGxkaWlHTDc2ZlZsRTZEQlNDY1Vn?oc=5"
-    },
-    {
-      "id": "unitedst-10",
-      "source": "dw.com",
-      "title": "Canada set to announce retaliatory tariffs on US goods",
-      "excerpt": "Canada set to announce retaliatory tariffs on US goods&nbsp;&nbsp;dw.com",
-      "timestamp": "2026-08-25T13:19:33+00:00",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkd2MmVmWVVXYnYzR19IQ2F1Wjk2ZmhFYjN1Z1oxSzFUY0JzRkNIckgwV0ktV1ZxSGlMMzQ0RHhfRFh1VGRjWnZBZUZPMjVLMU5SbExQVGkzMXlEN3lFX0llTUNWR2Mzb3NGa0QtaHhuSmZlR0p6Xzd2M0RiakMzU0Z0b3NnRHplMVZaWUgxVHI2OGJXX0M5NWdPX3R1T29vZ2pDbUJHRdIBpwFBVV95cUxQVkZ3ZXMyZVJVQ2x1MEhOeHZ2aThQMS1HMVhvMzBDX0ZjNkk1ZjNFZ2ZUd3F1RVhudFVZWV8wWWNCd0RKVzNORjl0Z25NcVV6OTFlZ09NWXhkVElybnh6TEVtTEVueWg0ZGp5TGpKMFdtdjQ3RTIwUjZRY2NwdFpqT0s3TlYzcVU0Vlc4NFJab1F5U0Fpa1o4eHhtUExyZ2d6TUZGWGxNbw?oc=5"
     }
   ],
   "Kazakhstan": [
@@ -658,6 +658,14 @@
   "Indonesia": [
     {
       "id": "indonesi-1",
+      "source": "Reuters",
+      "title": "Indonesia's Destry Damayanti faces vetting for central bank's top job",
+      "excerpt": "Indonesia's Destry Damayanti faces vetting for central bank's top job&nbsp;&nbsp;Reuters",
+      "timestamp": "2026-08-25T23:07:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYUo5Q1JPXzhRTEQyOEhMdjMtbklibGM0V2xpOEdYR0RrSHBFRl9FTG81SGFzYUNxQm5YczZZNllZZVM1YWVVZW9FYlZMMkpMSkRwVDFaVldzNmhGY0RCaDdOa1VJQWZ4M0szQ2FxcE5XZmtWa2Nua2xRNmdZcUZtTEl3SDZMRENwNURlcjV0dU82TzBOMDhHbXJZQl9SSTlNRkxTQjZ1RTU5QmdwZTVIRXZiVXBMclJzVkE?oc=5"
+    },
+    {
+      "id": "indonesi-2",
       "source": "Finimize",
       "title": "Indonesia Preps To Confirm Its First Female Central Bank Chief",
       "excerpt": "Indonesia Preps To Confirm Its First Female Central Bank Chief&nbsp;&nbsp;Finimize",
@@ -665,7 +673,15 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTNVMEpIVno3dDdLTDh4OVZaRW16YUktOHVwSUZUTmppV2pHNElQLTZZTTI2a1ozQjFDSHR5QkYzZ0JFM3FFUENiTDNEdTNVcWIyVFhlOFVWdzhZMmJDcFFJRkZpemFDWTBsM1o0YkZxV3ZVRGlYRWRPNVpPYUl0aUZEY2lSOEFnOUZKZ25BU08xNlV0LWc?oc=5"
     },
     {
-      "id": "indonesi-2",
+      "id": "indonesi-3",
+      "source": "TradingView",
+      "title": "Indonesia's Destry Damayanti faces vetting for central bank's top job",
+      "excerpt": "Indonesia's Destry Damayanti faces vetting for central bank's top job&nbsp;&nbsp;TradingView",
+      "timestamp": "2026-08-25T23:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbHVLSFRuOEJtNmItSG1RdDdVWTJUY01JU2ZBVGFUcXRhOHJXbnJyX3M4NXVYT0d4RTNzemJKOGZta3BkRHYwemNaemlLNFB5eHB3dmJ1YlZmOFFxVldqVnVveHVGU0dJeEdZVExFLVVfbHpXX09PbkNENXlTaEF2dWVMLXV2Yk9pRV9Hb1BqRW1EQlhMNllFTkZqdXBHdDd1X3hBNjRQMkRKaUZtWFkzcENHaVJ3V1N5V3ZJQ2tJMkQyZVhiYUhRMHBEc0ZvVEdDLTk5ZVRB?oc=5"
+    },
+    {
+      "id": "indonesi-4",
       "source": "Melbourne Law School",
       "title": "Indonesia Introduces its First Domestic Worker Bill",
       "excerpt": "Indonesia Introduces its First Domestic Worker Bill&nbsp;&nbsp;Melbourne Law School",
@@ -673,7 +689,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VX0tsb284ZWEzRTQzTDljVXhfTUEzbTdmOHpTRDgxOWg1dDdFZWppZ1dvc3Jjc3NxdzF0anRNUlVtUXk1UXZBTTFwaDRJaUxDamdnU0VMaXFQdjVBNjRBZG44U05hR3NubTFuWTVJX2ZfN0FS?oc=5"
     },
     {
-      "id": "indonesi-3",
+      "id": "indonesi-5",
       "source": "The Jakarta Post",
       "title": "Mandiri freezing of protester’s account raises alarm over civic freedom",
       "excerpt": "Mandiri freezing of protester’s account raises alarm over civic freedom&nbsp;&nbsp;The Jakarta Post",
@@ -681,7 +697,7 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0VYVGpsOEttQ3FnMmRHVFJ6UDRocmQtWGZ2cl9KSm4xRWFxam9DZ3BETlhrSDF3R2ZRbzY5RmdxaGxIZjdyQm1iV2Yzc0pYZTVHT21KUWFBdjZQeDBDSTljSEJkMkV2U040cVZmWV9tcmdLZWNIMzk4NDBCLUFHVjByYzlTanVRR1hyRzFvRDNxZUk2azNPVmVCMXhkYmdmcUM2Q1lRbUdWLWZzTVY2dU5HblFWa3ZVNms1RzZNMA?oc=5"
     },
     {
-      "id": "indonesi-4",
+      "id": "indonesi-6",
       "source": "Asia News Network",
       "title": "Indonesia, China agree to boost economy, security ties",
       "excerpt": "Indonesia, China agree to boost economy, security ties&nbsp;&nbsp;Asia News Network",
@@ -689,7 +705,7 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd25xS0lQRXRqejNHWnJYaWZnNjhpbVBsbHRzbjN1RmZNRmNFYlgxUzdfZGhJd2I1UElUZFZiU0l4MVFpZE56OTFXNXlZUUM1WU9INF9mM2NOeTRjejVaczNDbndUNmpZZ3ZzUVRBaUZDMzNGOFJvemtaVVY5bFVuekFoWVE?oc=5"
     },
     {
-      "id": "indonesi-5",
+      "id": "indonesi-7",
       "source": "The Jakarta Post",
       "title": "US-China trade war gives Indonesia shot at boosting investment",
       "excerpt": "US-China trade war gives Indonesia shot at boosting investment&nbsp;&nbsp;The Jakarta Post",
@@ -697,7 +713,7 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2pDd0VIUndHUUJCMTljU3kxckZ1TzFWT09tNjVoOC0yUm82dXBHZXhfMXZtZ3RRSkdCaDlEWkMxNHlTUkhJSTVKTlRabG13WnNvWXFFaUpyTUJFeEJ1ZUpxNThkSTZWb0I3LUkzMjl5enlUYVBvQ0ozejdpVkRjcGxjQ3Q2azE2eTZzcTNiUVhSNE1wa2o3T3FzODJrTnBXY25XLTNORnFQeXNYQUpETDh1QQ?oc=5"
     },
     {
-      "id": "indonesi-6",
+      "id": "indonesi-8",
       "source": "The Jakarta Post",
       "title": "US-China trade war gives Indonesia shot at boosting investment",
       "excerpt": "US-China trade war gives Indonesia shot at boosting investment&nbsp;&nbsp;The Jakarta Post",
@@ -705,7 +721,7 @@
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNEVQNjNHdzdOR2g1ZEkyUEplb2ZxWXE1ajA3dXFvbUdydzBlUVVIbkpua0tDVHVFYUo1cFlOSEM3Q1M2eXNELWRta0VvU0tOdXo4UGcxaG9YeUZHbzlwSWI2dlVUa1NqMF9uNnNFdTA4aUE5WGpRMGVsZjhkcnBEQ0g5WXFzQjEtclJSQU5rNzZ2ZS1YWGZGNzN2cFVpZ3FPeVY3THVMZmwzZ0VnSU9HRGd4d1RlVVg5UDZDVk80YlNlcGhMR1JWSVFzUGlIbGp1eXZYUTlHbDRiMDZURFppdWVlT0MyY3FxRVlqS1pMYw?oc=5"
     },
     {
-      "id": "indonesi-7",
+      "id": "indonesi-9",
       "source": "S. Rajaratnam School of International Studies (RSIS)",
       "title": "CO26182 | The New Politics of Nickel: Chinese Investment in Indonesia and Structural Rebalancing",
       "excerpt": "CO26182 | The New Politics of Nickel: Chinese Investment in Indonesia and Structural Rebalancing&nbsp;&nbsp;S. Rajaratnam School of International Studies (RSIS)",
@@ -713,28 +729,12 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNxaHRjdWlmUXB2Vm9GOWRjTTJjTHk3cmN4akNmQUh3dkdfVTEzS0pTa1lhS1RVWFNmV2VwdHJmTkxCanBvVHpMelFSNURVVzhRLWpjSTBSdl8tSk42aUlmN3JBN2k4S0o2d2RTd3B1WUo0VE1ON2FibWZNdmJLRVJBaGZpbnpnVG94VGFzRFpzZ21sLXo5TnpXTDBkY0RPUFNIUEg1MlB4azhNNU5sX3otV25GRnVEZXY5WFFVYm52ckdHa1I0?oc=5"
     },
     {
-      "id": "indonesi-8",
+      "id": "indonesi-10",
       "source": "nextbillion.net",
       "title": "Report: Mobilizing Electric Two-Wheeler Finance in Indonesia",
       "excerpt": "Report: Mobilizing Electric Two-Wheeler Finance in Indonesia&nbsp;&nbsp;nextbillion.net",
       "timestamp": "2026-08-21T18:50:58+00:00",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3VLY0QtcTQyWWVQUUxGWkFxU0FiWDJSSmZjYVpidnFDX283UjBUclJURExjc0NtVUNqNklRT1JTNkxoTEprLUwtRGx4TjFJTXRCOUp1LWE4dXVxbEVvU0FDMUFzUndkUmFwNjlKWEpFN1MyMnU3bDBGT1FIcXhZdDN1ZjI2LURzY0RIbU92YWZKbGs?oc=5"
-    },
-    {
-      "id": "indonesi-9",
-      "source": "Nikkei Asia",
-      "title": "Indonesia seeks expanded joint military exercises with China",
-      "excerpt": "Indonesia seeks expanded joint military exercises with China&nbsp;&nbsp;Nikkei Asia",
-      "timestamp": "2026-08-21T13:23:00+00:00",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmdKaGRtdUpaMGN0czk5LWFxWHdVdm1Hd2JkSW92NTl1ejFqVGpfdVBfN3NGMmZ0WFZWSXJfa3ZOWU4yX1ZmMUg5alJBTGs5M3VhUWtWRjNXNUEwREpnNVpUNGx6Yk9sb0N6LVBkWGVnMlRMaHBXN0dESTFfWE5EM19wOHJkcXJ5TFg2Yy0xZlo5Qm9KRlJtWkhIZ0FNcnVVRmZF?oc=5"
-    },
-    {
-      "id": "indonesi-10",
-      "source": "KMVU FOX 26 Medford",
-      "title": "China, Indonesia hold talks on security, defence",
-      "excerpt": "China, Indonesia hold talks on security, defence&nbsp;&nbsp;KMVU FOX 26 Medford",
-      "timestamp": "2026-08-21T11:35:21+00:00",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdnI3eV80LUhPSTZJbVJnVjNUamlxUnkxVkhWb2RaQ2pFT1JSWmdQOWFWeVMxVlY0WnRDYnBFOTFjUVRfVE1HeDhVTy1ndEV6UmVVelRWS3FFejlDOEdXYUw4ekZvMm9FSEVZUFhkOG9YajJZaFlFZ3lsRTNqXzBHeXVPZ0g3WjlsUzJYeHdjNklxSDZFSjJLcGlUUGpCeWlkeVhONTZVOURReHhBQl9ndmp4YUt0TW5EOE5vS0pNVU9HcThnMXM3d0NUcjY0cG5CLU1iUmlR?oc=5"
     }
   ],
   "Argentina": [
@@ -2958,7 +2958,7 @@
       "source": "Kuwait Times",
       "title": "KFAED signs KD 3m loan for El Salvador solar power project",
       "excerpt": "KFAED signs KD 3m loan for El Salvador solar power project&nbsp;&nbsp;Kuwait Times",
-      "timestamp": "2026-08-25T20:36:44+00:00",
+      "timestamp": "2026-08-25T20:39:14+00:00",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHdKM3lQT0RtQ2hKM3oySlYwckRIamZnaFFLaElSbGNVZl9qYmttdzhkbGZTUllQSnU4SV83cFpPNU9PX3hOc05GYkdHZHNSeHVSSWktbEZORmZ6XzBtWnM0aXlNMlVtTDJtNlZYb2JGVFEtRlRiTGQ4MTJEZ0pVMFlPQ0NiMTV6dWEtVGg3Y0ZaRGxoeF9IY3dGaVpPbkQ2REJwVjk2bHRpcmlQVEdtZURTMkZ1QdIBugFBVV95cUxQb1drZDNiM29CSkkweHlBM3FFV29iQmxIU3g4a0xQZnRiTVVmVmY5T0RidmptSWdDSVpabHNUakx5ckcwLWV0ZjlrLUFSQUl5RTQzOGJIRXZ3NHZXWS1pMVNzcGg2dl8zdmtHanJuZ0lLTlhiYXM0M0JHeWgzeE9wZHlER3JVZlBVTzBGM3k5bUlqSkVtcUU1bHhTbkxQVVQ2Umx5dTVYLUtHWWdwR0I2UnZuSlZ6UGZxOVE?oc=5"
     },
     {
@@ -7629,6 +7629,14 @@
   "Vietnam": [
     {
       "id": "vietnam-1",
+      "source": "Vietnam Economic Times",
+      "title": "Vietnam Economic Times August 24 2026",
+      "excerpt": "Vietnam Economic Times August 24 2026&nbsp;&nbsp;Vietnam Economic Times",
+      "timestamp": "2026-08-25T23:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vZWx1OWpUVGVqQW5vN1otMkZ3Mi1Sa2JwTWNMbDFsYmhmMldVWlJoYUcyZzYzU2pGWGtFay04dVF4ZDFtakFQTTVKck12QzNuQ3NPUmNxQkt3WTdyN2FyWm5uRXMtS1dTVW5LMXA3d21NYzQ?oc=5"
+    },
+    {
+      "id": "vietnam-2",
       "source": "TNGlobal",
       "title": "Crypto services in Vietnam must report suspicious cases to central bank",
       "excerpt": "Crypto services in Vietnam must report suspicious cases to central bank&nbsp;&nbsp;TNGlobal",
@@ -7636,7 +7644,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWlJheFBuYmF5TmVrbHZzZ3puaTluQzJ6OWNMMTAzNGtfR29jUmRvc0dTRXo5SUpDOWNUNGJjaHk5ZlpMU05Dc3RvbEowNm5CdS1IZ1R6d2ZTR2NpTVZUZWw3eWVjUFVycThla0tJdG1aSWJfYUtDQ09sMTZZWDA3bGp4YWZ6V2U0ejJKX3MyenQ3eXd6M2tRRG9CVEYyOENib0hTdlB4a0NDY2s?oc=5"
     },
     {
-      "id": "vietnam-2",
+      "id": "vietnam-3",
       "source": "Vietnam Economic Times",
       "title": "Vietnam proposes streamlining access to international climate and land finance",
       "excerpt": "Vietnam proposes streamlining access to international climate and land finance&nbsp;&nbsp;Vietnam Economic Times",
@@ -7644,7 +7652,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmdtNk5xcmpDT25OS2Fmc3JoalhjNnNOQWRYcEtoMFpycDhPdTEzQ2FhalNwWEtvVFQtWVBVS0NDMDdXZHVITVFqU0xQNlktckdiYjRMU3E1alkzS2VOUG5DYXMwUkM5elJVVVpMaV95UHk3VHdrYXN4TXQzX0pYNzJ3bFFxdUdDNEhDR0NOenFGUGpLUWVrLUMxMmFoUG05SVk4NGVSUGxPQQ?oc=5"
     },
     {
-      "id": "vietnam-3",
+      "id": "vietnam-4",
       "source": "Asia News Network",
       "title": "Vietnam’s economy expected to grow 11% in 2027",
       "excerpt": "Vietnam’s economy expected to grow 11% in 2027&nbsp;&nbsp;Asia News Network",
@@ -7652,7 +7660,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uOXRPYjhUVWxEaXZDSTlwVWhvcTh5RG1kbnRWWm0tRVFOYzlMTVZkQUZZc09meUowTDZSSHgzX21MMWF3NkxOVU8wZVg3S2ZyUTk1UW9ITy00N21pWjh4ZUVEYnI1VW5kNUpGaF9xWDdFdVI4S0tBbnBn?oc=5"
     },
     {
-      "id": "vietnam-4",
+      "id": "vietnam-5",
       "source": "Banglanews24",
       "title": "Vietnam's economy forecast to grow 11% in 2027",
       "excerpt": "Vietnam's economy forecast to grow 11% in 2027&nbsp;&nbsp;Banglanews24",
@@ -7660,7 +7668,7 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yZTNDRlVPV01PZmN0aEhrX1ZwMFNTaTRUOHg2NWpmLWplRXBxMDdvQmQ4Y0tKRFB0MjhiYzZLYjkwYklhV2lUUkd3Xzc4d2JTQ2NwTzhYNEVENzRrdkxUcUI1TG1mUlowTWRr?oc=5"
     },
     {
-      "id": "vietnam-5",
+      "id": "vietnam-6",
       "source": "daily-sun.com",
       "title": "Vietnam’s economy expected to grow 11% in 2027",
       "excerpt": "Vietnam’s economy expected to grow 11% in 2027&nbsp;&nbsp;daily-sun.com",
@@ -7668,7 +7676,7 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMkNjeEt2SkowUU9hTjBlcXJYSTFOWkZtdUYzcTd2ZS1MbUNxOS00emY0QmxIelMtU1NmNUpfVURnWDJlTHp3Y0JJZWo0cHZ2em9kbHlSd2xNUTducFRUSlZncVMtUS1KMHBxbV9BLVlRVnRmYkJJc1RwdE1SNVlFV2VmLV9EMVlnd3RYXw?oc=5"
     },
     {
-      "id": "vietnam-6",
+      "id": "vietnam-7",
       "source": "VOV.VN",
       "title": "Vietnam's economy expected to grow 11% in 2027",
       "excerpt": "Vietnam's economy expected to grow 11% in 2027&nbsp;&nbsp;VOV.VN",
@@ -7676,7 +7684,7 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPODM1ZGtWcjZCUVA1UFRmaG9DUW9ZTkN2NmRiWVdLM0NEczhmYmVHQXY0ZHpRRURLcV9CQ01xOWk4X25mZVFCRzA1N1RqRmVqNjNJb2JxMUJLenNVMnh6SXFZSzJ6amFnTEhZNnZPeUVGSzNwallVbmR5ajVCWEQ4WDNMWm9UQno1bnFoVlJoYzJLNEdVeGpMNTZR?oc=5"
     },
     {
-      "id": "vietnam-7",
+      "id": "vietnam-8",
       "source": "Báo VietNamNet",
       "title": "Esports opens new growth avenues for Vietnam’s sports economy",
       "excerpt": "Esports opens new growth avenues for Vietnam’s sports economy&nbsp;&nbsp;Báo VietNamNet",
@@ -7684,7 +7692,7 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVU2eEdjem5LWFRYNTVjZWZHRzh0dGpOZFh6TS1SYklKckJhZ0MwQzMtVG4xNVdwaU5uZ0hnZVpJb1B0R21Fa2owNURrV1pyUmIyZmk3bkRVMEhuRWZDbmlzUjNDQ1dIWlotNVZBeGdYcmRJNUNDQl91d3R6TnNEN0NGbFNfUV9NNVF4c1gzV2lSQ0V5aFowdmljX0pTMTVu?oc=5"
     },
     {
-      "id": "vietnam-8",
+      "id": "vietnam-9",
       "source": "Vietnam+ (VietnamPlus)",
       "title": "Esports opens new growth avenues for Vietnam’s sports economy",
       "excerpt": "Esports opens new growth avenues for Vietnam’s sports economy&nbsp;&nbsp;Vietnam+ (VietnamPlus)",
@@ -7692,20 +7700,12 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDBMMVFWYVBmZXJlSUtxSHU3MUQ3QlhVWHFiUjYtMGg2WWI4cUhCdm04R0R2WGxFMWNwSXV0a0lUMW9ta0pKY2VRdVhNYlFDQ2hDZzEwMW1kRW9tM19oRERCMklUT1FpV09YMWxHN2NrNUhYQ2lCanVOUzZKOHFtczBrQzZ0bDRCUklVWENvT2FjbEFYQjkweUFDbkx3dmFQUl9z?oc=5"
     },
     {
-      "id": "vietnam-9",
+      "id": "vietnam-10",
       "source": "Laodong.vn",
       "title": "Vietnam's economy may reach 11% growth in 2027",
       "excerpt": "Vietnam's economy may reach 11% growth in 2027&nbsp;&nbsp;Laodong.vn",
       "timestamp": "2026-08-23T04:23:49+00:00",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcllKOF9BOV91V2ZwQnpKV01Zb05DMU9jMjJQVFU3UEdzQXVRTW5CdzJCT2ZOa1A1ZEljQnB1Rlc1NjNid0pQNEVsazFrcHUxR0NZVkZldjhReHFFZ3RRRXIySUlIRkszTjdnSDNsVzhDLXFNSHUzdjlHYTl4VlBIQ2NMakZBNHU4YzYwUjJlZU8yN2l1UWMwWnBOejdoV3ZYLXNnUjdOTQ?oc=5"
-    },
-    {
-      "id": "vietnam-10",
-      "source": "Thông tấn xã Việt Nam (TTXVN)",
-      "title": "Esports opens new growth avenues for Vietnam’s sports economy",
-      "excerpt": "Esports opens new growth avenues for Vietnam’s sports economy&nbsp;&nbsp;Thông tấn xã Việt Nam (TTXVN)",
-      "timestamp": "2026-08-22T21:04:01+00:00",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWkpNenNVOXpLV2RYaEtTYVgyc1FveTdQVVIwdkNkVjhyd3lhU2pXU2pUNFhveDVpRTQ4bkdYNGVhUV94OUxlMkltTHFaU3BuVUlaZHUyQ1ZHNE5XWFZaaXczdVhCRzk4WXk3YnRkcktPNFQzd3F1dWg1NlBUenBXOWM4VVFBM1hPZ05EbW51ZjJBWm1sS1dxSzl0WjJwZEJ2Q2YtTDFsZHVHWkpPM0liX0RGdDE?oc=5"
     }
   ],
   "North Korea": [
@@ -11920,7 +11920,7 @@
       "source": "AJC.com",
       "title": "Jackson suggests Kemp will use National Guard to monitor election",
       "excerpt": "Jackson suggests Kemp will use National Guard to monitor election&nbsp;&nbsp;AJC.com",
-      "timestamp": "2026-08-25T17:31:10+00:00",
+      "timestamp": "2026-08-25T17:36:23+00:00",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnFzRUFzckNpeFJSVjhzZ1NEcUxtT0pUeFY2Y0VGc2NfSHNRRlBrOGJTMEE1eGViNHNhVjNSMFFCYW5ibnVweGMwM3ZpSlJJZ1Y0alpfbzdyLUxkLXVLak9Gak9aNGF1NkZzcy1ZX1BReHQwUmY1cjVRN05jMm9udUZlaDBIRnEtdHY3TTQ2VUlSMTRJbi02YlFfTEk2ODIxWGtvWFR4Yy16bDBkZ3BrNw?oc=5"
     },
     {
@@ -14846,13 +14846,21 @@
     {
       "id": "eurusd-1",
       "source": "Bitcoin World",
+      "title": "Euro Holds Near Three-Month High As Dollar Weakness Persists",
+      "excerpt": "Euro Holds Near Three-Month High As Dollar Weakness Persists&nbsp;&nbsp;Bitcoin World",
+      "timestamp": "2026-08-25T22:15:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vWTM2eVg3Z2tqQ1RlVjZZOTI2aXEtNkYyWkFieThyNHVZa2dYT0UxUzlSd1dfQy1QSURrZ25ENzJNcVd2SUtFYnU0bHpDR3VGWHdwMTBZNk5JYXQ1TklNRlpDWG1vdGpkTEQ2dmNJRkpQTWJER3ZqTw?oc=5"
+    },
+    {
+      "id": "eurusd-2",
+      "source": "Bitcoin World",
       "title": "US Dollar Holds Near Lows As Traders Await PCE Inflation Data",
       "excerpt": "US Dollar Holds Near Lows As Traders Await PCE Inflation Data&nbsp;&nbsp;Bitcoin World",
       "timestamp": "2026-08-25T18:55:11+00:00",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZQUJHTFZBR3k1aWxDWXp1ZEJadUY5dTAyeUltTlFjTzJDTi01anZNNThhS0ZZMFUyQk5HLVU1eHllRHB5OTFVVUlRRkx6enlEN3JQT3RzTEw1dkZ1aElyb0tkR01wN0NuUHlxRTYxUDZRelk?oc=5"
     },
     {
-      "id": "eurusd-2",
+      "id": "eurusd-3",
       "source": "CryptoRank",
       "title": "EUR/USD: Room to Climb Toward 1.1800 Against the US Dollar – UOB",
       "excerpt": "EUR/USD: Room to Climb Toward 1.1800 Against the US Dollar – UOB&nbsp;&nbsp;CryptoRank",
@@ -14860,7 +14868,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pS2xQSk1TVVpFX056ekR2MWVPVUFfTDlnQmpYR0tBU09uNncySjM1cFZ1dUN1YTBnT0V3SDZpaUlKcFhPSTdTRUpMcFpHbF9ZVXJZMlkwTVFRZk82VWZUVFZIWWZkdkNXWFhiUVBxVnRWUQ?oc=5"
     },
     {
-      "id": "eurusd-3",
+      "id": "eurusd-4",
       "source": "Bitcoin World",
       "title": "EUR/USD: Room To Climb Toward 1.1800 Against The US Dollar – UOB",
       "excerpt": "EUR/USD: Room To Climb Toward 1.1800 Against The US Dollar – UOB&nbsp;&nbsp;Bitcoin World",
@@ -14868,7 +14876,7 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxaHhZVVRDSmhmUkhGVUR1cXJjaFpteWdsUnIxX1N0aDIyYmZiVDRrZUZ1WkktZTFDMGIxdllsd2VUcXZTb0xaOU5NVXo2czdCLU1CZUxSbWt3UHZRZHlJY3RRbGg?oc=5"
     },
     {
-      "id": "eurusd-4",
+      "id": "eurusd-5",
       "source": "CryptoRank",
       "title": "Euro Rises to Three-Month High as US Bond Buyback Plan Pressures Dollar",
       "excerpt": "Euro Rises to Three-Month High as US Bond Buyback Plan Pressures Dollar&nbsp;&nbsp;CryptoRank",
@@ -14876,7 +14884,7 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXpEZ3FyZEZwdjdEZzJoVkJtS3FBaENHZV9XSlh6RWU0OW5kZWwtU0lnTlo1QkNtbF9IZWJKeU1iR0o4b0dWdVhtcDRpZ3JfRndPZHFuZ1FuX3BmTXBnS1lldlhmR0dQMzJEdFhCRUdiLWhJS1dSNXA2aTU2dzRIRUJBQVB6bVFqSHc?oc=5"
     },
     {
-      "id": "eurusd-5",
+      "id": "eurusd-6",
       "source": "Bitcoin World",
       "title": "Euro Rises To Three-Month High As US Bond Buyback Plan Pressures Dollar",
       "excerpt": "Euro Rises To Three-Month High As US Bond Buyback Plan Pressures Dollar&nbsp;&nbsp;Bitcoin World",
@@ -14884,7 +14892,7 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBObHFKcXFmR1RfNG55bUNUb3RpODJfLWxxUHdfSHFNRXZ1X0JEN1Q2VkF4ZzNmajM3ODJfZ01nUWcwa1FMX0RsSVJvSHdKSnUxSmZtY0xJb0NfV2phSjlsOEhWSVM5OHVaXy1XaTQ4ZzVfb1RNY2xXbVpod2k?oc=5"
     },
     {
-      "id": "eurusd-6",
+      "id": "eurusd-7",
       "source": "Bitcoin World",
       "title": "Euro Set To Outperform Pound, Dollar, And Yen, Says Nomura",
       "excerpt": "Euro Set To Outperform Pound, Dollar, And Yen, Says Nomura&nbsp;&nbsp;Bitcoin World",
@@ -14892,7 +14900,7 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tSjNRMWVpbG80elBOUjEzakp3QUplZThKVk00b2dQWXM4MGVPbmRxbUhQbklJSDNBMVNRNDdKVEZkLUtsMVJwREhDT2gtNGF3aXplSTVDS3FfbVNYQUZyY0dJZVA2a2xBZUVyWE9KWkRZTzFkZjNTdG5yQ0VkekU?oc=5"
     },
     {
-      "id": "eurusd-7",
+      "id": "eurusd-8",
       "source": "FOREX.com",
       "title": "EUR / U.S. Dollar - EUR/USD",
       "excerpt": "EUR / U.S. Dollar - EUR/USD&nbsp;&nbsp;FOREX.com",
@@ -14900,7 +14908,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nenNZbnpDTUYtNWJYazhOZjZiVEIxRUN4eGRicmdLOVJkc1E1dTZOZEJyWEJ0dm8tSTBtZ3VRREZ2V2NaVHlMcW5zQkFvN0hYV0hhYmFSZF9jMVYxWThN?oc=5"
     },
     {
-      "id": "eurusd-8",
+      "id": "eurusd-9",
       "source": "FOREX.com",
       "title": "EUR to U.S. Dollar - EUR/USD Exchange Rate Chart",
       "excerpt": "EUR to U.S. Dollar - EUR/USD Exchange Rate Chart&nbsp;&nbsp;FOREX.com",
@@ -14908,20 +14916,12 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PR3BWbGNKNmZHN0JBSEhrbmEtaEE5LWtwZ0RsbWZDaTdfOE8zdml0MUE5SXJaajdqMXd1eEk0NnNJeXdXbS1SYmZqQTAxaFl1TUxuczkxRVVNWjVFN2VV?oc=5"
     },
     {
-      "id": "eurusd-9",
+      "id": "eurusd-10",
       "source": "FOREX.com",
       "title": "EUR USD Chart & Rate - EUR USD Trading",
       "excerpt": "EUR USD Chart & Rate - EUR USD Trading&nbsp;&nbsp;FOREX.com",
       "timestamp": "2026-08-21T07:00:00+00:00",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tQkpWcldTemRIU1ZueGEzcWl5aXRoSWs4UTZkb0dqT05BS0g0UTE0dk9UMW1ZY3dqV3JFSE9uV3VQcDZZUm9WNDRjZC0wcTJmQlB1SE9rU0ZPOXc?oc=5"
-    },
-    {
-      "id": "eurusd-10",
-      "source": "FXStreet",
-      "title": "Euro gains on hawkish ECB outlook despite firm US Dollar",
-      "excerpt": "Euro gains on hawkish ECB outlook despite firm US Dollar&nbsp;&nbsp;FXStreet",
-      "timestamp": "2026-08-21T01:22:50+00:00",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbk9MWndFWW1nZVl4V2J2eFlVeHgzLUVGZzQxQXN6RF96aU9fMGY1U1RjV2ctWGg3NGNUNG1QUnpETEdZRVlXbUFKRi1vUDJud3J2NlF2YmdnZE5wY0sxYk1kR29KdzVVT20zQ1Ryd0plVGh3R3FxTmdsVUt1RU5FSFB6RW1oX1l2aFFWbzJsSWpETkczbFhIWW5xZ2tvbi1n?oc=5"
     }
   ]
 }
